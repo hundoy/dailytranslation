@@ -65,21 +65,21 @@
   </episode>
   <episode id="EP5">
     <bundle id="ep5_archive">
-      <string id="LOCKER_INSPECT">A metal locker. A small sign reads "Seized objects".</string>
-      <string id="LOCKER_INSPECT2">Nothing left of interest.</string>
-      <string id="DESK">It has been a long time since this desk was last used. It is covered in discarded papers and pens and a noticeable layer of dust.</string>
-      <string id="CABINET">Let's see… All the dates of this cabinet are prior to 1870. I'm looking for a more recent file.</string>
-      <string id="DRAWERS">The drawers are all locked.</string>
-      <string id="PAINTING">The portrait of a restrained patient surrounded by caretakers and a doctor.</string>
-      <string id="SCN_DOCUMENT_THINK_PRE_MAP">Could that be where Alexandre Du Pré lived before he was committed to this hospital? Paul Street. I should follow this new lead and see if it takes me somewhere useful.</string>
-      <string id="INSIDE_LOCKER_INSPECT">Some personal effects, probably sent in by the patients' families but deemed unsafe by the caretakers. One of them is a stack of thick sheets of paper, carelessly bound together, bearing the drawings and paintings of a troubled mind.</string>
-      <string id="LOCKER_EMPTY">Only a couple of pictures and their frames.</string>
-      <string id="CTS_ENTER_ARCHIVE">This is the hospital archive, where a record of each patient must be stored. If Mr. Du Pré was really committed at East Hill, his file should be here somewhere.</string>
-      <string id="DOCUMENTS1_REACT">His file is right here. Du Pré, Alexandre. Room 108-A.</string>
-      <string id="DOCUMENTS1_INSPECT">This cabinet contains many documents detailing the treatment of patients, ranging from two decades ago to last year.</string>
-      <string id="SCN_DOCUMENT_INSPECT">All the files are missing! It is as if they had been torn out. Only a little piece of paper remains, with an address written on it: "Paul Street 26".</string>
-      <string id="LOCKER_REACT_CLOSED">It is locked. I need a key to open it.</string>
-      <string id="SCN_DOCUMENT_AFTER">Du Pré, Alexandre. Room 108-A. Only a piece of paper remains, with the written address: "Paul Street 26".</string>
+      <string id="LOCKER_INSPECT">一个金属保险柜，上面的小标牌写着：查获的东西</string>
+      <string id="LOCKER_INSPECT2">没什么有用的了。</string>
+      <string id="DESK">已经很久没人用过的桌子，上面放着凌乱的纸和笔，并覆着厚厚一层灰。</string>
+      <string id="CABINET">我看看……嗯，这个柜子中所有的文件都是1870年以前的，我需要再晚一些的。</string>
+      <string id="DRAWERS">这些柜子都锁着。</string>
+      <string id="PAINTING">一张照片：一个病人被绑着，一名医生和几名护工包围着他。</string>
+      <string id="SCN_DOCUMENT_THINK_PRE_MAP">保罗街，这就是亚历山大·杜普雷来到这里之前住的地方么？我应该循着这条新线索去找找有没有什么有用的新发现。</string>
+      <string id="INSIDE_LOCKER_INSPECT">一些私人物品，应该是病人家属寄来的，但是护工觉得不安全，所以放在这儿。里面混着一小叠薄薄的纸，随意地绑成一叠，上面画着乱七八糟的画。</string>
+      <string id="LOCKER_EMPTY">只是一些图片和画框。</string>
+      <string id="CTS_ENTER_ARCHIVE">这是医院的档案室，存着每个病人的记录。如果杜普雷先生曾经被收容在这里，那他的档案也应该放在这里的某处。</string>
+      <string id="DOCUMENTS1_REACT">他的档案就在这儿，亚力山大·杜普雷，108-A号室。</string>
+      <string id="DOCUMENTS1_INSPECT">这个柜子放着从二十年前到去年为止许多病人的治疗记录。</string>
+      <string id="SCN_DOCUMENT_INSPECT">所有的档案都没有了，好像被人拿走了。只留下一片纸，上面写着“保罗街26号”。</string>
+      <string id="LOCKER_REACT_CLOSED">锁着，我需要一把钥匙打开它。</string>
+      <string id="SCN_DOCUMENT_AFTER">亚历山大·杜普雷，108-A号室。仅有一片纸留下，写着“保罗街26号”</string>
     </bundle>
     <bundle id="ep5_arrival">
       <string id="ARRIVAL_TXT_1">他们，来了。</string>
@@ -254,24 +254,24 @@
       <string id="BETASLOT_11">The stone bust keeps the patients silent company.</string>
     </bundle>
     <bundle id="ep5_brickedUpHouse">
-      <string id="SAFEBOX">Looks like the safe is working fine. I should give it a try.</string>
-      <string id="CYPHER_INSPECT">There is something written on it.</string>
-      <string id="INCOMPLETE_TEXT">It is slightly burnt. It seems to be part of a bigger message.</string>
-      <string id="SAFEBOX_AFTER_OPEN">It is empty… Wait... This is not a safe... but an entrance to a passage! It is completely dark. The only way to know where it leads is by crawling in.</string>
-      <string id="MEDAL_PRECATCH_REACT">I'll take this with me. Maybe it will mean something to one of Alexandre's fellow patients in the hospital.</string>
-      <string id="MEDAL_INSPECT">A military medal. There is a relief of Her Majesty the Queen and several pieces of metal engraved with the names of battles unknown to me.</string>
-      <string id="SEALED_WINDOW">The window is completely sealed.</string>
-      <string id="PAINTING_1">I cannot tell who is depicted in the portrait since it is so badly damaged. It seems someone crushed it into the floor.</string>
-      <string id="INT_SAFEBOX">A large metal safe.</string>
-      <string id="CTS_BRICKEDUPHOUSE_FIRST">This must be the interior of the bricked-up building I saw in the street. Mr. Du Pré's former residence.</string>
-      <string id="PAINTING_2">A painting.</string>
-      <string id="BOOKS">Few books remain in the shelf, mostly doubtful treatises in chemistry and alchemy. Among the titles are Trithemius's 'De Lapide Philosophico', Geber's 'De Inventione Veritatis', the anonymous work 'Turba Philosophorum', and Ludwig Prinn's 'Mysteries of the Worm'.</string>
-      <string id="INT_DECO_FIREPLACE">There is something among the ashes. </string>
-      <string id="SEALED_DOOR_INSIDE">The door is bricked up.</string>
-      <string id="CYPHER_FIREPLACE_INSPECT">It is a piece of paper.</string>
-      <string id="CYPHER_LEFT_INSPECT">It looks like some kind of message, but there is only one half here. The paper has been carefully burnt.</string>
-      <string id="CYPHER_RIGHT_INSPECT">There is a piece of paper on the table.</string>
-      <string id="WCB_LOCKERKEY_SAFEBOX">There isn't any keyhole here. It has a combination lock.</string>
+      <string id="SAFEBOX">看起来保险箱还完好，我应该试试看。</string>
+      <string id="CYPHER_INSPECT">上面写着什么.</string>
+      <string id="INCOMPLETE_TEXT">有轻微的烧焦的痕迹，似乎是什么信息的一部分。</string>
+      <string id="SAFEBOX_AFTER_OPEN">空空如也……等等…这不是保险箱，这是一个密道的入口！太黑了，只能爬进去一探究竟。</string>
+      <string id="MEDAL_PRECATCH_REACT">我要带走这个，或许它对亚历山大在医院的某个病友有什么意义。</string>
+      <string id="MEDAL_INSPECT">一枚军队奖章。有女王的浮雕，还刻着一些我不知道的战役的名字。</string>
+      <string id="SEALED_WINDOW">窗户被完全地封死了。</string>
+      <string id="PAINTING_1">不知道上面画的是谁，因为它破损太严重了。看起来好像有人被压在了地上。</string>
+      <string id="INT_SAFEBOX">一个金属制的大保险箱。</string>
+      <string id="CTS_BRICKEDUPHOUSE_FIRST">这一定就是那个我在街上看到的被砖封起来的屋子里面，亚历山大·杜普雷的旧居。</string>
+      <string id="PAINTING_2">一幅画</string>
+      <string id="BOOKS">书架上有几本书，大部分是些关于化学和炼金术的可疑资料。其中有几本书是特里特米乌斯的《贤者之石》、盖伯的《真理的探索》、无名氏的《哲学家典集》、路德维希·普林的《蠕虫之谜》。</string>
+      <string id="INT_DECO_FIREPLACE">灰烬中有什么东西。</string>
+      <string id="SEALED_DOOR_INSIDE">门被人用砖砌上了。</string>
+      <string id="CYPHER_FIREPLACE_INSPECT">一张纸片。</string>
+      <string id="CYPHER_LEFT_INSPECT">似乎是某种信息，但是只有一半。这纸似乎被小心地烤过。</string>
+      <string id="CYPHER_RIGHT_INSPECT">桌上有一张纸片。</string>
+      <string id="WCB_LOCKERKEY_SAFEBOX">没有锁孔，这是密码锁。</string>
     </bundle>
     <bundle id="ep5_carriageWay">
       <string id="CARRIAGE_WAY_TEXT_2">我的病人，也是我的朋友，杰瑞米·大卫，失踪得如此匪夷所思。我们认为亚历山大·杜普雷正是寻找他的关键。大卫因为他朋友安东尼的死亡而困扰，于是拜访了他童年时代的学校，但之后就杳无音讯。</string>
@@ -280,21 +280,21 @@
       <string id="CARRIAGE_WAY_TEXT_4">在上一封信里，他请求我去拜访位于伦敦的东丘精神病院，据说亚历山大曾经被收容在那里多年。他请我去确认一下这是否属实，并且如果属实，再收集些其他可能有用的情报……</string>
     </bundle>
     <bundle id="ep5_chapel">
-      <string id="CANDLE_PRECATCH_REACT">With this candle, I can light my way through the dark.</string>
-      <string id="ALTAR_INSPECT">An improvised altar covered in candles.</string>
-      <string id="PRAYER_INSPECT">There is someone on their knees, praying. Their face is covered by a hood.</string>
-      <string id="CANDLE_AFTER_REACT">The altar looks like it has been built out of one of the benches from the old chapel.</string>
-      <string id="DLG_06_00">I'm sorry to bother you, but... do you know, why has the house next door been bricked up?</string>
-      <string id="DLG_06_01">Excuse me…</string>
-      <string id="DOOR_BRICKEDUPHOUSE_CAN_PASS_FIRST_TIME">Looks like this hole leads to the building next door.</string>
-      <string id="DOOR_BRICKEDUPHOUSE_CANNOT_PASS">There is a hole in the wall. It is too dark to see what is on the other side.</string>
-      <string id="CTS_CHAPEL_FIRST">The ruins of an old chapel, apparently destroyed by fire.</string>
-      <string id="CROSS">The wooden cross remains almost intact.</string>
-      <string id="WOOD">A mess of wooden planks and the remains of benches and chairs.</string>
-      <string id="PENDANT_INCATCH_REACT">Under the cloth there is a silver pendant. It has not been cleaned in a long time, but is still valuable.</string>
-      <string id="PRAYER_AFTERCATCH_INSPECT">It… looked like a person to me.</string>
-      <string id="CANDLE_AFTER_CATCH">I am sure nobody will miss one candle.</string>
-      <string id="CANDLE_AFTERCATCH_INSPECT">I am sure nobody will miss one candle.</string>
+      <string id="CANDLE_PRECATCH_REACT">有了这蜡烛，我就能在穿过黑暗的地方时照明了。</string>
+      <string id="ALTAR_INSPECT">摆满蜡烛的临时祭坛。</string>
+      <string id="PRAYER_INSPECT">有个人跪在这里祈祷，他的脸隐藏在斗蓬下面。</string>
+      <string id="CANDLE_AFTER_REACT">这个祭坛看起来是利用废弃教堂的长椅做成的。</string>
+      <string id="DLG_06_00">抱歉叨扰您一下。您知道为什么旁边屋子的门被砖封上了吗？</string>
+      <string id="DLG_06_01">打扰一下……</string>
+      <string id="DOOR_BRICKEDUPHOUSE_CAN_PASS_FIRST_TIME">看起来这个洞可以通向旁边的屋子。</string>
+      <string id="DOOR_BRICKEDUPHOUSE_CANNOT_PASS">墙上有一个洞，但是太暗了，看不清里面有什么。</string>
+      <string id="CTS_CHAPEL_FIRST">一所旧教堂的废墟，很明显是被火烧毁的。</string>
+      <string id="CROSS">木制的十字架几乎完好无损。</string>
+      <string id="WOOD">有许多木板，还有椅子和长凳。</string>
+      <string id="PENDANT_INCATCH_REACT">布下面有一个银制的挂坠，虽然长时间没有清理了，但是仍然很值钱。</string>
+      <string id="PRAYER_AFTERCATCH_INSPECT">它……看起来像个人。</string>
+      <string id="CANDLE_AFTER_CATCH">我认为应该没人会计较一根蜡烛。</string>
+      <string id="CANDLE_AFTERCATCH_INSPECT">我认为应该没人会计较一根蜡烛。</string>
     </bundle>
     <bundle id="ep5_coldOpen">
       <string id="COLDOPEN_SHOWPAPER0">他们，来了。</string>
@@ -304,9 +304,9 @@
       <string id="COLDOPEN_SHOWPAPER3">……然而一切都太迟了。</string>
     </bundle>
     <bundle id="ep5_darkStreet">
-      <string id="INT_SINISTERMAN_INSPECT">This man... He looks like the man from my nightmares. He is blind in one eye. The empty socket glistens in the lamplight. He seems to... want something from me... In my dream, the man had said: 'Give me back what he took.'</string>
-      <string id="PHRASE_DARKSTREET_FIRST_TIME">This is the slum of St. Giles. The Crimson Nest shouldn't be far.</string>
-      <string id="PHRASE_WHEN_REACH_OPIUM_DEN">This must be The Crimson Nest. I have heard of such places, where people lose their minds to opium shipped from the Orient. I never thought I would set foot in one.</string>
+      <string id="INT_SINISTERMAN_INSPECT">这个男人……看起来好像我噩梦中的那个人。他一只眼睛瞎了，空空的眼眶在街灯下泛着光。他似乎……想要我给他什么东西……在我的梦里，这个男人说过：“把他拿走的东西还给我”。</string>
+      <string id="PHRASE_DARKSTREET_FIRST_TIME">这里是圣吉尔斯的贫民窟，离深红之巢不远的地方。</string>
+      <string id="PHRASE_WHEN_REACH_OPIUM_DEN">这里一定就是深红之巢了。我听说过这个地方，在这里人们沉溺于东方舶来的鸦片。我之前从未想过自己居然会踏足此地。</string>
     </bundle>
     <bundle id="ep5_eastHillEntrance">
       <string id="NEWSPAPERKID_EXTRA1">女士们、先生们！城镇最新要闻不容错过！</string>
@@ -357,70 +357,67 @@
       <string id="DLG_20_4">我要一份报纸，是六便士吧？</string>
     </bundle>
     <bundle id="ep5_escapeTheRoom">
-      <string id="FURNITURE_INSPECT">An old piece of furniture.</string>
-      <string id="FURNITURE_AFTERCATCH_INSPECT">The chair I just moved.</string>
-      <string id="FURNITURE_POSTCATCH_REACT">Shifting the chair revealed a small, dark hole in the wall.</string>
-      <string id="FURNITURE_PRECATCH_REACT">There are marks in the dust on the floor. It looks like this chair has been moved recently.</string>
-      <string id="RATHOLE_INSPECT">A small hole in the wall. It is too dark to see inside.</string>
-      <string id="PIECEOFBLANKET_INSPECT">There is a blanket on the bed.</string>
-      <string id="PIECEOFBLANKET_PRECATCH_REACT">I'm taking a shred of this blanket.</string>
-      <string id="MATCHES_INSPECT">A matchbox.</string>
-      <string id="MATCHES_PRECATCH_REACT">This could be useful.</string>
-      <string id="BLANKET_INSPECT">The blanket is now ruined.</string>
-      <string id="BLANKET_PRECATCH_REACT">I must take it with me.</string>
-      <string id="BLANKET_AFTERCATCH_INSPECT">There is nothing else here.</string>
-      <string id="WINDOW_INSPECT">I cannot see outside clearly...</string>
-      <string id="CTS_RATHOLE_THINK1">I would swear I saw a pair of feet in there.</string>
-      <string id="DLG_RATHOLE_01">Who… who is there?</string>
-      <string id="DLG_RATHOLE_02">We have met before.</string>
-      <string id="DLG_RATHOLE_03">I cannot see you. Who are you?</string>
-      <string id="BLANKET_EXTINGUISHED">The flame has faded out.</string>
-      <string id="DLG_RATHOLE_04">Do you not recognise my voice?</string>
-      <string id="DLG_RATHOLE_05">No, I am sorry, I do not... Do you know what this place is?</string>
-      <string id="DLG_RATHOLE_06">It is the starting point. The first place to look.</string>
-      <string id="DLG_RATHOLE_07">But who are you? What are you doing there?</string>
-      <string id="DLG_RATHOLE_08">Remember this: I will not be here forever. Darkness will light your way. Stay out of the light. Then I will disappear, and you will be alone in the end.</string>
-      <string id="DLG_RATHOLE_09">I don't understand! Tell me who you are!</string>
-      <string id="RATHOLE_INSPECT_POST_DLG">I can hear breathing behind the wall.</string>
-      <string id="WHERE AM I">I must have fainted... What is this? Where am I?</string>
-      <string id="DOOR_LOCKED">The door is shut for good and... it has no knob. No keyhole even.</string>
-      <string id="BLANKET_FINAL">Only the mattress remains.</string>
-      <string id="PIECEOFBLANKET_INSPECT_FINAL">I just took a piece of the blanket. For now, it is enough.</string>
-      <string id="COMB_RATHOLE_MATCHES">The match is too short. I can not stretch my hand in farther either to see what lies beyond the hole.</string>
+      <string id="FURNITURE_INSPECT">一个家具。</string>
+      <string id="FURNITURE_AFTERCATCH_INSPECT">我刚动过的椅子。</string>
+      <string id="FURNITURE_POSTCATCH_REACT">移开椅子后，看到墙上有一个又小又黑的洞。</string>
+      <string id="FURNITURE_PRECATCH_REACT">满是灰尘的地板上有些痕迹，看起来这椅子最近被移动过。</string>
+      <string id="RATHOLE_INSPECT">墙上有一个小洞，太黑了，看不清里面有什么。</string>
+      <string id="PIECEOFBLANKET_INSPECT">床上有一张毯子。</string>
+      <string id="PIECEOFBLANKET_PRECATCH_REACT">我拿了一块毯子。</string>
+      <string id="MATCHES_INSPECT">一个火柴盒。</string>
+      <string id="MATCHES_PRECATCH_REACT">这个可能会派上用场。</string>
+      <string id="BLANKET_INSPECT">毯子现在毁了。</string>
+      <string id="BLANKET_PRECATCH_REACT">我必须带着它。</string>
+      <string id="BLANKET_AFTERCATCH_INSPECT">这儿没什么其他东西了。</string>
+      <string id="WINDOW_INSPECT">看不清楚外面……</string>
+      <string id="CTS_RATHOLE_THINK1">我不禁出了一身冷汗，因为我看到一双脚在那里。</string>
+      <string id="DLG_RATHOLE_01">谁……谁在那里！</string>
+      <string id="DLG_RATHOLE_02">我们以前见过。</string>
+      <string id="DLG_RATHOLE_03">我看不到你，你是谁？</string>
+      <string id="BLANKET_EXTINGUISHED">火焰渐渐淡去。</string>
+      <string id="DLG_RATHOLE_04">你不认得我的声音了吗？</string>
+      <string id="DLG_RATHOLE_05">不，抱歉，我不认得……你知道这里是哪里吗？</string>
+      <string id="DLG_RATHOLE_06">这里是一切开始的地方，第一个看的地方。</string>
+      <string id="DLG_RATHOLE_07">你到底是谁？你在那里做什么？</string>
+      <string id="DLG_RATHOLE_08">记住这句话：我不会永远待在这里，黑暗照亮你的前路，远离光芒吧，到时候，我会消失，而你，终将独自一人。</string>
+      <string id="DLG_RATHOLE_09">我不明白！告诉我，你到底是谁！</string>
+      <string id="RATHOLE_INSPECT_POST_DLG">我能听到墙后有呼吸的声音。</string>
+      <string id="WHERE AM I">我一定是昏倒了……这是什么？我在哪里？</string>
+      <string id="DOOR_LOCKED">门严实合缝地关着，而且……没有门把手。连锁孔都没有。</string>
+      <string id="BLANKET_FINAL">只有床垫。</string>
+      <string id="PIECEOFBLANKET_INSPECT_FINAL">我拿了一张毯子，对于现在而言，也足够了。</string>
+      <string id="COMB_RATHOLE_MATCHES">火柴太短了，我不能把我的手伸得更远去看到底洞那边有什么。</string>
     </bundle>
     <bundle id="ep5_escapeTheRoomNightmare">
-      <string id="FT_DEVITT_1">Tell me, why are 
-you doing this?</string>
-      <string id="FT_DEVITT_2">Is it because you care
-about your patients? </string>
-      <string id="FT_DEVITT_3">Or out of scientific 
-curiosity?</string>
-      <string id="FT_DEVITT_4">Is it for your pride?</string>
-      <string id="FT_DEVITT_5">Because it is your 
-professional 
-responsibility? </string>
-      <string id="FT_DEVITT_6">Or is it because it is 
-the right thing to do?</string>
-      <string id="DLG_23_00">Devitt, is that you? 
-Devitt!</string>
-      <string id="FT_DEVITT_FINAL">Why are you doing this?</string>
+      <string id="FT_DEVITT_1">告诉我，
+为何你要这么做？</string>
+      <string id="FT_DEVITT_2">只是因为
+关心病人吗？</string>
+      <string id="FT_DEVITT_3">抑或是
+科学的好奇心？</string>
+      <string id="FT_DEVITT_4">自尊心？</string>
+      <string id="FT_DEVITT_5">因为你出于
+职业的责任感？</string>
+      <string id="FT_DEVITT_6">或者只是因为
+你觉得这么做是对的？</string>
+      <string id="DLG_23_00">大卫，是你吗？
+大卫！</string>
+      <string id="FT_DEVITT_FINAL">为何你要这么做？</string>
     </bundle>
     <bundle id="ep5_gallery">
-      <string id="SCN_ISOLATIONWARD_INSPECT">The door is shut and locked. There is no way to open it.</string>
-      <string id="DOOR_SIGN_1">Room 102-A</string>
-      <string id="DOOR_SIGN_2">Room 104-A</string>
-      <string id="DOOR_SIGN_3">Room 106-A</string>
-      <string id="DOOR_SIGN_4">Room 108-A</string>
-      <string id="DOOR_BRICKS">The door is closed for good with bricks, like they were pretending it never existed. They didn't even try to disguise it.</string>
-      <string id="BRICKS">A bunch of bricks. Either the construction is recent and not yet finished, or they were in a hurry to seal this room.</string>
-      <string id="DOOR_SIGN_5">'"Isolation Cells".</string>
-      <string id="INSIDE_SCREAMS_3">The Face of 
-the Playwright! </string>
-      <string id="INSIDE_SCREAMS_4">It will come 
-after us! </string>
-      <string id="INSIDE_SCREAMS_1">The Playwright!</string>
-      <string id="INSIDE_SCREAMS_2">It is eyeless 
-but not blind! </string>
+      <string id="SCN_ISOLATIONWARD_INSPECT">门关着，并且锁着。没有办法打开它。</string>
+      <string id="DOOR_SIGN_1">102-A室</string>
+      <string id="DOOR_SIGN_2">104-A室</string>
+      <string id="DOOR_SIGN_3">106-A室</string>
+      <string id="DOOR_SIGN_4">108-A室</string>
+      <string id="DOOR_BRICKS">这门被砖砌上了，好像它从来不存在一样。他们甚至都不掩饰一下。</string>
+      <string id="BRICKS">一堆砖。要么这东西是最近建的还没建完，要么就是因为想尽快封锁房间所以建得太急。</string>
+      <string id="DOOR_SIGN_5">“隔离间”</string>
+      <string id="INSIDE_SCREAMS_3">剧作家的脸！</string>
+      <string id="INSIDE_SCREAMS_4">祂要追上我们了！</string>
+      <string id="INSIDE_SCREAMS_1">剧作家！</string>
+      <string id="INSIDE_SCREAMS_2">祂没有眼睛
+但什么都看得见！</string>
     </bundle>
     <bundle id="ep5_genericRoom">
       <string id="DLG_INSECTCOMBINE_01">Is this the butterfly you talked about?</string>
@@ -609,7 +606,7 @@ but not blind! </string>
     </bundle>
     <bundle id="ep5_map">
       <string id="MAP_STREET">保罗街</string>
-      <string id="MAP_DARKSTREET">吉尔斯街</string>
+      <string id="MAP_DARKSTREET">圣吉尔斯</string>
       <string id="MAP_EASTHILLENTRANCE">东丘</string>
     </bundle>
     <bundle id="ep5_menus">
@@ -1185,7 +1182,8 @@ The face of the Playwright!</string>
       <string id="DECO_BA_FOUNTAIN">A thick layer of ice covers the pool of water. </string>
       <string id="DLG_HOUSEKEEPER_BY_10">His condition?</string>
       <string id="DLG_HOUSEKEEPER_BY_11">Oh sir, I am right sorry. I thought you knew. The Professor... he... he suffers from an ailment afflicting his brain. He is now entirely confined to his bed.</string>
-      <string id="DLG_HOUSEKEEPER_BY_15">May I ask you something, Mrs. Oakwood?</string>
+      <string id="DLG_HOUSEKEEPER_BY_15">May I ask you something, Mrs. Oakwood?
+</string>
       <string id="DLG_HOUSEKEEPER_BY_16">Of course, Doctor.</string>
       <string id="DLG_HOUSEKEEPER_BY_17">How did the Professor become afflicted?</string>
       <string id="DLG_HOUSEKEEPER_BY_17_CH">How did the Professor become afflicted?</string>
@@ -1193,8 +1191,10 @@ The face of the Playwright!</string>
       <string id="DLG_HOUSEKEEPER_BY_19">Professor Wright mentioned something, a tale from his childhood. He called it “The tale of travels”. Do you know what would that be?</string>
       <string id="DLG_HOUSEKEEPER_BY_19_CH">Professor Wright mentioned a tale...</string>
       <string id="DLG_HOUSEKEEPER_BY_20">Oh, of course. You see, he often asks me to tell him this tale. You can read it in one of the books of the library.</string>
-      <string id="DLG_HOUSEKEEPER_BY_21">Do you know if Professor Wright is fond of puzzles or riddles?</string>
-      <string id="DLG_HOUSEKEEPER_BY_21_CH">Is Professor Wright fond of riddles?</string>
+      <string id="DLG_HOUSEKEEPER_BY_21">Do you know if Professor Wright is fond of puzzles or riddles?
+</string>
+      <string id="DLG_HOUSEKEEPER_BY_21_CH">Is Professor Wright fond of riddles?
+</string>
       <string id="DLG_HOUSEKEEPER_BY_22">Well, yes indeed. He has always been an enthusiast of every mind game you can think of. When his health was better he used to host themed soirees every other month.</string>
       <string id="DLG_HOUSEKEEPER_BY_23">Mrs. Oakwood, did the Professor ever work in the basement?</string>
       <string id="DLG_HOUSEKEEPER_BY_23_CH">Did Professor Wright work in the basement?</string>
@@ -1205,10 +1205,12 @@ The face of the Playwright!</string>
       <string id="DLG_HOUSEKEEPER_BY_29">This ailment that runs in Professor Wright's family, do you know what its symptoms are?</string>
       <string id="DLG_HOUSEKEEPER_BY_29_CH">What are the symptoms of this illness?</string>
       <string id="DLG_HOUSEKEEPER_BY_30">Well, I can't speak those very long words physicians use. </string>
-      <string id="DLG_HOUSEKEEPER_BY_31">It is truly a terrible thing. And to think, all these years Mr. Wright knew what would become of him... May God have pity on his poor soul.</string>
+      <string id="DLG_HOUSEKEEPER_BY_31">It is truly a terrible thing. And to think, all these years Mr. Wright knew what would become of him... May God have pity on his poor soul.
+</string>
       <string id="DLG_HOUSEKEEPER_BY_32">But I can tell you what I see in him. Professor Wright hardly remembers a thing from the last forty years. </string>
       <string id="DLG_HOUSEKEEPER_BY_33">It is like he is a child again. With God's mercy it has now gone so far that it torments him no longer.</string>
-      <string id="DLG_HOUSEKEEPEr_BY_34">It is an easy find, Doctor. Look for the big book with the colourful cover.</string>
+      <string id="DLG_HOUSEKEEPEr_BY_34">It is an easy find, Doctor. Look for the big book with the colourful cover.
+</string>
       <string id="DLG_HOUSEKEEPER_BY_35">He asked his guests to solve a make-believe mystery. Oh, to picture those gentlemen and ladies following clues all around the house and its premises, all night long...</string>
       <string id="DLG_HOUSEKEEPER_BY_36">Mr. Wright had some eccentric friends. But, as time has proven, their loyalty was scarce. Almost none of them have visited the master since.</string>
       <string id="DLG_HOUSEKEEPER_BY_37">Mr. Wright said... No, I... You must excuse me, Dr. Wakefield. I'm very busy right now.</string>
@@ -1220,16 +1222,20 @@ The face of the Playwright!</string>
       <string id="DLG_HOUSEKEEPER_BY_44_CH">Professor Wright mentioned a book.</string>
       <string id="DLG_HOUSEKEEPER_BY_45">Do you know, is the Professor fond of puzzles or riddles?</string>
       <string id="DLG_HOUSEKEEPER_BY_45_CH">Is Professor Wright fond of riddles?</string>
-      <string id="DLG_HOUSEKEEPER_BY_46">Why, yes, Doctor, I know that story well, I do indeed. He often asks me to read it to him. </string>
-      <string id="DLG_HOUSEKEEPER_BY_47">Indeed, yes! He has long been an enthusiast of every mind game you can imagine.</string>
+      <string id="DLG_HOUSEKEEPER_BY_46">Why, yes, Doctor, I know that story well, I do indeed. He often asks me to read it to him. 
+</string>
+      <string id="DLG_HOUSEKEEPER_BY_47">Indeed, yes! He has long been an enthusiast of every mind game you can imagine.
+</string>
       <string id="DLG_HOUSEKEEPER_BY_48">In better days, he would host parties every other month, "themed soirees" he called 'em. Oh those were good times.</string>
       <string id="DLG_HOUSEKEEPER_BY_49">It seems long ago now.</string>
       <string id="DLG_HOUSEKEEPER_BY_5">Yes?  Who is it?</string>
       <string id="DLG_HOUSEKEEPER_BY_50">The book should be in the library.</string>
       <string id="DLG_HOUSEKEEPER_BY_6">Good morning, Mrs Oakwood.  Don't you remember me?</string>
       <string id="DLG_HOUSEKEEPER_BY_7">Why, Dr Kaufmann!  Bless my soul, it's been so long I hardly recognise you.  How nice to see you again.</string>
-      <string id="DLG_HOUSEKEEPER_BY_8">Allow me to introduce my colleague Dr. John Wakefield. Is the Professor at home? We would like to see him.</string>
-      <string id="DLG_HOUSEKEEPER_BY_9">Why yes, Doctor, of course, I am quite forgetting myself. Let me take you to him. It is really good of you to come. He receives so few visitors these days, on account of his condition.</string>
+      <string id="DLG_HOUSEKEEPER_BY_8">Allow me to introduce my colleague Dr. John Wakefield. Is the Professor at home? We would like to see him.
+</string>
+      <string id="DLG_HOUSEKEEPER_BY_9">Why yes, Doctor, of course, I am quite forgetting myself. Let me take you to him. It is really good of you to come. He receives so few visitors these days, on account of his condition.
+</string>
       <string id="ROOT1_INSPECT">This oak tree looks ancient. Probably older than the Manor itself.</string>
       <string id="ROOT2_INSPECT">It looks as though something has been concealed beneath the thick roots.</string>
       <string id="ROOT2_REACT">Another note, and a key, bound together.</string>
@@ -1251,7 +1257,8 @@ The face of the Playwright!</string>
       <string id="DECO_BA_PIPE">A gilded pipe. It runs from the floor to the ceiling.</string>
       <string id="DECO_BA_HEATER">A common radiator.</string>
       <string id="CLUE1_INSPECT">"Reflect on yourself..." said the riddle, and "the cold eye of logic sees not..." Could there be something here, hidden somehow?</string>
-      <string id="BETASLOT_BA_BATH">A large porcelain tub, its hefty weight supported on four blackened iron feet. A thin ring of damp residue around its interior suggests recent use.</string>
+      <string id="BETASLOT_BA_BATH">A large porcelain tub, its hefty weight supported on four blackened iron feet. A thin ring of damp residue around its interior suggests recent use.
+</string>
       <string id="COLDTEAPOT_MIRROR_REACT">The water inside the kettle is not hot enough.</string>
     </bundle>
     <bundle id="ep6_bedroom">
@@ -1269,7 +1276,8 @@ The face of the Playwright!</string>
       <string id="DLG_BEDROOM_CTS17">Where is Father? Where has he been taken?</string>
       <string id="DLG_BEDROOM_CTS18">...</string>
       <string id="DECO_BE_WARDROBE">A large wardrobe of engraved wood.</string>
-      <string id="DLG_BEDROOM_CTS19">It is Johan, Professor - your old pupil.</string>
+      <string id="DLG_BEDROOM_CTS19">It is Johan, Professor - your old pupil.
+</string>
       <string id="DLG_BEDROOM_CTS21">Should you need my assistance, I will be in the backyard.</string>
       <string id="DLG_BEDROOM_CTS22">He suffers from some kind of memory loss…</string>
       <string id="DLG_BEDROOM_CTS23">Yes. I am afraid he will not tell us much in this state.</string>
@@ -1296,15 +1304,18 @@ The face of the Playwright!</string>
       <string id="DLG_MENTOR_DEFAULT_7">My dearest visitor will find the prize.</string>
       <string id="DLG_MENTOR_SOLDIER_13">Prize...? What on earth is he talking about Kaufmann?</string>
       <string id="DLG_MENTOR_SOLDIER_14">Something concealed... something precious. In his addled state, could he have hidden away parts of his research?</string>
-      <string id="DLG_MENTOR_SOLDIER_15">Hmmm. He was always a proud man. He would not easily have forgotten his most ground-breaking work. A sense of its grave importance at least would have remained. In his confusion, perhaps he has holed it away somewhere for this "dearest visitor" of his to find.</string>
-      <string id="DLG_MENTOR_SOLDIER_20">Why don't you explore the manor? Perhaps something will relate to these latest ramblings.</string>
+      <string id="DLG_MENTOR_SOLDIER_15">Hmmm. He was always a proud man. He would not easily have forgotten his most ground-breaking work. A sense of its grave importance at least would have remained. In his confusion, perhaps he has holed it away somewhere for this "dearest visitor" of his to find.
+</string>
+      <string id="DLG_MENTOR_SOLDIER_20">Why don't you explore the manor? Perhaps something will relate to these latest ramblings.
+</string>
       <string id="DLG_MENTOR_SOLDIER_21">Meanwhile, I will continue my endeavours to revive his memory through conversation…</string>
       <string id="DLG_KAUFFMAN_BR_31">The Professor has mentioned a map and a certain work titled “The Book of Travels”. </string>
       <string id="DLG_KAUFFMAN_BR_32">What could he mean by that?</string>
       <string id="DLG_KAUFFMAN_BR_34">What could he mean by that?</string>
       <string id="DLG_MENTOR_DEFAULT_10">I have no doubt.</string>
       <string id="DLG_MENTOR_DEFAULT_11">Father...</string>
-      <string id="DLG_KAUFFMAN_BR_37">I am increasingly of the opinion that this is some mental construct - some riddle conjured up by the Professor's failing mind. He may not have even understood what he hid.</string>
+      <string id="DLG_KAUFFMAN_BR_37">I am increasingly of the opinion that this is some mental construct - some riddle conjured up by the Professor's failing mind. He may not have even understood what he hid.
+</string>
       <string id="DLG_KAUFFMAN_BR_38">A riddle... And who would that “visitor” be?</string>
       <string id="DLG_KAUFFMAN_BR_39">That is unknown to me, mein Freund. There is only one way to answer that question.</string>
       <string id="DLG_KAUFFMAN_BR_40">If we can find the answer to the Professor’s riddle, perhaps we will be able to solve this mystery.</string>
@@ -1318,7 +1329,8 @@ The face of the Playwright!</string>
       <string id="DECO_BE_WINDOW1">The snow is falling outside, slow and silent.</string>
       <string id="DECO_BE_WINDOW2">Professor Wright's gaze remains fixed on the window, as though he were waiting for someone.</string>
       <string id="DLG_MENTOR_SOLDIER_23">Could it be related to the letter I found?</string>
-      <string id="DLG_MENTOR_SOLDIER_24">Indeed, mein Freund. And only by solving the puzzle.</string>
+      <string id="DLG_MENTOR_SOLDIER_24">Indeed, mein Freund. And only by solving the puzzle.
+</string>
       <string id="CTS_KAUFMANN_NO_TIN">I should try to stimulate Professor Wright's memory first.</string>
       <string id="CTS_ENVELOPE_KAUFMANN_NO_TIN">I should try to stimulate Professor Wright's memory first.</string>
       <string id="KAUFFMAN_TO_MENTOR_FT1">Now I wonder...
@@ -1326,7 +1338,8 @@ What if I had stayed?</string>
       <string id="KAUFFMAN_TO_MENTOR_FT2">Remember those times?  We would get almost no sleep at all.</string>
       <string id="KAUFFMAN_TO_MENTOR_FT3">Please, Professor.
 Talk to me.</string>
-      <string id="DLG_BEDROOM_CTS20">I will leave you two to talk to the Professor. It may be difficult to keep him on one subject for long, but oh it does him such a world of good to speak with old friends.</string>
+      <string id="DLG_BEDROOM_CTS20">I will leave you two to talk to the Professor. It may be difficult to keep him on one subject for long, but oh it does him such a world of good to speak with old friends.
+</string>
     </bundle>
     <bundle id="ep6_birdsRoom">
       <string id="BROKENBUST_INSPECT">A Truth our ancestors knew and with stone silence came to un-know…</string>
@@ -1360,11 +1373,14 @@ Talk to me.</string>
       <string id="DLG_PASTOR_5">I could not say... The mist that shrouds this coast and the shapes that swirl within have long been a source of hearsay. But lately the stories people tell are not of pirates and smugglers but something more sinister. Some say the Devil himself has come to our shore. It is a rumour I dare not disregard.</string>
       <string id="DLG_PASTOR_6_CH">Are you personally acquainted with Professor Wright?</string>
       <string id="DLG_PASTOR_6">Are you personally acquainted with Professor Wright?</string>
-      <string id="DLG_PASTOR_7">Why, yes, of course. Adam was... rather, is not merely a parishioner but one of my closest friends. Since our youth we enjoyed many scholarly but sometimes quite fervent discussions, he being an anthropologist and myself a theologian. That is, until he fell ill.</string>
+      <string id="DLG_PASTOR_7">Why, yes, of course. Adam was... rather, is not merely a parishioner but one of my closest friends. Since our youth we enjoyed many scholarly but sometimes quite fervent discussions, he being an anthropologist and myself a theologian. That is, until he fell ill.
+</string>
       <string id="DLG_PASTOR_8_CH">I must go.</string>
-      <string id="DLG_PASTOR_8">I must go, Father.</string>
+      <string id="DLG_PASTOR_8">I must go, Father.
+</string>
       <string id="DLG_PASTOR_12">May the Lord be with you.</string>
-      <string id="DLG_PASTOR_13">Wait a moment please... I need to ask for a small favour. Please give this to Adam. I don't know if it will mean anything to him now, but it will bring peace to my soul if there is some token of our friendship resting by his side.</string>
+      <string id="DLG_PASTOR_13">Wait a moment please... I need to ask for a small favour. Please give this to Adam. I don't know if it will mean anything to him now, but it will bring peace to my soul if there is some token of our friendship resting by his side.
+</string>
       <string id="DECO_CH_BROKENWINDOW">The window has been boarded up.</string>
       <string id="DECO_CH_CONFESSIONAL">A confessional.</string>
       <string id="DECO_CH_CROSS">This neglected and decaying cross reflects the faith of the villagers all too well.</string>
@@ -1406,11 +1422,13 @@ Talk to me.</string>
       <string id="DLG_FISHERMAN_30">The thing was big and hunched over, like a crouching man. The way it moved... it made my flesh crawl.</string>
       <string id="DLG_FISHERMAN_31">The mist down there is just too thick. I can see better from here, even if my eyes are not what they used to be.</string>
       <string id="DLG_FISHERMAN_32">Damn it, if I could somehow regain my once sharp eyesight again. By God, I would impale that abomination for sure.</string>
-      <string id="DLG_FISHERMAN_33">Why, it is old to be sure, but this telescope has been patched up to a rare beauty. You have my thanks, stranger. I am indebted.</string>
+      <string id="DLG_FISHERMAN_33">Why, it is old to be sure, but this telescope has been patched up to a rare beauty. You have my thanks, stranger. I am indebted.
+</string>
       <string id="DLG_FISHERMAN_35">Hmmm ... Mmmmh ..... Oh! What is that? On the cliff there. Well blow me! But if it isn't the Wrights' old summer house. I thought it entirely destroyed! It looks like you can get there using the old cliff path.</string>
       <string id="DLG_FISHERMAN_36">Excuse me... Did you say the Wrights' summer house?</string>
       <string id="DLG_FISHERMAN_37">Well yes! I never saw it myself, I was too young at the time. But everyone round here knows the story well. It was a terrible tragedy, you see. One night, there was a landslide just beneath the house.</string>
-      <string id="DLG_FISHERMAN_38">Most of the building fell sheer into the sea, leaving only yonder ruins. Many died, though by a miracle, young master Wright was spared.</string>
+      <string id="DLG_FISHERMAN_38">Most of the building fell sheer into the sea, leaving only yonder ruins. Many died, though by a miracle, young master Wright was spared.
+</string>
       <string id="DLG_FISHERMAN_39">I will not waver in my determination to destroy that thing. Not while this old body of mine endures.</string>
       <string id="DLG_FISHERMAN_40">You can see it from here. Look, right there on the other side of the beach. Do you see it?</string>
       <string id="BETASLOT_DECO_CL_TREE">A windswept old gnarly tree is clinging onto the cliff with what roots remain. Someday it will fall into the ocean below.</string>
@@ -1470,17 +1488,20 @@ Talk to me.</string>
       <string id="DLG_KAUFFMAN_CR_58">If we could find and use the device that the Professor mentions in his log…</string>
       <string id="DLG_KAUFFMAN_CR_57">The Professor's notes made reference to some kind of listening device.</string>
       <string id="DLG_KAUFFMAN_CR_59">I believe we could shed some light on this matter.</string>
-      <string id="DLG_KAUFFMAN_CR_60">If it is true that the Professor could monitor the underground area for many weeks, then the device must be located somewhere in the manor.</string>
+      <string id="DLG_KAUFFMAN_CR_60">If it is true that the Professor could monitor the underground area for many weeks, then the device must be located somewhere in the manor.
+</string>
       <string id="DLG_KAUFFMAN_CR_61">Hmm...</string>
       <string id="WCMB_KNOB_KAUFMANN">An interesting object. It looks like a handle, or perhaps a switch. Based on its design, it must have been meant to fit into a device of some sort. </string>
-      <string id="DECO_CL_PAPERS">Piles of papers of all kinds. Discarded notes, letters, and receipts, all mixed up.</string>
+      <string id="DECO_CL_PAPERS">Piles of papers of all kinds. Discarded notes, letters, and receipts, all mixed up.
+</string>
       <string id="SECRET_MEETING">A meeting with one of their representatives has finally been conducted, but the results have been unsatisfactory for the purposes of this line of research. The representative did express their interest in its progress and results. But they do not understand it, they never could.</string>
       <string id="DLG_AFT_LIB_CONV_1">Could this organisation be... </string>
       <string id="DLG_AFT_LIB_CONV_2">The Playwright?</string>
       <string id="DLG_AFT_LIB_CONV_3">It may be, mein Freund.</string>
       <string id="DLG_AFT_LIB_CONV_4">If so, then we are closer to the truth than we thought.</string>
       <string id="DLG_AFT_LIB_CONV_5">But in this room I have been able to find only some fragments of information. Discarded material.</string>
-      <string id="DLG_AFT_LIB_CONV_6">It looks as if the main bulk of documents were moved from this room and hidden somewhere else.</string>
+      <string id="DLG_AFT_LIB_CONV_6">It looks as if the main bulk of documents were moved from this room and hidden somewhere else.
+</string>
       <string id="DLG_AFT_LIB_CONV_7">The basement tunnel...</string>
       <string id="DLG_AFT_LIB_CONV_8">That seems the most reasonable conclusion. </string>
       <string id="DLG_AFT_LIB_CONV_9">But access to that place is lost, is it not? The entrance was sealed.</string>
@@ -1525,7 +1546,8 @@ A meeting with one of their representatives has finally been conducted, but the 
       <string id="DECO_PIPE">A gilded pipe. It runs from the room at the end of the corridor to the room upstairs. </string>
       <string id="DECO_DO_PICTURE">A sea landscape.</string>
       <string id="WCMB_BASEMENTKEY_SERVANTROOM">This key doesn't work here.</string>
-      <string id="WCMB_REDKEY_SERVANTROOM">This key doesn't fit here.</string>
+      <string id="WCMB_REDKEY_SERVANTROOM">This key doesn't fit here.
+</string>
       <string id="WCMB_ATTICKEY_SERVANTROOM">This key doesn't work here.</string>
       <string id="WCMB_BIRDSKEY_SERVANTROOM">This key doesn't fit here.</string>
       <string id="WCMB_MENTORKEY_SERVANTROOM">This key is not for this door.</string>
@@ -1546,7 +1568,8 @@ A meeting with one of their representatives has finally been conducted, but the 
       <string id="LAST_CLUE_ADDED">Could this be the last part of the riddle?</string>
     </bundle>
     <bundle id="ep6_garden">
-      <string id="COMPASS_REACT">It looks like a compass. It must be broken, since it does not point North.</string>
+      <string id="COMPASS_REACT">It looks like a compass. It must be broken, since it does not point North.
+</string>
       <string id="COMPASS_INSPECT">The clay vessel held by the statue is now broken into many pieces. There is an object among them. It must have been hidden inside...</string>
       <string id="COMPASS2_INSPECT">Only the pieces of the broken vessel remain.</string>
       <string id="GARDEN_STATUE1_A">This statue portrays a queen with her face hidden by a mask. </string>
@@ -1612,13 +1635,16 @@ A meeting with one of their representatives has finally been conducted, but the 
       <string id="TRG_TO_INNROOM">This is serious. I must break the news to Kaufmann, and of course the local authorities will have to be informed. </string>
     </bundle>
     <bundle id="ep6_hall">
-      <string id="PORTRAIT1_INSPECT">A portrait of Professor Wright. His appearance was quite different back then: an imposing, inquisitive figure.</string>
+      <string id="PORTRAIT1_INSPECT">A portrait of Professor Wright. His appearance was quite different back then: an imposing, inquisitive figure.
+</string>
       <string id="PLH_PORTRAIT_CLUE">As I suspected. There is a small key taped to the back of the picture frame. And a note…</string>
       <string id="DECO_HA_JAR">A porcelain jar containing some dried branches.</string>
       <string id="DOOR_HALL_FRONTYARD_LOCKED_AFTER_BACK">It is locked.</string>
       <string id="PORTRAIT2_INSPECT">"...look upon your master... Meet not only his imposing gaze but seek to understand what lies beneath..."</string>
-      <string id="PORTRAIT3_INSPECT">A portrait of Professor Wright. His appearance was quite different back then: an imposing, inquisitive figure.</string>
-      <string id="BETASLOT_DECO_HA_PICTURESTAIRS">An enormous painting showing a torrential river and the waves splashing on the banks. In the background I can see an old church, apparently abandoned.</string>
+      <string id="PORTRAIT3_INSPECT">A portrait of Professor Wright. His appearance was quite different back then: an imposing, inquisitive figure.
+</string>
+      <string id="BETASLOT_DECO_HA_PICTURESTAIRS">An enormous painting showing a torrential river and the waves splashing on the banks. In the background I can see an old church, apparently abandoned.
+</string>
       <string id="BETASLOT_DECO_HA_LAMP">An antique ceiling lamp.</string>
     </bundle>
     <bundle id="ep6_hypnosis">
@@ -1661,7 +1687,8 @@ A meeting with one of their representatives has finally been conducted, but the 
       <string id="DLG_HYPNOSIS_79">I cannot! I can hear it with me! Its breath... Dear God, I must flee!</string>
       <string id="DLG_HYPNOSIS_81_CH">You must continue.</string>
       <string id="DLG_HYPNOSIS_83">It waits for me. It waits down there…</string>
-      <string id="DLG_HYPNOSIS_85_CH">Go back down the ladder.</string>
+      <string id="DLG_HYPNOSIS_85_CH">Go back down the ladder.
+</string>
       <string id="DLG_HYPNOSIS_86">I have gone down the ladder.</string>
       <string id="DLG_HYPNOSIS_88_CH">Go back.</string>
       <string id="DLG_HYPNOSIS_90_CH">Go back.</string>
@@ -1671,23 +1698,39 @@ A meeting with one of their representatives has finally been conducted, but the 
       <string id="DLG_HYPNOSIS_96_CH">Tell me again where you are.</string>
       <string id="DLG_HYPNOSIS_97">To the North I see the shore. To the West there is a person.</string>
       <string id="DLG_HYPNOSIS_98">Behind the waterfall, to the East, lies a tunnel. To the West I see the edge of the forest.</string>
-      <string id="DLG_HYPNOSIS_99">The tunnel divides into many passages. I can go North, South, and West.</string>
+      <string id="DLG_HYPNOSIS_99">The tunnel divides into many passages. I can go North, South, and West.
+</string>
       <string id="DLG_HYPNOSIS_100_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_101">To the North, something floats in the water. To the East, I can see the edge of the forest.</string>
+      <string id="DLG_HYPNOSIS_101">To the North, something floats in the water. To the East, I can see the edge of the forest.
+</string>
       <string id="DLG_HYPNOSIS_102_CH">Go back.</string>
       <string id="DLG_HYPNOSIS_103_CH">Tell me again where you are.</string>
       <string id="DLG_HYPNOSIS_104_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_115">One of the trees has fallen down. Its corpse lies on the dry sand, and the others mourn it. Its branches point now towards the shore. A bank of dense fog is forming there, emanating from the cliff.</string>
+      <string id="DLG_HYPNOSIS_115">One of the trees has fallen down. Its corpse lies on the dry sand, and the others mourn it. Its branches point now 
+
+towards the shore. A bank of dense fog is forming there, emanating from the cliff.</string>
       <string id="DLG_HYPNOSIS_117_CH">Walk towards the fog.</string>
-      <string id="DLG_HYPNOSIS_119">The fog thins now. I can see something in the distance. It is Zhai-La, the land of fog. It is not a bay as the ancients wrote, but an island. There lie the answers that could have prevented what happened...</string>
-      <string id="DLG_HYPNOSIS_120">But could anyone have anticipated it? Could anyone have known what my dearest visitor would result to be?</string>
+      <string id="DLG_HYPNOSIS_119">The fog thins now. I can see something in the distance. It is Zhai-La, the land of fog. It is not a bay 
+
+as the ancients wrote, but an island. There lie the answers that could have prevented what 
+
+happened...</string>
+      <string id="DLG_HYPNOSIS_120">But could anyone have anticipated it? Could anyone have known what my dearest visitor would 
+
+result to be?</string>
       <string id="DLG_HYPNOSIS_121">And who would dare to cross the path now? </string>
-      <string id="DLG_HYPNOSIS_122">Who would dare to look into the abyss of the Spiral, knowing what would certainly come of it? </string>
-      <string id="DLG_HYPNOSIS_123">I can tell you: only the foolish, the insane, or the suicidal.</string>
+      <string id="DLG_HYPNOSIS_122">Who would dare to look into the abyss of the 
+
+Spiral, knowing what would certainly come of it? </string>
+      <string id="DLG_HYPNOSIS_123">I can tell you: only the foolish, the insane, 
+
+or the suicidal.</string>
       <string id="DLG_HYPNOSIS_125_CH">Go back.</string>
       <string id="DLG_HYPNOSIS_126_CH">Tell me again where you are.</string>
       <string id="DLG_HYPNOSIS_127_CH">Go elsewhere.</string>
-      <string id="DLG_HYPNOSIS_129">I stand among tall trees. They stare at me, silently. They have found me guilty. I do not wish to stay here.</string>
+      <string id="DLG_HYPNOSIS_129">I stand among tall trees. They stare at me, silently. They have found me guilty. I do not wish to 
+
+stay here.</string>
       <string id="DLG_HYPNOSIS_132_CH">Tell me again where you are.</string>
       <string id="DLG_HYPNOSIS_133_CH">Go back.</string>
       <string id="DLG_HYPNOSIS_137_CH">Stay for a bit longer.</string>
@@ -1744,7 +1787,8 @@ A meeting with one of their representatives has finally been conducted, but the 
       <string id="DLG_KAUFFMAN_IR59">The church door is closed.</string>
       <string id="DLG_KAUFFMAN_IR60">My dear Wakefield, what advice can I offer? A church would not remain closed all day. If you must wait, then do so, and in the meantime talk to the villagers. Perhaps they will reveal something useful about the Professor. *cough*</string>
       <string id="DLG_KAUFFMAN_IR63">According to one of the locals, Professor Wright almost died as a young man when the family's summer house was destroyed by a landslide.</string>
-      <string id="DLG_KAUFFMAN_IR64">Begging your pardon, Wakefield, but the answer is obvious, is it not? During the session, the Professor said that the entrance to the tunnel was through "a waterfall not of water but of rocks and mud". It is too similar a description to be a coincidence!</string>
+      <string id="DLG_KAUFFMAN_IR64">Begging your pardon, Wakefield, but the answer is obvious, is it not? During the session, the Professor said that the entrance to the tunnel was through "a waterfall not of water but of rocks and mud". It is too similar a description to be a coincidence!
+</string>
       <string id="DLG_KAUFFMAN_IR65">I theorize that the entrance to the tunnel is concealed somewhere in that house.</string>
       <string id="DLG_DWAYNE_12">I will remain here and take care of your friend.</string>
       <string id="DLG_DWAYNE_13">Allow me to introduce myself: I am Dr. Armitage.</string>
@@ -1817,7 +1861,8 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="INV_EXPLORERBOOK">Book</string>
       <string id="INV_BIRDSBOOK">Book</string>
       <string id="CMB_FLOWERS_GRAVE2">I do not think this is the right grave.</string>
-      <string id="INV_EXPLORERBOOK_DESC">This seems to be the "Book of Travels" Professor Wright mentioned. It is "The Travels of Marco Polo".</string>
+      <string id="INV_EXPLORERBOOK_DESC">This seems to be the "Book of Travels" Professor Wright mentioned. It is "The Travels of Marco Polo".
+</string>
       <string id="WCMB_ATTICKEY_GUESTROOM">The key does not fit this keyhole.</string>
       <string id="WCMB_BASEMENTKEY_GUESTROOM">The key does not fit here.</string>
       <string id="WCMB_REDKEY_GUESTROOM">The key does not fit here.</string>
@@ -1827,35 +1872,46 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="INV_MENTORKEY_DESC">A yellow key.</string>
       <string id="BIRDSBOOK_CONTENT_1">The birds were travelling to meet their King when they reached a crossroads. The wretched crow tried to lead them astray and onto the path of mists.</string>
       <string id="BIRDSBOOK_CONTENT_2">Many birds followed him and were lost forever beyond that veil. </string>
-      <string id="BIRDSBOOK_CONTENT_3">Only the wisdom of the crested hoopoe and the prudence of the red-feathered robin could lead the remaining twenty-eight back onto the path of righteousness. Ever since, the birds have sung their praise, for without the hoopoe and the robin, silence would have fallen forever.</string>
+      <string id="BIRDSBOOK_CONTENT_3">Only the wisdom of the crested hoopoe and the prudence of the red-feathered robin could lead the remaining twenty-eight back onto the path of righteousness. Ever since, the birds have sung their praise, for without the hoopoe and the robin, silence would have fallen forever.
+</string>
       <string id="INV_PICTURE">Picture</string>
       <string id="INV_PICTURE_DESC">A picture of two young men. They could be Professor Wright and Father Oscar.</string>
-      <string id="INV_CLOTH_DESC_1">A carefully-embroidered cloth. The beginning of a phrase is written on it: "If the birds fall silent…"</string>
-      <string id="INV_CLOTH_DESC_2">A carefully-embroidered cloth. The end of a phrase is written on it: "...a visitor will call."</string>
+      <string id="INV_CLOTH_DESC_1">A carefully-embroidered cloth. The beginning of a phrase is written on it: "If the birds fall silent…"
+</string>
+      <string id="INV_CLOTH_DESC_2">A carefully-embroidered cloth. The end of a phrase is written on it: "...a visitor will call."
+</string>
       <string id="TELESCOPE_BEFORE_TALK_FISHERMAN">I should try to speak to him first.</string>
       <string id="NOMOREMATCHES">I have run out of matches.</string>
       <string id="INV_LOVERNECKLACE">Necklace</string>
-      <string id="INV_LOVERNECKLACE_DESC">A silver locket necklace containing a lock of human hair. It has an engraved message: "A token of love for my beloved rose."</string>
+      <string id="INV_LOVERNECKLACE_DESC">A silver locket necklace containing a lock of human hair. It has an engraved message: "A token of love for my beloved rose."
+</string>
     </bundle>
     <bundle id="ep6_kitchen">
       <string id="COLDTEAPOT_REACT">It is filled with cold water. </string>
       <string id="COLDTEAPOT_INSPECT">An old teapot.</string>
       <string id="COOKER_INSPECT">A cast-iron woodstove.</string>
       <string id="KITCHEN_BASEMENT_LOCKED">The door is locked shut. A small sign reads “Basement”.</string>
-      <string id="MATCHES_INSPECT">Glass jars filled with spices and pickled food. There is a matchbox here, too.</string>
+      <string id="MATCHES_INSPECT">Glass jars filled with spices and pickled food. There is a matchbox here, too.
+</string>
       <string id="MATCHES_REACT">I may need these matches later on.</string>
       <string id="DECO_KI_OVEN">A bread oven.</string>
-      <string id="DECO_LI_FORNITURE">Various ingredients.</string>
+      <string id="DECO_LI_FORNITURE">Various ingredients.
+</string>
       <string id="DECO_LI_FORNITURE2">Glass jars filled with spices and pickled food.</string>
-      <string id="DLG_HOUSEKEEPER_KI_1">Mrs. Oakwood?</string>
+      <string id="DLG_HOUSEKEEPER_KI_1">Mrs. Oakwood?
+</string>
       <string id="MATCHES2_INSPECT">Glass jars filled with spices and pickled food.</string>
       <string id="KITCHEN_ALREADY_LIGHTED">The fire is burning already.</string>
-      <string id="TEAPOT_COOKER_NOT_LIGHTED">If I want to heat the teapot on the stove, I will need to start a fire first. The stove already has plenty of wood.</string>
+      <string id="TEAPOT_COOKER_NOT_LIGHTED">If I want to heat the teapot on the stove, I will need to start a fire first. The stove already has plenty of wood.
+</string>
       <string id="DECO_KI_PIPE">A gilded pipe. It runs from underground to the corridor.</string>
       <string id="TNK_TEAPOT_DURATION">The water will cool soon.</string>
-      <string id="WCMB_BIRDSKEY_BASEMENT">The key doesn't fit here.</string>
-      <string id="WCMB_ATTICKEY_BASEMENT">The key doesn't fit here.</string>
-      <string id="WCMB_REDKEY_BASEMENT">The key doesn't fit here.</string>
+      <string id="WCMB_BIRDSKEY_BASEMENT">The key doesn't fit here.
+</string>
+      <string id="WCMB_ATTICKEY_BASEMENT">The key doesn't fit here.
+</string>
+      <string id="WCMB_REDKEY_BASEMENT">The key doesn't fit here.
+</string>
       <string id="DECO_PIPE">A gilded pipe. It runs from the ground to the corridor.</string>
       <string id="THINK_PRE_CLOSED_ROOM_DIARY">If we cannot access the tunnel mentioned in Professor Wright’s log, how can we find the missing parts of his research? I must talk to Kaufmann about this.
 </string>
@@ -1894,7 +1950,8 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="LIBRARY2_INSPECT_2">There is a mark on one of the pages.</string>
       <string id="LIBRARY_CLUE_2">It was not to be. The King of the land we traversed had declared war on the Great Khan, so we were forced to return as we had come. We never set foot in that bloody land again. We knew there was a port just a few miles to the south, where we could find a boat.</string>
       <string id="LIBRARY_CLUE_3">Our sea voyage was short, as our sails billowed with the powerful Southern winds. We reached the most Eastern cape, and landed there. Our backs to the sea, we marched forth and soon reached home.</string>
-      <string id="DECO_LI_FIREPLACE">The fire burns fiercely, rendering the air thick and heavy in the room.</string>
+      <string id="DECO_LI_FIREPLACE">The fire burns fiercely, rendering the air thick and heavy in the room.
+</string>
       <string id="DECO_LI_PICTURE">A painting of the cliffs of this region. </string>
       <string id="FIRST_VISIT_GLOBE">A globe. The surface is extraordinarily detailed. Judging by the strange shape of the continents, this must derive from a fictional work, or some prehistoric era.</string>
       <string id="GLOBE_JUST_OPEN">It seems I have triggered a hidden mechanism. A small compartment has opened in the globe.</string>
@@ -1902,7 +1959,8 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="DECO2_LI_FIREPLACE">The fire is out. How did this happen?</string>
     </bundle>
     <bundle id="ep6_libraryConversastion">
-      <string id="DLG_LIBRARYCONVERSATION1">You see, Mr Wright, our organisation is keenly interested in your research. </string>
+      <string id="DLG_LIBRARYCONVERSATION1">You see, Mr Wright, our organisation is keenly interested in your research. 
+</string>
       <string id="DLG_LIBRARYCONVERSATION2">We could reach an agreement to fund this project. </string>
       <string id="DLG_LIBRARYCONVERSATION3">But first we need to know the details.</string>
       <string id="DLG_LIBRARYCONVERSATION4">I understand.</string>
@@ -1910,7 +1968,8 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="DLG_LIBRARYCONVERSATION6">So a complete, absolute darkness will be required for the experience to result. A secluded place, completely isolated.</string>
       <string id="DLG_LIBRARYCONVERSATION7">A place that can only bring thoughts of what may be hiding in the dark.</string>
       <string id="DLG_LIBRARYCONVERSATION8">But in total darkness and seclusion, how could the results of the experiment be studied or confirmed?</string>
-      <string id="DLG_LIBRARYCONVERSATION9">That is precisely where your organisation can provide help.</string>
+      <string id="DLG_LIBRARYCONVERSATION9">That is precisely where your organisation can provide help.
+</string>
       <string id="DLG_LIBRARYCONVERSATION10">I have designed a special device that would allow me to listen from a safe distance. But I lack the means to manufacture it myself. </string>
       <string id="DLG_LIBRARYCONVERSATION11">That we could arrange.</string>
       <string id="DLG_LIBRARYCONVERSATION12">But there is one last thing I would like to know.</string>
@@ -1943,7 +2002,8 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="MAZE_CAVEIN">This part of the cave is blocked by a cave-in. </string>
       <string id="MAZE_PIANO">There is a grand piano placed in the middle of the room. </string>
       <string id="MAZE_MESSAGE">The drawing represents a human figure stepping through some sort of archway or door...</string>
-      <string id="ARCHWAY_NOTES1">Who was gone will be back not the same, but somehow changed. Because that which lurks behind the Door waits. And no one that has crossed through can hope to escape its blessing.</string>
+      <string id="ARCHWAY_NOTES1">Who was gone will be back not the same, but somehow changed. Because that which lurks behind the Door waits. And no one that has crossed through can hope to escape its blessing.
+</string>
       <string id="ARCHWAY_NOTES2">I must tell Kaufmann about all of this.</string>
       <string id="INT_DECO_CLOTHES">These clothes are torn down to unrecognisable shreds. There is a tag in here with two initials: “H. A.”.</string>
       <string id="INT_DECO_ARCH">There is a large archway carved on the stone wall of the cave.</string>
@@ -1954,7 +2014,15 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="LOOK_BACK_SURPRISE">What was that?</string>
       <string id="ARCHWAY_NOTES">There is a note on the floor.</string>
       <string id="ARCHWAY_FIRST_TIME">What is this place?</string>
-      <string id="MAZE_BONES_DESC_NECKLACE">These are... human remains. The flesh is gone, but the bones look undisturbed. Judging by their constitution I would say they belonged to a woman. This cave has been sealed for seven years...  What did the lady in the window say? Her lover disappeared seven years ago in the cliffs, and her body was never found... Are these the remains of Rose Carter? Was this the "containment breach" Wright mentioned in his diaries? I must press on.</string>
+      <string id="MAZE_BONES_DESC_NECKLACE">These are... human remains. The flesh is gone, but the bones look undisturbed. Judging by their 
+
+constitution I would say they belonged to a woman. This cave has been sealed for seven years... 
+
+ What did the lady in the window say? Her lover disappeared seven years ago in the cliffs, and her 
+
+body was never found... Are these the remains of Rose Carter? Was this the "containment breach" 
+
+Wright mentioned in his diaries? I must press on.</string>
     </bundle>
     <bundle id="ep6_menus">
       <string id="START_BT_NEWGAME">New Game</string>
@@ -1977,7 +2045,8 @@ who participated in the crowdfunding campaing.</string>
       <string id="CREDITS_SLIDE6">Lamp description by</string>
       <string id="CREDITS_SLIDE7">Boat description by</string>
       <string id="CREDITS_SLIDE8">Window description by</string>
-      <string id="CREDITS_SLIDE9">Confessional description by</string>
+      <string id="CREDITS_SLIDE9">Confessional description by
+</string>
       <string id="CREDITS_SLIDE10">Hall painting description by </string>
       <string id="CREDITS_SLIDE11">Tree description by</string>
       <string id="CREDITS_SLIDE12">Cliff tree description by</string>
@@ -2023,12 +2092,14 @@ Scott Steinberg
 Katie Hallahan
 Mikael Palsio</string>
       <string id="FT_TEXT_CONTENT4">Michael Chumak
-Johnny-Eyeball
+
+Johnny-Eyeball
 Dino Ljubić
 Aaron Loehrlein
 Silp Novak
 Aoife Nic Chraith
-David Techman</string>
+David Techman
+</string>
       <string id="FT_TEXT_CONTENT5">Wayne Sung
 Dane Tippman</string>
       <string id="FT_TEXT_CONTENT6">Javier Mairena
@@ -2047,12 +2118,14 @@ Dane Tippman</string>
       <string id="STRANDED_BOAT1_REACT">It is... a small bell. It is quite rusty.</string>
       <string id="DECO_PO_PLANKS">Some abandoned wooden planks. Perhaps they are here for the repair of local fishing boats.</string>
       <string id="DECO_PO_OLDBOAT">An old fishing boat. It smells strongly of fish.</string>
-      <string id="DECO_PO_FARTREE">Far in the distance, I can see a lonely tree, bent by the sea wind.</string>
+      <string id="DECO_PO_FARTREE">Far in the distance, I can see a lonely tree, bent by the sea wind.
+</string>
       <string id="BELL_INSPECT">An old, rusty bronze bell, typical of a seafaring vessel. It is engraved with the name "Augustine".</string>
       <string id="BELL_REACT">Someone may be able to tell me more about it. </string>
       <string id="DLG_DRUNK_PORT_1">Neither the cracks in your hull nor your flaking paint, none of it matters. You are beautiful as ever, Augustine.</string>
       <string id="DLG_DRUNK_PORT_2">Today we will watch the sun set together.</string>
-      <string id="DLG_DRUNK_PORT_3">Good sir, I cannot put into words what a great service you have rendered this drunken knave. Just as you, a stranger, have brought me to my lost treasure, may this old sailor's spyglass, in whatever way it can, help light the way to yours. Take it: it is a gift from the heart.</string>
+      <string id="DLG_DRUNK_PORT_3">Good sir, I cannot put into words what a great service you have rendered this drunken knave. Just as you, a stranger, have brought me to my lost treasure, may this old sailor's spyglass, in whatever way it can, help light the way to yours. Take it: it is a gift from the heart.
+</string>
       <string id="CMB_TELESCOPE_DRUNK">He won't need it anymore.</string>
       <string id="BETASLOT_DECO_PO_OLDBOAT">An old, rotting boat rests on the shore. The name 'Providence' is written on the side.</string>
     </bundle>
@@ -2066,7 +2139,8 @@ Dane Tippman</string>
       <string id="DLG_POSTHYPNOSIS_6">Reflect tonight on what we have witnessed here. Tomorrow, let's discuss the next steps in our investigation. </string>
     </bundle>
     <bundle id="ep6_prehypnosis">
-      <string id="HYPNOTIZING1">Look at this candle. Fix your eyes upon it.</string>
+      <string id="HYPNOTIZING1">Look at this candle. Fix your eyes upon it.
+</string>
       <string id="HYPNOTIZING2">Your body is as light as a feather.</string>
       <string id="HYPNOTIZING3">Everything around you fades. You are entering a dark, endless void.</string>
     </bundle>
@@ -2147,14 +2221,18 @@ Harbours where to die.</string>
       <string id="DLG_WAITRESS_35">Fred? He's a regular. A sad, lonely drunk.</string>
       <string id="DECO_PU_PICTURES">Old pictures of the village's inhabitants.</string>
       <string id="DECO_PU_POSTER">An old poster of a local, traditional sport.</string>
-      <string id="DECO_PU_DRINKS">Bottles of rum, dark beer, and a couple of taps of pale ale.</string>
+      <string id="DECO_PU_DRINKS">Bottles of rum, dark beer, and a couple of taps of pale ale.
+</string>
       <string id="DLG_DRUNK_40">You have doubled the Three Capes, is that right?</string>
-      <string id="DLG_DRUNK_41">Indeed I have. Good Hope, Leeuwin, and Horn. Therefore, I hold the right to stand before kings, and to piss against the wind.</string>
+      <string id="DLG_DRUNK_41">Indeed I have. Good Hope, Leeuwin, and Horn. Therefore, I hold the right to stand before kings, and to piss against the wind.
+</string>
       <string id="DLG_DRUNK_42">But there are many things about Him that we do not know. There are, far from the coast, in the deep dark, things we are still unprepared to behold.</string>
       <string id="DLG_DRUNK_43">Believe me, those things await deep down.</string>
       <string id="DLG_DRUNK_44">You may have heard one or two of the stories the fishermen tell, about things seen out there.</string>
-      <string id="DLG_DRUNK_45">It is nought but tales for young'uns, mere superstition from men too cowardly to face the dark. Any good seaman knows that in the strong wind, a stretched rope can shake and sing.</string>
-      <string id="DLG_DRUNK_46">I, myself, have mistaken such keening for the wail of a child. But there was one time... one time it was nothing of the sort. Then, the Sea howled.</string>
+      <string id="DLG_DRUNK_45">It is nought but tales for young'uns, mere superstition from men too cowardly to face the dark. Any good seaman knows that in the strong wind, a stretched rope can shake and sing.
+</string>
+      <string id="DLG_DRUNK_46">I, myself, have mistaken such keening for the wail of a child. But there was one time... one time it was nothing of the sort. Then, the Sea howled.
+</string>
       <string id="DLG_DRUNK_47">It was not thunder, not a strong wave clashing with my ship. No.</string>
       <string id="DLG_DRUNK_48">It was like a voice... It spoke to me in a language I cannot describe. A sound muttered by a living something, a call unlike anything I had heard before.</string>
       <string id="DLG_DRUNK_49">I do not know where the remains of my dear Augustine ended up, with the passing of years and tides. I looked for them, once, for many moons, but all I found was this bar and the bottom of an empty glass. I have never returned to the shore since. May she forgive me.</string>
@@ -2166,7 +2244,8 @@ Harbours where to die.</string>
       <string id="DLG_WAITRESS_37">You mean Father Oscar? You can find him in the church, when he's not in here. It's right outside.</string>
       <string id="DECO_PU_GUYS">Those two fishermen have just given me a suspicious look.</string>
       <string id="BETASLOT_DECO_PU_WHEEL">The wheel taken from the helm of a ship. Perhaps a trinket from the owner's days as a ship's helmsman.</string>
-      <string id="BETASLOT_DECO_WOMAN">This lady is dressed rather elegantly for someone who came to drink in a place like this.</string>
+      <string id="BETASLOT_DECO_WOMAN">This lady is dressed rather elegantly for someone who came to drink in a place like this.
+</string>
     </bundle>
     <bundle id="ep6_radio">
       <string id="GADGET_INSPECT">An unusual electrical device. I'm unfamiliar with its function, but I can tell that there is a piece of equipment missing.</string>
@@ -2183,8 +2262,10 @@ Harbours where to die.</string>
     <bundle id="ep6_silhouettes">
       <string id="INT_PIC1_DESC">“Mr. Strachan was a well-positioned man. He fell madly in love with the younger daughter of the Bartleys, and so he proposed to her.”</string>
       <string id="INT_PIC2_DESC">“Young Agnes fancied the idea of marrying an older man, but she always hid her feelings from her mother.”</string>
-      <string id="INT_PIC3_DESC">“Mrs. Bartley did never take her eyes off her daughter, and watched them at all times.”</string>
-      <string id="INT_PIC4_DESC">“Mr. Bartley tried to show his support for their daughter, but his wife never paid any attention to him.”</string>
+      <string id="INT_PIC3_DESC">“Mrs. Bartley did never take her eyes off her daughter, and watched them at all times.”
+</string>
+      <string id="INT_PIC4_DESC">“Mr. Bartley tried to show his support for their daughter, but his wife never paid any attention to him.”
+</string>
     </bundle>
     <bundle id="ep6_square">
       <string id="SQUARE_CHURCH_LOCKED">It is closed.</string>
@@ -2238,26 +2319,31 @@ Harbours where to die.</string>
       <string id="DLG_ALBINO_NECKLACE2">Hello again, Madam. I found this necklace washed out in the beach, near the rocks. Do you recognise it?</string>
       <string id="DLG_ALBINO_NECKLACE3">This... this is Rose's. How...?</string>
       <string id="DLG_ALBINO_NECKLACE4">This necklace was a present I gave Rose for our first anniversary, not long before... </string>
-      <string id="DLG_ALBINO_NECKLACE5">It happened seven years ago. She used to go to the beach every morning. I don't know why that day could have been any different. They said it was because of the fog. It was unusually dense that morning, and they said she was seen walking on the rocks... She must have fallen. She was never found.</string>
+      <string id="DLG_ALBINO_NECKLACE5">It happened seven years ago. She used to go to the beach every morning. I don't know why that day could have been any different. They said it was because of the fog. It was unusually dense that morning, and they said she was seen walking on the rocks... She must have fallen. She was never found.
+</string>
       <string id="DLG_ALBINO_NECKLACE6">Excuse me, this necklace brings so many memories... And the good ones too.</string>
       <string id="DLG_ALBINO_NECKLACE7">Thank you so much.</string>
     </bundle>
     <bundle id="ep6_train">
-      <string id="DLG_TRAIN_1">Are you all right, Kaufmann?</string>
+      <string id="DLG_TRAIN_1">Are you all right, Kaufmann?
+</string>
       <string id="DLG_TRAIN_2">It is nothing, mein Freund. Just a bit of a cold.</string>
       <string id="DLG_TRAIN_3">Now, mein Freund, I think we should talk. </string>
       <string id="DLG_TRAIN_4">In light of the events we have recently witnessed, the matter cannot be delayed any further. You must make an important decision.</string>
       <string id="DLG_TRAIN_5">It is not yet too late to go back to our daily lives. If you do not want to continue, you must forget all about your patient Jeremiah Devitt. </string>
-      <string id="DLG_TRAIN_6">You will have to keep to yourself everything you have learned about the mystery of his disappearance and never talk about it again.</string>
+      <string id="DLG_TRAIN_6">You will have to keep to yourself everything you have learned about the mystery of his disappearance and never talk about it again.
+</string>
       <string id="DLG_TRAIN_7">But should you wish to continue this search, you will need to accept the consequences, whatever they may be.</string>
       <string id="DLG_TRAIN_8">Please do not take this decision lightly. The path ahead is not without peril.</string>
       <string id="DLG_TRAIN_9">You know my answer already, Kaufmann. I must know what happened to Devitt.</string>
       <string id="DLG_TRAIN_10">So be it, then.</string>
       <string id="DLG_TRAIN_11">As you may have already realised, this matter involving your patient transcends the limits of psychiatry as we know it.</string>
-      <string id="DLG_TRAIN_12">We are not dealing with the effects of trauma or the demons of the subconscious. At least not in the terms we are used to.</string>
+      <string id="DLG_TRAIN_12">We are not dealing with the effects of trauma or the demons of the subconscious. At least not in the terms we are used to.
+</string>
       <string id="DLG_TRAIN_13">We are dealing with something old. Something dark. </string>
       <string id="DLG_TRAIN_14">A sinister truth that has been buried deep for generations.</string>
-      <string id="DLG_TRAIN_15">This man, Alexandre Du Pré, and his organisation... I think they seek to uncover these secrets. And I fear they might have already.</string>
+      <string id="DLG_TRAIN_15">This man, Alexandre Du Pré, and his organisation... I think they seek to uncover these secrets. And I fear they might have already.
+</string>
       <string id="DLG_TRAIN_16">Miss Konhe's fate, whatever it was, must be related somehow. But my knowledge of this area is simply not sufficient.</string>
       <string id="DLG_TRAIN_17">We must pay a visit to an old friend. Someone I never thought I would want to see again.</string>
       <string id="DLG_TRAIN_18">The man who introduced me to the extended scientific field of the occult.</string>
@@ -2275,7 +2361,8 @@ Harbours where to die.</string>
       <string id="DECO_UP_PICTURE1">An engraving on paper. The script is from a language unknown to me.</string>
       <string id="DECO_UP_PICTURE2">An oil painting. It shows an obscure medieval scene. </string>
       <string id="UPCORRIDOR_BEDROOM_LOCKED">The door is locked with a key.</string>
-      <string id="BETASLOT_DECO_PICTURE1">A painting of the ocean at the end of the afternoon. There is a figure in black on the beach, but its face is shrouded by a hood.</string>
+      <string id="BETASLOT_DECO_PICTURE1">A painting of the ocean at the end of the afternoon. There is a figure in black on the beach, but its face is shrouded by a hood.
+</string>
       <string id="BETASLOT_DECO_PICTURE2">An old stone tower is depicted in the painting. Thorned vines have slithered across the entrance, forming a swarming blockade that almost seems to come alive when stared at for too long.</string>
       <string id="BETASLOT_DECO_LAMP">A lamp provides a soft glow that somehow lacks warmth.</string>
       <string id="SECRET_ROOM_APPEARS">A secret passage has opened at the end of the corridor!</string>
@@ -2299,11 +2386,14 @@ itself..." I should check if there is something hidden near that tree.</string>
   <episode id="EP7">
     <bundle id="ep7_alley">
       <string id="DECO_ROOF">BETA SLOT</string>
-      <string id="DECO_BOAT">An old rowboat filled with stale water.</string>
-      <string id="UMBRELLA1_INSPECT">An old rowboat filled with stale water.</string>
+      <string id="DECO_BOAT">An old rowboat filled with stale water.
+</string>
+      <string id="UMBRELLA1_INSPECT">An old rowboat filled with stale water.
+</string>
       <string id="UMBRELLA1_POSTCATCH">A worn-out umbrella. It doesn't look like it will rain anytime soon, but there might be a purpose for it.</string>
       <string id="UMBRELLA2_INSPECT">The water is so muddy that I can barely see the bottom of the trough.</string>
-      <string id="WCM_BOTTEL_UMBRELLA">I don't need to fill the bottle with water.</string>
+      <string id="WCM_BOTTEL_UMBRELLA">I don't need to fill the bottle with water.
+</string>
       <string id="DRAGON_CANNOT_GO_BACK">I should follow this masked person.</string>
       <string id="BTS_DOGHOUSE">An empty dog house. Nothing has slept here in many years.</string>
       <string id="BTS_ROOF">No matter the strength of structure, all things succumb to time. But whether it was the ages or something else that ravaged this place, I cannot say.</string>
@@ -2328,7 +2418,8 @@ I believe Aunt Máire's iron disc is needed to open the secret passage.</string>
       <string id="DIARY_INSPECT2">It is signed 'Brighid Laidcend'. Several pages towards the end are missing…</string>
       <string id="DIARY_AFTER_INSPECT">Miss Laidcend must have found something abhorrent in her family's crypt. If I could find out what it was, I may learn more about the Cronemeadan. My intuition tells me that I must act tonight or else it will be too late. </string>
       <string id="CTS_BREWERY_FIRST_TIME">I think this basement might have once housed a library. It looks like it was not burned as badly as the rest of the house. Even so, little here remains intact.</string>
-      <string id="BTS_BED">It looks like some sort of makeshift bed. Was Kieran sleeping in this terrible, lonely place?</string>
+      <string id="BTS_BED">It looks like some sort of makeshift bed. Was Kieran sleeping in this terrible, lonely place?
+</string>
     </bundle>
     <bundle id="ep7_burntHouseExt">
       <string id="MAILBOX_OPEN_INSPECT">There is nothing else here.</string>
@@ -2438,7 +2529,8 @@ Brighid</string>
       <string id="AMB_COLDOPEN">Ominous Music</string>
       <string id="SFX_PENDULUM_CLOCK">Clock Ticking Loudly</string>
       <string id="SFX_PENDULUM_SWOSH">-</string>
-      <string id="AMB_HOLEBOTTOM">Mysterious Ambience</string>
+      <string id="AMB_HOLEBOTTOM">Mysterious Ambience
+</string>
       <string id="AMB_VEIL">Otherwordly Ambience</string>
       <string id="SFX_VEIL_SCARE_1">Screech</string>
       <string id="SFX_COFFIN_SCARE_2">Screech</string>
@@ -2534,11 +2626,13 @@ Mr. Ashdown.</string>
       <string id="FT_MAUSOLEUM_6">Yes... yes... You are right. Now I understand.</string>
       <string id="MASKED_VILLAGER5">The man hides his face behind a fox mask. He murmurs something in unison with the others—a muted prayer I cannot quite make out.</string>
       <string id="MUST_FOLLOW_DRAGON">I should follow that masked person.</string>
-      <string id="MAUSOLEUM_EMPTY">Only darkness. I cannot hear or see a thing.</string>
+      <string id="MAUSOLEUM_EMPTY">Only darkness. I cannot hear or see a thing.
+</string>
       <string id="DECO_MIRROR_2">I am not too sure about this...</string>
       <string id="CTS_MIRROR_BROKEN">What... was that?</string>
       <string id="DECO_MIRROR_3">The mirrors are completely shattered. Why would that masked man do this?</string>
-      <string id="DECO_BURRIED_MIRROR_2">I dug up the mirror the villagers buried. I'll leave it like that.</string>
+      <string id="DECO_BURRIED_MIRROR_2">I dug up the mirror the villagers buried. I'll leave it like that.
+</string>
       <string id="BTS_GRAVE">The epitaph on this gravestone is written in Gaelic, the shadows cast by the lanterns only making the characters more mysterious.</string>
       <string id="CHRISTOPHER_LEE_TRIBUTE">In memoriam Christopher Lee.</string>
     </bundle>
@@ -2644,13 +2738,15 @@ No, I shall not accept this fate for myself.</string>
       <string id="DLG_KEEPER_7">And since it's dark, you thought it to be abandoned?</string>
       <string id="DLG_KEEPER_8">Well, it's not. Even though I can barely see a thing, this is my house.</string>
       <string id="DLG_KEEPER_5">I was taking a stroll, and I fear I got lost.</string>
-      <string id="DLG_KEEPER_9">I understand. After sunset, the hills of Éilís Mór can be tricky. We have a saying here: 'In dusk, all paths change.'</string>
+      <string id="DLG_KEEPER_9">I understand. After sunset, the hills of Éilís Mór can be tricky. We have a saying here: 'In dusk, all paths change.'
+</string>
       <string id="DLG_KEEPER_10">If you stand at the apex of that hill, over there, past the rocks, you will see the lights of the village.</string>
       <string id="DLG_KEEPER_12_CH">Why is the lamp not lit? </string>
       <string id="DLG_KEEPER_6_CH">I am visiting the island. </string>
       <string id="DLG_KEEPER_5_CH">I got lost.</string>
       <string id="DLG_KEEPER_12">Why is the lighthouse lamp not lit? Is it not dangerous for the ships?</string>
-      <string id="DLG_KEEPER_14">Do not let it concern you. Many years ago, the sea lanes were altered to avoid this coast. Now it's rare indeed to see a ship in these waters. After the accident, the lighthouse was never repaired.</string>
+      <string id="DLG_KEEPER_14">Do not let it concern you. Many years ago, the sea lanes were altered to avoid this coast. Now it's rare indeed to see a ship in these waters. After the accident, the lighthouse was never repaired.
+</string>
       <string id="DLG_KEEPER_16_CH">Was there a failure in the mechanism?</string>
       <string id="DLG_KEEPER_16">Was there a failure in the lamp's mechanism?</string>
       <string id="DLG_KEEPER_17">Precisely that. One stormy afternoon, I suddenly heard a strong noise up in the lightroom. The clockwork mechanism had stopped working and the lamp was off! I had never seen a failure like that. I could not get the lighthouse working again.</string>
@@ -2659,7 +2755,8 @@ No, I shall not accept this fate for myself.</string>
       <string id="DLG_KEEPER_18">You say you had an accident? What happened?</string>
       <string id="DLG_KEEPER_20_CH">And the lamp has not been fixed since?</string>
       <string id="DLG_KEEPER_20">Has nobody else tried to fix the lamp since?</string>
-      <string id="DLG_KEEPER_21">No, no one in the village is interested. For them, the more isolated Éilís Mór is the better. They do not care about ships or accidents, especially Lord Donnán. He sees anything coming from outside of the island as a threat.</string>
+      <string id="DLG_KEEPER_21">No, no one in the village is interested. For them, the more isolated Éilís Mór is the better. They do not care about ships or accidents, especially Lord Donnán. He sees anything coming from outside of the island as a threat.
+</string>
       <string id="DLG_KEEPER_13_CH">Do you know Lord Donnán?</string>
       <string id="DLG_KEEPER_13">Do you know Lord Donnán personally?</string>
       <string id="DLG_KEEPER_22">Naturally! The Donnán family has ruled Éilís Mór for generations.</string>
@@ -2671,14 +2768,16 @@ No, I shall not accept this fate for myself.</string>
       <string id="DLG_KEEPER_26_CH">I must go.</string>
       <string id="DLG_KEEPER_26">Thank you for the pleasant conversation. I must go.</string>
       <string id="DLG_KEEPER_30">It cannot be! I never thought I would hear the rhythm of my beloved lighthouse working again.</string>
-      <string id="DLG_KEEPER_31">You don't know how grateful I am. For years I've longed to hear those marvellous sounds.</string>
+      <string id="DLG_KEEPER_31">You don't know how grateful I am. For years I've longed to hear those marvellous sounds.
+</string>
       <string id="DLG_KEEPER_32">Memories of better times.</string>
       <string id="DECO_WOOD">A few logs and cords of firewood. </string>
       <string id="DECO_STOVE">The small stove hardly manages to warm such a spacious room.</string>
       <string id="DLG_LIGHTROOM_DOOR1">I would like to visit the lightroom. May I?</string>
       <string id="DLG_LIGHTROOM_DOOR2">And what would you see up there? The mechanism is a mess, and there's not even a light anymore!</string>
       <string id="DLG_LIGHTROOM_DOOR4">I should like to visit the lightroom now, if I may.</string>
-      <string id="DLG_LIGHTROOM_DOOR5">Yes, yes. You already have my permission.</string>
+      <string id="DLG_LIGHTROOM_DOOR5">Yes, yes. You already have my permission.
+</string>
       <string id="MAYBE_ASK">Maybe I could persuade him to allow me up there...</string>
       <string id="DLG_KEEPER_37_CH">Kieran's disappearance was strange?</string>
       <string id="DLG_KEEPER_37">What was so strange about Kieran's disappearance?</string>
@@ -2688,9 +2787,11 @@ No, I shall not accept this fate for myself.</string>
       <string id="DLG_KEEPER_46">I just find it a bit suspicious that it happened so close to the Reunion. It’s too easy to be keeping secrets during the festival, being how everyone is afraid of leaving the village those nights.</string>
       <string id="DLG_KEEPER_47">What do you mean?</string>
       <string id="DLG_KEEPER_48">Look, folks here are too gullible. They’ll do anything to protect themselves from their strange fears. They’ll not eat corn, nor drink milk, or they'll dig graves for their mirrors. And of course, they’ll avoid standing near a fearnóg too long because, though the fiends cannot touch the tree, they're attracted to the smell of its resin.</string>
-      <string id="DLG_KEEPER_49">But surely it’s all nonsense! Look, it’s really easy to prove it all wrong: just don’t follow the rituals. You’re a stranger to our ways, but have you seen any of the things I mentioned?</string>
+      <string id="DLG_KEEPER_49">But surely it’s all nonsense! Look, it’s really easy to prove it all wrong: just don’t follow the rituals. You’re a stranger to our ways, but have you seen any of the things I mentioned?
+</string>
       <string id="DLG_KEEPER_50">Well, I did see a group of people in the village burying mirrors.</string>
-      <string id="DLG_KEEPER_51">Exactly! What do you think would happen if you unburied those mirrors? That a band of goblins would come out of the marshes to steal them? Nothing but nonsense.</string>
+      <string id="DLG_KEEPER_51">Exactly! What do you think would happen if you unburied those mirrors? That a band of goblins would come out of the marshes to steal them? Nothing but nonsense.
+</string>
       <string id="DLG_KEEPER_41_CH">What of Kieran's disappearance?</string>
       <string id="DLG_KEEPER_41">What of Kieran's disappearance, then?</string>
       <string id="DLG_KEEPER_44">Well, I’ll admit I’m not sure what happened to the boy... But one thing I am sure of: this 'Festival of Reunion' is nothing but a farce. And it would be just so easy to prove it...</string>
@@ -2708,7 +2809,8 @@ No, I shall not accept this fate for myself.</string>
       <string id="LIGHTHOUSE_DOOR_OPEN">It sounds like it attracted someone's attention downstairs.</string>
       <string id="GONG_REACT_AFTER_SOLVE">I do not need to make more noise.</string>
       <string id="WCB_BRACE_LIGHTHOUSETREE">The brace cannot drill through metal.</string>
-      <string id="WCB_RIBBON_LIGHTHOUSETREE">Tying the ribbon to the pipe makes no sense.</string>
+      <string id="WCB_RIBBON_LIGHTHOUSETREE">Tying the ribbon to the pipe makes no sense.
+</string>
       <string id="WCB_UMBRELLA_LIGHTHOUSETREE">The umbrella will hardly be of use to me here.</string>
       <string id="WCB_LINK_LIGHTHOUSETREE">The ring won't be of any help here.</string>
       <string id="WCB_OIL_LIGHTHOUSETREE">There is no need to oil the pipe.</string>
@@ -2740,7 +2842,8 @@ No, I shall not accept this fate for myself.</string>
       <string id="WCB_GEAR_LIGHT">A gear won't turn the lamp on. I need to charge its battery somehow.</string>
       <string id="WCB_BATERYCH_MACHINERY">It is a clockwork mechanism. It works by winding it by hand. Or it would, were it not missing a piece.</string>
       <string id="OIL_LEAK">There is a little hole in the tank and the oil is leaking. The mechanism will not work properly unless I fix it.</string>
-      <string id="RIBBON_STOP_LEAK">Now I can oil the mechanism without worrying about it leaking.</string>
+      <string id="RIBBON_STOP_LEAK">Now I can oil the mechanism without worrying about it leaking.
+</string>
       <string id="DECO_ISLANDS">A thick layer of mist covers the sea out there.</string>
     </bundle>
     <bundle id="ep7_lightroomBattery">
@@ -2787,8 +2890,10 @@ No, I shall not accept this fate for myself.</string>
       <string id="CREDITS_SLIDE8_NAME">Michaelcthulhu</string>
       <string id="CREDITS_SLIDE9_NAME">Jozski</string>
       <string id="CREDITS_SLIDE10_NAME">Futurekubik</string>
-      <string id="PREVIOUSLY_1">As a necessary step to understanding the mysterious disappearance of Dr. Wakefield's patient, Jeremiah Devitt, the doctor and his colleague Johan Kaufmann visited the manor of Professor Wright. Years before, Wright had been Kaufmann's mentor in the occult but, since then, had been afflicted with a mental condition and could remember nothing.</string>
-      <string id="PREVIOUSLY_2">They discovered that Wright's research had been funded by the Playwright, the secret organisation led by Alexandre Du Pré. While Kaufmann lay in bed due to a sudden illness, Wakefield followed the clues left by the eccentric Professor Wright, leading to the darkness of an underground labyrinth. There was something waiting down there, alive but imprisoned in the cave.</string>
+      <string id="PREVIOUSLY_1">As a necessary step to understanding the mysterious disappearance of Dr. Wakefield's patient, Jeremiah Devitt, the doctor and his colleague Johan Kaufmann visited the manor of Professor Wright. Years before, Wright had been Kaufmann's mentor in the occult but, since then, had been afflicted with a mental condition and could remember nothing.
+</string>
+      <string id="PREVIOUSLY_2">They discovered that Wright's research had been funded by the Playwright, the secret organisation led by Alexandre Du Pré. While Kaufmann lay in bed due to a sudden illness, Wakefield followed the clues left by the eccentric Professor Wright, leading to the darkness of an underground labyrinth. There was something waiting down there, alive but imprisoned in the cave.
+</string>
       <string id="PREVIOUSLY_3">In the deepest chamber of the tunnel, Wakefield met the dreadful result of Professor Wright's final experiment, which had been an attempt to cross the Last Door using fear as the key...</string>
       <string id="PREVIOUSLY_TITLE">Previously on The Last Door...</string>
     </bundle>
@@ -2850,7 +2955,8 @@ Scott Steinberg
 Katie Hallahan
 Mikael Palsio</string>
       <string id="FT_TEXT_CONTENT4">Michael Chumak
-Johnny-Eyeball
+
+Johnny-Eyeball
 Dino Ljubić
 Aaron Loehrlein
 Silp Novak
@@ -3066,7 +3172,8 @@ But find the queen with a fiery crown.</string>
       <string id="WCB_RIBBON_STICK">I will keep the ribbon.</string>
     </bundle>
     <bundle id="ep7_ruinedChapel">
-      <string id="DECO_VIRGIN">A statue of a Madonna. But something is off. I cannot tell what, though.</string>
+      <string id="DECO_VIRGIN">A statue of a Madonna. But something is off. I cannot tell what, though.
+</string>
       <string id="DECO_SUN">This symbol looks familiar. A spiked circle… It could be the sun. </string>
       <string id="CHAPEL_FIRST_TIME">This seems like some sort of chapel, but Christian symbols are scarce.</string>
     </bundle>
@@ -3076,7 +3183,8 @@ But find the queen with a fiery crown.</string>
       <string id="BIN_REACT">It is a child's drawing. There seems to be a village, a lake, and some sort of creature.</string>
       <string id="DESK_INSPECT">A paper with black circles painted on it.</string>
       <string id="DOOR_SCHOOL_GRAVEYARD_LOCKED">Locked.</string>
-      <string id="DLG_TEACHER_1">Good evening. To what do I owe the pleasure? I am a busy woman, as you can see.</string>
+      <string id="DLG_TEACHER_1">Good evening. To what do I owe the pleasure? I am a busy woman, as you can see.
+</string>
       <string id="DLG_TEACHER_2">My name is Dr Wakefield. I have come to Éilís Mór to rest for a while. Lord Donnán said that I might find you here.</string>
       <string id="DLG_TEACHER_3">Have you met Lord Donnán? It has been so long since I have seen him here in the village. I hope he is well.</string>
       <string id="DLG_TEACHER_9_CH">Lord Donnán.</string>
@@ -3131,7 +3239,8 @@ Or else they'll pull you in.'</string>
       <string id="DLG_TEACHER_PICTURE_1">I found this picture. Was it made by one of your students?</string>
       <string id="DLG_TEACHER_PICTURE2">Yes... This was painted by poor Kieran.</string>
       <string id="DLG_TEACHER_PICTURE3">What would you say it represents?</string>
-      <string id="DLG_TEACHER_PICTURE4">Things that were familiar to him... the village, his home... but these other shapes... I do not know. You could ask one of his classmates. They should be able to tell you more about it.</string>
+      <string id="DLG_TEACHER_PICTURE4">Things that were familiar to him... the village, his home... but these other shapes... I do not know. You could ask one of his classmates. They should be able to tell you more about it.
+</string>
       <string id="CTS_MIRROR_BROKEN">What... was that?</string>
       <string id="BTS_PICTURE_SCHOOL">A picture of a slender woman, apparently a goddess, wearing a black dress and having a murder of crows around her. It's signed with a name: "Badb Catha".</string>
     </bundle>
@@ -3181,7 +3290,8 @@ Will carry its purge.</string>
       <string id="DLG_DEVITT_7">You should not have—go back now!</string>
     </bundle>
     <bundle id="ep7_wall">
-      <string id="STRANGE_ROCK">A strangely-shaped rock.</string>
+      <string id="STRANGE_ROCK">A strangely-shaped rock.
+</string>
       <string id="RUINEDCHAPEL_DISCOVERED_LIT">The secret door is now open.</string>
       <string id="MOUTH_DESC">The mouth of the Sentinel is wide open.</string>
       <string id="EYES_DESC">A pair of evil eyes seem to glitter in the dark.</string>
@@ -3206,7 +3316,8 @@ Will carry its purge.</string>
       <string id="STATUE_BROKEN">The Roman statue lies shattered on the ground. To destroy such an ancient statue... could this really be part of the festival?
 </string>
       <string id="MUST_FOLLOW_DRAGON">I can't go back now. The masked person must be around.</string>
-      <string id="BTS_LEFTSTATUE">This seems to be Athena, goddess of wisdom, war, and the arts. She is dressed in armor, seeming ready for war.</string>
+      <string id="BTS_LEFTSTATUE">This seems to be Athena, goddess of wisdom, war, and the arts. She is dressed in armor, seeming ready for war.
+</string>
     </bundle>
   </episode>
   <episode id="EP8">
@@ -3230,7 +3341,8 @@ Will carry its purge.</string>
       <string id="WCB_POSTER_BLOOD">The poster is going to be ruined here.</string>
     </bundle>
     <bundle id="ep8_basement">
-      <string id="CAT_INSPECT">Ugh, there's a dead cat on the floor. I think it's rotting. Its… Her... eyes are missing.</string>
+      <string id="CAT_INSPECT">Ugh, there's a dead cat on the floor. I think it's rotting. Its… Her... eyes are missing.
+</string>
       <string id="CAT_MOUTH_INSPECT">There is something on the floor, beside her mouth.</string>
       <string id="SHADOW_INSPECT_2">I can see something in it... no, through it—as though I were staring into a dark void. Off in some remote distance, colourful shapes flow in seemingly impossible patterns...</string>
       <string id="SHADOW_INSPECT_1">There is something inside that cage... a shadow, staring at me with dead eyes.</string>
@@ -3241,7 +3353,8 @@ Will carry its purge.</string>
       <string id="SHADOW_MISSING">The shadow is gone…</string>
     </bundle>
     <bundle id="ep8_beach">
-      <string id="DECO_ROCK">A large sea stack just off the beach. It seems to have a lonely demeanour.</string>
+      <string id="DECO_ROCK">A large sea stack just off the beach. It seems to have a lonely demeanour.
+</string>
     </bundle>
     <bundle id="ep8_beachMirror">
       <string id="BS_HEAD">A colossus, born of rock and craftsmanship, relegated to the briny backwaters of this nightmare, and to the emotions of injury and despair.</string>
@@ -3349,7 +3462,8 @@ Will carry its purge.</string>
       <string id="AMB_VEIL_DOOR_LAYER1">Disturbing Ambience</string>
       <string id="SFX_TAC">-</string>
       <string id="SFX_GIANT_PUPPET">Scare Effect</string>
-      <string id="AMB_CLOCK">Grandfather clock</string>
+      <string id="AMB_CLOCK">Grandfather clock
+</string>
       <string id="SFX_ROOT_BURY">Dirt Pouring</string>
       <string id="SFX_SCHOOL_SHADOW_NOISE">Creaking</string>
       <string id="ENDING_SCENE">Epilogue Theme</string>
@@ -3388,7 +3502,8 @@ Will carry its purge.</string>
     </bundle>
     <bundle id="ep8_epilogue">
       <string id="EPILOGUE_THEEND">The End.</string>
-      <string id="CC_SFX_1_A">Faraway storm</string>
+      <string id="CC_SFX_1_A">Faraway storm
+</string>
       <string id="CC_SFX_1_B">Pecking on glass</string>
       <string id="CC_SFX_1_C">Chair squeaking</string>
       <string id="CC_SFX_1_D">Footsteps</string>
@@ -3479,44 +3594,69 @@ Will carry its purge.</string>
       <string id="ARRIVAL_PHRASE">This place… how did I get here? The door is open.</string>
     </bundle>
     <bundle id="ep8_gameEnding">
-      <string id="WAKEFIELD_ENDING_TEXT1">Once more, I found myself enshrouded in dense fog. Gradually, the fog dissipated, revealing a busy street in London.</string>
-      <string id="WAKEFIELD_ENDING_TEXT2">The mask that I had worn lay on the ground, melting like wax over the wet cobblestones.</string>
-      <string id="WAKEFIELD_ENDING_TEXT3">Dizzy and exhausted, I wandered the streets until at last I returned home. It seemed very small, as it always does after a long journey. </string>
-      <string id="WAKEFIELD_ENDING_TEXT4">As I removed my coat, I found a feather in one of the pockets, the same one that I had discovered before being engulfed by the black mass of the Simurg. </string>
-      <string id="WAKEFIELD_ENDING_TEXT5">With a jolt, I realised that it had not been a dream, and I was ashamed at how quickly I had deluded myself into thinking otherwise.</string>
-      <string id="WAKEFIELD_ENDING_TEXT6">I kindled a fire and placed the feather on the crackling flames. As it burned, I heard the distant calls of crows in the street. Despite the heat, I shivered.</string>
-      <string id="WAKEFIELD_ENDING_TEXT7">My patient and friend Jeremiah Devitt had sacrificed himself. He had accepted the consequences of his friends' actions, and his own as well. </string>
-      <string id="DEVITT_ENDING_TEXT1">Once more, I found myself enshrouded in dense fog. Gradually, the fog dissipated, revealing a busy street in London.</string>
+      <string id="WAKEFIELD_ENDING_TEXT1">Once more, I found myself enshrouded in dense fog. Gradually, the fog dissipated, revealing a busy street in London.
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT2">The mask that I had worn lay on the ground, melting like wax over the wet cobblestones.
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT3">Dizzy and exhausted, I wandered the streets until at last I returned home. It seemed very small, as it always does after a long journey. 
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT4">As I removed my coat, I found a feather in one of the pockets, the same one that I had discovered before being engulfed by the black mass of the Simurg. 
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT5">With a jolt, I realised that it had not been a dream, and I was ashamed at how quickly I had deluded myself into thinking otherwise.
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT6">I kindled a fire and placed the feather on the crackling flames. As it burned, I heard the distant calls of crows in the street. Despite the heat, I shivered.
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT7">My patient and friend Jeremiah Devitt had sacrificed himself. He had accepted the consequences of his friends' actions, and his own as well. 
+</string>
+      <string id="DEVITT_ENDING_TEXT1">Once more, I found myself enshrouded in dense fog. Gradually, the fog dissipated, revealing a busy street in London.
+</string>
       <string id="DEVITT_ENDING_TEXT2">Dizzy and exhausted, I wandered the streets until at last I returned home. </string>
-      <string id="DEVITT_ENDING_TEXT3">I barely recognised it. I crossed the dusty threshold like an intruder.</string>
-      <string id="DEVITT_ENDING_TEXT4">I noticed, for the first time, that I was holding the robe of the Playwright in my hand.</string>
+      <string id="DEVITT_ENDING_TEXT3">I barely recognised it. I crossed the dusty threshold like an intruder.
+</string>
+      <string id="DEVITT_ENDING_TEXT4">I noticed, for the first time, that I was holding the robe of the Playwright in my hand.
+</string>
       <string id="DEVITT_ENDING_TEXT5">I kindled a fire and threw the robe into the flames.</string>
-      <string id="DEVITT_ENDING_TEXT6">As I watched it burn, I remembered the black ocean.</string>
-      <string id="DEVITT_ENDING_TEXT7">I had stood there, on the beach, staring up at the terrifying heights of the vertiginous Mount Qaf, where the Verb is said to lie.</string>
+      <string id="DEVITT_ENDING_TEXT6">As I watched it burn, I remembered the black ocean.
+</string>
+      <string id="DEVITT_ENDING_TEXT7">I had stood there, on the beach, staring up at the terrifying heights of the vertiginous Mount Qaf, where the Verb is said to lie.
+</string>
       <string id="DEVITT_ENDING_TEXT8">Then someone touched my arm: it was Doctor Wakefield. Our encounter on the endless dunes had not been an illusion.</string>
-      <string id="WAKEFIELD_ENDING_TEXT8">He had crossed the Threshold, leaving the Veil through the red curtain of truth, and forever closed the Last Door that had led to those horrors.</string>
+      <string id="WAKEFIELD_ENDING_TEXT8">He had crossed the Threshold, leaving the Veil through the red curtain of truth, and forever closed the Last Door that had led to those horrors.
+</string>
       <string id="WAKEFIELD_ENDING_TEXT9">But I had not found the strength to follow him. I could not take his place.</string>
-      <string id="WAKEFIELD_ENDING_TEXT10">I doubt that I will ever learn the fates of those who remained there, those who are hopelessly trapped in Zha'ilathal.</string>
-      <string id="WAKEFIELD_ENDING_TEXT11">My thoughts now turn increasingly to the last mission to which my friend Kaufmann entrusted me.</string>
-      <string id="WAKEFIELD_ENDING_TEXT12">I must make sure that no one ever learns what we discovered.</string>
-      <string id="DEVITT_ENDING_TEXT9">In his quest to find me, he had ventured into the Veil itself.</string>
+      <string id="WAKEFIELD_ENDING_TEXT10">I doubt that I will ever learn the fates of those who remained there, those who are hopelessly trapped in Zha'ilathal.
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT11">My thoughts now turn increasingly to the last mission to which my friend Kaufmann entrusted me.
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT12">I must make sure that no one ever learns what we discovered.
+</string>
+      <string id="DEVITT_ENDING_TEXT9">In his quest to find me, he had ventured into the Veil itself.
+</string>
       <string id="DEVITT_ENDING_TEXT10">He said nothing, but it was not necessary. He had come to take my place, to sacrifice himself.</string>
-      <string id="DEVITT_ENDING_TEXT11">He stayed behind and closed the Door after giving me the chance to escape. His reasons I will never know.</string>
-      <string id="DEVITT_ENDING_TEXT12">I do not know what happened to Alexandre and the others, but I fear that they are trapped in Zha'ilathal for all time.</string>
-      <string id="DEVITT_ENDING_TEXT13">I stared at the endless rain splattering against the window, and I remembered that I had something else to do.</string>
-      <string id="DEVITT_ENDING_TEXT14">A last promise to keep.</string>
-      <string id="DEVITT_ENDING_TEXT15">“Videte ne quis sciat”.</string>
+      <string id="DEVITT_ENDING_TEXT11">He stayed behind and closed the Door after giving me the chance to escape. His reasons I will never know.
+</string>
+      <string id="DEVITT_ENDING_TEXT12">I do not know what happened to Alexandre and the others, but I fear that they are trapped in Zha'ilathal for all time.
+</string>
+      <string id="DEVITT_ENDING_TEXT13">I stared at the endless rain splattering against the window, and I remembered that I had something else to do.
+</string>
+      <string id="DEVITT_ENDING_TEXT14">A last promise to keep.
+</string>
+      <string id="DEVITT_ENDING_TEXT15">“Videte ne quis sciat”.
+</string>
       <string id="EMPTY_STRING"> </string>
     </bundle>
     <bundle id="ep8_hall">
-      <string id="DECO_PICTURE">A silhouette of a strangely-shaped head.</string>
+      <string id="DECO_PICTURE">A silhouette of a strangely-shaped head.
+</string>
       <string id="DECO_CLOCK">The pendulum's strokes are sickly slow, but they seem to keep time in this place.</string>
       <string id="WINDOW">A diffuse grey light seeps through the glass. Barely any light is entering.</string>
     </bundle>
     <bundle id="ep8_hub1">
       <string id="DLG_PLAYW_1_2">In this place, the ancient shadows created by human reasoning tremble in sheer terror.</string>
-      <string id="DLG_PLAYW_THEATRE_1">These ruins, built by beings long forgotten, grant access to the Last Threshold. You are welcome to enter the ruins, but you will need to find your own key in order to reach the Threshold.</string>
-      <string id="DLG_PLAYW_THEATRE_2">That which you seek... it waits beyond the Threshold.</string>
+      <string id="DLG_PLAYW_THEATRE_1">These ruins, built by beings long forgotten, grant access to the Last Threshold. You are welcome to enter the ruins, but you will need to find your own key in order to reach the Threshold.
+</string>
+      <string id="DLG_PLAYW_THEATRE_2">That which you seek... it waits beyond the Threshold.
+</string>
       <string id="DLG_PLAYW_THEATRE_3">Darkness will light your way.</string>
       <string id="DLG_PLAYW_1_8"> </string>
       <string id="DLG_PLAYW_1_9">Its name is Zha'ilathal, the last curtain.</string>
@@ -3630,7 +3770,8 @@ Will carry its purge.</string>
       <string id="START_BT_NEWGAME">New Game</string>
       <string id="START_BT_CONTINUE">Continue</string>
       <string id="STARTOPS_HEADPHONES">Headphones and dark environment recommended</string>
-      <string id="STARTOPS_ACCESSIBILITY">Accessibility options</string>
+      <string id="STARTOPS_ACCESSIBILITY">Accessibility options
+</string>
       <string id="STARTOPS_WHILEPLAYING">While playing:</string>
       <string id="STARTOPS_DYSLEXIA">Press '1': Enable/disable dyslexia-friendly font.</string>
       <string id="STARTOPS_CC">Press '2': Enable/disable sound descriptions [cc].</string>
@@ -3660,9 +3801,11 @@ Will carry its purge.</string>
       <string id="BETA_TEXT_1">We left the black waves of that sea behind and walked through the mist. Devitt answered my many questions with a grave silence.</string>
       <string id="BETA_TEXT_2">Then, finally, he stopped and spoke for the first time.</string>
       <string id="BETA_TEXT_3">“We are close to the Threshold now.”</string>
-      <string id="BETA_TEXT_4">“You will need to find a key of your own, Doctor. I will be waiting on the other side.”</string>
+      <string id="BETA_TEXT_4">“You will need to find a key of your own, Doctor. I will be waiting on the other side.”
+</string>
       <string id="BETA_TEXT_5">“Darkness will light the way.”</string>
-      <string id="BETA_TEXT_6">He did not wait for my answer. He just turned around and disappeared into the mist. I kept walking and, finally, reached this place.</string>
+      <string id="BETA_TEXT_6">He did not wait for my answer. He just turned around and disappeared into the mist. I kept walking and, finally, reached this place.
+</string>
       <string id="BETATEXT_GREETINGS">Welcome to TLD Episode 8: Beyond the Curtain beta! Etc</string>
       <string id="INTRO_TEXT_1">We left the black waves of that sea behind and walked through the mist.</string>
       <string id="INTRO_TEXT_2">At times, gusts of wind parted the mist, revealing a barren landscape under a dying sun.</string>
@@ -3671,7 +3814,8 @@ Will carry its purge.</string>
       <string id="INTRO_TEXT_5">The passage of time lost its meaning. I had traversed that world all my life. All the world's life. Our journey was eternity.</string>
       <string id="INTRO_TEXT_6">Then, the man at my side - whom I had followed so long - stopped. He spoke for the first time.</string>
       <string id="INTRO_TEXT_7">“We are nearing the Threshold.”</string>
-      <string id="INTRO_TEXT_8">“It is the starting point, Doctor. The first place to look. I will be waiting on the other side.”</string>
+      <string id="INTRO_TEXT_8">“It is the starting point, Doctor. The first place to look. I will be waiting on the other side.”
+</string>
       <string id="INTRO_TEXT_9">“Remember this: I will not be here forever. Darkness will light your way. But then, you will be alone.”</string>
       <string id="INTRO_TEXT_10">I opened my mouth to reply but he had already turned and disappeared into the mist. I stood and stared after him, and then I kept walking. I did not know what else to do.</string>
       <string id="START_WAIT">Please wait...</string>
@@ -3725,9 +3869,11 @@ Juan Miguel López</string>
       <string id="FT_PIANO_FA">That would be 'Fa'.</string>
       <string id="FT_PIANO_SOL">That would be 'Sol'.</string>
       <string id="FT_PIANO_LA">That would be 'La'.</string>
-      <string id="FT_PIANO_SI">That would be 'Ti'.</string>
+      <string id="FT_PIANO_SI">That would be 'Ti'.
+</string>
       <string id="FT_PIANO_SOL_SHARP">That would be 'Sol#'.</string>
-      <string id="FT_PIANO_SI_SHARP">That would be 'Ti#'.</string>
+      <string id="FT_PIANO_SI_SHARP">That would be 'Ti#'.
+</string>
       <string id="FT_PIANO_LA_SHARP">That would be 'La#'.</string>
       <string id="FT_PIANO_DO_SHARP">That would be 'Do#'.</string>
       <string id="FT_PIANO_RE_SHARP">That would be 'Re#'.</string>
@@ -3735,21 +3881,27 @@ Juan Miguel López</string>
       <string id="FT_PIANO_FA_SHARP">That would be 'Fa#'.</string>
       <string id="MUSICSHEET_CONTENT">There is something strange about this music sheet...
 The melody goes 'Fa, Fa, Fa, Fa, Sol, La, Ti, Do, Do, Do'.</string>
-      <string id="MONKEY_ISLAND_SECRET">Look behind you! A three-headed monkey!</string>
-      <string id="INDIANA_JONES_SECRET">Hi! I sell these fine leather jackets.</string>
+      <string id="MONKEY_ISLAND_SECRET">Look behind you! A three-headed monkey!
+</string>
+      <string id="INDIANA_JONES_SECRET">Hi! I sell these fine leather jackets.
+</string>
     </bundle>
     <bundle id="ep8_school">
       <string id="DECO_WINDOWS">Dazzling light shines through the window.</string>
       <string id="DECO_TREE">The shadow of a child is sitting in the corner, shaking in terror.</string>
       <string id="SHADOW_INSPECT_1">The shadow of a child is sitting in the corner, shaking in terror.</string>
-      <string id="SHADOW_INSPECT_2">As if peering through a keyhole, I can see things moving in the darkness...</string>
-      <string id="DECO_BLACKBOARD">The shape of an eye is painted on the blackboard.</string>
+      <string id="SHADOW_INSPECT_2">As if peering through a keyhole, I can see things moving in the darkness...
+</string>
+      <string id="DECO_BLACKBOARD">The shape of an eye is painted on the blackboard.
+</string>
     </bundle>
     <bundle id="ep8_schoolBackyard">
-      <string id="DECO_WINDOWS">A dazzling light coming through the window.</string>
+      <string id="DECO_WINDOWS">A dazzling light coming through the window.
+</string>
       <string id="DECO_TREE">DECO_TREE</string>
       <string id="SHADOW_INSPECT_1">The shadow of a child is sitting in the corner, shaking in terror.</string>
-      <string id="SHADOW_INSPECT_2">As if peering through a keyhole, I can see things moving in the darkness...</string>
+      <string id="SHADOW_INSPECT_2">As if peering through a keyhole, I can see things moving in the darkness...
+</string>
       <string id="DECO_STATUE">Underneath the statue's hood, there is an empty hole where a face should be. I remember seeing statues like this in Professor Wright's garden.</string>
       <string id="DECO_SIGN">Shadows linger in Zha'ilathal
 like insects trapped in a cobweb. 
@@ -3787,9 +3939,12 @@ ultimate madness would take inhuman form.</string>
     </bundle>
     <bundle id="ep8_startoptions">
       <string id="PREVIOUSLY_TITLE">Previously on The Last Door...</string>
-      <string id="PREVIOUSLY_1">After Kaufmann's sudden death, Dr Wakefield travels to the island of Eilís Mór to search for the ancient Cronemeadan, a supposed path to the Other Side.</string>
-      <string id="PREVIOUSLY_2">He discovers the island inhabitants hide a terrible secret: they instill primordial terror in ritual subjects for them to cross the Door and come back as hideous abominations.</string>
-      <string id="PREVIOUSLY_3">Wakefield is himself subjected to this ritual and transported to an endless land of fog, where he finally seems to meet his missing patient Devitt...</string>
+      <string id="PREVIOUSLY_1">
+After Kaufmann's sudden death, Dr Wakefield travels to the island of Eilís Mór to search for the ancient Cronemeadan, a supposed path to the Other Side.</string>
+      <string id="PREVIOUSLY_2">
+He discovers the island inhabitants hide a terrible secret: they instill primordial terror in ritual subjects for them to cross the Door and come back as hideous abominations.</string>
+      <string id="PREVIOUSLY_3">
+Wakefield is himself subjected to this ritual and transported to an endless land of fog, where he finally seems to meet his missing patient Devitt...</string>
     </bundle>
     <bundle id="ep8_temple">
       <string id="FEATHER_INSPECT">An enormous black feather.</string>
@@ -3801,7 +3956,8 @@ ultimate madness would take inhuman form.</string>
     </bundle>
     <bundle id="ep8_theatre">
       <string id="THEATRE_INSPECT">A man is standing next to the open curtain.</string>
-      <string id="THEATRE_FIRST_TIME">The man at the entrance said that these ruins contained the access to the Threshold, but I see nothing. Devitt said, “It is the starting point, the first place to look. Darkness will light your way.” What did he mean?</string>
+      <string id="THEATRE_FIRST_TIME">The man at the entrance said that these ruins contained the access to the Threshold, but I see nothing. Devitt said, “It is the starting point, the first place to look. Darkness will light your way.” What did he mean?
+</string>
       <string id="THEATRE_INSPECT_RUINS">I see nothing but ruins. What was it that Devitt said? “Darkness will light your way.”</string>
       <string id="POSTER_INSPECT">It looks like a poster for a theatrical show. But it has neither a title nor a date.</string>
       <string id="POSTER_REACT">Perhaps it will prove useful.</string>
@@ -3891,7 +4047,8 @@ ultimate madness would take inhuman form.</string>
       <string id="ACH_DESC_03">完成第一章</string>
       <string id="ACH_DESC_04">获悉失踪在悬崖的人是谁</string>
       <string id="ACH_DESC_05">探索潜意识的深处</string>
-      <string id="ACH_DESC_06">完成第二章</string>
+      <string id="ACH_DESC_06">完成第二章
+</string>
       <string id="ACH_DESC_07">承认你的信任</string>
       <string id="ACH_DESC_08">找到所有燃烧的雕像</string>
       <string id="ACH_DESC_09">完成第三章</string>
