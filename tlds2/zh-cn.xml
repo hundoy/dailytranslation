@@ -461,10 +461,10 @@
       <string id="DLG_HALL_03">我们从皇室那边拿的补贴一年比一年少。起初医生们一个个离开了，然后护工们也走了，现在留下的没几个人了。但是我们有责任去照顾那些可怜的病人，您说不是吗？我们必须照看他们，他们又不能出去和正常人生活在一起。因此我们必须得保护好我们自己……当然也得保护好病人们。</string>
       <string id="DLG_HALL_04">我在寻找一个几年前住在这里的男人，他的名字是亚历山大·杜普雷。您曾经见过他吗？</string>
       <string id="DLG_HALL_05">亚历山大·杜普雷……是啊，是有过这么一个外国名字的人。我想起来了，如果没记错的话，他是一个很好、很有教养的人。但是他有些怪怪的，我觉得他甚至吓到其他病人了。抱歉我只能想起来这些了……毕竟这儿的病人太多了……又不能每个人都记着。</string>
-      <string id="DLG_HALL_06">您在这儿里工作很久了吗？</string>
+      <string id="DLG_HALL_06">您在这里工作很久了吗？</string>
       <string id="DLG_HALL_07">是的，很久了，久得我都不记得到底多少年了。在这里，时间总是过得很慢，这里毕竟与世隔绝……院里规定不许我们出去，我都不知道外面的世界发生什么了。毕竟我们有着我们的职责，您说对吗？不然谁来照顾病人呢？</string>
       <string id="DLG_HALL_08">我可以用一下这里的档案室吗？那里应该有我要找的杜普雷先生的信息。</string>
-      <string id="DLG_HALL_09">抱歉，医生，档案室是私密的地方。没有正式的批准，任何人不能进去。我们的许多病人都来自很不错的家庭，您懂的，我们得小心翼翼地尊重他们的隐私。但是也别沮丧，其实您也在里面找不到什么的。毕竟那里已经好久没有整理过了。</string>
+      <string id="DLG_HALL_09">抱歉，医生，档案室是私密的地方。没有正式的批准，任何人不能进去。我们的许多病人都来自很不错的家庭，您懂的，我们得小心翼翼地尊重他们的隐私。但是也别沮丧，其实您在里面找不到什么的，毕竟那里已经好久没有整理过了。</string>
       <string id="DLG_HALL_10">哎呀，谢谢您！您可真体贴。 </string>
       <string id="DLG_HALL_11">我的天啊……外面的世界变化得这么快……</string>
       <string id="DLG_HALL_12">我们的工作需要有各种各样的纪律，威克菲尔德医生，我相信您会理解。虽然这件工作很有价值、有意义，但是……哦，我真希望能有些事情做，打发打发时间，减轻一下这种负担!</string>
@@ -505,7 +505,7 @@
       <string id="INV_MEDAL">奖章</string>
       <string id="INV_MEDAL_DESC">一枚陈旧的军队奖章。刻着文字“以此表彰战场上卓绝之举”。另外还有写着“维多利亚女王皇后”的浮雕。还有一些金属片刻着战役的名字：朗峡战役、因戈戈战役、马尤巴山战役。</string>
       <string id="INV_PHOTO">照片</string>
-      <string id="INV_PHOTO_DESC">一张波尔战役期间的合影,其中可以看到科恩希尔中士和斯基德上尉。</string>
+      <string id="INV_PHOTO_DESC">一张波尔战役期间的合影,其中可以看到康吉尔中士和斯基德上尉。</string>
       <string id="INV_WEDGEWOOD">一块金属</string>
       <string id="INV_WEDGEWOOD_DESC">镍币上的一部分，用来使窗户保持开启。</string>
       <string id="INV_PICTURES_DESC">画着各种东西的水彩画：树、插花的花瓶，还有一些肖像画……但是画的颜色分崩离析，线条支离破碎，一切仿佛混杂降解在螺旋的亮色斑点之中。</string>
@@ -854,29 +854,29 @@ what little honor you once had.</string>
       <string id="CAPTAIN_TEXT_03_01">I could not bear it any more, so I ran. I ran and I hid from them.</string>
     </bundle>
     <bundle id="ep5_recreationWard">
-      <string id="FIRST_TIME_IN_RECREATION_WARD">This must be the recreational wing, where patients relax and pass the time. Perhaps here I can find someone who met Alexandre Du Pré while he was institutionalized?</string>
-      <string id="PAINTING_1">A sunny beach lapped by the waves of a gentle sea.</string>
-      <string id="PAINTING_2">A cheerful pastoral scene.</string>
-      <string id="PAINTING_3">The warm decoration of this room suggests a great deal of sensitivity to the patients' moral needs.</string>
-      <string id="SHADE">It is odd that only this window is shuttered. The curtain casts a mottled shadow over this corner of the room.</string>
-      <string id="PAINTING_4">A variety of old-fashioned landscapes that portray nature as tame and welcoming.</string>
-      <string id="FLOATING_TEXT_GUARDIAN">Excuse me, sir. That area is off limits.</string>
-      <string id="DLG_MIRRORGUARDIAN_00">Good morning. I am a psychiatrist - Dr. Wakefield. Quite an impressive institution you have here. Can I ask for your assistance? I am looking for a former patient of this institution. His name is Du Pré.</string>
-      <string id="DLG_MIRRORGUARDIAN_01">I am sorry, sir. I have never heard that name before.</string>
-      <string id="DLG_MIRRORGUARDIAN_02">Sergeant Conghill assured me that Du Pré was institutionalized here.</string>
-      <string id="DLG_MIRRORGUARDIAN_03">Doctor, you should know better than to believe everything you hear from these lunatics.</string>
-      <string id="DLG_MIRRORGUARDIAN_04">Well thank you, in any case. I will leave you to work in peace.</string>
-      <string id="STARINGPATIENT_PRE_INSPECT">She doesn't seem to have noticed me.</string>
-      <string id="DLG_00_01">Good morning, Madam. Kindly excuse my intrusion, but I am looking for a former patient of this institution.</string>
-      <string id="INSPECT_STARINGPATIENT_NO_RESPONSE">She does not seem to have noticed me.</string>
-      <string comment="Question 1" id="DLG_01_01">Madam? If I may persist – have you been living here for long?</string>
-      <string comment="Answer 1" id="DLG_01_02">...the rumbling...</string>
-      <string id="DLG_02_01">Miss Konhe is very upset. Please, do not distress her further.</string>
-      <string id="STARINGPATIENT_ALEXANDRE">What a strong reaction upon hearing Mr. Du Pré's name... She must have at least met him. How can I get her to talk to me?</string>
-      <string id="INT_PATIENT_BEINGCALM">The caretaker is trying to calm her down.</string>
-      <string id="PATIENT_DRAGGED_TEXT">It is the isolation ward for you this time, Madam! Off we go!</string>
-      <string id="PATIENT_DRAGGED_TEXT2">The face of the Playwright! 
-The face of the Playwright!</string>
+      <string id="FIRST_TIME_IN_RECREATION_WARD">这里一定就是休息室，病人们在这里放松、打发时间。或许在这里，我能找到亚历山大·杜普雷住院期间认识他的人。</string>
+      <string id="PAINTING_1">阳光海岸围绕在柔和的海浪旁边。</string>
+      <string id="PAINTING_2">安心和煦的田园风光。</string>
+      <string id="PAINTING_3">房间里柔和温暖的装饰，充分地照顾了病人们敏感的心理。</string>
+      <string id="SHADE">奇怪，只有这扇窗是紧闭的，光透过窗帘在房间的角落形成了斑驳的阴影。</string>
+      <string id="PAINTING_4">各种过去很流行的那种风景画，极言大自然的和平与美好。</string>
+      <string id="FLOATING_TEXT_GUARDIAN">抱歉先生，那个地方禁止进入。</string>
+      <string id="DLG_MIRRORGUARDIAN_00">早上好，我是心理医生威克菲尔德。这里真是一个令人印象深刻的地方。我想求您帮个忙，我正在寻找一个之前住在这里的病人，他的名字叫杜普雷。</string>
+      <string id="DLG_MIRRORGUARDIAN_01">抱歉先生，我从来没听过那个名字。</string>
+      <string id="DLG_MIRRORGUARDIAN_02">康吉尔中士跟我说他确信杜普雷曾经也住在这里。</string>
+      <string id="DLG_MIRRORGUARDIAN_03">医生，你应该晓得，与其相信那些疯子们说的话，不如信点儿别的。</string>
+      <string id="DLG_MIRRORGUARDIAN_04">好吧，无论怎样，谢谢您。我不打扰您了。</string>
+      <string id="STARINGPATIENT_PRE_INSPECT">她似乎还没注意到我。</string>
+      <string id="DLG_00_01">早上好，女士。原谅我的唐突，我在找一位以前住在这里的病人。</string>
+      <string id="INSPECT_STARINGPATIENT_NO_RESPONSE">她似乎还没注意到我。</string>
+      <string comment="Question 1" id="DLG_01_01">女士？如果我坚持问……您住在这里很久了吗？</string>
+      <string comment="Answer 1" id="DLG_01_02">……轰隆隆……</string>
+      <string id="DLG_02_01">空荷太太非常不安，请别再刺激她了。</string>
+      <string id="STARINGPATIENT_ALEXANDRE">听到杜普雷先生的名字后反应如此剧烈……她一定至少见过他，我怎样才能让她告诉我呢？</string>
+      <string id="INT_PATIENT_BEINGCALM">护工试着让她冷静下来。</string>
+      <string id="PATIENT_DRAGGED_TEXT">女士，你这次该去收容所了！我们走！</string>
+      <string id="PATIENT_DRAGGED_TEXT2">剧作家的脸！
+剧作家的脸！</string>
       <string id="SOLDIER_INSPECT">A man wearing a worn-out military uniform, lost in God knows what thoughts.</string>
       <string id="DLG_SOLDIER_00">Excuse me, sir, I could not help but notice your uniform. Were you in the army?</string>
       <string id="DLG_SOLDIER_01">Leave me alone. You do not want to talk to a coward such as myself.</string>
