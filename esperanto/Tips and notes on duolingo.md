@@ -1,7 +1,7 @@
 来自：http://www.duolingo.cn/
 
-[TOC]
-#People    
+
+#People
 ##带-u的关联词
 -u词跟特定的人或东西有关：
 |Esperanto |English|
@@ -23,7 +23,6 @@
 |nenies |no one's|
 
 #Verbs: -ig/-i?
-Tips and notes
 ##-ig 和 -i?
 -ig和-i?词缀表示状态的变化，-ig意味着引起变化，-i?意味着经历变化，或者从一种状态变成另一种：
 |Esperanto |English |

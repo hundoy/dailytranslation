@@ -764,70 +764,70 @@ Dane Tippman</string>
       <string id="DEAFMUTE_SEES_PHOTO">男人的眼睛变亮了，他认识斯基德？</string>
     </bundle>
     <bundle id="ep5_opiumDenNightmare">
-      <string id="DLG_ANIMALHEAD_00">I cannot do this
-any more.</string>
-      <string id="DLG_ANIMALHEAD_02">You know it is too hard.
-I don't feel free.</string>
-      <string id="DLG_ANIMALHEAD_03">I know, dear. I know.
-We will figure it out.</string>
-      <string id="DLG_ANIMALHEAD_01">I don't care, I just want 
-us to be together.</string>
-      <string id="DLG_ANIMALHEAD_04">How… how are you
-home so early?</string>
-      <string id="DLG_ANIMALHEAD_05">I knew all along.</string>
-      <string id="DLG_ANIMALHEAD_06">How could you?</string>
-      <string id="DLG_ANIMALHEAD_07">You know you never 
-loved each other.</string>
-      <string id="DLG_ANIMALHEAD_08">Silence! You have
-no honor.</string>
+      <string id="DLG_ANIMALHEAD_00">我不能再
+这么做了。</string>
+      <string id="DLG_ANIMALHEAD_02">你知道那太难了，
+我感觉不到自由。</string>
+      <string id="DLG_ANIMALHEAD_03">我知道的，亲爱的，我知道。
+我们会搞定它的。</string>
+      <string id="DLG_ANIMALHEAD_01">我不在乎，
+我只想我们在一起。</string>
+      <string id="DLG_ANIMALHEAD_04">你……你怎么……
+这么早就回来了？</string>
+      <string id="DLG_ANIMALHEAD_05">我早就知道了。</string>
+      <string id="DLG_ANIMALHEAD_06">你怎么能……</string>
+      <string id="DLG_ANIMALHEAD_07">你们明明清楚
+你们不爱彼此</string>
+      <string id="DLG_ANIMALHEAD_08">住口！
+你真没良心！</string>
       <string id="DLG_ANIMALHEAD_09">And you, what do
 you have to say?</string>
-      <string id="DLG_ANIMALHEAD_10">Why? I've given you
-everything.</string>
-      <string id="DLG_ANIMALHEAD_11">You wouldn't 
-understand. I…</string>
-      <string id="DLG_ANIMALHEAD_12">Enough. You will leave 
-in the morning.</string>
-      <string id="DLG_ANIMALHEAD_13">I won't see you
-ever again.</string>
-      <string id="DLG_ANIMALHEAD_14">I'll wait for you at dawn,
-under the old windmill.</string>
+      <string id="DLG_ANIMALHEAD_10">为什么？！
+我明明给了你一切。</string>
+      <string id="DLG_ANIMALHEAD_11">你根本不懂，
+我只是……</string>
+      <string id="DLG_ANIMALHEAD_12">够了！
+你早上就滚！</string>
+      <string id="DLG_ANIMALHEAD_13">我不想
+再看到你。</string>
+      <string id="DLG_ANIMALHEAD_14">破晓时分，我会等着你，
+就在那古旧的风车之下。</string>
       <string id="DLG_ANIMALHEAD_15">So you can try to recover
 what little honor you once had.</string>
-      <string id="DLG_ANIMALHEAD_16">I'll be there.</string>
+      <string id="DLG_ANIMALHEAD_16">我会去的。</string>
     </bundle>
     <bundle id="ep5_privateRoom">
-      <string id="DLG_15_00">What's the matter?</string>
-      <string id="DLG_15_02">Who let you in? Get out!</string>
-      <string id="DLG_15_03">My name is Wakefield. I need to talk to you.</string>
-      <string id="DLG_15_04_00">Are you Captain Skidd?</string>
-      <string id="DLG_15_04_01">One of your soldiers told me about you.</string>
-      <string id="DLG_15_05">Are you Captain Skidd, Her Majesty's 6th Light Infantry?</string>
-      <string id="DLG_15_06">That title belongs to me no more. Who are you? And what do you want from me? Leave me alone with my misery.</string>
-      <string id="DLG_15_04_02">I'm looking for information about Alexandre Du Pré.</string>
-      <string id="DLG_15_07">A soldier that used to serve under your command told me I might find you here. William Conghill.</string>
-      <string id="DLG_15_08">Yes, I remember him. We served together… I have made many mistakes trying to forget those years of my life. Now, I am afraid those memories will follow me to my grave.</string>
-      <string id="DLG_15_09">I'm looking for information about a man called Alexandre Du Pré.</string>
-      <string id="DLG_15_10">I used to know a Du Pré. He was not a man but a fiend. What do you want with someone like him? There are certain secrets that are better left undisturbed.</string>
-      <string id="DLG_15_04_04">Have you ever heard the name "Jeremiah Devitt"?</string>
-      <string id="DLG_15_04_03">Someone has disappeared.</string>
-      <string id="DLG_15_22">A patient of mine has disappeared. Alexandre is the only one that may know his whereabouts.</string>
-      <string id="DLG_15_23">Have you ever heard the name "Jeremiah Devitt"? I must find him.</string>
-      <string id="DLG_15_24">If it is true that Du Pré is involved in your patient's disappearance, then I am afraid the matter is out of my reach. Yours too. Now, please leave me alone.</string>
-      <string id="DLG_15_25">Devitt… No, I have not.</string>
-      <string id="DLG_15_31">I found your medal. It was in a house on Paul Street, door 26. You were there, right?</string>
-      <string id="DLG_15_32">You think you know what you are doing, but you cannot imagine what you are getting into. I am asking you for the last time: leave and forget this matter.</string>
-      <string id="DLG_15_33">I will not leave until I find the answers I am seeking. Tell me what I want to know.</string>
-      <string id="DLG_15_34">You fool…</string>
-      <string id="DLG_15_35">…That's… Ah, for the Devil's sake! Alright, if you want to ruin your life you are free to do it!</string>
-      <string id="DLG_15_35_04">What do you mean "activities"?</string>
-      <string id="DLG_15_35_03">Tell me about 26 Paul Street.</string>
-      <string id="DLG_15_35_02">Do you know why he was interested in your story?</string>
-      <string id="DLG_15_35_01">How did you meet Mr. Du Pré?</string>
-      <string id="DLG_15_35_00">What really happened on Majuba Hill?</string>
-      <string id="DLG_15_37">What really happened on Majuba Hill? Sergeant Conghill told me the story, but his details were... confusing.</string>
-      <string id="DLG_15_38">I will never be able to forget that day. Nobody knew what really happened. Command decided that we must have been ambushed. Now I know better. There was something in that fog. Something that did not like us entering its domain. A... sentinel of some sort. That thing is what killed my soldiers.</string>
-      <string id="DLG_15_39">How did you meet Alexandre Du Pré?</string>
+      <string id="DLG_15_00">怎么了？</string>
+      <string id="DLG_15_02">谁让你进来的？出去！</string>
+      <string id="DLG_15_03">我的名字是威克菲尔德，我需要和您谈谈。</string>
+      <string id="DLG_15_04_00">您是斯基德上尉吗？</string>
+      <string id="DLG_15_04_01">您的一个士兵告诉了我关于您的事。</string>
+      <string id="DLG_15_05">您是第六轻步兵团的斯基德上尉吗？</string>
+      <string id="DLG_15_06">那个头衔不再属于我。你是什么人？你想从我这里得到什么？留我自己一个人在这里痛苦就好。</string>
+      <string id="DLG_15_04_02">我在打听亚历山大·杜普雷的事情。</string>
+      <string id="DLG_15_07">一个过去在您手下的士兵告诉我说，你可能在这里。他是威廉姆·康吉尔。</string>
+      <string id="DLG_15_08">是的，我记得他。我们一起当兵……我这些年做了这么多的傻事，就是 为了把那段日子从我的生命中丢弃，但是现在看来，恐怕我得把这些回忆带到坟墓里了。</string>
+      <string id="DLG_15_09">我在打听一个叫亚历山大·杜普雷的男人的消息。</string>
+      <string id="DLG_15_10">我以前认识一个叫杜普雷的。他不是人，是恶魔。你找像他那样的人干什么？有些秘密还是不知道更好。</string>
+      <string id="DLG_15_04_04">您听过“杰瑞米·大卫”这个名字吗？</string>
+      <string id="DLG_15_04_03">某个人失踪了。</string>
+      <string id="DLG_15_22">我的一个病人失踪了，亚历山大是唯一可能知道他下落的人。</string>
+      <string id="DLG_15_23">您听过“杰瑞米·大卫”这个名字吗？我必须找到他。</string>
+      <string id="DLG_15_24">如果亚历山大真的和你病人的失踪有关，那么恐怕我无能为力了，你也是。现在，别烦我了。</string>
+      <string id="DLG_15_25">大卫……不，没听过。</string>
+      <string id="DLG_15_31">我在保罗街26号找到了您的奖章，您以前也在那里，对吗？</string>
+      <string id="DLG_15_32">你觉得你知道自己在做什么，但你想象不到你最后会卷入什么。我再警告你最后一次：赶紧走人，忘了一切。</string>
+      <string id="DLG_15_33">弄清一切之前我是不会走的，告诉我吧。</string>
+      <string id="DLG_15_34">你这蠢货……</string>
+      <string id="DLG_15_35">……那是……啊，真是着了魔！好吧，如果你想毁了自己的人生，那就随便吧！</string>
+      <string id="DLG_15_35_04">您说的“活动”是指什么？</string>
+      <string id="DLG_15_35_03">跟我说说保罗街26号的事。</string>
+      <string id="DLG_15_35_02">您知道他对您的故事感兴趣的原因吗？</string>
+      <string id="DLG_15_35_01">您是怎样见到杜普雷先生的？</string>
+      <string id="DLG_15_35_00">当时在马尤巴山究竟发生了什么？</string>
+      <string id="DLG_15_37">马尤巴山当时究竟发生了什么？康吉尔中士跟我说过经过，但是故事的细节很……让人不解。</string>
+      <string id="DLG_15_38">我永远无法忘记那一天。没人知道到底发生了什么。上面认为一定是中了埋伏，但我现在懂了，其实是雾里有什么东西。那个东西不想让我们进入它的领域，它是一个哨兵，是它杀了我的士兵们。</string>
+      <string id="DLG_15_39">您是怎样见到亚历山大·杜普雷的？</string>
       <string id="DLG_15_40">I was in the veterans' hospital recovering from an illness unknown to the physicians. An ailment of the soul. Du Pré managed to contact me there. He wanted to know my version of the story, what had happened to me in the Battle of Majuba Hill.</string>
       <string id="DLG_15_43">Do you know why was he so interested in your story?</string>
       <string id="DLG_15_44">I did not know immediately, but with time, I realised. The truth about what happened to me was important to his activities, as was I myself. But if you think he tricked me, you could not be more wrong. I wanted to enter the dragon's mouth. I burned with a need to know.</string>
@@ -872,102 +872,102 @@ what little honor you once had.</string>
       <string comment="Question 1" id="DLG_01_01">女士？如果我坚持问……您住在这里很久了吗？</string>
       <string comment="Answer 1" id="DLG_01_02">……轰隆隆……</string>
       <string id="DLG_02_01">空荷太太非常不安，请别再刺激她了。</string>
-      <string id="STARINGPATIENT_ALEXANDRE">听到杜普雷先生的名字后反应如此剧烈……她一定至少见过他，我怎样才能让她告诉我呢？</string>
+      <string id="STARINGPATIENT_ALEXANDRE">听到杜普雷先生的名字后反应如此剧烈……至少，她一定见过他，我怎样才能让她告诉我呢？</string>
       <string id="INT_PATIENT_BEINGCALM">护工试着让她冷静下来。</string>
       <string id="PATIENT_DRAGGED_TEXT">女士，你这次该去收容所了！我们走！</string>
       <string id="PATIENT_DRAGGED_TEXT2">剧作家的脸！
 剧作家的脸！</string>
-      <string id="SOLDIER_INSPECT">A man wearing a worn-out military uniform, lost in God knows what thoughts.</string>
-      <string id="DLG_SOLDIER_00">Excuse me, sir, I could not help but notice your uniform. Were you in the army?</string>
-      <string id="DLG_SOLDIER_01">Leave me alone. You do not want to talk to a coward such as myself.</string>
-      <string id="DLG_SOLDIER_02">Sir?</string>
-      <string id="DLG_SOLDIER_03">Leave me alone. I am just a coward.</string>
-      <string id="DLG_SOLDIER_04">This medal… I had one just like this, got it after the battles of Laing's Nek and Majuba Hill in… 1881. A decade ago now. 'For distinguished conduct in the field' it said. What a farce.</string>
-      <string id="DLG_SOLDIER_05">So you were in the army, as I thought? Allow me to introduce myself. I am Dr. Wakefield.</string>
-      <string id="DLG_SOLDIER_06">Sergeant William Conghill, Her Majesty's 6th Light Infantry. Are you another one of those alienists? Do you doctors not realize that cowardice cannot be cured by your arts?</string>
-      <string id="DLG_SOLDIER_07">Why are they keeping you here?</string>
-      <string id="DLG_SOLDIER_08">The doctors say I suffer from a "nervous disorder". I believe this is a term for when they themselves, with all their learning, do not know what to say. But I know the true name of my sickness. It is pure cowardice.</string>
-      <string id="DLG_SOLDIER_09">I am looking for a former patient of this hospital. You may have met him? His name is Alexandre Du Pré.</string>
-      <string id="DLG_SOLDIER_10">Yes, I did know a man by that name. We met briefly; he was here when I arrived.</string>
-      <string id="DLG_SOLDIER_11">What do you know about him?</string>
-      <string id="DLG_SOLDIER_12">He was a proper lad, educated. He listened closely to the stories of the other inmates but he kept his own to himself. We talked a lot. He was very close to Miss Konhe too. I think they got here at the same time. But when he left, he did so alone. I wonder what has become of him since.</string>
-      <string id="DLG_SOLDIER_13">Who is this Miss Konhe?</string>
-      <string id="DLG_SOLDIER_14">She is a patient here - the lady with a tempestuous character - you may have encountered her already. She has not been the same since Mr. Du Pré left, you know. She always sits to the side, alone and silent. I doubt you could talk to her at all, even if you tried. She... sees things, or at least she thinks she does.</string>
-      <string id="DLG_SOLDIER_15">What did you talk about, you and Mr. Du Pré?</string>
-      <string id="DLG_SOLDIER_16">We talked about my time in the south of Africa. I don't like to talk about that, but he somehow made me want to. He was persuasive.</string>
-      <string id="DLG_SOLDIER_17">He was very interested in one specific story, almost obsessive about it. He wanted to know every little detail.</string>
-      <string id="DLG_SOLDIER_18">Could you tell me that story? I'm trying to find a patient of mine who has gone missing, and this could be my only hope of finding him.</string>
-      <string id="DLG_SOLDIER_19">I don't like to relive those memories... A missing patient, you say? I... Alright. Maybe my story will be of some use then. It happened during the battle of Majuba Hill - I am sure you have heard of it - in March of '81.</string>
-      <string id="DLG_SOLDIER_20">The attack of the Boer army had taken us by surprise, and our regiment was forced to split up. We quickly found ourselves alone, just a few men lost on the barren plain… But I don't want to bore you.</string>
-      <string id="DLG_SOLDIER_21">No, sir, you certainly aren't. Please continue.</string>
-      <string id="DLG_SOLDIER_22">What had happened?</string>
-      <string id="DLG_SOLDIER_23">I never knew for certain. I didn't see anything… or if I did, my mind refused to bear such memories.</string>
-      <string id="DLG_SOLDIER_24">What happened to Captain Skidd?</string>
-      <string id="DLG_SOLDIER_25">When he finally regained consciousness… It was like someone else looked out at us through his eyes. I guess whatever happened affected him, changed him. I know he came back to London. Mr. Du Pré asked me of his whereabouts. Maybe he tried to contact him, to hear the rest of the story. He was quite preoccupied by it.</string>
-      <string id="DLG_SOLDIER_26">Hmmm. Do you know where I can find Captain Skidd?</string>
-      <string id="DLG_SOLDIER_27">The last I heard from fellow veterans, he had lost himself to a frenzy of alcohol, opium, and bad company. This downward spiral led him, as many others, to a wretched nadir: a dirty hole, deep in St. Giles Rookery, known as The Crimson Nest. Mayhap you will find him there. Alive even, if you are lucky.</string>
-      <string id="DLG_SOLDIER_28">Here, this is a picture of our regiment. You can see him there.</string>
-      <string id="DLG_SOLDIER_29">Sergeant Conghill?</string>
-      <string id="DLG_SOLDIER_30">Please leave me be. Memories of war are painful. I don't want to remember them ever again.</string>
-      <string id="DLG_07_44_00">Why are they keeping you here?</string>
-      <string id="DLG_07_44_01">What do you know about him?</string>
-      <string id="DLG_07_44_02">Who is this Miss Konhe?</string>
-      <string id="DLG_07_44_03">What did you talk about, Mr. Du Pré and you?</string>
-      <string comment="Choice 1" id="DLG_17_08_00">Maybe I could ask one of your senior colleagues?</string>
-      <string comment="Choice 2" id="DLG_17_08_01">There are not many patients for an asylum of this size.</string>
-      <string id="DLG_17_08_02">What is the matter with this patient?</string>
-      <string id="DLG_17_08_03">I'll leave you with your work.</string>
-      <string id="DLG_17_15">Well, apart from those in the isolation ward, it is true that there are not many patients at present, but there are even fewer of us caretakers now. We are only three for the whole hospital. For what I've been told, in the old times the income was enough to provide for everything we needed: a complete staff, proper accommodation for the patients, and the best doctors. But as the newer, bigger regional asylums were built, the Crown's support was gradually withdrawn from East Hill. Soon, everyone started leaving. And this is what remains.</string>
-      <string comment="Q 1" id="DLG_17_11">Maybe one of your senior colleages could know something about this former patient?</string>
-      <string id="DLG_17_16">Miss Konhe you mean? She has been here for a long time, even before I arrived. She has some kind of nervous condition, but the doctors have given up dicovering its cause. She also seems obsessed with certain subjects, such as ancient culture.</string>
-      <string id="DLG_17_12">Well, you could ask Miss Riswell, in the entrance hall. She has been here for years, maybe for too long. You know we caretakers live here, with the patients, and we are not allowed to leave the asylum's premises. This life can get to you if you don't take proper care. I try to keep as much distance as possible from the lunatics...</string>
-      <string id="DLG_17_14">This patient seems to have been deeply unsettled by my question. What condition does she suffer from?</string>
-      <string id="DLG_17_13">The asylum is quite big, but I can't help noticing there aren't many patients around.</string>
-      <string id="DLG_00_02">…</string>
-      <string comment="Question 2" id="DLG_01_04">I am looking for a former patient of this hospital. You may have met him...</string>
-      <string comment="Answer 2" id="DLG_01_05">...an eyeless gaze...</string>
-      <string comment="Question 3" id="DLG_01_06">I'm looking for a man that you may have met. His name is Alexandre Du Pré.</string>
-      <string comment="Answer 0" id="DLG_01_08">...the rumbling...</string>
-      <string comment="Question 0" id="DLG_01_07">Good morning, Madam. My name is Wakefield. I'm looking for a former patient of this institution…</string>
-      <string comment="Choice 1" id="DLG_01_03_00">Have you been living here for long?</string>
-      <string id="DLG_01_03_01">I am looking for a former patient of this hospital.</string>
-      <string comment="Choice 3" id="DLG_01_03_02">I am looking for a man called Alexandre Du Pré.</string>
-      <string id="INSPECT_AFTER_LAST_KOHNE_DIALOG">What a strong reaction upon hearing Mr. Du Pré's name... She must have at least met him. How can I get her to talk to me?</string>
+      <string id="SOLDIER_INSPECT">一个穿着破旧军装的男人，心不在焉，神游天外，不知道在想什么。</string>
+      <string id="DLG_SOLDIER_00">打扰一下，先生。我看到您的制服，不禁想问一下，您过去在军队当兵吗？</string>
+      <string id="DLG_SOLDIER_01">别理我，你不会想跟一个懦夫说话的。</string>
+      <string id="DLG_SOLDIER_02">先生您这是……？</string>
+      <string id="DLG_SOLDIER_03">别理我，我只是个懦夫。</string>
+      <string id="DLG_SOLDIER_04">这个奖章……我有一个类似的，那是在朗峡战役和马尤巴山战役之后被授予的，记得是在1881年，都是十年前的事情了。上面还写着“以此表彰战场上卓绝之举”，真是个笑话。</string>
+      <string id="DLG_SOLDIER_05">所以说您当时在那个部队对吗？请允许我自我介绍一下，我是威克菲尔德医生。</string>
+      <string id="DLG_SOLDIER_06">我是第六轻步兵团的威廉姆·康吉尔中士，你也是那些精神病大夫中的一员吗？你们这些大夫难道不晓得，懦弱这种绝症是根本没办法用你们的那一套治好的吗？</string>
+      <string id="DLG_SOLDIER_07">他们为什么把您关在这里？</string>
+      <string id="DLG_SOLDIER_08">大夫们说，我得了“神经紊乱”。我知道这是因为他们查不出什么来，所以才信口胡诌的。但我清楚自己这顽疾的真正名字：纯粹的懦弱。</string>
+      <string id="DLG_SOLDIER_09">我在找一位之前住在这里的病人，您见过他吗？他的名字是亚历山大·杜普雷。</string>
+      <string id="DLG_SOLDIER_10">嗯，我认识一个叫那名字的人，我们曾经短暂地见过一面。我来的时候，他已经在这里了。</string>
+      <string id="DLG_SOLDIER_11">关于他，您知道些什么？</string>
+      <string id="DLG_SOLDIER_12">他是个好小伙子，很有教养。他喜欢聆听其他病人的故事，但却不讲自己的故事。我们当时谈了很多。说起来，空荷太太跟他走得很近，他们好像是同期来到这里的，但是后来亚历山大走的时候却是自己走的。不知道他后来怎样了。</string>
+      <string id="DLG_SOLDIER_13">空荷太太是谁？</string>
+      <string id="DLG_SOLDIER_14">她也是这里的病人，一个暴脾气的女士，你可能已经见过她了。自从杜普雷先生走了后，她就像变了个人似的，总独自一人默不作声地坐在一边。就算你想跟她讲话，估计她也不会搭理你。她……总在看什么东西，或者至少她觉得她在看什么东西。</string>
+      <string id="DLG_SOLDIER_15">您和杜普雷先生之前谈了些什么？</string>
+      <string id="DLG_SOLDIER_16">我们聊了我在南非打仗时的故事，我本来不想说那些的，但是不知怎的，想说给他听。他是一个很会说服别人的人。</string>
+      <string id="DLG_SOLDIER_17">他对其中一个特别的故事非常感兴趣，甚至到了痴迷的程度，事无巨细地刨根问底。</string>
+      <string id="DLG_SOLDIER_18">您能说说那个故事吗？我正在寻找我一位失踪的病人，亚历山大是唯一可能找到他的线索。</string>
+      <string id="DLG_SOLDIER_19">我不想提起那段不堪回首的往事……但你说一个失踪的病人？……好吧，或许我的故事能帮上一点忙。那是在81年的3月，你或许听过，就是马尤巴山战役，在当时发生的事情。</string>
+      <string id="DLG_SOLDIER_20">波尔军出其不意地袭击了我们，我们团在战乱中分散。我们很快意识到我们只剩下几个人，漫无目的地行进在一片荒芜的平原上……哦，是不是我讲的内容太无聊了。</string>
+      <string id="DLG_SOLDIER_21">没有，先生，这不无聊，请继续。</string>
+      <string id="DLG_SOLDIER_22">之后发生什么了？</string>
+      <string id="DLG_SOLDIER_23">我也不是很清楚，我什么都没看见……如果我当时看见了，恐怕我的脑子就没办法保留这段记忆了。</string>
+      <string id="DLG_SOLDIER_24">斯基德上尉怎么了？</string>
+      <string id="DLG_SOLDIER_25">当他最后恢复意识……就好像有一个别的什么人在通过他的眼睛看着我们，我猜是发生了什么事情影响了他的心智，改变了他。我晓得他最后回到了伦敦。杜普雷先生也问了他的下落，或许他去联系上尉了。毕竟他那么沉迷那个故事，一定是想多听听故事其他的部分。</string>
+      <string id="DLG_SOLDIER_26">嗯——您知道我能在哪里找到斯基德上尉吗？</string>
+      <string id="DLG_SOLDIER_27">根据我从战友那里听来的消息，他和狐朋狗友混在一起，已经迷失在酒精和鸦片之中。在圣吉尔斯的深处，有一家烟馆叫深红之巢。跟其他顾客一样，那里罪恶混沌的向下螺旋将那个人堕到了人生的最低谷。如果你运气好的话，他兴许还没死，你可能在那里找到他。</string>
+      <string id="DLG_SOLDIER_28">给你，这是一张我们的团的照片，上面就有他。</string>
+      <string id="DLG_SOLDIER_29">康吉尔中士？</string>
+      <string id="DLG_SOLDIER_30">请让我一个人待会儿。战争的回忆充满了伤痛，我真的不愿再回想了。</string>
+      <string id="DLG_07_44_00">为什么他们把您关在这里？</string>
+      <string id="DLG_07_44_01">关于他，您知道些什么？</string>
+      <string id="DLG_07_44_02">空荷太太是谁？</string>
+      <string id="DLG_07_44_03">您和杜普雷先生之前谈了些什么？</string>
+      <string comment="Choice 1" id="DLG_17_08_00">有没有在这里工作时间更久的人？</string>
+      <string comment="Choice 2" id="DLG_17_08_01">这么大的医院里居然只有这么几个病人。</string>
+      <string id="DLG_17_08_02">这位病人怎么了？</string>
+      <string id="DLG_17_08_03">您忙吧，我不打扰了。</string>
+      <string id="DLG_17_15">好吧，除了隔离病房的那些人，确实现在没有多少病人。但实际上护工更少，整个医院才三个人。我刚才也说过，以前这里的收入很不错，所以应有尽有：充足的员工、适合病人的住处、最好的医生。随着这一带建起了更新、更大的精神病院后，皇室对东丘逐步撤资。人们一个个离开，只剩下这些了。</string>
+      <string comment="Q 1" id="DLG_17_11">或许您有其他在这里工作更久的同事认识这位病人？</string>
+      <string id="DLG_17_16">你是说空荷太太吗？她在这里很久了，我来的时候她就已经在了。她有些莫名的精神紧张，但医生们也不再检查具体原因是什么。她对某些东西很痴迷，像是古代的文化。</string>
+      <string id="DLG_17_12">好吧，你可以问问李斯威尔小姐，她就在大厅。她在这儿好几年了，也许更久。你知道我们护工得跟病人一起住在这里，又不能出去。所以如果要是不小心点儿，可能对自己也不太好。反正我是跟这些疯子们尽量保持距离，越远越好……</string>
+      <string id="DLG_17_14">这位病人对我的问题反应很大，她到底怎么了？</string>
+      <string id="DLG_17_13">这医院真大，但我注意到好像附近没有几个病人。</string>
+      <string id="DLG_00_02">……</string>
+      <string comment="Question 2" id="DLG_01_04">我在寻找一个之前住在这里的病人，您可能见过他……</string>
+      <string comment="Answer 2" id="DLG_01_05">……无眼的注视……</string>
+      <string comment="Question 3" id="DLG_01_06">我正在寻找一位您可能见过的人，他的名字叫杜普雷。</string>
+      <string comment="Answer 0" id="DLG_01_08">……轰隆隆……</string>
+      <string comment="Question 0" id="DLG_01_07">早上好，女士。我的名字叫威克菲尔德，我正在寻找一位以前住在这里的病人……</string>
+      <string comment="Choice 1" id="DLG_01_03_00">您在这里很久了吗？</string>
+      <string id="DLG_01_03_01">我正在寻找一位以前在这里的病人。</string>
+      <string comment="Choice 3" id="DLG_01_03_02">我在寻找一个叫亚历山大·杜普雷的男人。</string>
+      <string id="INSPECT_AFTER_LAST_KOHNE_DIALOG">听到杜普雷先生的名字后反应如此剧烈……至少，她一定见过他，我怎样才能让她告诉我呢？</string>
     </bundle>
     <bundle id="ep5_restainRoom">
-      <string id="INS_PENDANT">An old pendant on the dresser. It looks valuable.</string>
+      <string id="INS_PENDANT">梳妆台上有一个古老的挂坠，看起来很值钱。</string>
     </bundle>
     <bundle id="ep5_sealedRoom">
-      <string id="SCN_TILE_PUSHED_ONCE">It seems one of the tiles is loose.</string>
+      <string id="SCN_TILE_PUSHED_ONCE">似乎有一块地板松动了。</string>
       <string id="SFX_TILE_STEP_OUT">-</string>
-      <string id="SFX_TILE_STEP_IN">Loose tile</string>
-      <string id="TILE_INSPECT">This tile is loose.</string>
-      <string id="TILE_CANT_LIFT">I cannot get it out with my bare hands. It is too heavy.</string>
-      <string id="INV_CRYSTALEYE_GET">There was something half-buried in the soil under the tile… </string>
-      <string id="TILE_AFTER_CATCH_INSPECT">There is nothing else in there.</string>
-      <string id="SCN_DOOR_SEALEDROOM">The door is bricked up. Why would they do such thing?</string>
-      <string id="SCN_WINDOW_SEALEDROOM">The window is sealed too. Almost no light can reach the room.</string>
-      <string id="INT_DECO_BED">I doubt anyone has slept in this place in a long time. </string>
-      <string id="INV_CRYSTALEYE_DESCRIPTION">A dirty and horribly deformed glass eye.</string>
-      <string id="TILE_INSPECT2">There is something there, half-buried in the soil under the tile… </string>
-      <string id="CROW_DESCRIPTION">It is a long-dead bird, just feathers and bones.</string>
-      <string id="PICKUP_EYE">It is holding something in its beak...</string>
-      <string id="SCN_WALL_SEALEDROOM">There is something written on the wall: "One of them came last night. I knew what it actually was because of the sign it carried. The sign of the Eye. I killed it, and hid it well. If more come, they will not find their friend nor its eye."</string>
+      <string id="SFX_TILE_STEP_IN">松动的地板</string>
+      <string id="TILE_INSPECT">这块地板松了</string>
+      <string id="TILE_CANT_LIFT">我不能徒手把它拿起来，它太重了。</string>
+      <string id="INV_CRYSTALEYE_GET">有什么东西半掩埋在地板之下的土中……</string>
+      <string id="TILE_AFTER_CATCH_INSPECT">那没什么其他的东西了。</string>
+      <string id="SCN_DOOR_SEALEDROOM">门被砖砌上了，为什么要这么做？</string>
+      <string id="SCN_WINDOW_SEALEDROOM">窗也被封上了，几乎没有光能照进这个房间。</string>
+      <string id="INT_DECO_BED">真的有人曾经长时间住在这里吗？</string>
+      <string id="INV_CRYSTALEYE_DESCRIPTION">一个肮脏并且严重变形的玻璃眼球。</string>
+      <string id="TILE_INSPECT2">有什么东西半掩埋在地板之下的土中……</string>
+      <string id="CROW_DESCRIPTION">一只死了很久的鸟，只有羽毛和骨头。</string>
+      <string id="PICKUP_EYE">嘴里叼着什么东西……</string>
+      <string id="SCN_WALL_SEALEDROOM">墙上写着什么：它们中的一个，昨晚来了。我知道那就是它，因为它带着那个东西，像眼睛一样的东西！我杀了它，把它藏好。如果它的同伙也来，不会发现它，也不会发现它的眼睛。</string>
     </bundle>
     <bundle id="ep5_soldierTale">
-      <string id="TRIGGER1_TEXT">Then, the others started to disappear in the fog, which was getting thicker and thicker.</string>
-      <string id="TRIGGER2_TEXT">I could still hear their footsteps for a while… then nothing. I called their names aloud, even though I knew I shouldn't. Something about the fog terrified me.</string>
-      <string id="TRIGGER3_TEXT">I felt something in there, not far. A murmur or a beating, something alive. Waiting. I couldn't help walking towards it.</string>
-      <string id="TRIGGER4_TEXT">All of a sudden, my feet felt something in the mud. A body. They were all there! Dead. Only Captain Skidd was missing.</string>
-      <string id="FADE_INITIAL_TEXT">As I said, we were few, and we were sure the enemy was lurking out there. In the cold air of dusk, a thick fog formed quickly, masking everything around us. We could barely see each other.</string>
-      <string id="FADE_FINAL_TEXT">Then the mist cleared out.</string>
+      <string id="TRIGGER1_TEXT">之后，其他人开始消失于雾中，而雾，也越来越淡了。</string>
+      <string id="TRIGGER2_TEXT">我本来仍然能听到他们的脚步声……但之后，什么也听不到了。我大声喊着他们的名字，尽管我知道我不应该这么做，因为雾里有什么东西，让我非常害怕。</string>
+      <string id="TRIGGER3_TEXT">我感到有什么东西在那里，离我不远处。在低语，在敲打，是什么活着的东西，在守株待兔。我的身体不受控制，走向它。</string>
+      <string id="TRIGGER4_TEXT">突然，我的脚碰到泥土的什么东西。是尸体，他们都在那里，死了！只有斯基德上尉不见了踪影。</string>
+      <string id="FADE_INITIAL_TEXT">我说过，我们人数很少，并且确信敌人就潜伏在那里。在黄昏的冷空气中，突然迅速地升起了一层薄雾，吞噬了我们周围的一切，使我们没办法看清彼此。</string>
+      <string id="FADE_FINAL_TEXT">之后，迷雾散去。</string>
     </bundle>
     <bundle id="ep5_street">
-      <string id="OTHER_DOOR">This door is number 24. I'm looking for number 26.</string>
-      <string id="SEALED_DOOR">Number 26. This is the place I was looking for, but the door is bricked up. I must find another way to get in.</string>
-      <string id="SEALED_WINDOW">The windows are so thoroughly cemented over that it almost mixes with the facade.</string>
-      <string id="STREET_SIGN">Paul Street. It ends here at this corner.</string>
-      <string id="STREET_LAMP">What dim light this lamp is casting. I wonder if the gas is flowing properly.</string>
+      <string id="OTHER_DOOR">这门是24号的，我要找的是26号。</string>
+      <string id="SEALED_DOOR">26号在这里，正是我要找的。但门被砖砌上了，我需要找一条别的路进去。</string>
+      <string id="SEALED_WINDOW">窗户完全严实合缝，似乎和空间固定在一起。</string>
+      <string id="STREET_SIGN">保罗街，到这个拐弯处为止。</string>
+      <string id="STREET_LAMP">灯光无比黯淡，空气仿佛都凝固了。</string>
     </bundle>
     <bundle id="ep5_wakefieldNightmare">
       <string id="WAKENIGHT_TXT_1">昨晚，我又再次做了那个噩梦，但这次有所不同。
