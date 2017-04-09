@@ -1178,68 +1178,60 @@ Dane Tippman</string>
       <string id="SFX_MONSTER_FANFARE_2">Horror Effect</string>
     </bundle>
     <bundle id="ep6_backyard">
-      <string id="DECO_BA_FOUNTAIN">A thick layer of ice covers the pool of water. </string>
-      <string id="DLG_HOUSEKEEPER_BY_10">His condition?</string>
-      <string id="DLG_HOUSEKEEPER_BY_11">Oh sir, I am right sorry. I thought you knew. The Professor... he... he suffers from an ailment afflicting his brain. He is now entirely confined to his bed.</string>
-      <string id="DLG_HOUSEKEEPER_BY_15">May I ask you something, Mrs. Oakwood?
+      <string id="DECO_BA_FOUNTAIN">池塘的水面结了厚厚的一层冰。</string>
+      <string id="DLG_HOUSEKEEPER_BY_10">“那个样子”？</string>
+      <string id="DLG_HOUSEKEEPER_BY_11">哦，先生，抱歉。我以为您已经知道了，教授他…他……脑子有点儿小疾病，现在完全下不了床了。</string>
+      <string id="DLG_HOUSEKEEPER_BY_15">欧克伍德太太，我可以问您几个问题吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_16">当然可以啦，医生。</string>
+      <string id="DLG_HOUSEKEEPER_BY_17">教授是怎么得病的？</string>
+      <string id="DLG_HOUSEKEEPER_BY_17_CH">教授是怎么得病的？</string>
+      <string id="DLG_HOUSEKEEPER_BY_18">这是他们家族的遗传病，莱特教授的父亲和祖父也都有这病。</string>
+      <string id="DLG_HOUSEKEEPER_BY_19">莱特教授提到了他童年时代的一个故事，他把它叫做“旅行的故事”。您知道那是指什么吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_19_CH">莱特教授提到了一个故事……</string>
+      <string id="DLG_HOUSEKEEPER_BY_20">哦，当然知道，他经常让我给他讲这个故事。你可以在图书室的一本书上找到它。</string>
+      <string id="DLG_HOUSEKEEPER_BY_21">教授是不是很喜欢解谜？</string>
+      <string id="DLG_HOUSEKEEPER_BY_21_CH">教授喜欢解谜吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_22">是的，确实如此。他对动脑子的游戏非常狂热，在他身体还好的时候，每月都举办解谜的主题晚会。</string>
+      <string id="DLG_HOUSEKEEPER_BY_23">欧克伍德太太，教授之前曾经在地下室工作过一段时间吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_23_CH">教授之前曾经在地下室工作过一段时间吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_24">什么地下室？</string>
+      <string id="DLG_HOUSEKEEPER_BY_25">没什么，您忙吧，谢谢您的帮助。</string>
+      <string id="DLG_HOUSEKEEPER_BY_25_CH">我得走了。</string>
+      <string id="DLG_HOUSEKEEPER_BY_26">祝您一天愉快，威克菲尔德医生。</string>
+      <string id="DLG_HOUSEKEEPER_BY_29">那个莱特教授家族代代相传的遗传病，您知道它有什么样的症状吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_29_CH">遗传病的症状是什么？</string>
+      <string id="DLG_HOUSEKEEPER_BY_30">哦，关于这个，内科医生说了一大堆，我可讲不上来。 </string>
+      <string id="DLG_HOUSEKEEPER_BY_31">总之真的非常可怕。尤其是啊，最近几年，莱特教授知道自己将会变成现在这样。……愿上帝怜悯这可怜的灵魂。
 </string>
-      <string id="DLG_HOUSEKEEPER_BY_16">Of course, Doctor.</string>
-      <string id="DLG_HOUSEKEEPER_BY_17">How did the Professor become afflicted?</string>
-      <string id="DLG_HOUSEKEEPER_BY_17_CH">How did the Professor become afflicted?</string>
-      <string id="DLG_HOUSEKEEPER_BY_18">The ailment runs in his family. Mr Wright suffers from it, as did his father and grandmother before him.</string>
-      <string id="DLG_HOUSEKEEPER_BY_19">Professor Wright mentioned something, a tale from his childhood. He called it “The tale of travels”. Do you know what would that be?</string>
-      <string id="DLG_HOUSEKEEPER_BY_19_CH">Professor Wright mentioned a tale...</string>
-      <string id="DLG_HOUSEKEEPER_BY_20">Oh, of course. You see, he often asks me to tell him this tale. You can read it in one of the books of the library.</string>
-      <string id="DLG_HOUSEKEEPER_BY_21">Do you know if Professor Wright is fond of puzzles or riddles?
-</string>
-      <string id="DLG_HOUSEKEEPER_BY_21_CH">Is Professor Wright fond of riddles?
-</string>
-      <string id="DLG_HOUSEKEEPER_BY_22">Well, yes indeed. He has always been an enthusiast of every mind game you can think of. When his health was better he used to host themed soirees every other month.</string>
-      <string id="DLG_HOUSEKEEPER_BY_23">Mrs. Oakwood, did the Professor ever work in the basement?</string>
-      <string id="DLG_HOUSEKEEPER_BY_23_CH">Did Professor Wright work in the basement?</string>
-      <string id="DLG_HOUSEKEEPER_BY_24">In the basement?</string>
-      <string id="DLG_HOUSEKEEPER_BY_25">I will leave you to your work. Thank you for your assistance.</string>
-      <string id="DLG_HOUSEKEEPER_BY_25_CH">I must go.</string>
-      <string id="DLG_HOUSEKEEPER_BY_26">Have a good day, Dr. Wakefield.</string>
-      <string id="DLG_HOUSEKEEPER_BY_29">This ailment that runs in Professor Wright's family, do you know what its symptoms are?</string>
-      <string id="DLG_HOUSEKEEPER_BY_29_CH">What are the symptoms of this illness?</string>
-      <string id="DLG_HOUSEKEEPER_BY_30">Well, I can't speak those very long words physicians use. </string>
-      <string id="DLG_HOUSEKEEPER_BY_31">It is truly a terrible thing. And to think, all these years Mr. Wright knew what would become of him... May God have pity on his poor soul.
-</string>
-      <string id="DLG_HOUSEKEEPER_BY_32">But I can tell you what I see in him. Professor Wright hardly remembers a thing from the last forty years. </string>
-      <string id="DLG_HOUSEKEEPER_BY_33">It is like he is a child again. With God's mercy it has now gone so far that it torments him no longer.</string>
-      <string id="DLG_HOUSEKEEPEr_BY_34">It is an easy find, Doctor. Look for the big book with the colourful cover.
-</string>
-      <string id="DLG_HOUSEKEEPER_BY_35">He asked his guests to solve a make-believe mystery. Oh, to picture those gentlemen and ladies following clues all around the house and its premises, all night long...</string>
-      <string id="DLG_HOUSEKEEPER_BY_36">Mr. Wright had some eccentric friends. But, as time has proven, their loyalty was scarce. Almost none of them have visited the master since.</string>
-      <string id="DLG_HOUSEKEEPER_BY_37">Mr. Wright said... No, I... You must excuse me, Dr. Wakefield. I'm very busy right now.</string>
-      <string id="DLG_HOUSEKEEPER_BY_4">Mrs Oakwood?</string>
-      <string id="DLG_HOUSEKEEPER_BY_40">I am sorry, Dr. Wakefield. I must finish my work here. Have a good day.</string>
-      <string id="DLG_HOUSEKEEPER_BY_41">Have a good day.</string>
-      <string id="DLG_HOUSEKEEPER_BY_42">Mrs Oakwood.  She is the manor's housekeeper.</string>
-      <string id="DLG_HOUSEKEEPER_BY_44">Professor Wright mentioned something, "The Book of Travels". Do you know what that might be?</string>
-      <string id="DLG_HOUSEKEEPER_BY_44_CH">Professor Wright mentioned a book.</string>
-      <string id="DLG_HOUSEKEEPER_BY_45">Do you know, is the Professor fond of puzzles or riddles?</string>
-      <string id="DLG_HOUSEKEEPER_BY_45_CH">Is Professor Wright fond of riddles?</string>
-      <string id="DLG_HOUSEKEEPER_BY_46">Why, yes, Doctor, I know that story well, I do indeed. He often asks me to read it to him. 
-</string>
-      <string id="DLG_HOUSEKEEPER_BY_47">Indeed, yes! He has long been an enthusiast of every mind game you can imagine.
-</string>
-      <string id="DLG_HOUSEKEEPER_BY_48">In better days, he would host parties every other month, "themed soirees" he called 'em. Oh those were good times.</string>
-      <string id="DLG_HOUSEKEEPER_BY_49">It seems long ago now.</string>
-      <string id="DLG_HOUSEKEEPER_BY_5">Yes?  Who is it?</string>
-      <string id="DLG_HOUSEKEEPER_BY_50">The book should be in the library.</string>
-      <string id="DLG_HOUSEKEEPER_BY_6">Good morning, Mrs Oakwood.  Don't you remember me?</string>
-      <string id="DLG_HOUSEKEEPER_BY_7">Why, Dr Kaufmann!  Bless my soul, it's been so long I hardly recognise you.  How nice to see you again.</string>
-      <string id="DLG_HOUSEKEEPER_BY_8">Allow me to introduce my colleague Dr. John Wakefield. Is the Professor at home? We would like to see him.
-</string>
-      <string id="DLG_HOUSEKEEPER_BY_9">Why yes, Doctor, of course, I am quite forgetting myself. Let me take you to him. It is really good of you to come. He receives so few visitors these days, on account of his condition.
-</string>
-      <string id="ROOT1_INSPECT">This oak tree looks ancient. Probably older than the Manor itself.</string>
-      <string id="ROOT2_INSPECT">It looks as though something has been concealed beneath the thick roots.</string>
-      <string id="ROOT2_REACT">Another note, and a key, bound together.</string>
-      <string id="ROOT3_INSPECT">Nothing but a few small plants, withered by the morning frost.</string>
-      <string id="ROOTS_CLUE">This key has been engraved with the shape of a feather.</string>
+      <string id="DLG_HOUSEKEEPER_BY_32">虽然我不清楚这病的具体症状，但我能跟你讲讲我看到的。最近四十年的事情，莱特教授一件都记不起来了。 </string>
+      <string id="DLG_HOUSEKEEPER_BY_33">他变得好像一个孩子，这一定是上帝的慈悲，因为这样至少教授不会再感觉到痛苦。</string>
+      <string id="DLG_HOUSEKEEPEr_BY_34">很容易就能找到的，医生。那本书很大，封面五颜六色的。</string>
+      <string id="DLG_HOUSEKEEPER_BY_35">他在房子各处布置各种各样的谜题，哦，你可以想象一下，那些绅士和女士们循着教授提供的线索，满屋子地探索，一玩就是一晚上……</string>
+      <string id="DLG_HOUSEKEEPER_BY_36">莱特教授以前有一些古怪的朋友。但是，时间证明了，那些人不够朋友，现在都几乎没有一个人来看过他。</string>
+      <string id="DLG_HOUSEKEEPER_BY_37">莱特先生曾经说过……不，我那个……不好意思，威克菲尔德医生，我现在得继续忙了。</string>
+      <string id="DLG_HOUSEKEEPER_BY_4">欧克伍德太太？</string>
+      <string id="DLG_HOUSEKEEPER_BY_40">抱歉，威克菲尔德医生，我必须得工作了。祝您一天过得愉快。</string>
+      <string id="DLG_HOUSEKEEPER_BY_41">也祝您一天过得愉快。</string>
+      <string id="DLG_HOUSEKEEPER_BY_42">欧克伍德太太，她是这座大宅的管家。</string>
+      <string id="DLG_HOUSEKEEPER_BY_44">莱特教授提到了一个叫“旅行之书”的东西。您知道那是什么吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_44_CH">莱特教授提到了一本书。</string>
+      <string id="DLG_HOUSEKEEPER_BY_45">教授是不是很喜欢解谜？</string>
+      <string id="DLG_HOUSEKEEPER_BY_45_CH">教授是不是很喜欢解谜？</string>
+      <string id="DLG_HOUSEKEEPER_BY_46">哦，是啊，医生，我知道。事实上，他经常让我读给他听。</string>
+      <string id="DLG_HOUSEKEEPER_BY_47">是啊，确实如此！他长时间热衷于你能想象到的各种头脑游戏。</string>
+      <string id="DLG_HOUSEKEEPER_BY_48">天气好的时候，他每隔一个月都会办一次解谜主题晚会，他还曾经说过“哦，真是太有趣了”。</string>
+      <string id="DLG_HOUSEKEEPER_BY_49">感觉那是很久以前的事情了。</string>
+      <string id="DLG_HOUSEKEEPER_BY_5">唉？那是谁？</string>
+      <string id="DLG_HOUSEKEEPER_BY_50">那本书应该就在图书室。</string>
+      <string id="DLG_HOUSEKEEPER_BY_6">早上好，欧克伍德太太，您不记得我了吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_7">天啊，考夫曼医生！好久不见，都认不出你来了。能再见到你真高兴。</string>
+      <string id="DLG_HOUSEKEEPER_BY_8">允许我介绍一下，这位是我的同事，约翰·威克菲尔德医生。教授在家吗？我们想要见他。</string>
+      <string id="DLG_HOUSEKEEPER_BY_9">哦，是的，医生，他当然在。我带你去见他，你能来真是太好 了，自从他变成那个样子后，最近都没什么人来串门。</string>
+      <string id="ROOT1_INSPECT">这棵橡树看起来很古老，可能经这幢房子还要老。</string>
+      <string id="ROOT2_INSPECT">看起来有什么东西被藏在盘根错节的树根之下。</string>
+      <string id="ROOT2_REACT">另一个笔记，还有一把钥匙，放在一起。</string>
+      <string id="ROOT3_INSPECT">只是一些小植物，因为清晨的霜凋零了。</string>
+      <string id="ROOTS_CLUE">这把钥匙被雕成了羽毛的形状。</string>
     </bundle>
     <bundle id="ep6_bathroom">
       <string id="HIDDEN_LEVER_INSPECT">It is a mechanism of some sort. </string>
@@ -1916,24 +1908,23 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
 </string>
     </bundle>
     <bundle id="ep6_kohneHideout">
-      <string id="FT_TEXT1">For a moment, the sky was dark.</string>
-      <string id="FT_TEXT2">We heard the calls of a thousand birds.</string>
-      <string id="FT_TEXT3">But another sound rose above them.</string>
-      <string id="FT_TEXT4">A sound I cannot describe.</string>
-      <string id="DLG_HIDEOUT_5">The windows are covered with wooden planks. It looks as if she were trying to keep someone from entering.</string>
-      <string id="DLG_HIDEOUT_CLUE1_7">Or something from getting out...</string>
-      <string id="DLG_HIDEOUT_CLUE2_1">Chalk. A circle, drawn hastily on the floor.</string>
-      <string id="DLG_HIDEOUT_CLUE2_3">She thought it could prevent what she knew was about to happen. But she was wrong…</string>
-      <string id="DLG_HIDEOUT_CLUE3_1">It is... ashes.</string>
-      <string id="DLG_HIDEOUT_CLUE3_3">...</string>
-      <string id="DLG_HIDEOUT_FINAL_1">I do not know what to make of all this.</string>
-      <string id="DLG_HIDEOUT_FINAL_2">I do.</string>
-      <string id="DLG_HIDEOUT_INIT_1">What...
-</string>
-      <string id="DLG_HIDEOUT_INIT_2">...</string>
-      <string id="DLG_HIDEOUT_INIT_3">What just happened in here?</string>
-      <string id="DLG_HIDEOUT_INIT_4">Where is Miss Konhe?</string>
-      <string id="DLG_HIDEOUT_INIT_5">We are too late.</string>
+      <string id="FT_TEXT1">刚才有那么一段时间，天空非常暗。</string>
+      <string id="FT_TEXT2">我们听到了一大群鸟的叫声。</string>
+      <string id="FT_TEXT3">但在它们的声音之上，还听到了另一个声音。</string>
+      <string id="FT_TEXT4">一种无法描述的声音。</string>
+      <string id="DLG_HIDEOUT_5">窗户都会木板钉上了，看起来她好像在阻止什么人进来。</string>
+      <string id="DLG_HIDEOUT_CLUE1_7">或者阻止什么东西出去……</string>
+      <string id="DLG_HIDEOUT_CLUE2_1">粉笔，旁边的地板上匆忙地画了一个圆圈。</string>
+      <string id="DLG_HIDEOUT_CLUE2_3">她似乎认为，这样就可以阻止她觉得即将发生的事情。但是她错了……</string>
+      <string id="DLG_HIDEOUT_CLUE3_1">这是……灰烬。</string>
+      <string id="DLG_HIDEOUT_CLUE3_3">……</string>
+      <string id="DLG_HIDEOUT_FINAL_1">我不明白到底发生了什么？</string>
+      <string id="DLG_HIDEOUT_FINAL_2">我明白。</string>
+      <string id="DLG_HIDEOUT_INIT_1">什……</string>
+      <string id="DLG_HIDEOUT_INIT_2">……</string>
+      <string id="DLG_HIDEOUT_INIT_3">这里刚刚发生了什么？</string>
+      <string id="DLG_HIDEOUT_INIT_4">空荷太太呢？</string>
+      <string id="DLG_HIDEOUT_INIT_5">我们太迟了。</string>
     </bundle>
     <bundle id="ep6_library">
       <string id="TINSOLDIER_REACT">Could it hold some special significance to Professor Wright?  Perhaps it will help stimulate his memories.</string>
@@ -1984,11 +1975,11 @@ It is a Truth our ancestors knew and with stone silence came to un-know.</string
       <string id="DLG_LIBRARYCONVERSATION21">I have the perfect location in mind...</string>
     </bundle>
     <bundle id="ep6_map">
-      <string id="MAP_GRAVEYARD">Graveyard</string>
-      <string id="MAP_FRONTYARD">Wright Manor</string>
-      <string id="MAP_INNROOM">Wickport Inn</string>
-      <string id="MAP_CLIFFHOUSEEXT">Cliff</string>
-      <string id="MAP_SQUARE_">Town Square</string>
+      <string id="MAP_GRAVEYARD">墓园</string>
+      <string id="MAP_FRONTYARD">莱特宅邸</string>
+      <string id="MAP_INNROOM">维克珀特旅馆</string>
+      <string id="MAP_CLIFFHOUSEEXT">悬崖</string>
+      <string id="MAP_SQUARE_">城镇广场</string>
     </bundle>
     <bundle id="ep6_maze">
       <string id="MAZE_BONES_DESC">These are... human remains. The flesh is gone, but the bones look undisturbed. How long have they lain here? Why on earth did Professor Wright not alert the authorities? I must press on. What possible "research" could have led to this?</string>
@@ -2030,11 +2021,10 @@ Wright mentioned in his diaries? I must press on.</string>
       <string id="ENDBETA_ENDOFBETA">End of Beta</string>
       <string id="ENDBETA_STARTOVER">Start Again</string>
       <string id="ENDBETA_FORUMS">Visit forums</string>
-      <string id="CREDITS_NEXTEPISODE">Episode 3</string>
-      <string id="CREDITS_ADVENTURECONTINUES">The adventure continues in</string>
-      <string id="CREDITS_SLIDE0">"My Dearest Visitor" was created thanks to
-the generous support of 2880 players 
-who participated in the crowdfunding campaing.</string>
+      <string id="CREDITS_NEXTEPISODE">第三章</string>
+      <string id="CREDITS_ADVENTURECONTINUES">冒险将继续……</string>
+      <string id="CREDITS_SLIDE0">《我最亲爱的访客》至此结束
+感谢众筹期间支持我们的2880位玩家。</string>
       <string id="CREDITS_SLIDE1">Bath description by </string>
       <string id="CREDITS_SLIDE1_NAME">basement_crusader</string>
       <string id="CREDITS_SLIDE2">Pub wheel description by</string>
@@ -2060,16 +2050,16 @@ who participated in the crowdfunding campaing.</string>
       <string id="CREDITS_SLIDE10_NAME">redrubin</string>
       <string id="CREDITS_SLIDE11_NAME">GeneralSwain</string>
       <string id="CREDITS_SLIDE12_NAME">OVERLORD_RAHL</string>
-      <string id="CHAPTERTITLE_TITLE">Season Two - Episode Two</string>
-      <string id="CHAPTERTITLE_SUBTITLE">My Dearest Visitor</string>
-      <string id="PREVIOUSLY_1">Wakefield and Kaufmann followed the only clue they had on Devitt's location: the recipient of Anthony's disturbing letter, Alexandre Du Pré. Wakefield visited the East Hill Asylum to gather some information on Du Pré's past.</string>
-      <string id="PREVIOUSLY_2">Wakefield discovered that Du Pré was the leader of a secret society known as the Playwright. He learned that they practised rituals with the goal of peering through the Veil, the line that separates the common world from an outer void full of horrors.</string>
-      <string id="PREVIOUSLY_3">One of East Hill's patients turned out to be a member of the Playwright, but she escaped the asylum. Wakefield and Kaufmann followed her to her hideout, a cabin in the mountains, when suddenly a big flock of birds appeared... </string>
-      <string id="PREVIOUSLY_TITLE">Previously on The Last Door...</string>
+      <string id="CHAPTERTITLE_TITLE">第二季 - 第二章</string>
+      <string id="CHAPTERTITLE_SUBTITLE">我最亲爱的访客</string>
+      <string id="PREVIOUSLY_1">安东尼那封令人不安的信上的收信人——亚历山大·杜普雷，是找到大卫的唯一线索，威克菲尔德和考夫曼顺着这条线索展开调查。威克菲尔德拜访了东丘精神病院，收集关于亚历山大过去的消息。</string>
+      <string id="PREVIOUSLY_2">威克菲尔德发现亚历山大是一个名叫剧作家的秘密团体的领导者，剧作家的人通过进行仪式，试图穿过帷幕一瞥究竟。所谓帷幕，是分隔现世与充满恐惧的天外虚无世界的一条线。</string>
+      <string id="PREVIOUSLY_3">东丘的一位病人过去曾是剧作家的一员，但她从医院逃走了。威克菲尔德和考夫曼跟着她来到了她的藏身之处——山上的一座小木屋。正在这时，一大群鸟突然出现了……</string>
+      <string id="PREVIOUSLY_TITLE">最后一扇门，前情提要……</string>
       <string id="BACK_TO_MENU">Back to Menu</string>
     </bundle>
     <bundle id="ep6_opening">
-      <string id="FT_TEXT_HEADER1">Developed by</string>
+      <string id="FT_TEXT_HEADER1">开发者</string>
       <string id="FT_TEXT_CONTENT1">Enrique Cabeza
 Mauricio García
 Daniel Márquez
@@ -2079,10 +2069,10 @@ Jose Antonio Perales
 Mateo Pérez
 Lucie Tvarohová</string>
       <string id="FT_TEXT_CONTENT2">Carlos Viola</string>
-      <string id="FT_TEXT_HEADER2">Original Music by</string>
-      <string id="FT_TEXT_HEADER3">Published by Phoenix Online Publishing LTD</string>
-      <string id="FT_TEXT_HEADER4">English Localization</string>
-      <string id="FT_TEXT_HEADER5">Testing and QA</string>
+      <string id="FT_TEXT_HEADER2">原创音乐</string>
+      <string id="FT_TEXT_HEADER3">Phoenix Online Publishing LTD 发行</string>
+      <string id="FT_TEXT_HEADER4">英语翻译</string>
+      <string id="FT_TEXT_HEADER5">测试和质量管理</string>
       <string id="FT_TEXT_CONTENT3">Cesar Bittar
 Vitek Goyel
 Michael Fortunato
@@ -2098,6 +2088,9 @@ Aaron Loehrlein
 Silp Novak
 Aoife Nic Chraith
 David Techman
+
+中文翻译
+Zoharwolf
 </string>
       <string id="FT_TEXT_CONTENT5">Wayne Sung
 Dane Tippman</string>
@@ -2106,8 +2099,8 @@ Daniel Pontiveros
 Juan Miguel López
 Raúl Díez
 Mariela González</string>
-      <string id="FT_TEXT_HEADER6">Special Thanks</string>
-      <string id="OPENING_SKIP">Skip</string>
+      <string id="FT_TEXT_HEADER6">鸣谢</string>
+      <string id="OPENING_SKIP">跳过</string>
       <string id="FT_TEXT_CONTENT5_1">Wayne Sung
 Dane Tippman</string>
     </bundle>
