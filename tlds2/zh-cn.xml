@@ -1293,26 +1293,23 @@ Dane Tippman</string>
       <string id="DLG_MENTOR_DEFAULT_7">我最亲爱的访客会找到奖品的。</string>
       <string id="DLG_MENTOR_SOLDIER_13">奖品？……他在说什么，考夫曼？</string>
       <string id="DLG_MENTOR_SOLDIER_14">有什么宝贵的东西被藏了起来……难道他在神志不清的状态下，把他研究的一部分给藏了起来？</string>
-      <string id="DLG_MENTOR_SOLDIER_15">Hmmm. He was always a proud man. He would not easily have forgotten his most ground-breaking work. A sense of its grave importance at least would have remained. In his confusion, perhaps he has holed it away somewhere for this "dearest visitor" of his to find.
-</string>
-      <string id="DLG_MENTOR_SOLDIER_20">Why don't you explore the manor? Perhaps something will relate to these latest ramblings.
-</string>
-      <string id="DLG_MENTOR_SOLDIER_21">Meanwhile, I will continue my endeavours to revive his memory through conversation…</string>
-      <string id="DLG_KAUFFMAN_BR_31">The Professor has mentioned a map and a certain work titled “The Book of Travels”. </string>
-      <string id="DLG_KAUFFMAN_BR_32">What could he mean by that?</string>
-      <string id="DLG_KAUFFMAN_BR_34">What could he mean by that?</string>
-      <string id="DLG_MENTOR_DEFAULT_10">I have no doubt.</string>
-      <string id="DLG_MENTOR_DEFAULT_11">Father...</string>
-      <string id="DLG_KAUFFMAN_BR_37">I am increasingly of the opinion that this is some mental construct - some riddle conjured up by the Professor's failing mind. He may not have even understood what he hid.
-</string>
-      <string id="DLG_KAUFFMAN_BR_38">A riddle... And who would that “visitor” be?</string>
-      <string id="DLG_KAUFFMAN_BR_39">That is unknown to me, mein Freund. There is only one way to answer that question.</string>
-      <string id="DLG_KAUFFMAN_BR_40">If we can find the answer to the Professor’s riddle, perhaps we will be able to solve this mystery.</string>
-      <string id="DLG_KAUFFMAN_BR_42">Only by answering the riddle can we hope to solve this mystery. </string>
-      <string id="WCMB_BEDROOM_ENVELOP_MENTOR">It would be better to give this to Kaufmann.</string>
-      <string id="MENTOR_CLOTHES_INSPECT">Professor Wright's dressing gown and slippers.</string>
-      <string id="BIRDS_BOOK_INSPECT">There is an open book on the floor.</string>
-      <string id="BIRDS_REACT_TEXT">“The Book of Birds”. It is a compilation of legends related to birds. Some of the text has been marked.  </string>
+      <string id="DLG_MENTOR_SOLDIER_15">嗯，他一向是一个骄傲的人，不会轻易忘记自己呕心沥血的研究，至少那种对至关重要之物的感觉会保留下来。在精神错乱之中，他把什么东西藏了起来，等着他所谓的那个“最亲爱的访客”来找到它。</string>
+      <string id="DLG_MENTOR_SOLDIER_20">你可以去探索一下宅邸，说不定会发现什么跟他刚说的那些话有关。</string>
+      <string id="DLG_MENTOR_SOLDIER_21">与此同时，我会尽量跟他们说说话，说不定能让他恢复记忆……</string>
+      <string id="DLG_KAUFFMAN_BR_31">教授刚提到的地图和一个叫“旅行之书”的东西。</string>
+      <string id="DLG_KAUFFMAN_BR_32">那是什么意思？</string>
+      <string id="DLG_KAUFFMAN_BR_34">那是什么意思？</string>
+      <string id="DLG_MENTOR_DEFAULT_10">我深信不疑。</string>
+      <string id="DLG_MENTOR_DEFAULT_11">神父……</string>
+      <string id="DLG_KAUFFMAN_BR_37">我越来越觉得这是某种精神构建——我的意思是说，教授不经意地想出了这些谜题，并且自己都没意识到自己藏了什么。</string>
+      <string id="DLG_KAUFFMAN_BR_38">谜题……那么，所谓的“访客”又是指谁呢？</string>
+      <string id="DLG_KAUFFMAN_BR_39">我也不清楚，我的朋友。但这是唯一的解释。</string>
+      <string id="DLG_KAUFFMAN_BR_40">如果我们能找出教授谜题的答案，或许一切的疑问都会迎刃而解了。</string>
+      <string id="DLG_KAUFFMAN_BR_42">要想解开疑问，只能去找出谜题的答案了。 </string>
+      <string id="WCMB_BEDROOM_ENVELOP_MENTOR">最好拿给考夫曼看看。</string>
+      <string id="MENTOR_CLOTHES_INSPECT">莱特教授穿着睡衣和拖鞋。</string>
+      <string id="BIRDS_BOOK_INSPECT">地上有一本打开的书。</string>
+      <string id="BIRDS_REACT_TEXT">《鸟之书》，一本鸟的图鉴集，一些文字被画了标记。</string>
       <string id="CTS_BEDROOM_HYPNOSIS">Professor Wright is not here.</string>
       <string id="DECO_BE_HYP_WINDOW2">It is still snowing outside.</string>
       <string id="DECO_BE_WINDOW1">The snow is falling outside, slow and silent.</string>

@@ -1,0 +1,1129 @@
+ep6_attic	LG_KAUFFMAN_AT_14	And that we must find it.	这样我们就必须找到它。
+ep6_attic	LG_KAUFFMAN_AT_15	And how will we do that?	我们应该怎么做呢？
+ep6_attic	LG_KAUFFMAN_AT_17	But we have run out of leads. You did not find anything of use in the archive, and Professor Wright continues to mutter incoherently about childhood memories.	我们的线索都要断了。档案馆里没什么有价值的资料，莱特教授还在语无伦次地对童年记忆喋喋不休。
+ep6_attic	LG_KAUFFMAN_AT_16	There is one method we might try.	我们还有一条退路。
+ep6_attic	LG_KAUFFMAN_AT_18	You must hypnotize the Professor, mein lieber Freund.	你必须催眠教授，亲爱的朋友。
+ep6_attic	LG_KAUFFMAN_AT_19	We are running out of options. This might be the only way to find the answers we seek.	我们别无选择，这是我们寻求真相的唯一方法了。
+ep6_attic	RADIO_SOLVED_NO_USE	The device is silent.	器械没有发出任何声响。
+ep6_attic	RADIO_RESOLVED_PHRASE1	This sound…	这个声音……
+ep6_attic	PLH_RADIO_KNOB	I think it will work now.	现在它应该能用了。
+ep6_attic	RADIO_RESOLVED_PHRASE2	Do my ears deceive me? Is that... a piano melody? I must seek Kaufmann at once.	我的耳朵在欺骗我吗？那是……钢琴曲？我必须马上找到考夫曼。
+ep6_attic	ATTIC_CABLE_INSPECT	A gilded pipe runs from the strange device through to the floor below.	一根镀金的管子从一个奇怪的装置通向楼下。
+ep6_attic	GADGET_INSPECT	An unusual electrical device. I'm unfamiliar with its function, but I can tell that there is a piece of equipment missing.	一件奇特的电器。我不知道它是做什么用的，但我知道它缺失了一部分。
+ep6_attic	ECO_AT_BOOKCASE	A shelf covered in old ornaments, pieces of metalwork and pipes of strange shapes.	一个铺满老旧装饰品的架子，上面有各式各样的金属制品和奇形怪状的管道。
+ep6_attic	ECO_AT_WINDOW	The window is old and warped, letting in a cold draft.	这扇窗看上去很古老，略显扭曲，冰冷的寒风从中沁来。
+ep6_attic	LG_KAUFFMAN_AT_10	Not to state the obvious but it sounds as if someone is still down there - playing the piano, of all things.	显然有人在下面——至少在弹琴。
+ep6_attic	LG_KAUFFMAN_AT_11	But... how is that even remotely possible?	但……这怎么可能呢？
+ep6_attic	LG_KAUFFMAN_AT_12	I do not know. But this means something important to us.	我不知道，但这个事实对我们很重要。
+ep6_attic	LEVER_INSPECT	Some kind of round mechanism.	某种圆形的机械。
+ep6_attic	LG_KAUFFMAN_AT_13	It means there is another entrance to the underground tunnel.	这意味着地下隧道有另一个入口。
+ep6_backyard	LG_HOUSEKEEPER_BY_20	Oh, of course. You see, he often asks me to tell him this tale. You can read it in one of the books of the library.	啊，当然。他经常让我讲这个故事。图书馆里的一本书就是讲这则传说的。
+ep6_backyard	LG_HOUSEKEEPER_BY_21	Do you know if professor Wright is fond of puzzles or riddles?	莱特教授喜欢谜题或者谜语吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_21_CH	Is professor Wright fond of riddles?	莱特教授喜欢谜语吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_22	Well, yes indeed. He has always been an enthusiast of every mind game you can think of. When his health was better he used to host themed soirees every other month.	啊，是的。他对于一切思维游戏都很热衷。当他身体还好的时候，他还每两个月组织一次主题晚会。
+ep6_backyard	LG_HOUSEKEEPER_BY_23	Mrs. Oakwood, did the Professor ever work in the basement?	欧克伍德女士，教授在地下室工作过吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_23_CH	Did Professor Wright work in the basement?	莱特教授在地下室工作过吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_24	In the basement?	在地下室？
+ep6_backyard	LG_HOUSEKEEPER_BY_25_CH	I must go.	我该走了。
+ep6_backyard	LG_HOUSEKEEPER_BY_25	I will leave you to your work. Thank you for your assistance.	你继续工作吧，感谢你的帮助。
+ep6_backyard	ROOT2_REACT	Another note, and a key, bound together.	另一张纸条和一把钥匙绑在一起。
+ep6_backyard	ROOT1_INSPECT	This oak tree looks ancient. Probably older than the Manor itself.	这棵橡树看上去很古老，说不定比庄园还古老。
+ep6_backyard	ROOT2_INSPECT	It looks as though something has been concealed beneath the thick roots.	看上去盘根错节的树根下藏着什么东西。
+ep6_backyard	ROOT3_INSPECT	Nothing but a few small plants, withered by the morning frost.	只是几株小植物，在晨霜中凋谢。
+ep6_backyard	LG_HOUSEKEEPER_BY_4	Mrs Oakwood?	欧克伍德女士？
+ep6_backyard	LG_HOUSEKEEPER_BY_5	Yes?  Who is it?	没错？你是谁？
+ep6_backyard	LG_HOUSEKEEPER_BY_6	Good morning, Mrs Oakwood.  Don't you remember me?	早上好，欧克伍德女士。你不记得我了吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_7	Why, Dr Kaufmann!  Bless my soul, it's been so long I hardly recognise you.  How nice to see you again.	啊，考夫曼医生！天哪，过了这么久又见到你了，几乎认不出你了。再见到你真好。
+ep6_backyard	LG_HOUSEKEEPER_BY_8	Allow me to introduce my colleague, Dr John Wakefield. Is the Professor at home? We would like to see him.	这是我的同事，约翰·威克菲尔德医生。教授在家吗？我们想见见他。
+ep6_backyard	LG_HOUSEKEEPER_BY_9	Why yes Doctor, of course, I am quite forgetting myself. Let me take you to him. It is real good of you to come. He receives so few visitors these days, on account of his condition.	啊好的医生，当然，我有些走神。让我把你带到他那里。你们能来真是太好了。很少有人愿意来见他了，他的身体状况不允许探望。
+ep6_backyard	LG_HOUSEKEEPER_BY_10	His condition?	他的身体状况？
+ep6_backyard	LG_HOUSEKEEPER_BY_11	Oh sir, I am right sorry. I thought you knew. The Professor... he... he suffers from an ailment afflicting his brain. He is now entirely confined to his bed.	哦先生，真是抱歉。我以为你知道的。教授……他……脑部出了一点问题。他现在卧床不起。
+ep6_backyard	LG_HOUSEKEEPER_BY_15	May I ask you something, Mrs Oakwood?	我能问你一件事吗，欧克伍德女士？
+ep6_backyard	LG_HOUSEKEEPER_BY_16	Of course, Doctor.	当然可以，医生。
+ep6_backyard	LG_HOUSEKEEPER_BY_17_CH	How did the Professor become afflicted?	教授怎么得病的？
+ep6_backyard	LG_HOUSEKEEPER_BY_18	The ailment runs in his family. Mr Wright suffers from it, as did his father and grandmother before him.	这种病是家族遗传的。莱特先生得了这种病，就和他的父亲与祖母一样。
+ep6_backyard	LG_HOUSEKEEPER_BY_17	How did the Professor become afflicted?	教授怎么得病的？
+ep6_backyard	LG_HOUSEKEEPER_BY_19	Professor Wright mentioned something, a tale from his childhood. He called it “The tale of travels”. Do you know what would that be?	莱特教授提到了一件事情，一件童年的往事。他称之为“旅行传说”。你知道那是什么吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_19_CH	Professor Wright mentioned a tale...	莱特教授提到了一则传说……
+ep6_backyard	LG_HOUSEKEEPER_BY_41	Have a good day.	祝你愉快。
+ep6_backyard	ECO_BA_FOUNTAIN	A thick layer of ice covers the pool of water.	一层厚厚的冰覆盖着水池。
+ep6_backyard	LG_HOUSEKEEPER_BY_42	Mrs Oakwood.  She is the manor's housekeeper.	欧克伍德女士是庄园的管家。
+ep6_backyard	ROOTS_CLUE	This key has been engraved with the shape of a feather.	钥匙上刻着羽毛的图案。
+ep6_backyard	LG_HOUSEKEEPER_BY_44_CH	Professor Wright mentioned a book.	莱特教授提到了一本书。
+ep6_backyard	LG_HOUSEKEEPER_BY_44	Professor Wright mentioned something, "The Book of Travels". Do you know what that might be?	莱特教授提到了《旅行之书》。你知道那是什么吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_46	Why yes Doctor, I know that story well, I do indeed. He often asks me to read it him.	啊是的，医生。我确实知道那个故事。他经常让我给他念这个故事。
+ep6_backyard	LG_HOUSEKEEPER_BY_45_CH	Is Professor Wright fond of riddles?	莱特先生喜欢谜语吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_45	Do you know, is the Professor fond of puzzles or riddles?	教授是不是喜欢谜题或者是谜语？
+ep6_backyard	LG_HOUSEKEEPER_BY_47	Indeed yes! He has long been an enthusiast of every mind game you can imagine.	确实是的！他对于一切思维游戏都很热衷。
+ep6_backyard	LG_HOUSEKEEPER_BY_48	In better days, he would host parties every other month, "themed soirees" he called 'em. Oh those were good times.	当他身体还好的时候，他还每两个月组织一次聚会。他称之为“主题晚宴”。哦，那是很美好的时光。
+ep6_backyard	LG_HOUSEKEEPER_BY_49	It seems long ago now.	那是很久之前的事了。
+ep6_backyard	LG_HOUSEKEEPER_BY_50	The book should be in the library.	书应该在图书馆里。
+ep6_backyard	LG_HOUSEKEEPER_BY_26	Have a good day, Dr. Wakefield.	再见，威克菲尔德医生。
+ep6_backyard	LG_HOUSEKEEPER_BY_29_CH	What are the symptoms of this illness?	这种病的症状是什么？
+ep6_backyard	LG_HOUSEKEEPER_BY_29	This ailment that runs in Professor Wright's family, do you know what its symptoms are?	这种病是莱特教授家族的遗传病，你知道这种病的症状是什么吗？
+ep6_backyard	LG_HOUSEKEEPER_BY_31	It is truly a terrible thing. And to think, all these years Mr Wright knew what would become of him... May God have pity on his poor soul.	这是一个很可怕的病。而且单单去想这么些年，莱特教授都知道他最终会变成什么样子……愿主怜悯他可怜的灵魂。
+ep6_backyard	LG_HOUSEKEEPER_BY_30	Well, I can't speak those very long words physicians use.	嗯，医师说的专业术语我一窍不通。
+ep6_backyard	LG_HOUSEKEEPER_BY_32	But I can tell you what I see in him. Professor Wright hardly remembers a thing from the last forty years.	但我能告诉你我能看见什么。莱特先生对过去四十年发生的事情忘得一干二净。
+ep6_backyard	LG_HOUSEKEEPER_BY_33	It is like he is a child again. With God's mercy it has now gone so far that it torments him no longer.	就好像他返老还童了。主的怜悯已经使他不以之为困了。
+ep6_backyard	LG_HOUSEKEEPER_BY_34	It is an easy find Doctor. Look for the big book with the colourful cover.	这本书很好找，医生。就是那本彩色封面的大书。
+ep6_backyard	LG_HOUSEKEEPER_BY_35	He asked his guests to solve a make-believe mystery. Oh, to picture those gentlemen and ladies following clues all around the house and its premises, all night long...	他让客人们解决一个虚构的谜题。哦，记得当时那些先生、女士在房子和周围寻找线索，一直到深夜……
+ep6_backyard	LG_HOUSEKEEPER_BY_36	Mr. Wright had some eccentric friends. But, as time has proven, their loyalty was scarce. Almost none of them have visited the master since.	莱特先生有一些古怪的朋友。但是时间证明他们并不忠心。他们几乎所有人都再也没来见过莱特大师。
+ep6_backyard	LG_HOUSEKEEPER_BY_37	Mr. Wright said... No, I... You must excuse me, Dr. Wakefield. I'm very busy right now.	莱特先生说……不，我……不好意思，威克菲尔德医生。我现在很忙。
+ep6_backyard	LG_HOUSEKEEPER_BY_40	I am sorry, Dr. Wakefield. I must finish my work here. Have a good day.	对不起，威克菲尔德医生。我必须忙完手头的工作。祝你愉快。
+ep6_basement	TOO_DARK_TO_CONTINUE_THINK	It is too dark. I need something to light the way.	太暗了，我需要把路照亮。
+ep6_basement	NOMOREMATCHES	I have run out of matches.	我的火柴用完了。
+ep6_basement	ECO_BA_FORNITURE	This old furniture has been left here to rot.	这件老家具在这里慢慢腐烂。
+ep6_basement	AIR_STREAM_THINK	It's completely dark in here. I feel a cold draft coming from the front.	这里漆黑一片，我能感觉到前方有一丝寒风。
+ep6_basement	HIDDEN_LEVER_INSPECT	It is a mechanism of some sort.	这是某种机械装置。
+ep6_bathroom	MIRROR_MESSAGE_DISCOVERED	Reflect on yourself in the heat of passion... to reveal knowledge that the cold eye of logic sees not... Condensation from the teapot's steam has revealed a hidden message!	在激情的热浪中反思自己……显露理性的冷眼无法察觉的知识……茶壶里冒出的蒸汽在镜子上冷凝成了一条隐藏信息！
+ep6_bathroom	ECO_BA_PIPE	A gilded pipe. It runs from the floor to the ceiling.	一条镀金管道，从地面通向天花板。
+ep6_bathroom	BETASLOT_BA_BATH	A large porcelain tub, its' hefty weight supported on four blackened, iron feet. A thin ring of damp residue around its interior suggests recent use.	一个大陶瓷浴缸，它的重量全部压在四只黑黑的铁质底座上。它内部的一层潮湿的残余物指出有人最近用过它。
+ep6_bathroom	ECO_BA_HEATER	A common radiator.	一个普通的暖气片。
+ep6_bathroom	CLUE1_INSPECT	Reflect on yourself... said the riddle, and "the cold eye of logic sees not..." Could there be something here, hidden somehow?	反思自己……谜语如是说道，“理性的冷眼无法察觉的知识……”难道这里隐藏着什么东西吗？
+ep6_bathroom	MIRROR1_INSPECT	Though I see myself in the mirror, the reflection is strangely distorted.	尽管我能看到自己的镜像，但是镜像奇怪地扭曲了。
+ep6_bathroom	MIRROR2_INSPECT	Curiously, the message remains visible even though the condensation has evaporated.	真是奇怪，虽然冷凝的水珠蒸发了，但是上面的信息还清晰可辨。
+ep6_bathroom	PLH_MIRROR_HOTTEAPOT	The teapot's steam has revealed a hidden message on the mirror.	茶壶的蒸汽在镜子上凝成了一条信息。
+ep6_bedroom	CTS_BEDROOM_HYPNOSIS	Professor Wright is not here.	莱特教授不在这里。
+ep6_bedroom	ECO_BE_HYP_WINDOW2	It is still snowing outside.	外面还在下雪。
+ep6_bedroom	ECO_BE_WINDOW1	The snow is falling outside, slow and silent.	外面的雪纷纷扬扬地落下，缓慢且安静。
+ep6_bedroom	ECO_BE_WINDOW2	Professor Wright's gaze remains fixed on the window, as though he were waiting for someone.	莱特教授的目光聚焦在窗户上，好像在等人。
+ep6_bedroom	LG_MENTOR_SOLDIER_23	Could it be related to the letter I found?	这有没有可能和我找到的信件有关？
+ep6_bedroom	LG_MENTOR_SOLDIER_24	Indeed mein Freund. And only by solving the puzzle.	确实如此，我的朋友。只能通过解决谜题来完成。
+ep6_bedroom	CTS_KAUFMANN_NO_TIN	I should try to stimulate Professor Wright's memory first.	我应该先刺激莱特教授的记忆。
+ep6_bedroom	CTS_ENVELOPE_KAUFMANN_NO_TIN	I should try to stimulate Professor Wright's memory first.	我应该先刺激莱特教授的记忆。
+ep6_bedroom	KAUFFMAN_TO_MENTOR_FT1	Now I wonder...↵
+What if I had stayed?	现在我回想过去……↵
+如果我当时留下了，会怎么样？
+ep6_bedroom	KAUFFMAN_TO_MENTOR_FT2	Remember those times?  We would get almost no sleep at all.	记得当时的时光吗？我们几乎彻夜不眠。
+ep6_bedroom	KAUFFMAN_TO_MENTOR_FT3	Please, Professor.↵
+Talk to me.	教授，求你了。↵
+和我说话吧。
+ep6_bedroom	LG_BEDROOM_CTS28	Meanwhile, I will try and talk to him about the time we researched together.	同时，我要试试和他谈论关于曾经一起研究的时光。
+ep6_bedroom	LG_BEDROOM_CTS29	That could also help him remember...	那应该可以帮助他记忆……
+ep6_bedroom	LG_BEDROOM_CTS30	Maybe we could help him remember...	说不定我们能帮助他记忆……
+ep6_bedroom	LG_KAUFFMAN_BR_24	We must find a way to help the Professor recover his memories.	我们必须想办法帮助教授恢复记忆。
+ep6_bedroom	LG_KAUFFMAN_BR_25	Why don't you try to find some object that the Professor may have kept as a memento?	你可以去找教授保留的某些纪念品。
+ep6_bedroom	LG_KAUFFMAN_BR_28	Meanwhile, I will keep telling him about the years we spent researching together.	同时，我会继续和他聊当年一起研究的时光。
+ep6_bedroom	LG_KAUFMANN_TIN_SOLDIER_1	This tin soldier appears to commemorate a military campaign. Perhaps it could jog the Professor's memories?	这个锡兵是为了纪念一次军事活动，说不定它可以激发教授的记忆。
+ep6_bedroom	LG_KAUFMANN_TIN_SOLDIER_2	Yes, this could work, mein Freund. Why don't you show it to him?	是的，我的朋友，可以这么做，为什么你不把它给教授看呢？
+ep6_bedroom	LG_KAUFMANN_TIN_SOLDIER_3	Yes, this could work, mein Freund. Why don't you show it to him?	是的，我的朋友，可以这么做，为什么你不把它给教授看呢？
+ep6_bedroom	LG_MENTOR_SOLDIER_6	Sergeant Downing was sent to the front. The man that returned was not Sergeant Downing.	唐宁军士被送上了前线，从前线下来的那个人再也不是唐宁军士了。
+ep6_bedroom	LG_MENTOR_SOLDIER_7	It is properly hidden. Concealed... but he will find it, I have no doubt.	它藏得很好。完全隐藏了起来……但他会找到它的，对此我毫不质疑。
+ep6_bedroom	LG_MENTOR_SOLDIER_8	Your visitor? What do you mean, Professor?	你的访客？你是什么意思，教授？
+ep6_bedroom	LG_MENTOR_SOLDIER_9	My dearest visitor. He will know where to look. Oh, what a time we will have!	我最亲爱的访客，他知道该看哪里。哦，我们将会度过多么快乐的时光啊！
+ep6_bedroom	LG_MENTOR_SOLDIER_10	He will have seen the map. And he will know The Book of Travels.	他会看地图，会得知《旅行之书》的事情。
+ep6_bedroom	LG_MENTOR_SOLDIER_11	The Book of Travels?	《旅行之书》？
+ep6_bedroom	LG_MENTOR_SOLDIER_12	Yes yes, he will work it out. But it must not be too easy, no. But he will find the prize, I am sure.	是的，是的，他会想出答案。但不会太简单的，不会。但他一定会找到奖品的。
+ep6_bedroom	LG_MENTOR_DEFAULT_7	My dearest visitor will find the prize.	我最亲爱的访客会找到这件奖品。
+ep6_bedroom	LG_MENTOR_SOLDIER_13	Prize...? What on earth is he talking about Kaufmann?	奖品……？考夫曼，他在说什么？
+ep6_bedroom	LG_MENTOR_SOLDIER_14	Something concealed... something precious. In his addled state, could he have hidden away parts of his research?	被隐藏的东西……珍贵的东西。他在脑子糊涂的时候会不会把研究的一部分藏了起来？
+ep6_bedroom	LG_MENTOR_SOLDIER_15	Hmmm. He was always a proud man. He would not easily have forgotten his most ground-breaking work. A sense of its grave importance at least would have remained. In his confusion, perhaps he has holed it away somewhere, for this "dearest visitor" of his to find.	嗯。他一直是个很有自尊的人。他不会轻易忘记自己最具有突破性的发现。对它重要性的感觉总会残留在他的脑中。他在糊涂的时候可能把它藏在了什么地方，让他“最亲爱的访客”寻找。
+ep6_bedroom	LG_MENTOR_SOLDIER_20	Why don't you explore the Manor? Perhaps something will relate to these latest ramblings.	你去探索庄园吧，说不定有些东西能与最近的漫谈有联系。
+ep6_bedroom	LG_MENTOR_SOLDIER_21	Meanwhile, I will continue my endeavours to revive his memory through conversation…	同时，我将继续通过对话唤醒他的记忆……
+ep6_bedroom	LG_KAUFFMAN_BR_31	The Professor has mentioned a map and a certain work titled “The Book of Travels”.	教授提到了一张地图和一本名为《旅行之书》的典籍。
+ep6_bedroom	LG_KAUFFMAN_BR_32	What could he mean by that?	他是什么意思？
+ep6_bedroom	LG_KAUFFMAN_BR_34	What could he mean by that?	他是什么意思？
+ep6_bedroom	LG_MENTOR_DEFAULT_10	I have no doubt.	我毫不怀疑。
+ep6_bedroom	LG_MENTOR_DEFAULT_11	Father...	父亲……
+ep6_bedroom	LG_KAUFFMAN_BR_37	I am increasingly of the opinion that this is some mental construct - some riddle conjured up by the Professor's failing mind. He may not even have even understood what he hid.	我越来越相信这只不过是某种心灵概念——教授不堪一击的心灵凭空产生的谜语。他说不定都不明白自己藏了什么东西。
+ep6_bedroom	LG_KAUFFMAN_BR_38	A riddle... And who would that “visitor” be?	谜语……那么这位“访客”又是谁呢？
+ep6_bedroom	LG_KAUFFMAN_BR_39	That is unknown to me, mein Freund. There is only one way to answer that question.	我不知道，我的朋友。只有一种方法回答这个问题了。
+ep6_bedroom	LG_KAUFFMAN_BR_40	If we can find the answer to the Professor’s riddle, perhaps we will be able to solve this mystery.	如果我们想到了教授出的谜语的答案，说不定我们就能解决这个谜团。
+ep6_bedroom	LG_KAUFFMAN_BR_41		
+ep6_bedroom	LG_KAUFFMAN_BR_42	Only by answering the riddle can we hope to solve this mystery.	解决这个谜团只能通过先解决这则谜语。
+ep6_bedroom	WCMB_BEDROOM_ENVELOP_MENTOR	It would be better to give this to Kaufmann.	最好把这个给考夫曼。
+ep6_bedroom	MENTOR_CLOTHES_INSPECT	Professor Wright's dressing gown and slippers.	莱特教授的晨衣和拖鞋。
+ep6_bedroom	BIRDS_BOOK_INSPECT	There is an open book on the floor.	地上有一本摊开的书。
+ep6_bedroom	BIRDS_REACT_TEXT	“The Book of Birds”. It is a compilation of legends related to birds. Some of the text has been marked.	《鸟之书》。这是一本鸟类传说的汇编。有些文章被打上了记号。
+ep6_bedroom			
+ep6_bedroom	LG_KAUFFMAN_BR_8	Kaufmann, look, I found an envelope. It was hidden inside a globe that a strange mechanism opened.	考夫曼，看，我找到了一个信封。它藏在某奇怪机械打开的球体里。
+ep6_bedroom	LG_KAUFFMAN_BR_9	“To my dearest visitor”. Let us see what is inside.	“致我最亲爱的访客”。让我们看看里面写了什么。
+ep6_bedroom	LG_KAUFFMAN_BR_10	Exactly, this is another part of an intricate riddle. But to what purpose? To conceal something, perhaps? Or just the last acts of a confused and drowning mind?	没错，这是一则复杂谜语的另一部分。但是目的是什么呢？难道是为了隐藏什么东西？或者是一个混沌、濒死的思想最后的挣扎？
+ep6_bedroom	LG_BEDROOM_CTS1	Professor Wright, you have visitors. One of them is your old friend. Look, look, do you recognise him?	莱特先生，有人来见你了。其中有一个人是你的老朋友。看，看，你还记得他吗？
+ep6_bedroom	LG_BEDROOM_CTS2	I reckon he does remember you, Johan. It has been a long time since I have seen him so excited.	我觉得他认识你，乔安。他很久没有这么激动了。
+ep6_bedroom	LG_BEDROOM_CTS5	Professor?	教授？
+ep6_bedroom	LG_BEDROOM_CTS6	Uncle James... You are back...	詹姆斯叔叔……你回来了……
+ep6_bedroom	LG_BEDROOM_CTS7	It is I, Professor. Johan Kaufmann.	是我，教授。乔安·考夫曼。
+ep6_bedroom	LG_MENTOR_SOLDIER_2	Do you recognize this, Professor Wright?	你记得这个吗，莱特教授？
+ep6_bedroom	LG_MENTOR_DEFAULT_1	Professor Wright?	莱特教授？
+ep6_bedroom	LG_MENTOR_DEFAULT_2	Father? Why must you spend so much time away?	父亲？你为什么经常不在家？
+ep6_bedroom	LG_BEDROOM_CTS17	Where is Father? Where has he been taken?	父亲在哪里？他被带到哪里去了？
+ep6_bedroom	LG_BEDROOM_CTS18	…↵	……↵
+ep6_bedroom	ECO_BE_WARDROBE	A large wardrobe of engraved wood.	一个大型木雕衣柜。
+ep6_bedroom	LG_BEDROOM_CTS19	It is Johann, Professor - your old pupil.	是乔安啊，教授——是你的学生啊。
+ep6_bedroom	LG_BEDROOM_CTS20	I will leave you two to talk to the Professor. It may be difficult to keep him on one subject for long but oh it does him such a world of good to speak with old friends.	你们两个继续和教授谈话吧。让他集中精力在同一件事情上太久或许有些困难，但是，和老朋友说说话对他是一定有好处的。
+ep6_bedroom	LG_BEDROOM_CTS21	Should you need my assistance, I will be in the backyard.	如果你需要我的帮助的话，我在后院里。
+ep6_bedroom	LG_BEDROOM_CTS22	He suffers from some kind of memory loss…	他有些失忆……
+ep6_bedroom	LG_BEDROOM_CTS23	Yes. I am afraid he will not tell us much in this state.	是的，恐怕这个状态下他不会告诉我们有价值的信息。
+ep6_bedroom	LG_BEDROOM_CTS24	If we could but stimulate his memories…	如果我们能刺激他的记忆……
+ep6_bedroom	LG_BEDROOM_CTS25	Maybe then he could tell us of his research. Something to unravel the mystery of the Playwright.	那么他可能会告诉我们他的研究结果，用来拨开“剧作家”迷雾的东西。
+ep6_bedroom	LG_BEDROOM_CTS26	Perhaps. We have few other options in any case. Let us try.	有可能。反正我们别无选择。我们试试吧。
+ep6_bedroom	LG_BEDROOM_CTS27	Why don't you explore the Manor? There may some object we can use to jog the Professor's memory.	你去探索庄园吧，说不定能找到可以激发教授的记忆的物件。
+ep6_bedroom_posthypnosis	ECO_BE_HYP_WINDOW2	It is still snowing outside.	外面还在下雪。
+ep6_bedroom_posthypnosis			
+ep6_bedroom_posthypnosis	ECO_BE_WARDROBE	A big wardrobe of engraved wood.	一个大型木雕衣柜。
+ep6_bedroom_posthypnosis	LG_KAUFFMAN_BR_41		
+ep6_bedroom_posthypnosis	MENTOR_CLOTHES_INSPECT	Professor Wright's dressing gown and slippers.	莱特教授的晨衣和拖鞋。
+ep6_bedroom_posthypnosis	BIRDS_BOOK_INSPECT	There is an open book on the floor.	地上有一本摊开的书。
+ep6_bedroom_posthypnosis	BIRDS_REACT_TEXT	“The Book of Birds”. It is a compilation of legends related to birds. Some of the text is marked.	《鸟之书》。这是一本鸟类传说的汇编。有些文章被打上了记号。
+ep6_bedroom_posthypnosis	CTS_BEDROOM_HYPNOSIS	Professor Wright is not here.	莱特教授不在这里。
+ep6_birdsroom	BROKENBUST2_INSPECT	There is nothing else in the compartment.	隔间里没有其他东西了。
+ep6_birdsroom	BROKENBUST_INSPECT	A Truth our ancestors knew and with stone silence came to un-know…	我们祖先知道的“真相”在沉默中变成了未知……
+ep6_birdsroom	BUST_INSPECT	A bust of the greek philosopher Anaxagoras.	一尊希腊哲学家阿那克萨戈拉的半身像。
+ep6_birdsroom	BUST_REACT	"...a Truth that our ancestors knew and through stone silence came to un-know..." There is a small compartment in the base of the bust! Inside this, a note.	“我们祖先知道的‘真相’在沉默中变成了未知……”半身像基座上有个小隔间！里面有一张纸条。
+ep6_birdsroom	JAILBIRD1_INSPECT	A bird with red feathers on its head and breast. “Erithacus rubecula”.	一只头部和胸部长着红色羽毛的鸟。“Erithacus rubecula（欧亚鸲）”。
+ep6_birdsroom	JAILBIRD1_INSPECT2	All the birds have suddenly stopped their chittering.	突然所有的鸟都沉寂了下来。
+ep6_birdsroom	ECO_BI_CRISTAL	Through the glass I see rolling hills covered in snow.	透过玻璃我看到了覆盖着皑皑白雪的逶迤群山。
+ep6_birdsroom	ECO_BI_JAIL1	Inside this cage there is a bird with a black head and orange breast. The sign reads “Pyrrhula pyrrhula”.	笼子里的鸟头部黑色，长着橙色胸羽。标牌上写着“Pyrrhula pyrrhula（红腹灰雀）”
+ep6_birdsroom	ECO_BI_JAIL2	Inside the cage there is a crow with black and grey feathers. The sign reads “Corvus cornix”.	笼子里关着一只长着黑灰色羽毛的乌鸦，标牌上写着“Corvus cornix（冠小嘴乌鸦）”。
+ep6_birdsroom	ECO_BI_JAIL3	There is a bird with a pale brown breast inside this cage. The sign reads “Luscinia megarhynchos”.	这只长着浅棕色胸羽的鸟被关在了笼子里。标牌上写着“Luscinia megarhynchos（新疆歌鸲，夜莺）”。
+ep6_birdsroom	ECO_BI_JAIL4	This bird is black with a yellow beak. The sign on its cage reads “Turdus merula”.	这只鸟全身黑色，长着黄色的喙。笼子上的标牌写着“Turdus merula（乌鸫）”。
+ep6_birdsroom	ECO_BI_JAIL5	The bird inside has a grey breast and brown wings. “Passer domesticus”.	里面的鸟长着灰色胸羽和棕色翼羽。“Passer domesticus（家麻雀）”。
+ep6_birdsroom	ECO_BI_JAIL6	Inside the cage there is a small bird with black and white wings and a feathered crest. The sign reads “Upupa epops”.	笼子里有一只翅膀颜色黑白相间，带有羽冠的鸟。标牌上写着“Upupa epops（戴胜）”。
+ep6_birdsroom	ECO_BI_JAIL7	The bird inside this cage has yellowish brown feathers. The sign on the cage reads “Carduelis flavirostris”.	这只笼子里的鸟有黄棕色的翅膀。笼子上的标牌写着“Carduelis flavirostris（黄嘴朱顶雀）”。
+ep6_birdsroom	ECO_BI_JAIL8	A curious bird with long legs. The sign on the cage reads “Porphyrio alleni”.	一只长着长腿的奇特鸟类。笼子上的标牌写着“Porphyrio alleni（辉青水鸡）”。
+ep6_birdsroom	JAIL_ALREADY_COVERED	The cage is covered with a cloth. The bird inside is silent.	笼子被布盖住了，里面的鸟停止了鸣叫。
+ep6_birdsroom	FIRST_TIME_COVER_JAIL	The bird inside grows suddenly quiet.	里面的鸟突然沉默了。
+ep6_birdsroom	JAILBIRD9-2_INSPECT	The birds are all now silent.	所有的鸟都不鸣叫了。
+ep6_birdsroom	JAILBIRD6-2_INSPECT	The birds are all now silent.	所有的鸟都不鸣叫了。
+ep6_birdsroom	CLUE_THINK	Primal… horror?	原初……恐惧？
+ep6_birdsroom	JAILBIRD7-COVERED_INSPECT	An embroidered cloth covers this cage.  On it is written, "If the birds are silent..."  The phrase trails off.	这个笼子上盖着一张绣花的布。上面写着：“如果鸟儿们都沉默不语……”这句话后半部分模糊不清。
+ep6_birdsroom	FRONTYARD_DOOR_OPENS_BIRDROOM	It sounds as if there is someone at the door.	听上去像有人站在门边。
+ep6_church	WCMB_PHOTO_PASTOR	Father Oscar asked me to take this picture to Professor Wright…	奥斯卡神父吩咐我把这张照片带给莱特教授……
+ep6_church	LG_PASTOR_2_CH	Does no one come to church anymore?	没有人再来教堂了吗？
+ep6_church	LG_PASTOR_2	What is the matter, Father?  What has happened to your parishioners?	怎么了，神父？你的教区下辖居民呢？
+ep6_church			
+ep6_church	LG_PASTOR_3	The village has seen bleak times.  Many have left and the rest have lost their faith.  Every day I ring the bells but no one answers.  May God have mercy on their souls.	这座村庄一度凄凉无比。很多人离开了，其他人丧失了信仰。每天我都会敲钟，但是没有人来。愿主宽恕他们的灵魂。
+ep6_church	LG_PASTOR_4	Why do you suppose that is?	你认为这是为什么呢？
+ep6_church	LG_PASTOR_5	I could not say... The mist that shrouds this coast and the shapes that swirl within have long been a source of hearsay. But lately the stories people tell are not of pirates and smugglers but something more sinister. Some say the Devil himself has come to our shore. It is a rumour I dare not disregard.	我不知道……笼罩海岸的迷雾和里面攒动的形体早已成为了传闻的来源。但是最近人们道听途说的故事不再限于海盗和偷渡者，他们的故事更加凶险。有人说恶魔的本体降临于我们的岸边。这则传闻我不敢忽视。
+ep6_church	LG_PASTOR_6_CH	Are you personally acquainted with Professor Wright?	你认识莱特教授吗？
+ep6_church	LG_PASTOR_6	Are you personally acquainted with Professor Wright?	你认识莱特教授吗？
+ep6_church	LG_PASTOR_7	Why, yes, of course. Adam was... rather, is not merely a parishioner but one of my closest friends. Since our youth we enjoyed many scholarly, but sometimes really fervent discussions, he an anthropologist and myself a theologian. That is, until he fell ill.	啊，是的，当然。亚当是……不只是一位教徒，还是我最亲近的朋友之一。从我们少时起我们就会进行很多学术且有时激烈的讨论，他代表人类学一方，我代表神学一方。直到他得了病。
+ep6_church	LG_PASTOR_8_CH	I must go.	我该走了。
+ep6_church	BETASLOT_DECO_CH_CONFESSIONAL	A confessional. So Wickport serves a Catholic congregation.	一份忏悔书。那么维克港的确有天主教教众。
+ep6_church	LG_PASTOR_8	I must go, father.	神父，我该走了。
+ep6_church	LG_PASTOR_12	May the Lord be with you.	愿主伴你左右。
+ep6_church	LG_PASTOR_13	Wait a moment please... I need to ask for a small favor. Please give this to Adam, I don't know if it will mean anything to him now, but it will bring peace to my soul, if there is some token of our friendship resting by his side.	请等一下……我有一个小小的请求。请把这个给亚当，我不知道现在这对于他还会意味着什么，但它会把安谧还给我的灵魂，因为我们友谊的见证应该常伴他身旁。
+ep6_church	ECO_CH_BROKENWINDOW	The window has been boarded up.	这扇窗被木板封住了。
+ep6_church	ECO_CH_CONFESSIONAL	A confessional.	一份忏悔书。
+ep6_church	ECO_CH_CROSS	This neglected and decaying cross reflects the faith of the villagers all too well.	这只被忽视而逐渐腐烂的十字架完全反映了村民们的信仰。
+ep6_church	ECO_CH_ALTAR	A humble altar made of unadorned marble.	一尊简陋的祭坛，点缀以朴素的大理石珠。
+ep6_church	LG_PASTOR_26_CH	I am looking for a man named Oscar.	我在找一个叫奥斯卡的人。
+ep6_church	LG_PASTOR_26	I am looking for a man named Oscar. Do you know him?	我在找一个叫奥斯卡的人。你认识他吗？
+ep6_church	LG_PASTOR_28	I am Oscar, the pastor of this village. What brings you to God's doorstep?	我就是奥斯卡，这座村庄的牧师。是什么把你带到了主的领地？
+ep6_church	LG_PASTOR_29	But since he is... like that, I have not visited him.	但是既然他……是那样的，我从没有见过他。
+ep6_church	LG_PASTOR_30_CH	Does nobody come to Mass?	没有人来参加弥撒吗？
+ep6_church	LG_PASTOR_30	Father, why has nobody come to the Mass?	神父，为什么没有人来参加弥撒？
+ep6_church	LG_PASTOR_33	Good morning.	早上好。
+ep6_church	LG_PASTOR_34	Good morning, my son.	早上好，年轻人。
+ep6_cliff	LG_FISHERMAN_22	You needn't answer. I know by your accent.	你无需回答，我认出了你的口音。
+ep6_cliff	LG_FISHERMAN_1	Good morning. I am Dr Wakefield.	早上好。我是威克菲尔德医生。
+ep6_cliff	LG_FISHERMAN_2	You come from the Town, don't you?	你是从镇上来的吗？
+ep6_cliff	LG_FISHERMAN_3	What do you mean?	你是什么意思？
+ep6_cliff	LG_FISHERMAN_4	*The man snorts*  You best be on your way back.  Strange things have been happening here.	*嗤之以鼻*你该回去了。这里发生了很奇怪的事。
+ep6_cliff	LG_FISHERMAN_6_CH	Screams, you say?	你是说尖叫吗？
+ep6_cliff	LG_FISHERMAN_6	People have heard screams coming from the sea?	人们听见了从海里传来的尖叫吗？
+ep6_cliff	LG_FISHERMAN_7_CH	What did you see in the rocks?	你在礁石群间看见了什么？
+ep6_cliff	LG_FISHERMAN_7	That... thing, the one you saw in the rocks. Can you tell me more about it?	那个……东西，你在礁石群间看见的东西。你能告诉我更多细节吗？
+ep6_cliff	LG_FISHERMAN_8	Bloody drunks. They say the sea howls at them, as if that was something new!	该死的醉汉。他们说大海向他们咆哮，搞得像以前没有一样！
+ep6_cliff	LG_FISHERMAN_9	Late night it was, me on my boat. Fishing, that's when I gets the best catch. Then I saw it. Not under the water, as the others say. It was on a rock. Perched there, like it was smelling for something.	深夜，我在船上捕鱼，这个时候收成最好。然后我就看见了它。并不是像别人说的沉在水下。它在一块礁石上，停留在上面，好像在闻什么东西。
+ep6_cliff	LG_FISHERMAN_10	So, what are you doing up here?	那么，你在高处做什么？
+ep6_cliff	LG_FISHERMAN_10_CH	What are you doing here on the cliff's edge?	你在悬崖边干什么？
+ep6_cliff	LG_FISHERMAN_12	I come here when I can, to watch the shore. Just in case that thing comes back.	我一有空就来这里，观察海滨。以防那个东西再回来。
+ep6_cliff	PLH_TELESCOPE_FISHERMAN	Usa el telescopio y me señala una nueva localización.	我可以用望远镜看其它地方。
+ep6_cliff	LG_FISHERMAN_17	Oh, un viejo catalejo. La lente está algo rallada pero puede servirme. Mmmh... Mmmmh..... ¡Oh! ¿Qué es eso? Por la ladera del acantilado hay lo que se podría decir que son los restos de una casa. Nunca me había percatado de ello. Creo que desde aquí se puede llegar.	哦，这只望远镜很古老了。镜片有些碎裂但是还能用。嗯……嗯……哦！这是什么？悬崖边是人们所说的房子的废墟。我从没有关注过它。你可以从这里看到它。
+ep6_cliff	LG_FISHERMAN_21	Here. Would this help you watch the shore?	给你。这可以帮助你看守海滨吗？
+ep6_cliff	ECO_CL_ROCKS	Sharp rocks peek out from beneath the waves. These must be treacherous waters to sail.	尖锐的礁石在波涛下若隐若现。这里的水域非常危险，不适合航行。
+ep6_cliff	NIGHTMARE_DATE	17 de enero de 1881	1881年1月17日
+ep6_cliff	LG_FISHERMAN_23	Be careful round these cliffs. This is no place for tourists, it's hardly a place for anyone now!	在悬崖边要小心，这里不是游客该来的地方，这里不是任何人该来的地方！
+ep6_cliff	LG_FISHERMAN_24	Seamen and fishermen alike swear to have heard voices in the rising tide. Inhuman screams, some of them say.	海员和渔夫都赌咒发誓在海浪中听到了声音。非人的尖叫，有人这么说。
+ep6_cliff	LG_FISHERMAN_25	And there are some who claim to have witnessed ungodly things in the dead of night.	还有人声称在深夜见到了邪恶的存在。
+ep6_cliff	LG_FISHERMAN_26	I once saw a ghastly thing crawling out there amongst the rocks.	我曾经看到一个可怕的东西在礁石间爬行。
+ep6_cliff	LG_FISHERMAN_27	The shape of it... like nothing I ever saw before, not walking on the earth nor swimming in the sea.	它的形状……我之前从未见过，非兽非鱼。
+ep6_cliff	LG_FISHERMAN_28	Whatever it was, the mist itself was its ally! Hiding it from my bare eyes, and in the end, disappearing away together. I swear, should I see that horror again, I will take my most vicious harpoon and thrust it so deep in its wretched body that they will have to bury them together!	无论那是什么，迷雾本身就是它的盟友！蒙蔽了我的双眼，最终一起消失。我发誓，如果我再见到那个恐怖的东西，我会拿起我最尖利的鱼叉深深地刺在它邪恶的身体上，把它们一起埋葬！
+ep6_cliff	LG_FISHERMAN_29	De eso no puedo hablarle mucho, yo sólo faeno cerca de la costa en las noches de calma.	我对此不能多说什么，我只是在安静的夜晚在岸边观望。
+ep6_cliff	LG_FISHERMAN_30	The thing was big and hunched over, like a crouching man. The way it moved... it made my flesh crawl.	那个东西巨大且驼着背，像一位伛偻的老者。它移动的方式令我发指。
+ep6_cliff	LG_FISHERMAN_31	The mist down there is just too thick. I can see better from here, even if my eyes are not what they used to be.	下面的迷雾太浓厚了。我从这里看的更清楚，即使我的双眼大不如前了。
+ep6_cliff	LG_FISHERMAN_32	Damn it, if I could somehow regain my once sharp eyesight again. By God, I would impale that abomination for sure.	该死，要是我的视力能恢复之前的水平就好了。上天作证，我一定会一叉捅死那个邪恶的生物。
+ep6_cliff	LG_FISHERMAN_33	Why, it is old to be sure, but this telescope has been patched up to a rare beauty. You have my thanks stranger, I am indebted.	啊，它已经很古老了，但是这只望远镜经过修理，已经如同一位旷世佳人。感谢你，陌生人，你的恩惠我永生难忘。
+ep6_cliff	LG_FISHERMAN_34		
+ep6_cliff	LG_FISHERMAN_35	Hmmm ... Mmmmh ..... Oh! What is that? On the cliff there. Well blow me! But if it isn't the Wrights' old summer house. I thought it entirely destroyed! It looks like you can get there using the old cliff path.	嗯……嗯……哦！那是什么？在那个悬崖上。天哪！这难道是莱特一家的老避暑别墅吗？我以为它完全被毁了！你从那条悬崖上的老栈道走过去。
+ep6_cliff	LG_FISHERMAN_36	Excuse me... Did you say the Wrights' summer house?	不好意思……你说莱特一家的避暑别墅？
+ep6_cliff	LG_FISHERMAN_37	Well yes! I never saw it myself, I was too young at the time. But everyone round here knows the story well. It was a terrible tragedy, you see. One night, there was a landslide just beneath the house.	啊是的！我自己从未见过它，我当时还太小。但当地的所有人都熟知这则故事。那是一个可怕的悲剧。某晚，屋子下发生了山体滑坡。
+ep6_cliff	LG_FISHERMAN_38	Most of the building fell sheer into the sea, leaving only yonder ruins. Many died, though by a miracle young master Wright was spared.	大部分建筑近乎垂直地落入海中，只留下那里的废墟。很多人在其中丧生，然而莱特少爷奇迹般地活了下来。
+ep6_cliff	LG_FISHERMAN_39	I will not waver in my determination to destroy that thing. Not while this old body of mine endures.	只要还有一口气，我毁灭它的决心就决不会动摇。
+ep6_cliff	LG_FISHERMAN_40	You can see it from here. Look, right there on the other side of the beach. Do you see it?	你可以从这里看到。看，就在海滩的另一边。你看见了吗？
+ep6_cliff	BETASLOT_DECO_CL_TREE	A windswept old gnarly tree is clinging onto the cliff with what roots remain. Someday it will fall into the ocean below.	一棵饱经风雨的老树用根紧紧抓在悬崖上。终有一天它会落入海中。
+ep6_cliffhouseExt	ECO_CLE_TREE	The roots of this venerable tree tightly grip the rocks that anchor it against the harsh winds.	这棵庄严的树的根部紧咬住悬崖上的石头，在狂风中巍然不动。
+ep6_cliffhouseExt	ECO_CLE_CLIFF	A vertiginous drop. I can see the waves crash relentlessly against the rocks below.	一个令人眩晕的悬崖。我看见下方的海浪无情地拍打在礁石上。
+ep6_cliffhouseExt	ECO_CLE_ROCKS	These rocks look like the remains of a landslide.	这些礁石看上去是山体滑坡的遗迹。
+ep6_cliffhouseInt	ECO_CLI_GUARDROBE	An empty wardrobe. Its wood is rotted from long exposure to the sea air.	一个空衣柜，上面的木头长期暴露在海边的空气中而腐烂了。
+ep6_cliffhouseInt	ECO_CLI_PORTRAIT	This landscape shows the house as it was before the landslide ruined it.	这张风景画展示了屋子被山体滑坡摧毁前的样子。
+ep6_cliffhouseInt	ECO_CLI_SEA	This side of the cliff is heavily exposed to harsh sea wind and waves.	悬崖的边缘完全暴露在猛烈的海风和波涛下。
+ep6_cliffhouseInt	ECO_CLI_STRUCTURE	The foundations of the house are heavily damaged. I must proceed with utmost care. It could collapse at any time.	屋子的地基被严重地毁坏了。我必须小心前进。屋子随时可能坍塌。
+ep6_cliffhouseInt	FIREPLACE_INSPECT	There is a peculiar indentation in the stone.	石头上有一处奇怪的压痕。
+ep6_cliffhouseInt	OPEN_ORNAMENT_FIREPLACE	It has triggered some secret mechanism! There is a passage behind the fireplace. It seems to lead into the cliff.	它触发了某个秘密机械！壁炉后面藏着一个通道。看上去它笔直通向悬崖。
+ep6_cliffNightmare	NIGHTMARE_DATE		
+ep6_closedRoom	LG_KAUFFMAN_CR_10	Be careful.	保重。
+ep6_closedRoom	SILHOUETTES_INSPECT	A set of framed silhouettes. Under each is an inscribed plaque.	一组带画框的剪影画，每张画下面都有一块注释牌。
+ep6_closedRoom	SWITCH_DESC	A compartment has opened in the wall.	墙上开了一个洞。
+ep6_closedRoom	LG_KAUFFMAN_CR_50	Perhaps, though we should not jump to conclusions.	可能是吧，但是我们不应该直接得出结论。
+ep6_closedRoom	LG_KAUFFMAN_CR_4	What... What is this supposed to be?	这……这是什么？
+ep6_closedRoom	LG_KAUFFMAN_CR_7_CH	Sealed entrance.	密封的入口。
+ep6_closedRoom	LG_KAUFFMAN_CR_7	The entrance to the underground tunnel was sealed. What should we do now?	地下隧道的入口被密封了，我们现在应该做什么？
+ep6_closedRoom	LG_KAUFFMAN_CR_8	This is truly unfortunate, mein Freund.	不幸之至，我的朋友。
+ep6_closedRoom	LG_KAUFFMAN_CR_35_CH	Strange machine.	奇怪的机器。
+ep6_closedRoom	LG_KAUFFMAN_CR_35	I think I have found the device Professor Wright mentioned in his log.	我觉得我应该找到了莱特教授在日志里提到的设备。
+ep6_closedRoom	LG_KAUFFMAN_CR_38_CH	I will let you keep searching.	你继续搜索吧。
+ep6_closedRoom	LG_KAUFFMAN_CR_38	I will let you continue with your search, Kaufmann.	你继续搜索吧，考夫曼。
+ep6_closedRoom	LG_KAUFFMAN_CR_37	Excellent, mein Freund. Now you only need to figure out how to make it work.	非常好，我的朋友。现在你只要弄清楚它怎么工作就可以了。
+ep6_closedRoom	LG_KAUFFMAN_CR_15	I still need some time here. Why don't you check if that key opens the door to the basement?	我还需要一点时间，你试试这把钥匙能否打开地下室的门吧。
+ep6_closedRoom	LG_KAUFFMAN_CR_46	Hmm... Have a look at this. Be careful, there is a small key inside the folder.	嗯……看看这个，当心，文件夹里还有一把小钥匙。
+ep6_closedRoom	WAKEFIELD_CLOSED_ROOM_CTS_THINK	This looks like Professor Wright's archive. I should bring Kaufmann here at once.	这看上去是莱特教授的档案馆。我应该立即把考夫曼带到这里来。
+ep6_closedRoom	ECO_CL_BOOKSCASE1	A long series of folders with dates on them, in complete disarray.	一些带有日期的文件夹，十分杂乱。
+ep6_closedRoom	ECO_CL_BOOKSCASE2	Many folders. They have no distinctive tag on them.	很多文件夹。上面没有可以辨识的标签。
+ep6_closedRoom	ECO_CL_NOTES	Some shredded paper. It appears to have been notes.	一些碎纸片。看上去是几份笔记。
+ep6_closedRoom	SWITCH_PANEL_CLOSED	There is some kind of metallic hatch on the wall. There seems to be no handle on it.	墙上有某种金属舱口，上面没有把手。
+ep6_closedRoom	LG_KAUFFMAN_CR_47	It seems to be a log that the Professor kept during one of his experiments, almost seven years ago. It is noteworthy that one of the entries has been redacted...	看上去是教授在一次实验中记录的日志，近乎七年前记录的。引人注目的是一条内容被编辑过。
+ep6_closedRoom	LG_KAUFFMAN_CR_48	But what is written in there... It cannot be true. It must be some kind of hallucination.	但是上面写的东西……不可能是真的。这一定是某种幻觉。
+ep6_closedRoom	LG_KAUFFMAN_CR_49	A sign of Professor Wright's illness, maybe.	可能是莱特教授疾病的征兆吧。
+ep6_closedRoom	LG_KAUFFMAN_CR_51	We can conclude that the Professor had another working place, underground.	我们可以推断出教授在地下还有一处工作室。
+ep6_closedRoom	LG_KAUFFMAN_CR_53	Perhaps that key opens the basement door. There could be a route through to this underground tunnel.	这把钥匙大概可以打开地下室的门。可能有一条路通向地下隧道。
+ep6_closedRoom	LG_KAUFFMAN_CR_54	Meanwhile, I will keep looking through these documents. There must be something more than that folder among this mess.	同时，我继续检索这些文件，说不定这团纷杂中不只有那只文件夹。
+ep6_closedRoom	LG_KAUFFMAN_CR_55	There could be an entrance to the underground tunnel mentioned by the Professor.	教授提到的地下隧道应该有一个入口。
+ep6_closedRoom	LG_KAUFFMAN_CR_58	If we could find and use the device that the Professor mentions in his log…	假如我们找到并使用了教授在日志中提到的设备……
+ep6_closedRoom	LG_KAUFFMAN_CR_57	The Professor's notes made reference to some kind of listening device.	教授的笔记提到了一种监听设备。
+ep6_closedRoom	LG_KAUFFMAN_CR_59	I believe we could shed some light on this matter.	我觉得我们可以弄清楚这件事。
+ep6_closedRoom	LG_KAUFFMAN_CR_60	If it is true that the Professor could monitor the underground area for many weeks, then the device must be located somewhere in the Manor.	如果教授真的可以连续几周监视地下区域，那么这个设备一定在庄园里的某处。
+ep6_closedRoom	LG_KAUFFMAN_CR_61	Hmm...	嗯……
+ep6_closedRoom	WCMB_KNOB_KAUFMANN	An interesting object. It looks like a handle, or perhaps a switch. Based on its design, it must have been meant to fit into a device of some sort.	一件有趣的物体。看上去是一个把手，或者是一个开关。根据它的外观设计，看上去像是用于接入某种设备的。
+ep6_closedRoom	ECO_CL_PAPERS	Piles of papers of all kinds. Discarded notes, letters and receipts, all mixed up.	各种纸张堆在一起。废弃的笔记、信件和收据，都混在了一起。
+ep6_closedRoom	SECRET_MEETING	A meeting with one of their representatives has finally been conducted, but the results have been unsatisfactory for the purposes of this line of research. The representative did express their interest in its progress and results. But they do not understand it, they never could.	我们终于和他们的代表之一会面了，但是会晤结果对于这次研究的作用并不令人满意。代表表现了对研究进展与结果的兴趣，但是他们并不理解，他们从不会理解。
+ep6_closedRoom	LG_AFT_LIB_CONV_1	Could this organization be...	难道这个组织是……
+ep6_closedRoom	LG_AFT_LIB_CONV_2	The Playwright?	剧作家？
+ep6_closedRoom	LG_AFT_LIB_CONV_3	It may be, mein Freund.	可能是，我的朋友。
+ep6_closedRoom	LG_AFT_LIB_CONV_4	If so, then we are closer to the truth than we thought.	如果这是真的，我们比想象的更接近真相。
+ep6_closedRoom	LG_AFT_LIB_CONV_5	But in this room I have been able to find only some fragments of information. Discarded material.	在这间房间里我只能找到断续的信息、废弃的材料。
+ep6_closedRoom	LG_AFT_LIB_CONV_6	It looks as if the main bulk of documents were moved from this room, and hidden somewhere else.	看上去大部分文件被移除了，藏在了其它地方。
+ep6_closedRoom	LG_AFT_LIB_CONV_7	The basement tunnel...	地下室隧道……
+ep6_closedRoom	LG_AFT_LIB_CONV_8	That seems the most reasonable conclusion.	这个结论是最合理的。
+ep6_closedRoom	LG_AFT_LIB_CONV_9	But access to that place is lost, is it not? The entrance was sealed.	但是那个地方不能进入吧？入口被密封了。
+ep6_closedRoom	LG_AFT_LIB_CONV_10	There may be another access that we do not know about. If we could find and use the device that the Professor mentions in his log…	可能有其他我们不知道的入口，如果我们找到并使用教授在日志里提到的那个设备的话……
+ep6_closedRoom	LG_AFT_LIB_CONV_11	I believe we could shed some light on this matter.	我觉得我们可以弄清楚这件事。
+ep6_closedRoom	LG_KAUFFMAN_CR_LOOK_NOTE_TEXT	1st August 1865 - Results at last. After many months of tedious observation, something has finally come from the other side. I heard the sound of footsteps exploring the proximity of the stone archway. This would seem to verify my hypothesis; absolute horror is the key that we seek.	1865年8月1日——结果终于出来了。在连续数月的枯燥观察后，另一侧终于传来了消息。我听见脚步接近石质走廊的声音。这可能证明了我的假想：纯粹的恐惧是我们寻找的通往彼端的钥匙。
+ep6_closedRoom	LG_KAUFFMAN_CR_LOOK_NOTE_TEXT_2	20th September 1885 - Now they have proven themselves useful, I have installed two new devices in the outer tunnels. I dare not go deeper. I have not heard it again but I know the thing must be still down there, in the dark.	1885年9月20日——他们终于证明了自己的用处，我在外部隧道安装了两个新设备。我不敢再深入了。我没有再听见那个声音，但是我确定它还在下面，蜷缩于黑暗中。
+ep6_closedRoom	LG_KAUFFMAN_CR_LOOK_NOTE_TEXT_3	↵
+12th November 1885 - Containment in the underground tunnel has been breached, ████████████████████ gone.	↵
+1885年11月12日——地下隧道的封锁被打破了，████████████████████消失了。
+ep6_closedRoom	LG_KAUFFMAN_CR_LOOK_NOTE_TEXT_4	↵
+15th December 1885 - I have no choice but to abort the experiment. It can no longer be controlled. There is but one thing left to do. I will seal the tunnel and hope that the abomination remains forever entombed within.	↵
+1885年12月15日——我别无选择，只能中止实验。它已经不受控制了。只剩下一条路了。我会密封隧道，希望那个邪恶之物永远被埋葬其中。
+ep6_closedRoom	LG_KAUFFMAN_CR_2	“Experiments, 1885”. Let us see...	“1885年，实验报告”。来看看……
+ep6_closedRoomDiary	LG_CLOSEDROOMDIARY_1	I was able to use the key to explore the basement.↵	我可以用这把钥匙探索地下室。↵
+ep6_closedRoomDiary	LG_CLOSEDROOMDIARY_8	Have a look.	看看吧。
+ep6_closedRoomDiary	LG_CLOSEDROOMDIARY_7	Covered in debris? It sounds as if the Professor succeeded in blocking the entrance to this underground area.	掩埋在废墟里？听上去像教授成功把通向地下区域的入口堵住了。
+ep6_closedRoomDiary	LG_CLOSEDROOMDIARY_6	but it was completely covered in rocks and debris, so I could not tell for sure.	但它完全被岩石和碎片覆盖了，所以我不能确定。
+ep6_closedRoomDiary	LG_CLOSEDROOMDIARY_5	There is a large hole in the floor. One side of the hole may lead to some sort of tunnel,	地板上有一个大洞。洞的一边可能通向某种隧道，
+ep6_closedRoomDiary	SECRET_MEETING	A certain group has showed interest in what I have been working on.↵
+A meeting with one of their representatives has finally been conducted, but the results have been unsatisfactory for the purposes of this line of research. The representative did express their interest in its progress and results. But they do not understand it, they never could.↵	某个组织对我在研究的东西感兴趣。↵
+我们终于和他们的代表之一会面了，但是会晤结果对于这次研究的作用并不令人满意。代表表现了对研究进展与结果的兴趣，但是他们并不理解，他们从不会理解。↵
+ep6_closedRoomDiary	LG_CLOSEDROOMDIARY_4	I have made some progress of my own, mein Freund. I think this could help us ↵
+dilucidate the next step in our search. ↵	我自己也取得了一些进展，我的朋友。这应该能帮助我们↵
+阐明研究的下一步。↵
+ep6_closedRoomDiary	LG_CLOSEDROOMDIARY_3	Mmm… It is unfortunate for us.	嗯……对我们来说太不幸了。
+ep6_coldOpen	FUSE_TEXT	And I am visited again	吾欲归来
+ep6_coldOpen	YNAMITE_TEXT	Everything must be set	万物须具
+ep6_coldOpen	NITIAL_TEXT	I must forget nothing	不忘一事
+ep6_coldOpen	PILLAR_TEXT	When the time comes	户启之时
+ep6_deadEnd	KNOB_REACT	Maybe I can find out where to use it.	说不定我可以把它装在什么地方。
+ep6_deadEnd	NO_LANTERN_BEFORE_LEAVE	There is a ladder here but it is slick with moisture and sorely out of shape. I dare not use it in this darkness for fear of falling again.	这里有一把梯子，但是表面由于湿气变得粘糊糊的，梯子的结构也被破坏了。我不敢再用这把梯子了，我不想再摔一跤。
+ep6_deadEnd	STRANGE_GADGET_INSPECT	It appears to be some kind of electrical device.	看上去是某种电器。
+ep6_deadEnd	FALL_THINK	I...I've fallen through a hole. Where am I?	我……我掉进了一个洞。我在哪里？
+ep6_deadEnd	FALL_THINK2	The flow of air is stronger here.	这里的空气流动更强烈。
+ep6_deadEnd	LANTERN_AFTERCATCH	This part of the tunnel is blocked by a cave-in. The underground tunnel is not accessible from here. I should go back.	隧道的这个部分塌方了。不能再从这里进入地下隧道了。我应该原路返回。
+ep6_deadEnd	KNOB_INSPECT	It looks like a component of some sort of machine.	看上去是某种机械的组件。
+ep6_deadEnd	LANTERN_REACT	Now I can get out of here safely.	现在我可以安全离开了。
+ep6_deadEnd	BLOCKED_TUNNEL_INSPECT	The way is blocked by a cave-in.	这条路塌方了。
+ep6_deadEnd	LANTERN_INSPECT	A working lantern.	一个完好的灯笼。
+ep6_downCorridor	WCMB_ATTICKEY_SERVANTROOM	This key doesn't work here.	这把钥匙打不开门。
+ep6_downCorridor	ECO_PIPE	A gilded pipe. It runs from the room at the end of the corridor to the room upstairs.	一根镀金管道。它从走廊末端的房间通向楼上的房间。
+ep6_downCorridor	ECO_DO_PICTURE	A sea landscape.	一幅海景画。
+ep6_downCorridor	WCMB_BASEMENTKEY_SERVANTROOM	This key doesn't work here.	这把钥匙打不开门。
+ep6_downCorridor	WCMB_REDKEY_SERVANTROOM	This key doen't fit here.	这把钥匙插不进去。
+ep6_downCorridor	WCMB_BIRDSKEY_SERVANTROOM	This key doesn't fit here.	这把钥匙插不进去。
+ep6_downCorridor	WCMB_MENTORKEY_SERVANTROOM	This key is not for this door.	这把钥匙不是开这扇门的。
+ep6_downCorridor	OOR_LOCKED	It is locked.	锁住了。
+ep6_frontyard	LION_STATUE2_REACT	There is something hidden in the lion's mouth. A lever…	狮子的嘴里藏着什么东西。一个开关……
+ep6_frontyard	LION_STATUE2_INSPECT	"Only by entering the gnashing jaws of primal horror..."	“只有进入原初恐惧的利齿之间……”
+ep6_frontyard	LOOSE_BRICK_INSPECT	There is a strange ornament on the wall. I think I can move it.	墙上有个奇怪的装饰，应该可以移动一下。
+ep6_frontyard	LAST_CLUE_ADDED	Could this be the last part of the riddle?	难道这就是谜题的最后一部分了吗？
+ep6_frontyard	LION_STATUE1_INSPECT	A fierce lion, damaged by the harsh weather of the coast.	一只面目狰狞的狮子，被海滩恶劣的天气损坏了。
+ep6_frontyard	LAST_CLUE	"... will you at last know Truth."	“……最终你会得知真相。”
+ep6_frontyard	LION_ITEMS_FOUND	I think it has triggered some mechanism inside the manor. There is also a note in here.	它应该启动了庄园里的某个机械。里面还有一张纸条。
+ep6_frontyard	ECO_FR_LIONBROKEN	A fierce lion, damaged by the harsh weather of the coast. Its head is missing.	一只面目狰狞的狮子，被海滩恶劣的天气损坏了。它的头也消失不见。
+ep6_frontyard	LG_FRONTYARD_CTS_1	I doubt he is away at this time of day. Perhaps he cannot hear us from the front. Let us try the back door.	这个时候他不会离开的。说不定他听不到我们在前院敲门，我们试试后门吧。
+ep6_frontyard	FRONTYARD_HALL_LOCKED	The main door is closed from the inside.	大门从里面锁上了。
+ep6_frontyard	LION_STATUE3_INSPECT	The body and visage of the lion have been thoroughly worn down. However, its teeth remain sharp.	狮子的身体和面貌从头到脚都被风化了。但是它的牙齿还很尖利。
+ep6_frontyard	LION_STATUE2_REACT2	I think it has triggered some mechanism inside the manor. There is also what seems to be the end of this riddle.	它应该启动了庄园里的某个机械。那应该就是谜题的答案了。
+ep6_garden	COMPASS_REACT	It looks like a compass. It must be broken since it does not point North.	这看上去是一个指南针，但是它似乎坏了，没有指向北方。
+ep6_garden	COMPASS_INSPECT	The clay vessel held by the statue is now broken in many pieces. There is an object among them. It must have been hidden inside…	雕像持有的陶器打碎了。碎片之中有一个物件，它一定是之前藏在里面的。
+ep6_garden	COMPASS2_INSPECT	Only the pieces of the broken vessel remain.	只剩下一堆陶器碎片了。
+ep6_garden	GARDEN_STATUE1_A	This statue portrays a queen with her face hidden by a mask.	这尊雕像是一位皇后，她戴着一张面具。
+ep6_garden	GARDEN_STATUE2_A	The statue portrays a clergyman hiding his face behind a mask.	这尊雕像是一位牧师，他戴着一张面具。
+ep6_garden	GARDEN_STATUE2_B	The clergyman has removed his mask. There is an empty hole where his face should be.	牧师摘下了面具，他的脸上有一个空洞。
+ep6_garden	GARDEN_STATUE3_A	This statue portrays a sage hiding his face behind a mask.	这尊雕像是一位哲人，他戴着一张面具。
+ep6_garden	GARDEN_STATUE3_B	The sage has removed his mask. There is an empty hole where his face should be.	哲人摘下了面具，他的脸上有一个空洞。
+ep6_garden	GARDEN_STATUE4_A	This statue portrays a peasant woman with her face hidden by a mask.	这尊雕像是一位农妇，她戴着一张面具。
+ep6_garden	GARDEN_STATUE4_B	The peasant woman has removed her mask. There is an empty hole where her face should be.	农妇摘下了面具，她的脸上有一个空洞。
+ep6_garden	GARDEN_STATUE5_A	The central statue portrays a cloaked figure holding a clay vessel. The vessel has a small hole in it, just large enough to see a metal object hidden inside.	中间的雕像是一个戴着斗篷的人，他手持着一个陶器。器皿上有一个小洞，刚好可以从中看到里面有一个金属物品。
+ep6_garden	GARDEN_STATUE5_B	The central statue has shifted its position and the clay vessel has fallen to the ground.	中间的雕像变换了位置，手里的陶器掉在了地上。
+ep6_garden	GARDEN_STATUE1_B	The queen has removed her mask. There is an empty hole where her face should be.	皇后摘下了面具，她的脸上有一个空洞。
+ep6_garden	GA_STATUE_SIGN	When the Four remove their masks of lies, the path to the grave will be cleared.	当四人去除谎言的面具时，通向坟墓的道路就通畅无阻了。
+ep6_garden	BETASLOT_DECO_DEADTREE	A stiff tree. Almost seems like a statue itself.	一棵僵硬的树，看上去就像一尊雕像。
+ep6_globe	CLUE3_GLOBE	Our sea voyage was short, as our sails billowed with the powerful Southern winds. We reached the Easternmost cape, and landed there. Our backs to the sea, we marched forth and soon reached home.	我们的航程很短，我们的船在强劲的南风的助推下穿行于巨浪之间。我们到达了最东端的海角，在此登陆。我们背对大海，向前进发，终于回到了家乡。
+ep6_globe	CLUE2_GLOBE	It was not to be. The King of the land we traversed had declared war on the Great Khan, so we were forced to return as we had come. We never set foot in that bloody land again. We knew there was a port just a few miles to the South, where we could find a boat.	事与愿违。我们穿行国度的君王向伟大的可汗宣战了，所以我们被迫原路返回。我们再也没有涉足那片鲜血浇灌的土地。我们知道南面几里处就有一座港口，我们能在那里雇一艘船。
+ep6_globe	CLUE1_GLOBE	We began our journey by crossing the unforgiving desert, always facing the setting sun. At last, we arrived at the merciful sight of the great ocean. We followed the coast North, in dear hope of reaching our home soon. ↵	我们在无情的沙漠中开始了旅行，面朝落日不断行进。最终，我们看到了仁慈的大海。我们沿着海岸线向北航行，心中盼望着早日还家。↵
+ep6_graveyard	ECO_GR_GRAVE3	"Do not bring flowers to this place, for rum is all I crave. Now I rest under the same stars I sailed by when alive."↵
+↵
+- Daniel Abberton -↵
+1798 – 1842"	“不要把鲜花带到我的坟前，我只想要朗姆酒。我长眠于茫茫繁星下，就像我生前在同一片繁星下航行。”↵
+↵
+-丹尼尔典·阿伯顿-↵
+1798-1842
+ep6_graveyard	HALF1_FULLIMAGE_TEXT	An engraved stone. It seems to be only one half of a larger statuette…	一块刻着图案的石头，好像是一个较大铸像的一半……
+ep6_graveyard	CMB_FLOWERS_GRAVE1	Beley... This is not the grave I am looking for.	贝雷……这不是我要找的坟墓。
+ep6_graveyard	CMB_FLOWERS_GRAVE2	Bennet... No, this is not the grave I am looking for.	贝内特……不，这不是我在找的坟墓。
+ep6_graveyard	CMB_FLOWERS_BURIAL	There is no name, date, or epitaph on this gravestone...	这个墓碑上没有姓名、日期或是墓志铭……
+ep6_graveyard	CMB_FLOWERS_GRAVE3	Abberton... This is not the grave I am looking for.	阿伯顿……这不是我要找的坟墓。
+ep6_graveyard	WRONG_EMPTYGRAVE_FLOWERS	There is no name. This is not the grave I am looking for.	上面没有名字。这不是我要找的坟墓。
+ep6_graveyard	BURIAL_COMPASS	The compass points to... this grave?	指南针指向……这口坟墓？
+ep6_graveyard	ECO_GR_GRAVE1	"Bury my body with the salted driftwood; with the green seaweeds and the worn out ropes, where I can feel the cold autumn breeze".↵
+↵
+- Gerald Beley -↵
+1810 - 1875	“把我的身体用浸满海水的浮木掩埋；用碧绿的海藻和磨损的缆绳，让我在身后感到肃杀秋风”。↵
+↵
+-吉尔德·贝雷-↵
+1810-1875
+ep6_graveyard	ECO_GR_GRAVE2	"Farewell to those of you that walk beside my grave. Here I lie, my name written on stone under the sun".↵
+↵
+- Mary Jane Bennett -↵
+1861 - 1890	“在我坟边经过的人们，再见。我的身长眠于大地下的石棺内，我的名铭刻于日光下的石碑上”。↵
+↵
+-玛丽·简·贝内特-↵
+1861-1890
+ep6_graveyard	GRAVE_INSPECT	- Rose Carter -↵
+1840 – 1885	-罗斯·卡特-↵
+1840-1885
+ep6_graveyard	BURIAL1_INSPECT	There is no name, date or epitaph on this gravestone…	这个墓碑上没有姓名、日期或是墓志铭……
+ep6_graveyard	BURIAL2_INSPECT	There is no sarcophagus here.	这里没有石棺。
+ep6_graveyard	BURIAL1_REACT	There is something buried here...	这里埋着什么东西……
+ep6_graveyard	TRG_COMPASS_SENTENCE	Hmm... This is certainly unusual...	嗯……这当然很不寻常……
+ep6_graveyard	GRAVE_FLOWERS_CTS_1	…	……
+ep6_graveyard	GRAVE_FLOWERS_CTS_2	The bells of the church... It seems the priest is calling mass.	教堂的钟声……似乎是牧师在行弥撒。
+ep6_graveyard	GRAVE2_INSPECT	...	……
+ep6_guestRoom	TRG_TO_INNROOM	This is serious. I must break the news to Kaufmann and of course the local authorities will have to be informed.	这件事很严重。我必须转告考夫曼，当地权威也应该知道这件事。
+ep6_guestRoom	PICTURE_INSPECT	A cheerful scene that would have lifted my heart on any other day. It stands in stark contrast to the tragedy that has befallen this house.	如果不是现在发生的事情，如此美景会让我心旷神怡。美景与降临在这间房屋上的悲剧形成了鲜明的对比。
+ep6_guestRoom	ECO_GU_GUARDROBE	An old wardrobe.	一个老旧衣柜。
+ep6_guestRoom	BE_MENTOR_DEAD	The poor man. It looks as if his heart gave out on him. His eyes... my God... They are fixed with an expression of utmost terror. Let me see... His fists are clenched. He is holding onto something.	那个可怜人。看上去他突发了心脏病。他的双眼……我的天哪……它们凝固在那最恐惧的表情上。我来看看……他的拳头紧握着。他抓着什么东西。
+ep6_guestRoom	BE_MENTOR_DEAD2	What has happened to him? I have seen death before but never has a body left me so ill at ease. I... I am trembling.	他身上发生了什么？我曾经见证过死亡，但是之前从没有一具尸体如此使我作呕。我……我在颤抖。
+ep6_guestRoom	GE_HALF1_INCATCH	It is some kind of stone figurine. He is holding it tightly, as if he was protecting it from someone.	这是某种石像。他紧紧地握住它，好像是为了防止某人夺走。
+ep6_guestRoom	GE_HALF1_PRECATCH	The figurine is beautifully carved but it appears to be but one half of a larger artifact.	这尊石像雕刻精致，看上去是一个较大文物的一半。
+ep6_guestRoom	GE_WINDOW_OPENED	The window is open. A cold wind blows into the room.	窗开了，一丝寒风吹进了房间。
+ep6_guestRoom	GUESTROOM_SURPRISE	Oh God! Mr. Wright!	哦天哪！莱特先生！
+ep6_guestRoom	ECO_CLOTHES	There is a thin layer of dust on the coat rack, but not on the coat.	衣架上积了一层薄薄的灰尘，但是大衣上没有。
+ep6_guestRoom	ECO_GU_BOOKS	A few books on classical theatre.	几本关于经典戏剧的书。
+ep6_hall	PLH_PORTRAIT_CLUE	As I suspected. There is a small key taped to the back of the picture frame. And a note…	就如我所想，相框背后粘着一把小钥匙。还有一张纸条……
+ep6_hall	ECO_HA_JAR	A porcelain jar containing some dried branches.	一只瓦罐，里面有几根风干的枝条。
+ep6_hall	OOR_HALL_FRONTYARD_LOCKED_AFTER_BACK	It is locked.	锁住了。
+ep6_hall	PORTRAIT2_INSPECT	"...look upon your master... Meet not only his imposing gaze but seek to understand what lies beneath..."	“……看看你的主人……不仅仅看他那威风的目光，还有眼神之下的东西……”
+ep6_hall	PORTRAIT3_INSPECT	A portrait of Professor Wright. His appearance was quite different back then; an imposing, inquisitive figure.	一张莱特教授的肖像。当年他的容貌和现在大不相同；一副威风、好学的样子。
+ep6_hall	BETASLOT_DECO_HA_PICTURESTAIRS	An enormous painting showing a river torrent and the waves splashing on the banks. In the background I can see an old church, apparently abandoned.	一幅巨大的画作，上面描绘了一条汹涌的河流，激流拍打在河岸上。背景上有一座老教堂，明显被废弃了。
+ep6_hall	BETASLOT_DECO_HA_LAMP	An antique ceiling lamp.	一盏古董的天花灯。
+ep6_hall	PORTRAIT1_INSPECT	A portrait of Professor Wright. His appearance was quite different back then; an imposing, inquisitive figure.	一张莱特教授的肖像。当年他的容貌和现在大不相同；一副威风、好学的样子。
+ep6_hypnosis	LG_HYPNOSIS_55_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_1	A great number of trees surround me. The sun is setting soon.	大量的树环绕着我，太阳马上就要落山了。
+ep6_hypnosis	LG_HYPNOSIS_85_CH	Go back the ladder.	爬上梯子。
+ep6_hypnosis	LG_HYPNOSIS_86	I have gone down the ladder.	我已经爬下梯子了。
+ep6_hypnosis	LG_HYPNOSIS_56_CH	Go East.	去东边。
+ep6_hypnosis	LG_HYPNOSIS_57_CH	Go South.	去南边。
+ep6_hypnosis	LG_HYPNOSIS_58_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_83	It waits for me. It waits down there…	它在等我。它在下面等我……
+ep6_hypnosis	LG_HYPNOSIS_66	A body floats in the water. I will not look upon its face.	一具尸体浮在水上，我不敢看它的脸。
+ep6_hypnosis	LG_HYPNOSIS_64	The passage ends here. An empty cave. A big, round hole in the wall. Behind it, I can hear the sea.	道路在这里结束了。一个空空如也的洞穴。洞壁上有一个大圆洞。我可以从中听到波涛声。
+ep6_hypnosis	LG_HYPNOSIS_62	I am in a large open space with a piano. Something... stands next to the piano. I can't see it clearly... its face…	我在一个很开阔的空间里，里面还有一架钢琴。有什么东西……站在钢琴边。我看不清楚……它的脸……
+ep6_hypnosis	LG_HYPNOSIS_76	The tunnel stretches into the dark.	隧道一直延伸到黑暗中。
+ep6_hypnosis	LG_HYPNOSIS_60	It is a very small room. In the center lies a deep pit. A ladder goes down. It is so dark.	这是一间很小的房间。中央有一个深坑。有一把梯子直伸到坑底。里面十分黑暗。
+ep6_hypnosis	LG_HYPNOSIS_69	Down there... it lies... it waits... I will not continue! I must go back!	下面……它蛰伏着……它等待着……我不能继续！我必须回去！
+ep6_hypnosis	LG_HYPNOSIS_71	I cannot see. It is pitch dark... I... I can feel its breath... It is here! It is with me!	我看不见。一片漆黑……我……我能感受到它的呼吸……它在这里！它在我身边！
+ep6_hypnosis	LG_HYPNOSIS_78_CH	Go down the ladder.	爬下梯子。
+ep6_hypnosis	LG_HYPNOSIS_79	I cannot! I can hear it with me! Its breath... Dear God, I must flee!	我不能！我能听见它在我身边！它的呼吸……天哪，我必须逃跑！
+ep6_hypnosis	LG_HYPNOSIS_81_CH	You must continue.	你必须继续前行。
+ep6_hypnosis	LG_HYPNOSIS_12	I am on the beach. There is a huge rock here. Many birds circle in the sky overhead.	我在沙滩上。这里有一块巨石。头顶上有许多海鸟盘旋。
+ep6_hypnosis	LG_HYPNOSIS_88_CH	Go back.	回去。
+ep6_hypnosis	LG_HYPNOSIS_90_CH	Go back.	回去。
+ep6_hypnosis	LG_HYPNOSIS_92_CH	Go back.	回去。
+ep6_hypnosis	LG_HYPNOSIS_94_CH	Walk down the tunnel.	走进隧道。
+ep6_hypnosis	LG_HYPNOSIS_95	I can go North and West.	我可以向北或向西走。
+ep6_hypnosis	LG_HYPNOSIS_96_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_97	To the North I see the shore. To the West there is a person.	北边是海滩，西边有一个人。
+ep6_hypnosis	LG_HYPNOSIS_98	Behind the waterfall lies a tunnel. To the West I see the edge of the forest.	瀑布旁有一条隧道，西边是森林的边缘。
+ep6_hypnosis	LG_HYPNOSIS_99	The tunnel divides in many passages. I can go North, South and West.	隧道分叉成好几条通路，我可以向北、向南或向西走。
+ep6_hypnosis	LG_HYPNOSIS_100_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_101	To the North something floats in the water. To the East I can see the edge of the forest.	北边有什么东西浮在水上，东边是森林的边缘。
+ep6_hypnosis	LG_HYPNOSIS_102_CH	Go back.	回去。
+ep6_hypnosis	LG_HYPNOSIS_103_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_104_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_3_CH	Go North.	去北边。
+ep6_hypnosis	LG_HYPNOSIS_6	I stand beside a waterfall. It is not water that falls, but mud and rock from a great height. They fall and fall into a bottomless abyss.	我站在瀑布旁。落下的不是水，是从高处落下的沙土、岩石。它们一直下坠，坠入了无底深渊。
+ep6_hypnosis	LG_HYPNOSIS_20	As soon as I approach, the figure darts between the rocks as though it were frightened of me.	我一接近那个身影，它就如同害怕我一般飞快地逃跑了。
+ep6_hypnosis	WAKEFIELD_OFF_VOICE1	Listen to my voice. Where are you?	听我的声音，你在哪里？
+ep6_hypnosis	LG_HYPNOSIS_9_CH	Go West.	去西边。
+ep6_hypnosis	LG_HYPNOSIS_14_CH	Go West.	去西边。
+ep6_hypnosis	LG_HYPNOSIS_15_CH	Go North.	去北边。
+ep6_hypnosis	LG_HYPNOSIS_18_CH	Go East.	去东边。
+ep6_hypnosis	LG_HYPNOSIS_22_CH	Go West.	去西边。
+ep6_hypnosis	LG_HYPNOSIS_23_CH	Go East.	去东边。
+ep6_hypnosis	LG_HYPNOSIS_27_CH	Go South.	去南边。
+ep6_hypnosis	LG_HYPNOSIS_26	I stand beside the shore. The water wets my shoes and all around me lie the wrecks of ships.	我站在海岸边，海水打湿了我的鞋子，我周围都是沉船的残骸。
+ep6_hypnosis	LG_HYPNOSIS_31	I am in a dark tunnel. Oscar is here as well. He is upset. He yells at me. He begs me to stop.	我在一条黑暗的隧道里。奥斯卡也在那里。他很恼火。他在对我大吼大叫。他在乞求我停下。
+ep6_hypnosis	LG_HYPNOSIS_33_CH	Go South.	去南边。
+ep6_hypnosis	LG_HYPNOSIS_34_CH	Go North.	去北边。
+ep6_hypnosis	LG_HYPNOSIS_35_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_36_CH	Go West.	去西边。
+ep6_hypnosis	LG_HYPNOSIS_48_CH	Go South.	去南边。
+ep6_hypnosis	LG_HYPNOSIS_50_CH	Go East.	去东边。
+ep6_hypnosis	LG_HYPNOSIS_52	I have retraced my steps. I stand on the beach once more.	我原路返回了，我又站在了海滩上。
+ep6_hypnosis	LG_HYPNOSIS_53_CH	Tell me again where you are.	重复一遍你的位置。
+ep6_hypnosis	LG_HYPNOSIS_44_CH	Go North.	去北边。
+ep6_innroom	LG_KAUFFMAN_IR45	Professor Wright mentioned a man that shouted at him near the entrance to the tunnel, begging him not to continue. I cannot remember his name…	莱特教授提到了有一个人在靠近隧道入口的地方对他大吼大叫，乞求他不要再继续前进了。我记不得他的名字……
+ep6_innroom	LG_KAUFFMAN_IR36_CH	The underground tunnel.	地下隧道。
+ep6_innroom	LG_KAUFFMAN_IR3	Kaufmann, are you alright?	考夫曼，你还好吗？
+ep6_innroom	LG_DWAYNE_3	Kaufmann! What is the matter? Kaufmann?	考夫曼！怎么了？考夫曼？
+ep6_innroom	LG_DWAYNE_2	Do not worry, Doctor Wakefield.	不要担心，威克菲尔德医生。
+ep6_innroom	LG_DWAYNE_4	Do not worry. I have given him a mild sedative.	别担心，我给了他一剂镇静剂。
+ep6_innroom	LG_DWAYNE_5	Pleased to meet you, I am Doctor Wakefield. What are Kaufmann's symptoms?	很高兴见到你，我是威克菲尔德医生。考夫曼的身体怎么了？
+ep6_innroom	LG_DWAYNE_6	Strong coughing, general feebleness, dizziness...	严重的咳嗽、全身无力、意志消沉……
+ep6_innroom	LG_DWAYNE_7		
+ep6_innroom	LG_DWAYNE_8	It is too soon to know. Let us wait and see how his condition develops.	现在说还太早。我们应该等待事态发展。
+ep6_innroom			
+ep6_innroom	LG_KAUFFMAN_IR4	Worry not Wakefield, I am just feeling a bit feeble. It must be all this cold and humidity. *cough*	不要担心，威克菲尔德，我只是有些虚弱。一定是因为这寒冷和潮湿的天气。*咳嗽*
+ep6_innroom	LG_KAUFFMAN_IR5	Nothing serious.	没什么大不了的。
+ep6_innroom	LG_KAUFFMAN_IR6	Thank you, mein Freund.	谢谢你，我的朋友。
+ep6_innroom	LG_KAUFFMAN_IR14	How are you feeling?	你感觉如何？
+ep6_innroom	LG_KAUFFMAN_IR15	I am feeling alright, mein Freund. *cough* Just a bit tired.	我感觉还行，我的朋友。*咳嗽*只是有些劳累。
+ep6_innroom	LG_KAUFFMAN_IR16		
+ep6_innroom	LG_KAUFFMAN_IR17_CH	I spoke to Father Oscar.	我和奥斯卡神父说过话了。
+ep6_innroom	LG_KAUFFMAN_IR17	I spoke with the village priest, Father Oscar.	我和这个村庄的牧师，奥斯卡神父说过话了。
+ep6_innroom	LG_KAUFFMAN_IR20		
+ep6_innroom	LG_KAUFFMAN_IR18_CH	The house on the cliff.	悬崖上的房子。
+ep6_innroom	LG_KAUFFMAN_IR18	I discovered that Professor Wright's family once owned a house on the cliffs.	我发现莱特教授的家族曾经在悬崖上有一栋房子。
+ep6_innroom	LG_KAUFFMAN_IR21	Hmm... A house next to the sea... A landslide...	嗯……海边小屋……山体滑坡……
+ep6_innroom	LG_KAUFFMAN_IR22		
+ep6_innroom	LG_KAUFFMAN_IR23_CH	I will let you rest.	你继续休息吧。
+ep6_innroom	LG_KAUFFMAN_IR23	I will let you rest.	你继续休息吧。
+ep6_innroom	LG_KAUFFMAN_IR24	Thank you, mein Freund.	谢谢你，我的朋友。
+ep6_innroom	LG_KAUFFMAN_IR19_CH		
+ep6_innroom	LG_KAUFFMAN_IR26	Come in.	请进。
+ep6_innroom	LG_KAUFFMAN_IR32		
+ep6_innroom	ECO_IN_WARDROBE	I should respect Kaufmann's privacy.	我应该尊重考夫曼的隐私。
+ep6_innroom	ECO_IN_FORNITURE	I should respect Kaufmann's privacy.	我应该尊重考夫曼的隐私。
+ep6_innroom	ECO_IN_COAT	Kaufmann's coat.	考夫曼的大衣。
+ep6_innroom	ECO_PICTURE	An ugly painting.	一幅丑陋的画作。
+ep6_innroom	LG_KAUFFMAN_IR33	I would like to know your opinion about what we heard during yesterday's session. Do you remember anything that could help us in our search?	我想听听你关于我们昨天从会话上得到信息的看法。你记得什么能帮助我们研究的东西吗？
+ep6_innroom	LG_KAUFFMAN_IR35_CH	The man shouting at Professor Wright.	那个向莱特教授大吼大叫的人。
+ep6_innroom	LG_KAUFFMAN_IR37_CH	The seaside.	海边。
+ep6_innroom	LG_KAUFFMAN_IR35		
+ep6_innroom	LG_KAUFFMAN_IR38_CH	The mysterious figure.	神秘的身影。
+ep6_innroom	LG_KAUFFMAN_IR36	I believe that this underground tunnel has left a deep impression on Professor Wright's subconscious.	我认为这条地下隧道在莱特教授的潜意识中留下了很深的印象。
+ep6_innroom	LG_KAUFFMAN_IR38	Throughout the trance he saw an unknown figure with no visible face: the floating body in the water, the person near the rocks, the one beside the piano…	在催眠状态下他看到了一个没有脸的未知身影：水里的浮尸、在岩石边的人、钢琴边的人……
+ep6_innroom	LG_KAUFFMAN_IR39	Yes, it is true... Maybe the entrance to this tunnel is somewhere closer to the coast.	没错，这是真的……隧道的入口可能离海岸很近。
+ep6_innroom	LG_KAUFFMAN_IR37	The sea was a recurring theme during the hypnotic regression.	大海是催眠回溯的再现主题。
+ep6_innroom	LG_KAUFFMAN_IR40	Yes, indeed, but I am afraid it is too soon to unveil the true meaning of those images.	没错，确实如此，但恐怕我们距离理解这些图像的真实意义还太早。
+ep6_innroom	LG_KAUFFMAN_IR41	I agree. The horror he experienced at the end of the session was far too intense to derive solely from his imagination. It speaks of some trauma.	我同意。他在临交流结束前体验到的极大恐惧不可能单单来自于想象。这是某种创伤的后遗症。
+ep6_innroom	LG_KAUFFMAN_IR45_CH	The man shouting at Professor Wright.	那个向莱特教授大吼大叫的人。
+ep6_innroom	LG_KAUFFMAN_IR46	Very good! It was Oscar. We should attempt to find him. He may know something about Professor's Wright's fears.	没错！是奥斯卡。我们应该去寻找他。他可能对莱特教授的恐惧有所了解。
+ep6_innroom	LG_KAUFFMAN_IR48	If we can find this man, I am sure we will shed some light upon the mystery.	如果我们找到了这个人，我确信我们能在解决这个谜团的路上更进一步。
+ep6_innroom	LG_KAUFFMAN_IR49	Indeed, mein Freund.	确实如此，我的朋友。
+ep6_innroom	LG_KAUFFMAN_IR50	Why don't you go to the village and try to find out something about Oscar?	你去村庄里探索一下关于奥斯卡的信息吧。
+ep6_innroom	LG_KAUFFMAN_IR51	My apologies, but I must stay here and recover my strength.	对不起，我要留在这里恢复体力。
+ep6_innroom	LG_KAUFFMAN_IR52	I have discovered the identity of the man we seek.	我发现了我们寻找的那个人的身份。
+ep6_innroom	LG_KAUFFMAN_IR54_CH	Father Oscar.	奥斯卡神父。
+ep6_innroom	LG_KAUFFMAN_IR52_CH	Father Oscar.	奥斯卡神父。
+ep6_innroom	LG_KAUFFMAN_IR53	Oscar is the priest of Wicksport parish.	奥斯卡是维克港教区的神父。
+ep6_innroom	LG_KAUFFMAN_IR58	Why don't you go to the church? There you could talk to the priest.	你去一趟教堂，和神父谈一谈吧。
+ep6_innroom	LG_KAUFFMAN_IR59	The church door is closed.	教堂的门关着。
+ep6_innroom	LG_KAUFFMAN_IR60	My dear Wakefield, what advice can I offer? A church would not remain closed all day. If you must wait, then do so, and in the meantime talk to the villagers. Perhaps they will reveal something useful about the Professor. *cough*	亲爱的威克菲尔德，我又能给你什么建议呢？教堂不会整天关闭的。如果你想等待的话，慢慢等吧，与此同时可以和村民聊聊天。说不定他们会告诉你一些有用的信息。*咳嗽*
+ep6_innroom	LG_KAUFFMAN_IR63	According to one of the locals, Professor Wright almost died as a young man when the family's summer house was destroyed by a landslide.	根据一位当地居民的说法，莱特教授年轻时，他家的避暑别墅被山体滑坡摧毁，他差点丧命其中。
+ep6_innroom	LG_KAUFFMAN_IR64	Begging your pardon, Wakefield, but the answer is obvious, is it not? During the session, the Professor said that the entrance to the tunnel was through "a waterfall not of water but of rocks and mud". It is too close to be a coincidence!	不好意思，威克菲尔德，答案不是已经很明显了吗？在谈话中，教授说隧道的入口在“由岩石和泥土而非清水组成的瀑布中”。这不可能只是个巧合！
+ep6_innroom	LG_KAUFFMAN_IR65	I theorize that the entrance to the tunnel is concealed somewhere in that house.	我猜隧道的入口隐藏在房子里的某个地方。
+ep6_innroom	LG_DWAYNE_12	I will remain here and take care of your friend.	我会留在这里照顾你的朋友。
+ep6_innroom	LG_DWAYNE_13	Allow me to introduce myself: I am Dr. Armitage.	请让我自我介绍一下：我是奥米塔奇医生。
+ep6_innroom	LG_DWAYNE_14	The innkeeper called me because he was worried about your friend.	旅店老板担心你朋友的状况，于是把我找来了。
+ep6_innroom	LG_DWAYNE_16	It is too soon yet for a diagnosis. It could be a simple cold. But the sudden onset and severity of his symptoms is certainly a concern. He must be monitored for the next few hours at least.	距离作出诊断还太早。可能只是普通的感冒。但是发病突如其来，症状又如此严重，使我不得不担忧这种疾病。他至少在接下来几小时内都要留在监护环境下。
+ep6_innroom	LG_DWAYNE_18	Doctor, this is far from my specialty, but... Do you think it could be something more serious?	医生，这不是我的专业，但是……这有没有可能是更严重的疾病？
+ep6_innroom	LG_DWAYNE_18_CH	Could it be something serious?	有没有可能是更严重的疾病？
+ep6_innroom	LG_DWAYNE_17_CH	I must leave.	我该走了。
+ep6_innroom	LG_DWAYNE_17	I must leave. Please, have someone fetch me if his condition worsens.	我该走了。如果他情况恶化的话一定要联系我。
+ep6_innroom	ATE	January 21st, 1893	1893年1月21日
+ep6_innroom	N_DECO_WINDOW	It's still snowing.	雪一直下。
+ep6_innroom	NT_KAUFMANN_UNCONSCIOUS	Kaufmann is asleep. He breathes heavily and looks very pale.	考夫曼还在睡觉，他的呼吸十分沉重，面色也很苍白。
+ep6_inventory	CLUE1	If you seek to know what I know, you shall commence by looking at your reflection on the mirror. You will find something on it, not always seen by the naked eye...	如果你寻求我知道的知识，你应该先观察自己镜中的倒影。你会在其中找到一些东西，不为肉眼所见……
+ep6_inventory	CLUE3	Then you will be ready to climb to the tallest heights, and from there to look down to the deepest roots...	之后你要登上最高的高峰，俯视最深处的根源……
+ep6_inventory	CLUE5	That only among the sharp teeth of primordial horror...	在原初的恐惧的利齿中……
+ep6_inventory	CLUE1_CLUE2	If you seek to know what I know, you shall commence by looking at your reflection on the mirror. You will find something on it, not always seen by the naked eye...↵
+- - -↵
+Then you shall look upon your master and understand what lies beneath his imposing appearance.	如果你寻求我知道的知识，你应该先观察自己镜中的倒影。你会在其中找到一些东西，不为肉眼所见……↵
+---↵
+接下来你要看看观察你的主人，理解他威风目光之下的东西。
+ep6_inventory	CLUE3_CLUE4	Then you will be ready to climb to the tallest heights, and from there to look down to the deepest roots...↵
+- - - ↵
+And discover what our ancestors knew but never told...	之后你要登上最高的高峰，俯视最深处的根源……↵
+---↵
+发现我们的祖先知道却不谈论的知识……
+ep6_inventory	NV_ATTICKEY_DESC	An old golden key.	一把老旧的金色钥匙。
+ep6_inventory	CLUE5_CLUE6	That only among the sharp teeth of primordial horror...↵
+- - -↵
+Will we at last find the Truth.	在原初的恐惧的利齿中……↵
+---↵
+我们会找到真相。
+ep6_inventory	NV_COMPASS_DESC_BROKEN	A compass. It must be broken, since it does not point to the North.	指南针。但是它似乎坏了，没有指向北方。
+ep6_inventory	NV_COMPASS_DESC_CRAZY	The needle of the compass is spinning on its axis, pointing everywhere.	指南针的指针在轴上不停转着，指向随机的方向。
+ep6_inventory	NV_COMPASS_DESC_WORKING	This is strange. The compass seems to be pointing to a fixed direction, only I am not sure it is exactly North...	真奇怪。指南针指着某个特定的位置，我只能确定那不是北方……
+ep6_inventory	NV_ORNAMENT_DESC	When joined, the pieces form an enigmatic bust or idol. It is ancient, without doubt.	两半拼在一起的时候形成了一尊神秘的塑像或是偶像。它一定很古老了。
+ep6_inventory	NV_TINSOLDIER	Figure	人像
+ep6_inventory	NV_ENVELOP_DESC	A letter sealed with wax. There is a phrase written on it: “To my dear visitor”.	一封用蜡封起来的信。上面写着“致我最亲爱的访客”。
+ep6_inventory	NV_BIRDSKEY_DESC	An old bronze key. It has an engraving representing the feather of a bird.	一把古老的铜钥匙，上面刻着鸟羽的图案。
+ep6_inventory	NV_BASEMENTKEY_DESC	An iron key. It is tagged with the word “Basement”.	一把铁钥匙，上面有个标签“地下室”。
+ep6_inventory	NV_TELESCOPE_DESC	An old telescope, a bit rusty from the salt. It is still in good condition, though.	一个老旧的望远镜，由于海水浸泡有些生锈。但是还能使用。
+ep6_inventory	NV_FLOWERS_DESC	A beautiful bouquet made of wild flowers.	一捧野花。
+ep6_inventory	NV_CLOTH_DESC	A big piece of cloth, carefully embroided.	一大片布，绣花很精致。
+ep6_inventory	NV_HALF1	Piece	一部分塑像
+ep6_inventory	NV_KNOB_DESC	It could belong to some kind of a modern device.	它可能属于某种现代器械。
+ep6_inventory	NV_RUSTYBRONZEBELL_DESC	An old and rusty bronze bell, the kind usually found on vessels. The name “Augustine” is engraved on it.	一只古老、锈蚀的铜铃，通常是装在游船上的。上面刻着“奥古斯丁”。
+ep6_inventory	NV_HALF2	Piece	一部分塑像
+ep6_inventory	CMB_FLOWERS_GRAVE2	I don't think this is the right grave.	我觉得这不是那口正确的坟墓。
+ep6_inventory	NV_EXPLORERBOOK_DESC	This seems to be the book Professor Wright told us about. The Travels of Marco Polo.	看上去是莱特教授告诉我们的那本书。《马可·波罗游记》。
+ep6_inventory	BIRDSBOOK_CONTENT_1	...The wretched crow tried to misguide the other birds and lead them to the Land of mist and silence.	……那只邪恶的乌鸦企图误导其他鸟类，把它们带领到迷雾与寂静之地。
+ep6_inventory	BIRDSBOOK_CONTENT_2	Only the wisdom of the crested hoopoe and the prudence of the red-feathered robin could prevent group from going down the wrong path.	只有羽冠戴胜的智慧与红羽知更的精明才能防止鸟类走向邪路。
+ep6_inventory	NV_REDKEY_DESC	A rusted iron key. It is painted in an intense red color.	一把生锈的铁钥匙，上面有一层红褐色。
+ep6_inventory	NV_LENS	Lens	透镜
+ep6_inventory	NV_TINSOLDIER_DESC	A tin soldier decorated in the colours of the British army. It is highly detailed for such a tiny figure. It appears to commemorate a military campaign.	一个装扮成英军士兵的锡兵，对于如此小的工艺品，它有很多细节，看上去是为了纪念一次军事行动。
+ep6_inventory	NV_ATTICKEY_DESC	A faded golden key.	一把光泽黯淡的金钥匙。
+ep6_inventory	CLUE1	Those seeking wisdom must first know their own foolishness. Reflect on yourself in the heat of passion to reveal what the cold eye of logic sees not.	寻找智慧的人必须先了解自己的无知。在激情的热浪中反思自己，显露理性的冷眼无法察觉的知识。
+ep6_inventory	CLUE3	The question is the world from the peak of man's tallest tower. The answer yearns up to it from the root of life and time itself.	疑者，登层楼之巅峰以见天下者也。答者，居生命之根基以翘首盼之者也。
+ep6_inventory	CLUE5	That only by entering the gnashing jaws of primal horror…	只有进入原初恐惧的利齿之间……
+ep6_inventory	CLUE_ADDED	I'll add this clue to the letter.	我把这条线索写在纸上。
+ep6_inventory	CLUE1_CLUE2	Those seeking wisdom must first know their own foolishness. Reflect on yourself in the heat of passion to reveal what the cold eye of logic sees not.↵
+- - -↵
+Knowing yourself, you may look upon your master. Meet his imposing gaze and seek to understand what lies beneath. Thereby, learn the question, if not the final answer.	寻找智慧的人必须先了解自己的无知。在激情的热浪中反思自己，显露理性的冷眼无法察觉的知识。↵
+---↵
+了解自己，要看看你的主人，不仅仅看他那威风的目光，还有眼神之下的东西。从而得知问题，或者是最终的答案。
+ep6_inventory	CLUE3_CLUE4	Then you will be ready to climb to the tallest heights, and from there to look down to the deepest roots...↵
+- - - ↵
+It is a Truth our ancestors knew and with stone silence came to un-know.	之后你要登上最高的高峰，俯视最深处的根源……↵
+---↵
+我们祖先知道的“真相”在沉默中变成了未知。
+ep6_inventory	CLUE5_CLUE6	That only by entering the gnashing jaws of primal horror...↵
+- - -↵
+... will you at last know Truth.	只有进入原初恐惧的利齿之间……↵
+---↵
+……你才能最终得知“真相”。
+ep6_inventory	NV_TEAPOT_COLD_AGAIN	The teapot has cooled down.	茶壶冷却下来了。
+ep6_inventory	NV_COMPASS_DESC_BROKEN	It looks like a compass. It must be broken since it does not point North.	看上去是指南针。但是它似乎坏了，没有指向北方。
+ep6_inventory	NV_COMPASS_DESC_CRAZY	The needle is spinning on its axis, pointing in every which direction.	指南针的指针在轴上不停转着，指向随机的方向。
+ep6_inventory	NV_TINSOLDIER_DESC	A tin soldier, an officer of the british army. It's hilghly detailed for such a tiny figure	一个锡兵，是英军的长官。对于一个如此小的工艺品来说，它的细节十分丰富。
+ep6_inventory	NV_COMPASS_DESC_WORKING	A strange device. It cannot be a compass because it does not point North but to seemingly random directions.	一个奇怪的装置。肯定不是指南针，因为它不指向北方，而是看似随机的方向。
+ep6_inventory	NV_GIVE_RUSTYBRONZEBELL_BEFORE_TALK	I think I should talk to him first.	我觉得应该先和他交谈。
+ep6_inventory	NV_ORNAMENT_DESC	Joined together, the two pieces form an intricately carved figurine or idol. It is ancient, without a doubt.	两半拼在一起的时候形成了一尊神秘的塑像或是偶像。它很古老，毫无疑问。
+ep6_inventory	NV_TINSOLDIER	Soldier	锡兵
+ep6_inventory	NV_ENVELOP	Sealed Letter	封住的信件
+ep6_inventory	NV_LETTER	Letter	信
+ep6_inventory	NV_TEAPOT_DESC	The teapot is filled with water.	茶壶装满了水。
+ep6_inventory	NV_ENVELOP_DESC	A letter sealed with wax. It is addressed simply, "To my dearest visitor".	一封用蜡封起来的信，上面简单地注明“致我最亲爱的访客”。
+ep6_inventory	NV_TEAPOT	Teapot	茶壶
+ep6_inventory	NV_ATTICKEY	Golden Key	金钥匙
+ep6_inventory	NV_ORNAMENT	Idol	塑像
+ep6_inventory	NV_BIRDSKEY	Feather Key	羽毛钥匙
+ep6_inventory	NV_BIRDSKEY_DESC	An old bronze key. It has been engraved with the shape of a feather.	一把旧的铜钥匙，上面刻着羽毛图案。
+ep6_inventory	NV_BASEMENTKEY	Basement Key	地下室钥匙
+ep6_inventory	NV_BASEMENTKEY_DESC	An iron key. The attached tag reads “Basement”.	一把铁钥匙，上面的标签写着“地下室”。
+ep6_inventory	NV_TELESCOPE	Telescope	望远镜
+ep6_inventory	NV_TELESCOPE_DESC	An old telescope. It has been rusted by the salt water but it is still in good condition.	一个老旧的望远镜，由于海水浸泡有些生锈，但是还能使用。
+ep6_inventory	NV_FLOWERS	Flowers	花
+ep6_inventory	NV_FLOWERS_DESC	A beautiful bouquet of wild flowers.	一捧美丽的野花
+ep6_inventory	NV_CLOTH	Cloth	布
+ep6_inventory	NV_CLOTH_DESC	A large piece of cloth, carefully embroidered.	一大块布，上面的绣花很精致。
+ep6_inventory	NV_HALF1	Fragment	碎片
+ep6_inventory	NV_HALF1_DESC	A fragment of a stone sculpture.	石像的一部分。
+ep6_inventory	NV_HALF2_DESC	A fragment of a stone sculpture.	石像的一部分。
+ep6_inventory	NV_COMPASS	Compass	指南针
+ep6_inventory	NV_KNOB	Lever	杠杆
+ep6_inventory	NV_KNOB_DESC	It appears to be a part of some larger device.	看上去是某个更大器械的一部分。
+ep6_inventory	NV_RUSTYBRONZEBELL	Bell	铃铛
+ep6_inventory	NV_RUSTYBRONZEBELL_DESC	An old, rusty bronze bell, typical of a seafaring vessel. It is engraved with the name "Augustine".	一只古老、锈蚀的铜铃，通常是装在游船上的。上面刻着“奥古斯丁”。
+ep6_inventory	NV_MATCHES	Matchbox	火柴盒
+ep6_inventory	NV_MATCHES_DESC	It is half-empty.	盒子的一半是空的。
+ep6_inventory	NV_LANTERN	Lantern	灯笼
+ep6_inventory	NV_LANTERN_DESC	An oil lamp, similar to those used by mine workers.	一盏油灯，很像矿工使用的那种。
+ep6_inventory	NV_REDKEY	Red Key	红钥匙
+ep6_inventory	NV_HALF2	Fragment	碎片
+ep6_inventory	NV_EXPLORERBOOK	Book	书
+ep6_inventory	NV_BIRDSBOOK	Book	书
+ep6_inventory	CMB_FLOWERS_GRAVE2	I do not think this is the right grave.	我觉得这不是我要找的坟墓。
+ep6_inventory	NV_EXPLORERBOOK_DESC	This seems to be the "Book of Travels" Professor Wright mentioned. It is The Travels of Marco Polo.	这好像是莱特教授提到的《旅行之书》，全名是《马可·波罗游记》。
+ep6_inventory	WCMB_ATTICKEY_GUESTROOM	The key does not fit this keyhole.	钥匙插不进锁孔。
+ep6_inventory	WCMB_BASEMENTKEY_GUESTROOM	The key does not fit here.	钥匙插不进去。
+ep6_inventory	WCMB_REDKEY_GUESTROOM	The key does not fit here.	钥匙插不进去。
+ep6_inventory	WCMB_BIRDSKEY_GUESTROOM	The key does not fit here.	钥匙插不进去。
+ep6_inventory	NV_BIRDSBOOK_DESC	“The Book of Birds”. It is a compilation of legends related to birds. Some of the text is marked.	《鸟之书》。这是一本鸟类传说的汇编。有些文章被打上了记号。
+ep6_inventory	NV_MENTORKEY	Key	钥匙
+ep6_inventory	NV_MENTORKEY_DESC	A yellow key.	一把黄钥匙。
+ep6_inventory	BIRDSBOOK_CONTENT_1	The birds were travelling to meet their King when they reached a crossroads. The wretched crow tried to lead them astray and onto the path of mists.	鸟类在去朝拜它们的王的途中遇到了分岔路，那只邪恶的乌鸦企图误导它们，把它们带入迷雾之地。
+ep6_inventory	BIRDSBOOK_CONTENT_2	Many birds followed him and were lost forever beyond that veil.	许多鸟跟随它永远地迷失在帷幕之后。
+ep6_inventory	BIRDSBOOK_CONTENT_3	Only the wisdom of the crested hoopoe and the prudence of the red-feathered robin could lead the remaining twenty-eight back onto the path of righteousness. Ever since, the birds have sung their praise, for without the hoopoe and the robin silence would have fallen forever.	只有羽冠戴胜的智慧与红羽知更的精明才能防止剩下的二十八只鸟回到正途。从此，鸟儿为此吟唱赞歌，因为若非戴胜与知更，寂静将永远笼罩这个世界。
+ep6_inventory	NV_PICTURE	Picture	照片
+ep6_inventory	NV_PICTURE_DESC	A picture of two young men. They could be Professor Wright and Father Oscar.	一张两个年轻男子的照片，可能是莱特教授和奥斯卡神父。
+ep6_inventory	NV_CLOTH_DESC_1	A carefully embroidered cloth. The beginning of a phrase is written on it: "If the birds fall silent…"	一匹绣花精致的布，上面写着一句话的开头：“如果鸟儿不再鸣叫……”
+ep6_inventory	NV_CLOTH_DESC_2	A carefully embroidered cloth. The end of a phrase is written on it: "...a visitor will call."	一匹绣花精致的布，上面写着一句话的结尾：“一位访客即将来到。”
+ep6_inventory	TELESCOPE_BEFORE_TALK_FISHERMAN	I should try to speak to him first.	我应该先和他交谈。
+ep6_inventory	NOMOREMATCHES	I have run out of matches.	我的火柴用完了。
+ep6_kitchen	MATCHES_REACT	I may need these matches later on.	我可能之后会用到这些火柴。
+ep6_kitchen	COLDTEAPOT_REACT	It is filled with cold water.	里面装满了冷水。
+ep6_kitchen	COLDTEAPOT_INSPECT	An old teapot.	一只旧茶壶。
+ep6_kitchen	COOKER_INSPECT	A cast-iron woodstove.	一只铸铁壁炉。
+ep6_kitchen	KITCHEN_BASEMENT_LOCKED	The door is locked shut. A small sign reads “Basement”.	门锁着，上面的标牌写着“地下室”。
+ep6_kitchen	MATCHES_INSPECT	Glass jars filled with spices and pickled food. There is a matchbox here too.	玻璃罐里装着香料和腌制食品，还有一只火柴盒。
+ep6_kitchen	ECO_KI_OVEN	A bread oven.	一只面包炉。
+ep6_kitchen	ECO_LI_FORNITURE	Different ingredients.	各式各样的食材。
+ep6_kitchen	ECO_LI_FORNITURE2	Glass jars filled with spices and pickled food.	玻璃罐里装着香料和腌制食品。
+ep6_kitchen	LG_HOUSEKEEPER_KI_1	Mrs Oakwood?	欧克伍德女士？
+ep6_kitchen	MATCHES2_INSPECT	Glass jars filled with spices and pickled food.	玻璃罐里装着香料和腌制食品。
+ep6_kitchen	KITCHEN_ALREADY_LIGHTED	The fire is burning already.	火已经烧起来了。
+ep6_kitchen	TEAPOT_COOKER_NOT_LIGHTED	If I want to heat the teapot on the stove, I will need to start a fire first.The stove already has plenty of wood.	如果我要在壁炉上加热茶壶，我要先生火。壁炉里已经有很多柴禾了。
+ep6_kitchen	ECO_KI_PIPE	A gilded pipe. It runs from underground to the corridor.	一条镀金管道从地下伸出，通向走廊。
+ep6_kitchen	TNK_TEAPOT_DURATION	The water will cool soon.	水很快就会冷却。
+ep6_kitchen	WCMB_BIRDSKEY_BASEMENT	The key doesn't fit here	钥匙插不进去。
+ep6_kitchen	WCMB_ATTICKEY_BASEMENT	The key doesn't fit here	钥匙插不进去。
+ep6_kitchen	WCMB_REDKEY_BASEMENT	The key doesn't fit here	钥匙插不进去。
+ep6_kitchen	ECO_PIPE	A gilded pipe. It runs from the ground to the corridor.	一条镀金管道从地下伸出，通向走廊。
+ep6_kitchen	THINK_PRE_CLOSED_ROOM_DIARY	If we cannot access the tunnel mentioned in Professor Wright’s log, how can we find the missing parts of his research? I must talk to Kaufmann about this.↵	如果我们无法进入莱特教授在日志中提到的隧道，我们怎么找到他研究成果确实的一部分呢？我必须先和考夫曼就此讨论一下。↵
+ep6_kohneHideout	FT_TEXT1	For a moment, the sky was dark	瞬息突变，天失其茫。
+ep6_kohneHideout	FT_TEXT2	We heard the calls of a thousand birds	万鸟齐鸣，风尘翕张。
+ep6_kohneHideout	FT_TEXT3	But another sound rose above them	谜之音声，回荡四方。
+ep6_kohneHideout	FT_TEXT4	A sound I cannot describe	如雷震震，无可名状。
+ep6_kohneHideout	LG_HIDEOUT_5	The windows are covered with wooden planks. It looks as if she were trying to keep someone from entering.	窗户被木板盖着，好像她要把某人挡在屋外。
+ep6_kohneHideout			
+ep6_kohneHideout	LG_HIDEOUT_CLUE1_7	Or something from getting out...	或者困在屋内……
+ep6_kohneHideout	LG_HIDEOUT_CLUE2_1	Chalk. A circle, drawn hastily on the floor.	有人仓促地用粉笔在地上画了一个圈。
+ep6_kohneHideout	LG_HIDEOUT_CLUE2_3	She thought it could prevent what she knew was about to happen. But she was wrong…	她以为那可以阻止即将发生的一切，但她错了……
+ep6_kohneHideout	LG_HIDEOUT_CLUE3_1	It is... ashes.	那是……灰烬。
+ep6_kohneHideout	LG_HIDEOUT_CLUE3_3	...	……
+ep6_kohneHideout	LG_HIDEOUT_FINAL_1	I do not know what to make of all this.	我不知道这意味着什么。
+ep6_kohneHideout	LG_HIDEOUT_FINAL_2	I do.	我知道。
+ep6_kohneHideout	LG_HIDEOUT_INIT_1	What...↵	什么……↵
+ep6_kohneHideout	LG_HIDEOUT_INIT_2	...	……
+ep6_kohneHideout	LG_HIDEOUT_INIT_3	What did just happen in here?	这里发生了什么？
+ep6_kohneHideout	LG_HIDEOUT_INIT_4	Where is Miss Konhe?	孔希小姐在哪里？
+ep6_kohneHideout	LG_HIDEOUT_INIT_5	We are late.	我们来晚了。
+ep6_library	ECO2_LI_FIREPLACE	The fire is out. How did this happen?	火熄灭了，这是怎么回事？
+ep6_library	TINSOLDIER_REACT	Could it hold some special significance to Professor Wright?  Perhaps it will help stimulate his memories.	这对于莱特教授会不会有什么特别的意义？说不定它能刺激教授的记忆。
+ep6_library	TINSOLDIER_INSPECT	A tin soldier.  It looks to have been painted by hand.  It commemorates some military campaign that I have not heard of.	一个锡兵，看上去是徒手彩绘的。它是为了纪念某次不为我所知的军事行动。
+ep6_library	LIBRARY1_INSPECT	Professor Wright has an eclectic collection: from old adventure novels to treatises on the occult sciences. Some of these titles I believe have been forbidden by the Crown.	莱特教授有一些奇特的收藏品：从古老的探险小说到超自然科学论文。我认为有些文件是被皇室禁止的。
+ep6_library	LIBRARY2_INSPECT	There is a large volume here, quite worn. It is an illustrated edition of “The Travels of Marco Polo”. Perhaps this is the “The Book of Travels" that Professor Wright mentioned?	这里有一本很厚的书，磨损得很严重。这是插图版的《马可·波罗游记》，难道这就是莱特教授所说的《旅行之书》？
+ep6_library	LIBRARY_BIRDSROOM_LOCKED	It is locked. I can hear the racket of many birds on the other side.	锁住了，我能听见门另一边有许多鸟儿的啁啾声。
+ep6_library	GLOBE2_INSPECT	Just an empty compartment. Its sides and base are covered in black velvet.	只是一间空荡荡的隔间，它的每一面都盖着黑色天鹅绒。
+ep6_library	GLOBE_INSPECT	A secret compartment has been revealed beneath the surface of the globe.	地球仪的表面出现了一个秘密空间。
+ep6_library	LIBRARY_CLUE	We began our journey by crossing the unforgiving desert, always facing the setting sun. At last, we arrived at the merciful sight of the great ocean. We followed the coast North, in dear hope of reaching our home soon.↵	我们在无情的沙漠中开始了旅行，面朝落日不断行进。最终，我们看到了仁慈的大海。我们沿着海岸线向北航行，心中盼望着早日还家。↵
+ep6_library	PLH_ENVELOP	It is simply addressed, “To my dearest visitor”. Kaufmann needs to see this before it is opened.	上面简单地注明“致我最亲爱的访客”。在拆开之前应该先让考夫曼看一看。
+ep6_library	LIBRARY2_INSPECT_2	There is a mark on one of the pages.	有一页被打上了记号。
+ep6_library	LIBRARY_CLUE_2	It was not to be. The King of the land we traversed had declared war on the Great Khan, so we were forced to return as we had come. We never set foot in that bloody land again. We knew there was a port just a few miles to the south, where we could find a boat.	事与愿违。我们穿行国度的君王向伟大的可汗宣战了，所以我们被迫原路返回。我们再也没有涉足那片鲜血浇灌的土地。我们知道南面几里处就有一座港口，我们能在那里雇一艘船。
+ep6_library	LIBRARY_CLUE_3	Our sea voyage was short, as our sails billowed with the powerful Southern winds. We reached the most Eastern cape, and landed there. Our backs to the sea, we marched forth and soon reached home.	我们的航程很短，我们的船在强劲的南风的助推下穿行于巨浪之间。我们到达了最东端的海角，在此登陆。我们背对大海，向前进发，终于回到了家乡。
+ep6_library	ECO_LI_FIREPLACE	The fire burns fiercely, rendering the air thick and heavy in the hall.	火猛烈地燃烧着，使大堂里的空气变得厚重无比。
+ep6_library	ECO_LI_PICTURE	A painting of the cliffs of this region.	一幅当地某处悬崖的画。
+ep6_library	FIRST_VISIT_GLOBE	A globe. The surface is extraordinarily detailed. Judging by the strange shape of the continents, this must derive from a fictional work, or some prehistoric era.	一只地球仪，地图十分细致。从各大陆的位置来看，这一定是虚拟世界的设定，或者是史前大陆的样子。
+ep6_library	GLOBE_JUST_OPEN	It seems I have triggered a hidden mechanism. A small compartment has opened in the globe.	我似乎启动了某个隐藏机械。地球仪里出现了一个小隔间。
+ep6_library	GLOBE_REACT	There is a sealed letter inside.	里面有一封封住的信件。
+ep6_library	FRONTYARD_DOOR_OPENS	The door has been opened...	门开了……
+ep6_libraryConversation	LG_LIBRARYCONVERSATION16	Not at all. That would be of no elegance whatsoever!	不是，那样的话太不优雅了！
+ep6_libraryConversation	LG_LIBRARYCONVERSATION1	You see, Mr Wright, our organization is keenly interested in your research.	莱特先生，如你所见，我们的组织对你的研究十分感兴趣。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION2	We could reach an agreement to fund this project.	我们愿意资助这个项目。
+ep6_libraryConversation			
+ep6_libraryConversation	LG_LIBRARYCONVERSATION3	But first we need to know the details.	但是我们要先得知研究的细节。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION4	I understand.	我明白了。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION5	The main factor is the condition of the test subject; how open he is to suggestion. As you know, only the human mind can open a physical passage to the other side.	主要的因素是实验对象的状态，即他接受暗示的能力，因为只有人类的思想才能打开通向另一边的道路。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION6	So a complete, absolute darkness will be required for the experience to result. A secluded place, completely isolated.	所以，为了得到研究成果，必须要有一个完全且绝对黑暗的环境。一个封闭的、与世隔绝的空间。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION7	A place that can only bring thoughts of what may be hiding in the dark.	那个地方只能让人的脑海里满是隐藏在黑暗中的未知物体。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION8	But in total darkness and seclusion, how could the results of the experiment be studied or confirmed?	但是在完全黑暗且隔离的环境下如何观测、研究、确认实验成果呢？
+ep6_libraryConversation	LG_LIBRARYCONVERSATION9	That is precisely where your organization can provide help.	这就是你们的组织能帮上忙的地方。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION10	I have designed a special device that would allow me to listen from a safe distance. But I lack the means to manufacture it myself.	我设计了一个特殊装置，使我在安全距离外监控。但我无法制造它。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION11	That we could arrange.	我们可以安排一下。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION12	But there is one last thing I would like to know.	但我想问最后一件事。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION13	How would the... experience be triggered?	如何触发那种……体验？
+ep6_libraryConversation	LG_LIBRARYCONVERSATION14	By means of a chemical compound of some kind?	通过某种化学合成物质？
+ep6_libraryConversation	LG_LIBRARYCONVERSATION15	Do you mean a serum?	你是说血清吗？
+ep6_libraryConversation	LG_LIBRARYCONVERSATION17	The trigger is the mind itself. The emotion known as terror.	触发的关键在于人心本身，名为恐惧的情感。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION18	The primal fear that still survives in the depths of our mind, from the times humans were mere beasts.	原初的恐惧仍潜藏在我们心灵的深处，从人类还是野兽的时候就存在的恐惧。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION19	That which allows us to open a physical passage beyond the Veil of rational thought.	这能使我们打开一条越过理性思维的帷幕的实体通道。
+ep6_libraryConversation	LG_LIBRARYCONVERSATION20	Primal terror is the key that we will use to open the Last Door.	原初恐惧是我们打开最后一扇门的钥匙。
+ep6_libraryConversation	NITIAL_TEXT	Today, a meeting finally took place	今天，那个会议就要开始了
+ep6_libraryConversation	LG_LIBRARYCONVERSATION21	I have the perfect location in mind...	我已经想到了一个完美的地点……
+ep6_map	MAP_GRAVEYARD	Graveyard	墓地
+ep6_map	MAP_FRONTYARD	Wright Manor	莱特庄园
+ep6_map	MAP_INNROOM	Wickport Inn	维克港旅馆
+ep6_map	MAP_CLIFFHOUSEEXT	Cliff	悬崖
+ep6_map	MAP_SQUARE_	Town Square	城镇广场
+ep6_maze	LOOK_BACK_SURPRISE	What was that?	那是什么？
+ep6_maze	ARCHWAY_NOTES	There is a note on the floor.	地上有一张便笺。
+ep6_maze	ARCHWAY_FIRST_TIME	What is this place?	这是什么地方？
+ep6_maze	MAZE_BONES_DESC	These are... human remains. The flesh is gone, but the bones look undisturbed. How long have they lain here? Why on earth did Professor Wright not alert the authorities? I must press on. What possible "research" could have led to this?	这些是……人类骨骸。肌肉都已经腐烂了，但是白骨依旧保持原状。它们留在这里多久了？为什么莱特教授没有警告当地权威？我必须继续前进。究竟是什么样的“研究”能导致这种结果？
+ep6_maze	MAZE_HOLE_DESC	The hole goes deep into the wall of the cave...	洞穴的岩壁上又有一个深深的洞口……
+ep6_maze	MAZE_PUDDLES_DESC	It is some viscous substance. It could be some kind of fungus, or maybe the decomposed remains of an animal...	这种物质很粘稠，可能是某种真菌，或者是动物半腐烂的残骸……
+ep6_maze	MAZE_PIT_DESC	There is a wide pit in the middle of the chamber. It descends deep into the dark. I think I hear the sound of the sea far below.	房间中央有一个很宽的坑，它深深地陷入了黑暗之中。我能从中听到下方海浪的声音。
+ep6_maze	MAZE_HOLE_BRICK_DESC	A small passage goes into the bricked wall. It is too thin to pass through.	砖墙上有一条狭窄的通道，钻不过去。
+ep6_maze	MAZE_DEVICE_2	There is a strange metal device hanging from the ceiling.	天花板上悬挂着一个奇怪的金属器械。
+ep6_maze	MAZE_DEVICE_3	There is a strange metal device hanging from the ceiling.	天花板上悬挂着一个奇怪的金属器械。
+ep6_maze	MAZE_CAVEIN	This part of the cave is blocked by a cave-in.	这部分洞穴塌方了，无法进入。
+ep6_maze	MAZE_PIANO	There is a grand piano placed in the middle of the room.	房间中央有一架大钢琴。
+ep6_maze	MAZE_MESSAGE	The drawing represents a human figure stepping through some sort of archway or door...	这幅画描绘了一个人影跨过了某种拱道或是大门……
+ep6_maze	ARCH_DOOR_RIGHT_DOOR_CONTINUE_INVESTIGATION	I cannot leave now after having come this far.	已经走到这个地步了，我可不想中途退出。
+ep6_maze	ARCH_DOOR_RIGHT_LOCKED	I cannot leave now after having come this far.	已经走到这个地步了，我可不想中途退出。
+ep6_maze	ECO_BRICK	Part of the wall's stones seem to have just dislodged from it, leaving a large, dark hole on it.	好像墙的一部分被移开了，留下了一个巨大、黑暗的洞穴。
+ep6_maze	ARCHWAY_NOTES1	Who was gone will be back not the same, but somehow changed. Because that what lurks behind the Door, waits. And no one that has crossed through can hope to escape its blessing.	离去之人回归时不会保持原状，他们总会在某种意义上改变。因为蛰伏在门后的存在一直在等待。没有人能在穿越界限后能逃脱它的祝福。
+ep6_maze	ARCHWAY_NOTES2	I must tell Kaufmann about all of this.	我必须把这件事全部告诉考夫曼。
+ep6_maze	NT_DECO_CLOTHES	These clothes are torn down to unrecognisable shreds. There is a tag in here with two initials: “H. A.”.	这些衣服被撕裂成了无法辨认的布条。上面有一个标签，上面写着姓名首字母：“H.A.”。
+ep6_maze	NT_DECO_ARCH	There is a large archway carved on the stone wall of the cave.	洞穴的岩壁上有一条长长的拱道。
+ep6_maze	NT_DECO_MACHINE	A strange machine. It does not seem to be working anymore.	一个奇怪的机器，看上去无法运作。
+ep6_menus	CREDITS_SLIDE10_NAME	redrubin	redrubin
+ep6_menus	CREDITS_SLIDE3	Woman in pub description by	酒馆里的女人描述提供者
+ep6_menus	CREDITS_SLIDE4	Painting description by	画作描述提供者
+ep6_menus	START_BT_NEWGAME	New Game	新游戏
+ep6_menus	START_BT_CONTINUE	Continue	继续游戏
+ep6_menus	START_WAIT	Please Wait...	请等待……
+ep6_menus	ENDBETA_ENDOFBETA	End of Beta	公测部分结束
+ep6_menus	ENDBETA_STARTOVER	Start Again	重新开始
+ep6_menus	ENDBETA_FORUMS	Visit forums	访问论坛
+ep6_menus	STARTOPS_HEADPHONES	Headphones and dark environment recommended.	建议佩戴耳机，在黑暗环境下游玩。
+ep6_menus	STARTOPS_ACCESSIBILITY	Accessibility options	访问选项
+ep6_menus	STARTOPS_WHILEPLAYING	While playing:	游玩途中：
+ep6_menus	STARTOPS_DYSLEXIA	Press '1': Enable/disable dyslexia-friendly font.	按“1”：打开/关闭读写障碍综合征可用字体（中文模式下不可用）
+ep6_menus	STARTOPS_CC	Press '2': Enable/disable descriptions of sounds [cc].	按“2”：打开/关闭声音描述[字幕]。
+ep6_menus	STARTOPS_CONTINUE	Click to continue...	点击继续……
+ep6_menus	STARTBETA_TEXT_1	The quest started by Dr. Wakefield and Johan Kaufmann in search of Wakefield's former patient, Devitt, leads them to the discovery of a secret society known as the Playwright, founded by Alexandre Du Pré.	威克菲尔德医生与乔安·考夫曼为了寻找威克菲尔德的前病人——戴维特——而踏上了旅途。他们找到了一个亚历山大·杜·佩雷创办的，名为“剧作家”的秘密结社。
+ep6_menus	STARTBETA_TEXT_2	Following the trail of one of its members, Miss Konhe, the pair witness a strange event, that defies explanation.↵
+↵
+This all seems to lead to the research of Kaufmann's own mentor, Adam Wright. With the hope of casting light over the mystery, they decide to visit the eccentric professor...	跟随着结社成员孔希小姐，二人组见证了无法解释的奇特事件。↵
+↵
+这一系列事件都指向考夫曼的导师：亚当·莱特。为了解决谜团，他们决定拜访那位古怪的教授……
+ep6_menus	STARTBETA_EPISODETITLE	-= My Dearest Visitor =-	-= 我最亲爱的访客 =-
+ep6_menus	STARTBETA_BETATITLE	Season 2 Episode 2 - Beta	第二季第二集-公测
+ep6_menus	CREDITS_NEXTEPISODE	Season 2 Episode 3	第二季第三集
+ep6_menus	CREDITS_ADVENTURECONTINUES	The adventure continues in	冒险仍将继续
+ep6_menus	CREDITS_SLIDE0	"My Dearest Visitor" was created thanks to↵
+the generous support of 2880 players ↵
+who participated in the crowdfunding campaing.	《我最亲爱的访客》的完成归功于↵
+2880名玩家的慷慨解囊↵
+他们参与了公共集资项目。
+ep6_menus	CREDITS_SLIDE1	Bath description by	浴缸描述提供者
+ep6_menus	CREDITS_SLIDE1_NAME	basement_crusader	basement_crusader
+ep6_menus	CREDITS_SLIDE2	Pub wheel description by	酒馆轮盘描述提供者
+ep6_menus	CREDITS_SLIDE5	Painting description by	画作描述提供者
+ep6_menus	CREDITS_SLIDE6	Lamp description by	台灯描述提供者
+ep6_menus	CREDITS_SLIDE7	Boat description by	船只描述提供者
+ep6_menus	CREDITS_SLIDE8	Window description by	窗户描述提供者
+ep6_menus	CREDITS_SLIDE9	Confesionar description by	忏悔书描述提供者
+ep6_menus	CREDITS_SLIDE10	Hall painting description by	大厅画作描述提供者
+ep6_menus	CREDITS_SLIDE11	Tree description by	树木描述提供者
+ep6_menus	CREDITS_SLIDE12	Cliff tree description by	峭壁上的树木描述提供者
+ep6_menus	CREDITS_SLIDE2_NAME	Johnny-Eyeball	Johnny-Eyeball
+ep6_menus	CREDITS_SLIDE3_NAME	ziqi92	ziqi92
+ep6_menus	CREDITS_SLIDE4_NAME	JogosGronkel	JogosGronkel
+ep6_menus	CREDITS_SLIDE5_NAME	xochie	xochie
+ep6_menus	CREDITS_SLIDE6_NAME	tuildir	tuildir
+ep6_menus	CREDITS_SLIDE7_NAME	jezzamazza	jezzamazza
+ep6_menus	CREDITS_SLIDE8_NAME	Katalia	Katalia
+ep6_menus	CREDITS_SLIDE9_NAME	cbee	cbee
+ep6_menus	CREDITS_SLIDE11_NAME	GeneralSwain	GeneralSwain
+ep6_menus	CREDITS_SLIDE12_NAME	OVERLORD_RAHL	OVERLORD_RAHL
+ep6_menus	CHAPTERTITLE_TITLE	Season Two - Episode Two	第二季-第二集
+ep6_menus	CHAPTERTITLE_SUBTITLE	-= My Dearest Visitor =-	-= 我最亲爱的访客 =-
+ep6_opening	FT_TEXT_HEADER1	Developed by	研发者
+ep6_opening	FT_TEXT_CONTENT1	Enrique Cabeza↵
+Elena Moreno↵
+Mauricio García↵
+Daniel Márquez↵
+Anna Pechočová↵
+Jose Antonio Perales↵
+Mateo Pérez↵
+Lucie Tvarohová	Enrique Cabeza↵
+Elena Moreno↵
+Mauricio García↵
+Daniel Márquez↵
+Anna Pechočová↵
+Jose Antonio Perales↵
+Mateo Pérez↵
+Lucie Tvarohová
+ep6_opening	FT_TEXT_CONTENT2	Carlos Viola	Carlos Viola
+ep6_opening	FT_TEXT_HEADER2	Original Music by	原始音乐创作者
+ep6_opening	FT_TEXT_HEADER3	English Localization	英国本土化
+ep6_opening	FT_TEXT_HEADER4	Special Thanks	特别鸣谢
+ep6_opening	FT_TEXT_HEADER5	Made possible thanks to	另外感谢
+ep6_opening	FT_TEXT_CONTENT3	Christopher Beaton↵
+Tyson Guttwein↵
+Dino Ljubić↵
+David Techman↵
+Aaron Loehrlein↵
+↵
+Thank you on behalf ↵
+of the TLD community	Christopher Beaton↵
+Tyson Guttwein↵
+Dino Ljubić↵
+David Techman↵
+Aaron Loehrlein↵
+↵
+以“最后一扇门”团队的名义↵
+向你们致谢
+ep6_opening	FT_TEXT_CONTENT4	Javier Mairena↵
+Daniel Pontiveros↵
+Juan Miguel López↵
+Raúl Díez↵
+Mariela González	Javier Mairena↵
+Daniel Pontiveros↵
+Juan Miguel López↵
+Raúl Díez↵
+Mariela González
+ep6_opening	FT_TEXT_CONTENT5	2971 generous contributors	2971名慷慨的赞助者
+ep6_opening	FT_TEXT_CONTENT6	TheLastDoor.com	TheLastDoor.com
+ep6_opening	FT_TEXT_HEADER6	This game is community powered.↵
+Join us and leave your mark!	这个游戏是由团队制作的。↵
+加入我们，留下你的足迹！
+ep6_port	STRANDED_BOAT1_INSPECT	This old ship is completely wrecked.	这只旧船完全被破坏了。
+ep6_port	STRANDED_BOAT2_INSPECT	I wonder how long it has lain here.	我不知道它在这里多久了。
+ep6_port	STRANDED_BOAT1_REACT	It is... a small bell. It is quite rusty.	这是……一只小铃铛。它生锈得很厉害。
+ep6_port	ECO_PO_PLANKS	Some abandoned wooden planks. Perhaps they are here for the repair of local fishing boats.	一些废弃的木板，可能是用来修理当地渔船的。
+ep6_port	ECO_PO_OLDBOAT	An old fishing boat. It smells strongly of fish.	一只老旧的渔船，鱼腥味很重。
+ep6_port	ECO_PO_FARTREE	Far in the distance I can see a lonely tree, bent by the sea wind.	远处有一棵树，无依无靠，任凭海风摧残。
+ep6_port	BELL_INSPECT	An old, rusty bronze bell, typical of a seafaring vessel. It is engraved with the name "Augustine".	一只老旧的、生锈的铜铃，通常是挂在游船上的。上面刻着船名“奥古斯丁”。
+ep6_port	BELL_REACT	Someone may be able to tell me more about it.	可能会有人告诉我关于这件事情的更多细节。
+ep6_port	LG_DRUNK_PORT_1	Not the cracks in your hull nor your flaking paint, none of it matters. You are beautiful as ever, Augustine. 	不管你船舷上的裂缝，不管你剥落的油漆，无论其他的一切，你和以前一样美丽，奥古斯丁。
+ep6_port	LG_DRUNK_PORT_2	Today we will watch the sun set together.	今天，我们将共同观赏夕阳。
+ep6_port	LG_DRUNK_PORT_3	Good sir, I cannot put in words what a great service you have rendered this drunken nave. Just as you, a stranger, have brought me to my lost treasure, may this old sailor's spyglass, in whatever way it can, help light the way to yours. Take it: it is a gift from the heart.	先生，我无法言表你为这个醉鬼所做的事情的感激之情。你，一个陌生人，帮我找回我早已失落的宝藏。希望这只老水手的望远镜，能以某种方式帮助你。小小心意，请您收下。
+ep6_port	CMB_TELESCOPE_DRUNK	He won't need it anymore.	他不再需要它了。
+ep6_port	BETASLOT_DECO_PO_OLDBOAT	An old, rotting boat rests on the shore. The name 'Providence' is written on the side.	海岸上有一只古老、腐朽的船。它的侧面写着“Providence”，可能只是某个小镇“普罗维登斯”或是指“天命之人”。
+ep6_posthypnosis	WAKE_UP_TITLE	Wake up!	醒醒！
+ep6_posthypnosis	LG_POSTHYPNOSIS_1	Enough.	够了。
+ep6_posthypnosis	LG_POSTHYPNOSIS_2	We went too far, mein Freund.	我们做得太过火了，我的朋友。
+ep6_posthypnosis	LG_POSTHYPNOSIS_3	You are right... I did not think he would react this way...	你说得对……我不知道他会如此反应……
+ep6_posthypnosis	LG_POSTHYPNOSIS_4	You did well by stopping the trance, Kaufmann.	你及时停止催眠是正确的，考夫曼。
+ep6_posthypnosis	LG_POSTHYPNOSIS_5	I think it would be best if we leave it for today. Let us return to the inn.	我觉得今天就到这里吧。我们现在先回旅馆。
+ep6_posthypnosis	LG_POSTHYPNOSIS_6	Reflect tonight on what we have witnessed here. Tomorrow, let's discuss the next steps in our investigation.	今晚反思一下我们再次见证的东西。明天我们再讨论下一步应该调查什么。
+ep6_prehypnosis	HYPNOTIZING1	Look at this candle. Fix your eyes on it.	看着这支蜡烛，把你的目光聚焦在烛焰上。
+ep6_prehypnosis	HYPNOTIZING2	Your body is light as a feather.	你感觉自己的身体和羽毛一样轻盈。
+ep6_prehypnosis	HYPNOTIZING3	Everything around you fades. You are entering a dark, endless void.	你身边的一切都消失了，你进入了黑暗、无尽的虚空。
+ep6_pub	LG_WAITRESS_21	How is business going?	最近如何？
+ep6_pub	LG_WAITRESS_23	Been better. Not seen many folk here lately.	好多了。近些天倒是没看到很多人。
+ep6_pub	LG_WAITRESS_25	What brings you to Wickport? We don't get a lot of visitors.	什么风把你吹到维克港来的？我们很少有人来访。
+ep6_pub	LG_WAITRESS_26	Well, I am just passing through.	啊，我就是混着过日子而已。
+ep6_pub	LG_WAITRESS_27	I can see why.	我知道为什么。
+ep6_pub	LG_WAITRESS_22_CH	Have you met Professor Wright?	你见过莱特教授了吗？
+ep6_pub	LG_WAITRESS_22	Have you ever met Professor Wright?	你曾经见过莱特教授吗？
+ep6_pub	LG_WAITRESS_29	The Professor? Sure. Saw him every other day as a young'un. Always involved in the village. He was la-di-dah alright but folk respected him. He got stuck in. Didn't last, though. Shut himself away, started getting visitors from out of town. He stopped coming to the village eventually. Last I heard, he'd gone crazy. None of us knows for sure though. Been years since I saw him.	教授？当然。他年轻时我隔三差五就能见到他。他对镇子里的各类活动都很热心。他看上去装模作样，但是同乡们都很敬重他。他热火朝天地和同乡打着交道。但是好景不长啊。之后他开始把自己封闭在自己家里，不断有镇外的人来拜访。最终，他甚至都不来镇上了。最近我听说他疯了。但是没人敢把话说满了。我上次见到他可是好几年前了。
+ep6_pub	LG_WAITRESS_30_CH	I must leave.	我该走了。
+ep6_pub	LG_WAITRESS_30	I will leave you to your work.	你继续工作吧。
+ep6_pub	RUNK_PHRASE_1	You cannot cross the sea  *hic!*	你一辈子也别想跨过大海*嗝！*
+ep6_pub	RUNK_PHRASE_2	merely by standing  *uuurgh*	如果你只是站在那里*呃——*
+ep6_pub	RUNK_PHRASE_3	and staring at the water.	看着水面。
+ep6_pub	LG_DRUNK_11	Ha! A hat don't make a captain townie. You can buy a hat like this'n any flea market'n England.	哈！一顶帽子可不能让一个船长甘于市井生活。你可以在英国随便哪一个跳蚤市场买到这样的帽子。
+ep6_pub	LG_DRUNK_7	Because of your coarse skin, weathered by years of salt and wind.	因为你的皮肤被年复一年的海水与海风摧残而粗糙无比。
+ep6_pub	LG_DRUNK_7_CH	Your coarse skin.	你粗糙的皮肤。
+ep6_pub	LG_DRUNK_8	Because of your hands, calloused by years of knotting rope and reeling in line.	因为你的手在年复一年的打绳结、卷筒线的过程中生满老茧。
+ep6_pub	LG_DRUNK_8_CH	Your hands.	你的手。
+ep6_pub	LG_DRUNK_9_CH	Your three earrings.	你的三只耳环。
+ep6_pub	LG_DRUNK_9	Because of the three earrings you are wearing.	因为你戴着的三只耳环。
+ep6_pub	LG_DRUNK_16	You met many folk in Wickport yet? It's common enough round these parts.	你见过维克港的其他人了吗？这里有很多人是这样的。
+ep6_pub	LG_DRUNK_17	Any fisherman has hands like these.	所有渔夫的手都是这样的。
+ep6_pub	LG_DRUNK_18	If I dies in the sea these three rings'll pay my wake. But no, that'll not happen now.	如果我葬身大海，这三只耳环就能当做通向阴间的买路钱。不，这种事现在不会发生了。
+ep6_pub	LG_DRUNK_19	Do you mean you will not set sail again?	你的意思是说你不会再出海了？
+ep6_pub	LG_DRUNK_20	I love the sea more than anything! It is my passion, my freedom and my life.	我热爱大海胜过一切！海洋是我的激情，我的自由，我的生命。
+ep6_pub	LG_DRUNK_21	Have you seen any of those things?	你见过这些东西吗？
+ep6_pub	LG_DRUNK_22	No... But...	不……但是……
+ep6_pub	LG_DRUNK_23	And I understood.	我明白。
+ep6_pub	LG_DRUNK_26_CH	What did you understand?	你明白什么了？
+ep6_pub	LG_DRUNK_26	What did you understand?	你明白什么了？
+ep6_pub	LG_DRUNK_29	I understood there was no more freedom for me. That the sea now had other lords.	我明白我再也没有自由了。海洋现在屈服于另一个主人。
+ep6_pub	LG_DRUNK_27_CH	What happened then?	发生了什么？
+ep6_pub	LG_DRUNK_30	As I navigated back to shore, I lost control of my ship in a great storm. The rocks of the cliffs did the rest.	当我航行到岸边时，我的船在一场巨大的风暴中失控了。悬崖上的岩石把我的船彻底摧毁了。
+ep6_pub	LG_DRUNK_28_CH	I will leave you alone.	打扰了，再见。
+ep6_pub	LG_DRUNK_28	I will leave you alone to your thoughts.	你继续思考吧，打扰了，再见。
+ep6_pub	LG_DRUNK_31	You have the gratitude of me and my whiskey! All that blathering worked up a right sore thirst.	我和我的威士忌都很感谢你！刚刚说了这么久嗓子都干了。
+ep6_pub	LG_DRUNK_34	Why that bell is from Augustine! My Augustine! Where on earth did you find it?	啊，那个铃铛是奥古斯丁号的！我的奥古斯丁！你究竟在哪里找到的？
+ep6_pub	LG_DRUNK_35	I found it on the beach, near the shipwreck.	我在海滩上找到的，旁边还有船的残骸。
+ep6_pub	LG_DRUNK_36	Wickport beach? Our beach? Why, I must go, I must go straight away! Oh to be reunited with my poor Augustine. What will remain of her? No, no, I dare not go. Oh but I must! Good day to you sir!	维克港海滩？我们的海滩？啊，我必须过去，我必须马上过去！哦，要和我可怜的奥古斯丁团聚。她剩下了什么呢？不，不，我不敢去。哦我必须去！再见，先生！
+ep6_pub	LG_DRUNK_27	What happened then?	发生了什么？
+ep6_pub	RUNK_PHRASE_4	The Sea chooses harbours to laugh in↵
+Like sailors do.	大海选择港口，在其中大笑↵
+就像海员一样。
+ep6_pub	RUNK_PHRASE_5	The Sea of those who are.	现人的大海啊。
+ep6_pub	RUNK_PHRASE_6	The Sea chooses too↵
+Harbours where to die.	大海也选择↵
+死亡的港口。
+ep6_pub	RUNK_PHRASE_7	To die like sailors do.	像水手一样死去。
+ep6_pub	RUNK_PHRASE_8	The Sea of those who were.	先人的大海啊。
+ep6_pub	LG_WAITRESS_34_CH	Tell me about Captain Morvell.	告诉我莫威尔船长的信息。
+ep6_pub	LG_WAITRESS_34	What can you tell me about Captain Morvell? Does he come here often?	你认识莫威尔船长吗？他经常来这里吗？
+ep6_pub	LG_WAITRESS_35	Fred? He's a regular. A sad, lonely drunk.	弗雷德？他是个常客。一个伤心、孤寂的醉汉。
+ep6_pub	ECO_PU_PICTURES	Old pictures of the village's inhabitants.	一幅昔日镇上居民的照片。
+ep6_pub	ECO_PU_POSTER	An old poster of a local, traditional sport.	一幅古老的海报，上面介绍了当地的一种传统体育运动。
+ep6_pub	ECO_PU_DRINKS	Bottles of rum, dark beer and a couple of taps of pale ale.	几瓶朗姆酒、黑啤酒和几桶麦酒。
+ep6_pub	LG_DRUNK_40	You have doubled the Three Capes, is that right?	你穿越过三个海角，是吗？
+ep6_pub	LG_DRUNK_41	Indeed I have. Good Hope, Leeuwin and Horn. Therefore I hold the right to stand before kings, and to piss against the wind.	确实如此。好望角、卢因角与合恩角。所以我拥有站在国王面前的权利，还有迎风撒尿的权利。
+ep6_pub	LG_DRUNK_42	But there are many things about Him that we do not know. There are, far from the coast, in the deep dark, things we are still unprepared to behold.	但是我们对于“他”还有很多东西不了解。远离海滩，在黑暗的深处，我们还没有准备好接受的东西。
+ep6_pub	LG_DRUNK_43	Believe me, those things await deep down.	相信我，那些东西在深处等着我们。
+ep6_pub	LG_DRUNK_44	You may have heard one or two of the stories the fishermen tell, about things seen out there.	你可能听过几个渔夫讲的关于在海上见到的东西的故事。
+ep6_pub	LG_DRUNK_45	It is nought but tales for young'uns, mere superstition from men too cowardly to face the dark. Any good seaman knows that in the strong wind a stretched rope can shake and sing.	那只是给年轻人讲的传说而已，是人们因为懦弱不敢面对黑暗的产物，只是迷信罢了。任何一个好水手都知道在强风中一根绷紧的绳子就会摇动、发出声响。
+ep6_pub	LG_DRUNK_46	I, myself, have mistaken such keening for the wail of a child. But there was one time... one time, it was nothing of the sort. Then, the Sea howled.	我自己曾经也为如此类似婴儿的哭声困扰过。但是有一次……有一次，和之前完全不一样。那一次，海洋都在咆哮。
+ep6_pub	LG_DRUNK_47	It was not thunder, not a strong wave clashing with my ship. No.	那不是雷声，更不是海浪拍打着我的船舷。不是。
+ep6_pub	LG_DRUNK_48	It was like a voice... It spoke to me in a language I cannot describe. A sound muttered by a living something, a call unlike anything I had heard before.	那是一个声音……它用不知名的语言和我对话。一个活物发出的声音，我之前从未听过的呼唤。
+ep6_pub	LG_DRUNK_49	I do not know where the remains of my dear Augustine ended up, with the passing of years and tides. I looked for them, once, for many moons, but all I found was this bar and the bottom of an empty glass. I have never returned to the shore since. May she forgive me.	我不知道我亲爱的奥古斯丁的残骸随着时间与波涛去了哪里。我曾经连续数月寻找她，但我只找到了这间酒吧和空空的酒杯。我再也没有回到海岸边。希望它能原谅我。
+ep6_pub	LG_DRUNK_50	Now, leave me be.	现在，让我一个人静静。
+ep6_pub	LG_DRUNK_51	And whoever they were, I did know they would not share it.	无论他们是谁，我知道他们不会分享任何东西的。
+ep6_pub	LG_DRUNK_52	I thought I would never see it again! I will clean it and make it shine anew.	我以为我再也见不到她了！我要仔细地清洁她，让她焕然一新。
+ep6_pub	LG_WAITRESS_36_CH	A man named Oscar.	一个叫奥斯卡的人。
+ep6_pub	LG_WAITRESS_36	Do you know a man called Oscar?	你认识一个叫奥斯卡的人吗？
+ep6_pub	LG_WAITRESS_37	You mean Father Oscar? You can find him in the church, when he's not in here. It's right outside.	你说奥斯卡神父？如果他不在这里，他就在教堂里。教堂就在门外。
+ep6_pub	ECO_PU_GUYS	Those two fishermen have just given me a suspicious look.	那两个渔夫疑神疑鬼地看了我一眼。
+ep6_pub	BETASLOT_DECO_PU_WHEEL	The wheel taken from the helm of a ship. Perhaps a trinket from the owner's days as a ship's helmsman.	船舵上拆下来的舵轮。可能是主人在舵手的那段岁月里留下的小纪念品。
+ep6_pub	BETASLOT_DECO_WOMAN	This lady dressed rather elegantly for someone who came to drink in a place like this.	这位女士的衣着对于这样的酒吧来说有些过于正式了。
+ep6_pub	LG_DRUNK_1	Good morning.	早上好。
+ep6_pub	LG_DRUNK_2	Let me drink in peace…	让我一个人安静地喝酒……
+ep6_pub	LG_DRUNK_3	Are you a ship captain?	你是一个船长吗？
+ep6_pub	LG_DRUNK_4	Why, what's it to you? Does I look like a captain?	啊，怎么了吗？我看上去有一个船长的样子吗？
+ep6_pub	LG_DRUNK_6	Because of the hat you are wearing.	因为你戴的帽子。
+ep6_pub	LG_DRUNK_6_CH	Your hat.	你的帽子。
+ep6_pub	LG_WAITRESS_4	Church? Let me give you some advice. Barmaids ain't the people to ask about church opening hours. This here bar is my church. Most of the village've come to see things my way too. We prays here these days.	教堂？我来给你一个建议。酒吧女招待可不是那种会知道教堂什么时候开门的人。这家酒吧就是我的教堂。镇上的很多人也和我意见一致。我们最近都在这里祈祷。
+ep6_pub	LG_WAITRESS_5	You want a drink?	你想喝一杯吗？
+ep6_pub	LG_WAITRESS_11	Good morning.	早上好。
+ep6_pub	LG_WAITRESS_9_CH	When will the church open?	教堂什么时候开门？
+ep6_pub	LG_WAITRESS_9	I wonder if you know when will the church open. I knocked on the door but there was no answer.	你知道教堂什么时候开门吗？我敲过门，但是没有人应门。
+ep6_pub	LG_WAITRESS_12_CH	When will the church open?	教堂什么时候开门？
+ep6_pub	LG_WAITRESS_12	Do you know when will the church open?	你知道教堂什么时候开门吗？
+ep6_pub	LG_WAITRESS_6	The whole village has forsaken the church? But why?	教堂被这个镇抛弃了？为什么？
+ep6_pub	LG_WAITRESS_7	The town is forsaken. No work on the coasts these days, see? Few can make a living. Most of the fishers and sailors have up and left. Half the cottages lie abandoned. Those who stayed, they barely leave their homes, 'cept to come here of course.	是这个小镇被抛弃了。最近海滩上没什么活好干了，对吧？没什么人能维持生计了。大多数渔夫和水手都卷铺盖离开了。半数的小屋都被遗弃了，空空如也。留下的人几乎都不踏出家门一步，当然除了来这里以外。
+ep6_pub	LG_WAITRESS_14	But surely there must be more than just this? Many coastal towns face the same struggle but none lie abandoned!	但是人们不会甘于就此沉沦的吧？很多沿海小镇都面临着这个问题，但是没有一个小镇像这样被抛弃了！
+ep6_pub	LG_WAITRESS_15	Weeell, there's rumours. Silly stories if you asks me, but some take 'em real serious. Fishers, big dependable guys, they'll tell you they've seen stuff out there on the water, apparitions, shapes among the rocks. I say it's the booze talking, and I should know. Who could see anything in all that mist anyway? But fishers, they're superstitious. Folk believed the tales and one by one they just didn't come home no more. 	好——吧，其实有一些传言。我觉得这只是无稽之谈，但是有些人真把这些流言当一回事。那些个子高大、可靠的渔夫会告诉你他们在海上看到了东西，礁石间出现了幽灵和其他形体。我觉得这只是醉话，明显如此。谁能在那团迷雾里看到东西呢？但是那些渔夫很迷信。老百姓们相信了传言，于是接二连三地离开了。
+ep6_pub	LG_WAITRESS_17_CH	Man sitting in the corner.	坐在角落里的男人。
+ep6_pub	LG_WAITRESS_17	What is with that man on the corner?	那个坐在角落里的男人怎么了？
+ep6_pub	LG_WAITRESS_18	Fred? You can ignore him. He's a sad lonely drunk.	弗雷德？你可以无视他。他只是一个悲伤而孤寂的醉汉罢了。
+ep6_pub	LG_WAITRESS_19_CH	I must leave.	我该走了。
+ep6_pub	LG_WAITRESS_19	I must leave.	我该走了。
+ep6_pub	LG_WAITRESS_20	Godspeed.	祝你一路顺风。
+ep6_pub	LG_WAITRESS_21_CH	How is business going?	最近如何？
+ep6_radio	PLH_KAUFFMAN_RADIO		
+ep6_servantRoom	ECO_SE_WARDROBE	It is a simple wooden wardrobe. There is nothing of interest in here.	一个简单的木制柜子，里面没什么重要的东西。
+ep6_servantRoom	ECO_CLOTHES	A coat stand.	一个衣架。
+ep6_servantRoom	ECO_SE_CHEST	There is a closed chest here.	这里有一个关着的箱子。
+ep6_servantRoom	ECO_SE_CHEST2	There is nothing else inside.	里面没有其它东西了。
+ep6_servantRoom	CHEST_REACT	There is a key inside.	里面有一把钥匙。
+ep6_servantRoom	JAIL_INSPECT	A cage covered with an embroidered cloth. The end of a phrase is written on it: "...a visitor will call."	一只盖着绣花布的笼子。上面写着一句话的结尾：“……一位访客即将到来。”
+ep6_servantRoom	EMPTY_JAIL_INSPECT	There is no bird inside.	里面没有鸟。
+ep6_silhouettes	NT_PIC1_DESC	“Mr. Strachan was a well-positioned man. He fell madly in love with the younger daughter of the Bartleys, and so he proposed to her.”	“斯特朗先生是一个条件优越的男人。他与巴特雷家的次女疯狂地坠入了爱河，于是他向她求婚了。”
+ep6_silhouettes	NT_PIC2_DESC	“Young Agnes fancied the idea of marrying an older man, but she always hid her feelings from her mother.”	“年轻的艾格尼丝很想与一个年龄较大的男人交往，但是她一直不让母亲知道自己的心事。”
+ep6_silhouettes	NT_PIC3_DESC	“Mrs Bartley did never take her eyes off her daughter, and watched them at all times.”	“巴特雷女士一直关注着自己的女儿，总是密切地观察着他们。”
+ep6_silhouettes	NT_PIC4_DESC	“Mr Bartley tried to show his support for their daughter, but his wife never paid any attention to him.”	“巴特雷先生想要表达自己对女儿的赞同，但是他的妻子对他漠不关心。”
+ep6_square	SQUARE_CHURCH_LOCKED	It is closed.	门关着。
+ep6_square	LG_ALBINO_1	Excuse me, are you spying on me?	不好意思，你是在监视我吗？
+ep6_square	LG_ALBINO_2	I am sorry, I did not mean to... You are not from these parts, are you?	对不起，我没有心怀恶意……你不是本地人吧？
+ep6_square	LG_ALBINO_3	No, I am just passing through. Are you alright?	不，我只是路过的旅人。你还好吗？
+ep6_square			
+ep6_square	LG_ALBINO_6	Alright, where is that place?	好的，那个地方在哪里？
+ep6_square	LG_ALBINO_6_CH	Alright.	好的。
+ep6_square	LG_ALBINO_7_CH	I am too busy.	我太忙了。
+ep6_square	LG_ALBINO_7	I am sorry, I am too busy at the moment.	对不起，我现在很忙。
+ep6_square	LG_ALBINO_9	Oh... I understand.	哦……我知道了。
+ep6_square	LG_ALBINO_10	What can you tell me about the barmaid?	你能告诉我酒吧女招待的事吗？
+ep6_square	LG_ALBINO_10_CH	Let me see... What can you tell me about the pub's barmaid?	我想想……你能告诉我酒吧女招待的事吗？
+ep6_square	LG_ALBINO_17	Why were you spying on me?	你为什么要监视我？
+ep6_square	LG_ALBINO_18	Oh do not put it like that! It sounds so terrible. I just... watch folk passing by. I cannot leave the house. So... I spend my days at the window! It is awful interesting. You learn a lot about people this way, you know?	哦，不要这么说！这听上去很不好。我只是……看看路过的人。我不能离开屋子。所以……我整天待在窗边！这非常有趣。你可以通过这种方式了解很多人。
+ep6_square	LG_ALBINO_19	Really? What can you tell me about myself?	真的吗？你通过观察对我了解了多少？
+ep6_square	LG_ALBINO_20	I have only observed you for a while, but... I can tell you are on an important mission, looking for someone dear. There is a worry over your shoulders, and a long way ahead of you.	我只观察了你一小会儿，但是……我知道你身上的任务很紧急，是在找一个对你很重要的人。你遇到了一点困难，前面的路也还很长。
+ep6_square	LG_ALBINO_21	Well, that was remarkable! I am frankly astonished.	哦，这真是精彩！我始料未及。
+ep6_square	LG_ALBINO_22	Thank you.	谢谢。
+ep6_square	LG_ALBINO_24	Let me see... What can you tell me about the barmaid?	我想想……你能告诉我酒吧女招待的事吗？
+ep6_square	LG_ALBINO_24_CH	What can you tell me about the barmaid?	你能告诉我酒吧女招待的事吗？
+ep6_square	LG_ALBINO_28	Eva is a woman with a strong character. Once I saw her kick out a group of drunk sailors from the pub without a doubt. She is in a bad mood lately, because business is not what it used to be. She will not leave the village, though, as did the others.	艾娃是一个性格坚韧的女人。我曾经看到她毫不迟疑地把一群醉汉踢出酒馆。她最近心情很不好，因为生意一天不如一天了。但是她是不会离开的，虽然很多人已经走了。
+ep6_square	LG_ALBINO_25_CH	What can you tell me about Captain Morvell?	你能告诉我莫威尔船长的事吗？
+ep6_square	LG_ALBINO_25	Let me see... What can you tell me about Captain Morvell?	我想想……你能告诉我莫威尔船长的事吗？
+ep6_square	LG_ALBINO_29	Poor Fred is always drunk. In the old times, when he was not sailing  he had long walks on the beach and looked happy. But now, rare is the occasion when he gives a quick glance at the coast. He has lost all hope.	可怜的弗雷德一直酗酒。以前他不航海时，他总是在海滩上散步，看上去很开心。但是现在他几乎不去看海滩了。他对生活完全绝望了。
+ep6_square	LG_ALBINO_26	What can you tell me about Father Oscar?	你能告诉我奥斯卡神父的事吗？
+ep6_square	LG_ALBINO_26_CH	Let me see... What can you tell me about Father Oscar?	我想想……你能告诉我奥斯卡神父的事吗？
+ep6_square	LG_ALBINO_27	I have thought on it and I will help you.	我对此有些想法，我会帮助你的。
+ep6_square	LG_ALBINO_27_CH	I will help you.	我会帮助你的。
+ep6_square	LG_ALBINO_31	Will you?	你真的会吗？
+ep6_square	LG_ALBINO_30_CH	I should go.	我该走了。
+ep6_square	LG_ALBINO_30	I should go. Thanks for everything and have a good day.	我该走了。感谢你的帮助，祝你愉快。
+ep6_square	LG_ALBINO_35	He is a man who has lost his purpose. I see him walking aimlessly in the morning and evening, nervous and doubtful.	他的生活失去了目标。我看见他在清晨与夜晚漫无目的地游荡，紧张而对生命抱有疑惑。
+ep6_square	LG_ALBINO_45	I have left the flowers on your lover's grave, as you asked.	我把花放在你爱人的墓上了，如你所愿。
+ep6_square	LG_ALBINO_48	Thank you so much. I am in your debt.	谢谢，我欠你一个人情。
+ep6_square	ECO_SQ_PUBSIGN	"The Fisherman's Lodge".	“渔夫小屋”
+ep6_square	OOR_SQUARE_CHURCH_INSPECT	This is the door of the church of Wickport.	这是维克港教堂的大门。
+ep6_square	LG_ALBINO_49_CH	Do you know a man named Oscar?	你认识一个叫奥斯卡的人吗？
+ep6_square	LG_ALBINO_49	Would you happen to know a man named Oscar?	你认识一个叫奥斯卡的人吗？
+ep6_square	LG_ALBINO_50	Yes, of course. Oscar is the priest of Wickport's parish. You can find the church right there in front of my house.	是的，当然。奥斯卡是维克港教区的主教。教堂就在我家房子前面。
+ep6_square	LG_ALBINO_52	Yes...	是的……
+ep6_square	LG_ALBINO_53	Could you... Could you do me a favor?	你能……你能帮我一个忙吗？
+ep6_square	LG_ALBINO_54	For a long time I have wanted to visit the tomb of my lover, but I cannot leave the house due to my illness.	我一直很想去为我的爱人扫墓，但是因为我的疾病，我不能离开房子。
+ep6_square	LG_ALBINO_55	Could you... Could you please leave these flowers there? No one in this village will do this service for me.	你能……你能把这些花放在她的坟墓上吗？镇里没有人想帮我。
+ep6_square	LG_ALBINO_56	Oh, you could not know how grateful I am! You are a good, kind person. You can go to the graveyard through that path right there.	哦，真感谢你！你真善良。墓地就在那边，那条路往下走就是。
+ep6_square	LG_ALBINO_57	The name you need to look for is... Carter.	你要找的人是……卡特。
+ep6_square	WINDOW_CLOSED	The window is closed shut.	窗户关上了。
+ep6_square	OOR_LOCKED	The pub is closed.	酒馆关门了。
+ep6_square	SQUARE_CHURCH_LOCKED_AGAIN	It's closed.	门关上了。
+ep6_square	BETASLOT_DECO_WINDOW1	Snow all but covers the window. Evidently, no one has been here to clear it in a very long time. It is too frosted over to see inside.	雪完全覆盖了屋子，除了这扇窗。很明显，很久没有人打扫它了。窗上结着霜，看不到房子里面。
+ep6_train	LG_TRAIN_19	My mentor, Professor Adam Wright.	我的导师：亚当·莱特教授。
+ep6_train	LG_TRAIN_1	Are you alright, Kaufmann?	你还好吧，考夫曼？
+ep6_train	LG_TRAIN_2	It is nothing, mein Freund. Just a bit of a cold.	没什么，我的朋友。只是感冒了而已。
+ep6_train	LG_TRAIN_3	Now, mein Freund, I think we should talk.	现在，我的朋友，我们该好好谈谈。
+ep6_train	LG_TRAIN_4	In light of the events we have recently witnessed, the matter cannot be delayed any further. You must make an important decision.	由于我们最近见证的种种事件，这件事不能再拖延了。你必须做出决定。
+ep6_train	LG_TRAIN_5	It is not yet too late to go back to our daily lives. If you do not want to continue, you must forget all about your patient Jeremiah Devitt.	回到我们的日常生活还不算晚。如果你不想继续，你必须忘记关于杰里米亚·戴维特的一切。
+ep6_train	LG_TRAIN_6	You will have to keep to yourself everything you have learned about the mystery of his disappearance, and never talk about it again.	你必须对你了解到的一切和她的神秘消失守口如瓶，永不再谈论此事。
+ep6_train	LG_TRAIN_7	But should you wish to continue this search, you will need to accept the consequences, whatever they may be.	但是如果你选择继续搜索，你必须承担它可能带来的一切后果。
+ep6_train	LG_TRAIN_8	Please do not take this decision lightly. The path ahead is not without peril.	请不要随意作出决定，前方的路危机四伏。
+ep6_train	LG_TRAIN_9	You know my answer already, Kaufmann. I must know what happened to Devitt.	你已经知道我的决定了，考夫曼。我必须知道戴维特发生了什么。
+ep6_train	LG_TRAIN_10	So be it, then.	那就这样吧。
+ep6_train	LG_TRAIN_11	As you may have already realized, this matter involving your patient transcends the limits of psychiatry as we know it.	正如你已经得知的，你病人身上发生的事件已经超越精神疾病的界限了。
+ep6_train	LG_TRAIN_12	We are not dealing with the effects of trauma, or the demons of the subconscious. At least not in the terms we are used to.	我们不是在与创伤或是潜意识里的魔鬼作斗争。至少不是以我们从前的方式斗争。
+ep6_train	LG_TRAIN_13	We are dealing with something old. Something dark.	我们在与古老的东西斗争，古老且黑暗。
+ep6_train	LG_TRAIN_14	A sinister truth that has been buried deep for generations.	一个世世代代深埋的残忍真相。
+ep6_train	LG_TRAIN_15	This man, Alexandre Du Pré, and his organization... I think they seek to uncover these secrets. And I fear they might have already.	这个人，亚历山大·杜·佩雷，和他的组织……我认为他们正在发掘这些秘密。恐怕他们已经发现这些秘密了。
+ep6_train	LG_TRAIN_16	Miss Konhe's fate, whatever it was, must be related somehow. But my knowledge of this area is simply not sufficient.	孔希小姐的命运，无论如何，与此事一定有所关联。但是我对于这个领域的了解明显不够。
+ep6_train	LG_TRAIN_17	We must pay a visit to an old friend. Someone I never thought I would want to see again.	我们必须去拜访一位老朋友。一个我从未预料过再去拜访的人。
+ep6_train	LG_TRAIN_18	The man who introduced me to the extended scientific field of the occult.	那个把我带进超自然科学领域的人。
+ep6_tunnel	TUNNEL_FIRST_TIME	This... This must be the entrance to the underground tunnel. I must go on.	这……这一定是通向地下隧道的入口，我必须继续前行。
+ep6_tunnel	NOTE_ON_THE_FLOOR	There's a note on the floor.	地上有一张纸条。
+ep6_tunnel	NOTE_CONTENT	Whatever you find down here, do not stop.	无论你在下面发现了什么，切勿停下脚步。
+ep6_ui	BETASLOT_TEXT	This object has no description. Submit one and, if we choose it, it will be featured in the final game and your name will appear in the credits!	这个物品还没有描述文字。现在就写下你自己的描述，如果你的意见被采用了，它就会出现在游戏的最终版本里，你的名字也会出现在感谢名单中！
+ep6_ui	BETASLOT_BUTTON	Click here to suggest a description.	点击这里加入描述文字。
+ep6_upCorridor	UPCCORRIDOR_ATTIC_LOCKED	It's locked. The sign on the door reads, "Attic".	门锁着。上面的标牌写着“阁楼”。
+ep6_upCorridor	UPCORRIDOR_CLOSEDROOM_LOCKED	What a peculiar door. It is painted red and engraved with complex patterns. It is locked shut.	真是一扇特别的门。上面刷着红漆，雕刻着复杂的图案。它结结实实地锁上了。
+ep6_upCorridor	UPCORRIDOR_GUESTROOM_LOCKED	It won't open.	打不开。
+ep6_upCorridor	ECO_UP_PICTURE1	An engraving on paper. The script is from a language unknown to me.	纸上写着什么东西。我看不懂这种语言。
+ep6_upCorridor	ECO_UP_PICTURE2	An oil painting. It shows an obscure medieval scene.	一幅油画，它隐隐约约地描绘了中世纪的一处场景。
+ep6_upCorridor	LAST_CLUE		
+ep6_upCorridor	UPCORRIDOR_BEDROOM_LOCKED	The door is locked with a key.	门锁上了。
+ep6_upCorridor	BETASLOT_DECO_PICTURE1	A painting of the ocean in the end of the afternoon. There is a figure in black at the beach, but its face is hide by a hood.	一幅傍晚海洋的画。海滩上有一个黑衣人影，他的脸上有一只面具。
+ep6_upCorridor	BETASLOT_DECO_PICTURE2	An old stone tower is depicted in the painting. Thorned vines have slithered across the entrance, forming a swarming blockade that almost seems to come alive when stared at for too long.	画上有一座石塔。塔的入口长满了荆棘，如果盯着太久，这些绿色似乎变成了活物。
+ep6_upCorridor	BETASLOT_DECO_LAMP	A lamp provides a soft glow that somehow lacks warmth.	一盏油灯散发着柔和的光芒，但是并不温暖。
+ep6_upCorridor	SECRET_ROOM_APPEARS	A secret passage has opened at the end of the corridor!	走廊尽头出现了一条秘密通道！
+ep6_window	TREE_INSPECT	That ancient oak tree is the tallest tree on the grounds.	那颗老橡树是整片土地上最高的一棵树。
+ep6_window	WINDOW_STATUE1_A	This statue portrays a queen with her face hidden by a mask.	这尊雕像是一位皇后，她的脸庞被面具所遮挡。
+ep6_window	WINDOW_STATUE1_B	The queen has removed her mask.	皇后摘下了面具。
+ep6_window	WINDOW_STATUE2_A	This statue portrays a peasant woman with her face hidden by a mask.	这尊雕像是一位农妇，她的脸庞被面具所遮挡。
+ep6_window	WINDOW_STATUE2_B	The peasant woman has removed her mask.	农妇摘下了面具。
+ep6_window	WINDOW_STATUE3_A	This statue portrays a sage hiding his face behind a mask.	这尊雕像是一位哲人，他的脸庞被面具所遮挡。
+ep6_window	WINDOW_STATUE3_B	The sage has removed his mask.	哲人摘下了面具。
+ep6_window	WINDOW_STATUE4_A	The statue portrays a clergyman hiding his face behind a mask.	这尊雕像是一位教士，他的脸庞被面具所遮挡。
+ep6_window	WINDOW_STATUE4_B	The clergyman has removed his mask.	教士摘下了面具。
+ep6_window	WINDOW_STATUE5_A	The central statue portrays a cloaked figure holding a clay vessel.	中间的雕像是一个戴着斗篷的人，他手持一尊陶器。
+ep6_window	WINDOW_STATUE5_B	The central statue is standing with its arms open.	中间的雕像双臂张开。
+ep6_window	WINDOW_CLUE	"The answer yearns up to it from the very root of life and time↵
+itself..." I should check if there is something hidden near that tree.	“答者，居生命之根基以翘首盼之者也……”↵
+我应该看看树下有没有什么东西。
