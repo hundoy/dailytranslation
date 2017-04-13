@@ -1570,110 +1570,110 @@ Dane Tippman</string>
       <string id="BETASLOT_DECO_DEADTREE">一棵僵死的树，它看起来也几乎像是一尊雕像。</string>
     </bundle>
     <bundle id="ep6_globe">
-      <string id="CLUE1_GLOBE">We began our journey by crossing the unforgiving desert, always facing the setting sun. At last, we arrived at the merciful sight of the great ocean. We followed the coast North, in dear hope of reaching our home soon. 
+      <string id="CLUE1_GLOBE">旅程开始，我们面对夕阳，穿过沙漠的荒茫。到达仁慈的海，沿着北海岸，满怀归乡的企盼。
 </string>
-      <string id="CLUE2_GLOBE">It was not to be. The King of the land we traversed had declared war on the Great Khan, so we were forced to return as we had come. We never set foot in that bloody land again. We knew there was a port just a few miles to the South, where we could find a boat. </string>
-      <string id="CLUE3_GLOBE">Our sea voyage was short, as our sails billowed with the powerful Southern winds. We reached the Easternmost cape, and landed there. Our backs to the sea, we marched forth and soon reached home.</string>
+      <string id="CLUE2_GLOBE">但事与愿违，在我们穿过的领土内，国王发兵，与大可汗征战。我们被迫回到原路，永不驻足那血腥的大陆。还好若一路向南，数英里外有个港湾，那里有船。</string>
+      <string id="CLUE3_GLOBE">航海之旅非常短暂，强大的南风掀了我们的帆。到达东边的海岬，在那儿靠岸。我们背向大海，一路向前，最终抵达家园。</string>
     </bundle>
     <bundle id="ep6_graveyard">
-      <string id="GRAVE_INSPECT">- Rose Carter -
+      <string id="GRAVE_INSPECT">- 萝丝·喀忒 -
 1840 – 1885</string>
-      <string id="BURIAL1_INSPECT">There is no name, date, or epitaph on this gravestone...</string>
-      <string id="BURIAL2_INSPECT">There is no sarcophagus here.</string>
-      <string id="BURIAL1_REACT">There is something buried here... </string>
-      <string id="TRG_COMPASS_SENTENCE">Hmm... This is certainly unusual...</string>
-      <string id="GRAVE_FLOWERS_CTS_1">…</string>
-      <string id="GRAVE_FLOWERS_CTS_2">The bells of the church... It seems the priest is calling mass.</string>
-      <string id="GRAVE2_INSPECT">... </string>
-      <string id="BURIAL_COMPASS">The compass points to... this grave?</string>
-      <string id="DECO_GR_GRAVE1">"Bury my body with the salted driftwood; with the green seaweeds and the worn out ropes, where I can feel the cold autumn breeze".
+      <string id="BURIAL1_INSPECT">这块墓石上没有雕名字、生卒年和墓志铭……</string>
+      <string id="BURIAL2_INSPECT">这里并没有棺材。</string>
+      <string id="BURIAL1_REACT">有什么东西埋在这儿……</string>
+      <string id="TRG_COMPASS_SENTENCE">嗯……这真是不同寻常……</string>
+      <string id="GRAVE_FLOWERS_CTS_1">……</string>
+      <string id="GRAVE_FLOWERS_CTS_2">那是教堂的钟声……看来牧师正在召集民众。</string>
+      <string id="GRAVE2_INSPECT">……</string>
+      <string id="BURIAL_COMPASS">罗盘指向……这个墓？</string>
+      <string id="DECO_GR_GRAVE1">“将我身体和海中浮木葬在一起；和碧绿的海藻、陈旧的绳索葬在一起。这样，我就能感到秋日冷冷的微风。”
 
-- Gerald Beley -
+- 杰拉尔德·贝雷 -
 1810 - 1875</string>
-      <string id="DECO_GR_GRAVE2">"Farewell to those of you that walk beside my grave. Here I lie, my name written on stone under the sun".
+      <string id="DECO_GR_GRAVE2">“跟路过我墓旁的你说一声再见，我躺在这里，名字刻在墓石上”。
  
-- Mary Jane Bennett -
+- 玛莉·简·班尼特 -
 1861 - 1890</string>
-      <string id="DECO_GR_GRAVE3">"Do not bring flowers to this place, for rum is all I crave. Now I rest under the same stars I sailed by when alive."
+      <string id="DECO_GR_GRAVE3">“不要带花来，只有朗姆酒才能令我欢喜，生时我在群星下远航，死后我在群星下安息。”
 
-- Daniel Abberton -
+ -
 1798 – 1842"</string>
-      <string id="HALF1_FULLIMAGE_TEXT">An engraved stone. It seems to be only one half of a larger statuette…</string>
-      <string id="CMB_FLOWERS_GRAVE1">Beley... This is not the grave I am looking for.</string>
-      <string id="CMB_FLOWERS_GRAVE2">Bennet... No, this is not the grave I am looking for.</string>
-      <string id="CMB_FLOWERS_BURIAL">There is no name, date, or epitaph on this gravestone...</string>
-      <string id="CMB_FLOWERS_GRAVE3">Abberton... This is not the grave I am looking for.</string>
-      <string id="WRONG_EMPTYGRAVE_FLOWERS">There is no name. This is not the grave I am looking for.</string>
+      <string id="HALF1_FULLIMAGE_TEXT">被雕过的石头。似乎是大雕像的一半……</string>
+      <string id="CMB_FLOWERS_GRAVE1">贝雷……不是我要找的墓。</string>
+      <string id="CMB_FLOWERS_GRAVE2">班尼特……不，这不是我要找的。</string>
+      <string id="CMB_FLOWERS_BURIAL">这块墓石上没有雕名字、生卒年和墓志铭……</string>
+      <string id="CMB_FLOWERS_GRAVE3">阿贝尔顿……不是我要找的墓。</string>
+      <string id="WRONG_EMPTYGRAVE_FLOWERS">没有名字，不是我要找的墓。</string>
     </bundle>
     <bundle id="ep6_guestRoom">
-      <string id="PICTURE_INSPECT">A cheerful scene that would have lifted my heart on any other day. It stands in stark contrast to the tragedy that has befallen this house.</string>
-      <string id="DECO_GU_BOOKS">A few books on classical theatre.</string>
-      <string id="DECO_CLOTHES">There is a thin layer of dust on the coat rack, but not on the coat.</string>
-      <string id="DECO_GU_GUARDROBE">An old wardrobe.</string>
-      <string id="BE_MENTOR_DEAD">The poor man. It looks as if his heart gave out on him. His eyes... my God... They are fixed with an expression of utmost terror. Let me see... His fists are clenched. He is holding onto something.</string>
-      <string id="BE_MENTOR_DEAD2">What has happened to him? I have seen death before, but never has a body left me so ill at ease. I... I am trembling.</string>
-      <string id="GE_HALF1_INCATCH">It is some kind of stone figurine. He is holding it tightly, as if he was protecting it from someone.</string>
-      <string id="GE_HALF1_PRECATCH">The figurine is beautifully carved, but it appears to be but one half of a larger artifact.</string>
-      <string id="GE_WINDOW_OPENED">The window is open. A cold wind blows into the room.</string>
-      <string id="GUESTROOM_SURPRISE">Oh God! Mr. Wright!</string>
-      <string id="TRG_TO_INNROOM">This is serious. I must break the news to Kaufmann, and of course the local authorities will have to be informed. </string>
+      <string id="PICTURE_INSPECT">一幅描述快乐场景的画，如果不是在这种时候看到，我的心情应该会因此变得愉快。画上的喜景与降临在这屋子中的悲剧形成了鲜明的对比。</string>
+      <string id="DECO_GU_BOOKS">一些关于古典戏剧的书。</string>
+      <string id="DECO_CLOTHES">衣帽架上有薄薄的一层灰，但是大衣上没有。</string>
+      <string id="DECO_GU_GUARDROBE">老旧的衣橱。</string>
+      <string id="BE_MENTOR_DEAD">可怜的人，看样子他的心脏已经停止跳动了。他的眼睛……天啊……极度的恐惧感凝固在了里面。嗯，我看看……他的紧握着拳头，里面好像攥着什么东西。</string>
+      <string id="BE_MENTOR_DEAD2">他发生什么事了？我以前也见过尸体，但……从来没见过这样令我不舒服的尸体。我……不禁全身发抖。</string>
+      <string id="GE_HALF1_INCATCH">一个小石雕，他紧紧地握着它，就好像不想被某个人夺走一样。</string>
+      <string id="GE_HALF1_PRECATCH">石雕很漂亮，但是似乎是一个大石雕的一半。</string>
+      <string id="GE_WINDOW_OPENED">窗户大开，冷风吹进了房间。</string>
+      <string id="GUESTROOM_SURPRISE">天啊，莱特教授！</string>
+      <string id="TRG_TO_INNROOM">事态严重，我必须告诉考夫曼。当然还得报警。</string>
     </bundle>
     <bundle id="ep6_hall">
-      <string id="PORTRAIT1_INSPECT">A portrait of Professor Wright. His appearance was quite different back then: an imposing, inquisitive figure.
+      <string id="PORTRAIT1_INSPECT">莱特教授的肖像画，看起来威风凛凛、充满求知欲，跟现在的教授相当不同。
 </string>
-      <string id="PLH_PORTRAIT_CLUE">As I suspected. There is a small key taped to the back of the picture frame. And a note…</string>
-      <string id="DECO_HA_JAR">A porcelain jar containing some dried branches.</string>
-      <string id="DOOR_HALL_FRONTYARD_LOCKED_AFTER_BACK">It is locked.</string>
-      <string id="PORTRAIT2_INSPECT">"...look upon your master... Meet not only his imposing gaze but seek to understand what lies beneath..."</string>
-      <string id="PORTRAIT3_INSPECT">A portrait of Professor Wright. His appearance was quite different back then: an imposing, inquisitive figure.
+      <string id="PLH_PORTRAIT_CLUE">跟我想的一样，画框后面藏了一把小钥匙，还有一张笔记……</string>
+      <string id="DECO_HA_JAR">瓷瓶中插了一些枯树枝。</string>
+      <string id="DOOR_HALL_FRONTYARD_LOCKED_AFTER_BACK">锁上了。</string>
+      <string id="PORTRAIT2_INSPECT">“……看着你的主人……不仅仅是他威严的注视，还要理解他眼神下的东西……”</string>
+      <string id="PORTRAIT3_INSPECT">莱特教授的肖像画，看起来威风凛凛、充满求知欲，跟现在的教授相当不同。
 </string>
-      <string id="BETASLOT_DECO_HA_PICTURESTAIRS">An enormous painting showing a torrential river and the waves splashing on the banks. In the background I can see an old church, apparently abandoned.
+      <string id="BETASLOT_DECO_HA_PICTURESTAIRS">巨大的画，画着一条湍急的河流，浪花拍打着河岸。背景可以看到一座明显已经被遗弃的老旧教堂。
 </string>
-      <string id="BETASLOT_DECO_HA_LAMP">An antique ceiling lamp.</string>
+      <string id="BETASLOT_DECO_HA_LAMP">古老的灯。</string>
     </bundle>
     <bundle id="ep6_hypnosis">
-      <string id="DLG_HYPNOSIS_1">A great number of trees surround me. The sun is setting soon.</string>
-      <string id="DLG_HYPNOSIS_3_CH">Go North.</string>
-      <string id="DLG_HYPNOSIS_6">I stand beside a waterfall. It is not water that falls, but mud and rock from a great height. They fall and fall into a bottomless abyss.</string>
-      <string id="DLG_HYPNOSIS_12">I am on the beach. There is a huge rock here. Many birds circle in the sky overhead.</string>
-      <string id="DLG_HYPNOSIS_20">As soon as I approach, the figure darts between the rocks as though it were frightened of me.</string>
-      <string id="WAKEFIELD_OFF_VOICE1">Listen to my voice. Where are you?</string>
-      <string id="DLG_HYPNOSIS_9_CH">Go West.</string>
-      <string id="DLG_HYPNOSIS_14_CH">Go West.</string>
-      <string id="DLG_HYPNOSIS_15_CH">Go North.</string>
-      <string id="DLG_HYPNOSIS_18_CH">Go East.</string>
-      <string id="DLG_HYPNOSIS_22_CH">Go West.</string>
-      <string id="DLG_HYPNOSIS_23_CH">Go East.</string>
-      <string id="DLG_HYPNOSIS_27_CH">Go South.</string>
-      <string id="DLG_HYPNOSIS_26">I stand beside the shore. The water wets my shoes and all around me lie the wrecks of ships.</string>
-      <string id="DLG_HYPNOSIS_31">I am in a dark tunnel. Oscar is here as well. He is upset. He yells at me. He begs me to stop.</string>
-      <string id="DLG_HYPNOSIS_33_CH">Go South.</string>
-      <string id="DLG_HYPNOSIS_34_CH">Go North.</string>
-      <string id="DLG_HYPNOSIS_35_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_36_CH">Go West.</string>
-      <string id="DLG_HYPNOSIS_48_CH">Go South.</string>
+      <string id="DLG_HYPNOSIS_1">许多树包围着我，太阳就快下山了。</string>
+      <string id="DLG_HYPNOSIS_3_CH">向北。</string>
+      <string id="DLG_HYPNOSIS_6">我站在瀑布的旁边，这不是水，而是高处滚落的泥和石头组成的瀑布。它们滚落进了无底的深渊。</string>
+      <string id="DLG_HYPNOSIS_12">我在海滩上，这里有一块巨石，还有许多鸟盘旋在头顶上。</string>
+      <string id="DLG_HYPNOSIS_20">我一靠近，岩石间的那个东西就飞速跑掉，好像在害怕我。</string>
+      <string id="WAKEFIELD_OFF_VOICE1">听我说，你现在在哪儿？</string>
+      <string id="DLG_HYPNOSIS_9_CH">向西。</string>
+      <string id="DLG_HYPNOSIS_14_CH">向西。</string>
+      <string id="DLG_HYPNOSIS_15_CH">向北。</string>
+      <string id="DLG_HYPNOSIS_18_CH">向东。</string>
+      <string id="DLG_HYPNOSIS_22_CH">向西。</string>
+      <string id="DLG_HYPNOSIS_23_CH">向东。</string>
+      <string id="DLG_HYPNOSIS_27_CH">向南。</string>
+      <string id="DLG_HYPNOSIS_26">我站在海岸边上，水打湿了我的鞋子，身边是船的残骸。</string>
+      <string id="DLG_HYPNOSIS_31">我在一个黑暗的隧道里，奥斯卡也在这儿。他很烦躁，他向我大喊大叫，他求我停止。</string>
+      <string id="DLG_HYPNOSIS_33_CH">向南。</string>
+      <string id="DLG_HYPNOSIS_34_CH">向北。</string>
+      <string id="DLG_HYPNOSIS_35_CH">告诉我你现在在哪儿？</string>
+      <string id="DLG_HYPNOSIS_36_CH">向西。</string>
+      <string id="DLG_HYPNOSIS_48_CH">向南。</string>
       <string id="DLG_HYPNOSIS_50_CH">Go East.</string>
-      <string id="DLG_HYPNOSIS_52">I have retraced my steps. I stand on the beach once more.</string>
-      <string id="DLG_HYPNOSIS_53_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_44_CH">Go North.</string>
-      <string id="DLG_HYPNOSIS_55_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_56_CH">Go East.</string>
-      <string id="DLG_HYPNOSIS_57_CH">Go South.</string>
-      <string id="DLG_HYPNOSIS_58_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_66">A body floats in the water. I will not look upon its face.</string>
-      <string id="DLG_HYPNOSIS_64">The passage ends here. An empty cave. A big, round hole in the wall. Behind it, I can hear the sea.</string>
-      <string id="DLG_HYPNOSIS_62">I am in a large open space with a piano. Something... stands next to the piano. I can't see it clearly... its face…</string>
-      <string id="DLG_HYPNOSIS_76">The tunnel stretches into the dark.</string>
-      <string id="DLG_HYPNOSIS_60">It is a very small room. In the center lies a deep pit. A ladder goes down. It is so dark.</string>
-      <string id="DLG_HYPNOSIS_69">Down there... it lies... it waits... I will not continue! I must go back!</string>
-      <string id="DLG_HYPNOSIS_78_CH">Go down the ladder.</string>
-      <string id="DLG_HYPNOSIS_71">I cannot see. It is pitch dark... I... I can feel its breath... It is here! It is with me!</string>
-      <string id="DLG_HYPNOSIS_79">I cannot! I can hear it with me! Its breath... Dear God, I must flee!</string>
-      <string id="DLG_HYPNOSIS_81_CH">You must continue.</string>
-      <string id="DLG_HYPNOSIS_83">It waits for me. It waits down there…</string>
-      <string id="DLG_HYPNOSIS_85_CH">Go back down the ladder.
+      <string id="DLG_HYPNOSIS_52">我已经原路返回，再一次站在海滩上。</string>
+      <string id="DLG_HYPNOSIS_53_CH">现在告诉我，你在哪里？</string>
+      <string id="DLG_HYPNOSIS_44_CH">向北。</string>
+      <string id="DLG_HYPNOSIS_55_CH">现在告诉我，你在哪里？</string>
+      <string id="DLG_HYPNOSIS_56_CH">向汞。</string>
+      <string id="DLG_HYPNOSIS_57_CH">向南。</string>
+      <string id="DLG_HYPNOSIS_58_CH">现在告诉我，你在哪里？</string>
+      <string id="DLG_HYPNOSIS_66">一具尸体浮在水上，我不敢看他的脸。</string>
+      <string id="DLG_HYPNOSIS_64">路到此为止，一个空空如也的洞穴。墙上有一个又大又圆的洞，透过它能听到海的声音。</string>
+      <string id="DLG_HYPNOSIS_62">我来到一个开阔的地方，这里有一架钢琴，钢琴的旁边有……什么东西站在那里……我看不清楚它，……它的脸……</string>
+      <string id="DLG_HYPNOSIS_76">隧道通向黑暗。</string>
+      <string id="DLG_HYPNOSIS_60">一个非常小的房间，房间中央有一个深坑，有梯子通向下面。下面太黑了。</string>
+      <string id="DLG_HYPNOSIS_69">就在那儿……它在那儿……它在等丰……我不想继续了！我必须回去！</string>
+      <string id="DLG_HYPNOSIS_78_CH">爬下梯子。</string>
+      <string id="DLG_HYPNOSIS_71">我什么也看不到，漆黑一片……我……我能感觉到它的呼吸，……它就在这儿！在我身边！</string>
+      <string id="DLG_HYPNOSIS_79">我不能！我听到它就在我身边！它的呼吸……天啊，我得快逃！</string>
+      <string id="DLG_HYPNOSIS_81_CH">你必须继续。</string>
+      <string id="DLG_HYPNOSIS_83">它在等我，它在那下面等着我……</string>
+      <string id="DLG_HYPNOSIS_85_CH">回到梯子下面。
 </string>
-      <string id="DLG_HYPNOSIS_86">I have gone down the ladder.</string>
+      <string id="DLG_HYPNOSIS_86">我爬下了梯子。</string>
       <string id="DLG_HYPNOSIS_88_CH">Go back.</string>
       <string id="DLG_HYPNOSIS_90_CH">Go back.</string>
       <string id="DLG_HYPNOSIS_92_CH">Go back.</string>
