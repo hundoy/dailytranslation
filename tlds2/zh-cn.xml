@@ -1674,72 +1674,72 @@ Dane Tippman</string>
       <string id="DLG_HYPNOSIS_85_CH">回到梯子下面。
 </string>
       <string id="DLG_HYPNOSIS_86">我爬下了梯子。</string>
-      <string id="DLG_HYPNOSIS_88_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_90_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_92_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_94_CH">Walk down the tunnel.</string>
-      <string id="DLG_HYPNOSIS_95">I can go North and West.</string>
-      <string id="DLG_HYPNOSIS_96_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_97">To the North I see the shore. To the West there is a person.</string>
-      <string id="DLG_HYPNOSIS_98">Behind the waterfall, to the East, lies a tunnel. To the West I see the edge of the forest.</string>
-      <string id="DLG_HYPNOSIS_99">The tunnel divides into many passages. I can go North, South, and West.
+      <string id="DLG_HYPNOSIS_88_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_90_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_92_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_94_CH">走下隧道。</string>
+      <string id="DLG_HYPNOSIS_95">我可以向北或向西走。</string>
+      <string id="DLG_HYPNOSIS_96_CH">告诉我，你现在在哪儿？</string>
+      <string id="DLG_HYPNOSIS_97">往北，我看到了海岸，往西，有一个人在那儿。</string>
+      <string id="DLG_HYPNOSIS_98">向东，瀑布的后面，有个隧道。向西，我看到了森林的边缘。</string>
+      <string id="DLG_HYPNOSIS_99">隧道分了许多岔路，我可以向北、向南、向西走。
 </string>
-      <string id="DLG_HYPNOSIS_100_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_101">To the North, something floats in the water. To the East, I can see the edge of the forest.
+      <string id="DLG_HYPNOSIS_100_CH">告诉我你现在在什么地方。</string>
+      <string id="DLG_HYPNOSIS_101">向北，有什么东西浮在水上。向东，我我看到了森林的边缘。
 </string>
-      <string id="DLG_HYPNOSIS_102_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_103_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_104_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_115">One of the trees has fallen down. Its corpse lies on the dry sand, and the others mourn it. Its branches point now 
+      <string id="DLG_HYPNOSIS_102_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_103_CH">告诉我，你在哪里？</string>
+      <string id="DLG_HYPNOSIS_104_CH">告诉我你在什么地方。</string>
+      <string id="DLG_HYPNOSIS_115">有棵树倒了，它的尸首躺在干涩的沙地上，周围的树都在为它而默哀。它的枝干现在 
 
-towards the shore. A bank of dense fog is forming there, emanating from the cliff.</string>
-      <string id="DLG_HYPNOSIS_117_CH">Walk towards the fog.</string>
-      <string id="DLG_HYPNOSIS_119">The fog thins now. I can see something in the distance. It is Zhai-La, the land of fog. It is not a bay 
+指向海岸。一片浓雾从悬崖处升腾而起，包围了海岸地区。</string>
+      <string id="DLG_HYPNOSIS_117_CH">走进雾里。</string>
+      <string id="DLG_HYPNOSIS_119">迷雾现在变薄了，我能看到远处有什么东西。是扎伊拉，迷雾之地。 
 
-as the ancients wrote, but an island. There lie the answers that could have prevented what 
+跟古人说的不一样，它不是一个海湾，而是一个岛。 
 
-happened...</string>
-      <string id="DLG_HYPNOSIS_120">But could anyone have anticipated it? Could anyone have known what my dearest visitor would 
+那里沉睡着可以阻止已经发生的事情的答案……</string>
+      <string id="DLG_HYPNOSIS_120">但有人能预料到它吗？
+      
+有人知道我最亲爱的访客结果是什么吗？</string>
+      <string id="DLG_HYPNOSIS_121">但现在谁敢穿过那条路？</string>
+      <string id="DLG_HYPNOSIS_122">知道了从它之中会诞生出什么东西后，
 
-result to be?</string>
-      <string id="DLG_HYPNOSIS_121">And who would dare to cross the path now? </string>
-      <string id="DLG_HYPNOSIS_122">Who would dare to look into the abyss of the 
+谁又敢看向那混沌螺旋的渊薮？</string>
+      <string id="DLG_HYPNOSIS_123">告诉你：只有傻子、疯子
 
-Spiral, knowing what would certainly come of it? </string>
-      <string id="DLG_HYPNOSIS_123">I can tell you: only the foolish, the insane, 
+或者想寻死的人。</string>
+      <string id="DLG_HYPNOSIS_125_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_126_CH">告诉我你在什么地方？</string>
+      <string id="DLG_HYPNOSIS_127_CH">去别的地方。</string>
+      <string id="DLG_HYPNOSIS_129">我站在一群高大的树木中间，它们静静地凝视着我。 
 
-or the suicidal.</string>
-      <string id="DLG_HYPNOSIS_125_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_126_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_127_CH">Go elsewhere.</string>
-      <string id="DLG_HYPNOSIS_129">I stand among tall trees. They stare at me, silently. They have found me guilty. I do not wish to 
-
-stay here.</string>
-      <string id="DLG_HYPNOSIS_132_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_133_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_137_CH">Stay for a bit longer.</string>
+它们已经知道了我犯下的罪过，我不想再待在这儿了。</string>
+      <string id="DLG_HYPNOSIS_132_CH">告诉我你现在在哪儿。</string>
+      <string id="DLG_HYPNOSIS_133_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_137_CH">再多待一会儿。</string>
     </bundle>
     <bundle id="ep6_innRoom">
-      <string id="DLG_KAUFFMAN_IR3">Kaufmann, are you alright?</string>
-      <string id="DLG_DWAYNE_3">Kaufmann! What is the matter? Kaufmann?</string>
-      <string id="DLG_DWAYNE_2">Do not worry, Doctor Wakefield.</string>
-      <string id="DLG_DWAYNE_4">Do not worry. I have given him a mild sedative.</string>
-      <string id="DLG_DWAYNE_5">Pleased to meet you, I am Doctor Wakefield. What are Kaufmann's symptoms?</string>
-      <string id="DLG_DWAYNE_6">Strong coughing, general feebleness, dizziness...</string>
-      <string id="DLG_DWAYNE_8">It is too soon to know. Let us wait and see how his condition develops.</string>
-      <string id="DLG_KAUFFMAN_IR4">Worry not Wakefield, I am just feeling a bit feeble. It must be all this cold and humidity. *cough*</string>
-      <string id="DLG_KAUFFMAN_IR5">Nothing serious.</string>
-      <string id="DLG_KAUFFMAN_IR6">Thank you, mein Freund.</string>
-      <string id="DLG_KAUFFMAN_IR14">How are you feeling?</string>
-      <string id="DLG_KAUFFMAN_IR15">I am feeling alright, mein Freund. *cough* Just a bit tired.</string>
-      <string id="DLG_KAUFFMAN_IR17_CH">I spoke to Father Oscar.</string>
-      <string id="DLG_KAUFFMAN_IR17">I spoke with the village priest, Father Oscar.</string>
-      <string id="DLG_KAUFFMAN_IR18_CH">The house on the cliff.</string>
-      <string id="DLG_KAUFFMAN_IR18">I discovered that Professor Wright's family once owned a house on the cliffs.</string>
-      <string id="DLG_KAUFFMAN_IR21">Hmm... A house next to the sea... A landslide...</string>
-      <string id="DLG_KAUFFMAN_IR23_CH">I will let you rest.</string>
-      <string id="DLG_KAUFFMAN_IR23">I will let you rest.</string>
-      <string id="DLG_KAUFFMAN_IR24">Thank you, mein Freund.</string>
+      <string id="DLG_KAUFFMAN_IR3">考夫曼，你还好吗？</string>
+      <string id="DLG_DWAYNE_3">考夫曼！发生什么事了，考夫曼？</string>
+      <string id="DLG_DWAYNE_2">别担心，威克菲尔德医生。</string>
+      <string id="DLG_DWAYNE_4">别担心，我已经给他服了镇定的药。</string>
+      <string id="DLG_DWAYNE_5">您好，很高兴见到您。我是威克菲尔德医生。考夫曼他都有什么症状？</string>
+      <string id="DLG_DWAYNE_6">严重的咳嗽，身体虚弱，头晕……</string>
+      <string id="DLG_DWAYNE_8">现在还不好定论，只能等着看看还有没有其他症状。</string>
+      <string id="DLG_KAUFFMAN_IR4">别担心，威克菲尔德，只是有点虚弱罢了。应该就是着凉了。咳咳……</string>
+      <string id="DLG_KAUFFMAN_IR5">不严重的。</string>
+      <string id="DLG_KAUFFMAN_IR6">谢谢你，我的朋友。</string>
+      <string id="DLG_KAUFFMAN_IR14">你感觉怎样？</string>
+      <string id="DLG_KAUFFMAN_IR15">我感觉不错，我的朋友。咳咳……就是有一点儿累了。</string>
+      <string id="DLG_KAUFFMAN_IR17_CH">我跟奥斯卡神父聊过了。</string>
+      <string id="DLG_KAUFFMAN_IR17">我跟镇子的神父奥斯卡聊过了。</string>
+      <string id="DLG_KAUFFMAN_IR18_CH">悬崖上的屋子。</string>
+      <string id="DLG_KAUFFMAN_IR18">我发现莱特教授在悬崖上还有一幢别墅。</string>
+      <string id="DLG_KAUFFMAN_IR21">嗯……靠海的房子……山崩……</string>
+      <string id="DLG_KAUFFMAN_IR23_CH">你好好休息。</string>
+      <string id="DLG_KAUFFMAN_IR23">你好好休息。</string>
+      <string id="DLG_KAUFFMAN_IR24">谢谢，我的朋友。</string>
       <string id="DLG_KAUFFMAN_IR26">Come in.</string>
       <string id="DECO_IN_WARDROBE">I should respect Kaufmann's privacy.</string>
       <string id="DECO_IN_FORNITURE">I should respect Kaufmann's privacy. </string>
