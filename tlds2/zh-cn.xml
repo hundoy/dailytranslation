@@ -1674,200 +1674,200 @@ Dane Tippman</string>
       <string id="DLG_HYPNOSIS_85_CH">回到梯子下面。
 </string>
       <string id="DLG_HYPNOSIS_86">我爬下了梯子。</string>
-      <string id="DLG_HYPNOSIS_88_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_90_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_92_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_94_CH">Walk down the tunnel.</string>
-      <string id="DLG_HYPNOSIS_95">I can go North and West.</string>
-      <string id="DLG_HYPNOSIS_96_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_97">To the North I see the shore. To the West there is a person.</string>
-      <string id="DLG_HYPNOSIS_98">Behind the waterfall, to the East, lies a tunnel. To the West I see the edge of the forest.</string>
-      <string id="DLG_HYPNOSIS_99">The tunnel divides into many passages. I can go North, South, and West.
+      <string id="DLG_HYPNOSIS_88_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_90_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_92_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_94_CH">走下隧道。</string>
+      <string id="DLG_HYPNOSIS_95">我可以向北或向西走。</string>
+      <string id="DLG_HYPNOSIS_96_CH">告诉我，你现在在哪儿？</string>
+      <string id="DLG_HYPNOSIS_97">往北，我看到了海岸，往西，有一个人在那儿。</string>
+      <string id="DLG_HYPNOSIS_98">向东，瀑布的后面，有个隧道。向西，我看到了森林的边缘。</string>
+      <string id="DLG_HYPNOSIS_99">隧道分了许多岔路，我可以向北、向南、向西走。
 </string>
-      <string id="DLG_HYPNOSIS_100_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_101">To the North, something floats in the water. To the East, I can see the edge of the forest.
+      <string id="DLG_HYPNOSIS_100_CH">告诉我你现在在什么地方。</string>
+      <string id="DLG_HYPNOSIS_101">向北，有什么东西浮在水上。向东，我我看到了森林的边缘。
 </string>
-      <string id="DLG_HYPNOSIS_102_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_103_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_104_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_115">One of the trees has fallen down. Its corpse lies on the dry sand, and the others mourn it. Its branches point now 
+      <string id="DLG_HYPNOSIS_102_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_103_CH">告诉我，你在哪里？</string>
+      <string id="DLG_HYPNOSIS_104_CH">告诉我你在什么地方。</string>
+      <string id="DLG_HYPNOSIS_115">有棵树倒了，它的尸首躺在干涩的沙地上，周围的树都在为它而默哀。它的枝干现在 
 
-towards the shore. A bank of dense fog is forming there, emanating from the cliff.</string>
-      <string id="DLG_HYPNOSIS_117_CH">Walk towards the fog.</string>
-      <string id="DLG_HYPNOSIS_119">The fog thins now. I can see something in the distance. It is Zhai-La, the land of fog. It is not a bay 
+指向海岸。一片浓雾从悬崖处升腾而起，包围了海岸地区。</string>
+      <string id="DLG_HYPNOSIS_117_CH">走进雾里。</string>
+      <string id="DLG_HYPNOSIS_119">迷雾现在变薄了，我能看到远处有什么东西。是扎伊拉，迷雾之地。 
 
-as the ancients wrote, but an island. There lie the answers that could have prevented what 
+跟古人说的不一样，它不是一个海湾，而是一个岛。 
 
-happened...</string>
-      <string id="DLG_HYPNOSIS_120">But could anyone have anticipated it? Could anyone have known what my dearest visitor would 
+那里沉睡着可以阻止已经发生的事情的答案……</string>
+      <string id="DLG_HYPNOSIS_120">但有人能预料到它吗？
+      
+有人知道我最亲爱的访客结果是什么吗？</string>
+      <string id="DLG_HYPNOSIS_121">但现在谁敢穿过那条路？</string>
+      <string id="DLG_HYPNOSIS_122">知道了从它之中会诞生出什么东西后，
 
-result to be?</string>
-      <string id="DLG_HYPNOSIS_121">And who would dare to cross the path now? </string>
-      <string id="DLG_HYPNOSIS_122">Who would dare to look into the abyss of the 
+谁又敢看向那混沌螺旋的渊薮？</string>
+      <string id="DLG_HYPNOSIS_123">告诉你：只有傻子、疯子
 
-Spiral, knowing what would certainly come of it? </string>
-      <string id="DLG_HYPNOSIS_123">I can tell you: only the foolish, the insane, 
+或者想寻死的人。</string>
+      <string id="DLG_HYPNOSIS_125_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_126_CH">告诉我你在什么地方？</string>
+      <string id="DLG_HYPNOSIS_127_CH">去别的地方。</string>
+      <string id="DLG_HYPNOSIS_129">我站在一群高大的树木中间，它们静静地凝视着我。 
 
-or the suicidal.</string>
-      <string id="DLG_HYPNOSIS_125_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_126_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_127_CH">Go elsewhere.</string>
-      <string id="DLG_HYPNOSIS_129">I stand among tall trees. They stare at me, silently. They have found me guilty. I do not wish to 
-
-stay here.</string>
-      <string id="DLG_HYPNOSIS_132_CH">Tell me again where you are.</string>
-      <string id="DLG_HYPNOSIS_133_CH">Go back.</string>
-      <string id="DLG_HYPNOSIS_137_CH">Stay for a bit longer.</string>
+它们已经知道了我犯下的罪过，我不想再待在这儿了。</string>
+      <string id="DLG_HYPNOSIS_132_CH">告诉我你现在在哪儿。</string>
+      <string id="DLG_HYPNOSIS_133_CH">回去。</string>
+      <string id="DLG_HYPNOSIS_137_CH">再多待一会儿。</string>
     </bundle>
     <bundle id="ep6_innRoom">
-      <string id="DLG_KAUFFMAN_IR3">Kaufmann, are you alright?</string>
-      <string id="DLG_DWAYNE_3">Kaufmann! What is the matter? Kaufmann?</string>
-      <string id="DLG_DWAYNE_2">Do not worry, Doctor Wakefield.</string>
-      <string id="DLG_DWAYNE_4">Do not worry. I have given him a mild sedative.</string>
-      <string id="DLG_DWAYNE_5">Pleased to meet you, I am Doctor Wakefield. What are Kaufmann's symptoms?</string>
-      <string id="DLG_DWAYNE_6">Strong coughing, general feebleness, dizziness...</string>
-      <string id="DLG_DWAYNE_8">It is too soon to know. Let us wait and see how his condition develops.</string>
-      <string id="DLG_KAUFFMAN_IR4">Worry not Wakefield, I am just feeling a bit feeble. It must be all this cold and humidity. *cough*</string>
-      <string id="DLG_KAUFFMAN_IR5">Nothing serious.</string>
-      <string id="DLG_KAUFFMAN_IR6">Thank you, mein Freund.</string>
-      <string id="DLG_KAUFFMAN_IR14">How are you feeling?</string>
-      <string id="DLG_KAUFFMAN_IR15">I am feeling alright, mein Freund. *cough* Just a bit tired.</string>
-      <string id="DLG_KAUFFMAN_IR17_CH">I spoke to Father Oscar.</string>
-      <string id="DLG_KAUFFMAN_IR17">I spoke with the village priest, Father Oscar.</string>
-      <string id="DLG_KAUFFMAN_IR18_CH">The house on the cliff.</string>
-      <string id="DLG_KAUFFMAN_IR18">I discovered that Professor Wright's family once owned a house on the cliffs.</string>
-      <string id="DLG_KAUFFMAN_IR21">Hmm... A house next to the sea... A landslide...</string>
-      <string id="DLG_KAUFFMAN_IR23_CH">I will let you rest.</string>
-      <string id="DLG_KAUFFMAN_IR23">I will let you rest.</string>
-      <string id="DLG_KAUFFMAN_IR24">Thank you, mein Freund.</string>
-      <string id="DLG_KAUFFMAN_IR26">Come in.</string>
-      <string id="DECO_IN_WARDROBE">I should respect Kaufmann's privacy.</string>
-      <string id="DECO_IN_FORNITURE">I should respect Kaufmann's privacy. </string>
-      <string id="DECO_IN_COAT">Kaufmann's coat.</string>
-      <string id="DECO_PICTURE">An ugly painting.</string>
-      <string id="DLG_KAUFFMAN_IR33">I would like to know your opinion about what we heard during yesterday's session. Do you remember anything that could help us in our search?</string>
-      <string id="DLG_KAUFFMAN_IR35_CH">The man shouting at Professor Wright.</string>
-      <string id="DLG_KAUFFMAN_IR36_CH">The underground tunnel.</string>
-      <string id="DLG_KAUFFMAN_IR37_CH">The seaside.</string>
-      <string id="DLG_KAUFFMAN_IR38_CH">The mysterious figure.</string>
-      <string id="DLG_KAUFFMAN_IR36">I believe that this underground tunnel has left a deep impression on Professor Wright's subconscious.</string>
-      <string id="DLG_KAUFFMAN_IR38">Throughout the trance he saw an unknown figure with no visible face: the floating body in the water, the person near the rocks, the one beside the piano…</string>
-      <string id="DLG_KAUFFMAN_IR39">Yes, it is true... Maybe the entrance to this tunnel is somewhere closer to the coast.</string>
-      <string id="DLG_KAUFFMAN_IR37">The sea was a recurring theme during the hypnotic regression.</string>
-      <string id="DLG_KAUFFMAN_IR40">Yes, indeed, but I am afraid it is too soon to unveil the true meaning of those images.</string>
-      <string id="DLG_KAUFFMAN_IR41">I agree. The horror he experienced at the end of the session was far too intense to derive solely from his imagination. It speaks of some trauma.</string>
-      <string id="DLG_KAUFFMAN_IR45_CH">The man shouting at Professor Wright.</string>
-      <string id="DLG_KAUFFMAN_IR45">Professor Wright mentioned a man that shouted at him near the entrance to the tunnel, begging him not to continue. I cannot remember his name…</string>
-      <string id="DLG_KAUFFMAN_IR46">Very good! It was Oscar. We should attempt to find him. He may know something about Professor's Wright's fears.</string>
-      <string id="DLG_KAUFFMAN_IR48">If we can find this man, I am sure we will shed some light upon the mystery.</string>
-      <string id="DLG_KAUFFMAN_IR49">Indeed, mein Freund.</string>
-      <string id="DLG_KAUFFMAN_IR50">Why don't you go to the village and try to find out something about Oscar?</string>
-      <string id="DLG_KAUFFMAN_IR51">My apologies, but I must stay here and recover my strength.</string>
-      <string id="DLG_KAUFFMAN_IR52">I have discovered the identity of the man we seek.</string>
-      <string id="DLG_KAUFFMAN_IR54_CH">Father Oscar.</string>
-      <string id="DLG_KAUFFMAN_IR52_CH">Father Oscar.</string>
-      <string id="DLG_KAUFFMAN_IR53">Oscar is the priest of Wicksport parish.</string>
-      <string id="DLG_KAUFFMAN_IR58">Why don't you go to the church? There you could talk to the priest.</string>
-      <string id="DLG_KAUFFMAN_IR59">The church door is closed.</string>
-      <string id="DLG_KAUFFMAN_IR60">My dear Wakefield, what advice can I offer? A church would not remain closed all day. If you must wait, then do so, and in the meantime talk to the villagers. Perhaps they will reveal something useful about the Professor. *cough*</string>
-      <string id="DLG_KAUFFMAN_IR63">According to one of the locals, Professor Wright almost died as a young man when the family's summer house was destroyed by a landslide.</string>
-      <string id="DLG_KAUFFMAN_IR64">Begging your pardon, Wakefield, but the answer is obvious, is it not? During the session, the Professor said that the entrance to the tunnel was through "a waterfall not of water but of rocks and mud". It is too similar a description to be a coincidence!
+      <string id="DLG_KAUFFMAN_IR3">考夫曼，你还好吗？</string>
+      <string id="DLG_DWAYNE_3">考夫曼！发生什么事了，考夫曼？</string>
+      <string id="DLG_DWAYNE_2">别担心，威克菲尔德医生。</string>
+      <string id="DLG_DWAYNE_4">别担心，我已经给他服了镇定的药。</string>
+      <string id="DLG_DWAYNE_5">您好，很高兴见到您。我是威克菲尔德医生。考夫曼他都有什么症状？</string>
+      <string id="DLG_DWAYNE_6">严重的咳嗽，身体虚弱，头晕……</string>
+      <string id="DLG_DWAYNE_8">现在还不好定论，只能等着看看还有没有其他症状。</string>
+      <string id="DLG_KAUFFMAN_IR4">别担心，威克菲尔德，只是有点虚弱罢了。应该就是着凉了。咳咳……</string>
+      <string id="DLG_KAUFFMAN_IR5">不严重的。</string>
+      <string id="DLG_KAUFFMAN_IR6">谢谢你，我的朋友。</string>
+      <string id="DLG_KAUFFMAN_IR14">你感觉怎样？</string>
+      <string id="DLG_KAUFFMAN_IR15">我感觉不错，我的朋友。咳咳……就是有一点儿累了。</string>
+      <string id="DLG_KAUFFMAN_IR17_CH">我跟奥斯卡神父聊过了。</string>
+      <string id="DLG_KAUFFMAN_IR17">我跟镇子的神父奥斯卡聊过了。</string>
+      <string id="DLG_KAUFFMAN_IR18_CH">悬崖上的屋子。</string>
+      <string id="DLG_KAUFFMAN_IR18">我发现莱特教授在悬崖上还有一幢别墅。</string>
+      <string id="DLG_KAUFFMAN_IR21">嗯……靠海的房子……山崩……</string>
+      <string id="DLG_KAUFFMAN_IR23_CH">你好好休息。</string>
+      <string id="DLG_KAUFFMAN_IR23">你好好休息。</string>
+      <string id="DLG_KAUFFMAN_IR24">谢谢，我的朋友。</string>
+      <string id="DLG_KAUFFMAN_IR26">请进。</string>
+      <string id="DECO_IN_WARDROBE">我应该尊重考夫曼的隐私。</string>
+      <string id="DECO_IN_FORNITURE">我应该尊重考夫曼的隐私。</string>
+      <string id="DECO_IN_COAT">考夫曼的外套。</string>
+      <string id="DECO_PICTURE">丑陋的画。</string>
+      <string id="DLG_KAUFFMAN_IR33">关于昨天谈话时听到的事情，我想听听你的想法。你觉得有没有什么对我们的调查有帮助的事情？</string>
+      <string id="DLG_KAUFFMAN_IR35_CH">对莱特教授喊叫的男人。</string>
+      <string id="DLG_KAUFFMAN_IR36_CH">地下隧道。</string>
+      <string id="DLG_KAUFFMAN_IR37_CH">海边。</string>
+      <string id="DLG_KAUFFMAN_IR38_CH">神秘的人。</string>
+      <string id="DLG_KAUFFMAN_IR36">我觉得教授在潜意识里，非常在意这个地下隧道。</string>
+      <string id="DLG_KAUFFMAN_IR38">催眠期间，他看到了一个看不清脸的人：身体浮在水中，岩石中间，在钢琴旁边……</string>
+      <string id="DLG_KAUFFMAN_IR39">是的，确实如此……或者隧道的入口就在靠近海岸的什么地方。</string>
+      <string id="DLG_KAUFFMAN_IR37">催眠过程中，海是一个反复出现的主题。</string>
+      <string id="DLG_KAUFFMAN_IR40">是的，没错。但我恐怕现在就对那些画面下定论，还是有些为时过早。</string>
+      <string id="DLG_KAUFFMAN_IR41">我赞同。在谈话最后，他经历的恐惧感实在是太过强烈，不像是仅凭想象就能达到的程度。说明还存在某种来自外部的创伤。</string>
+      <string id="DLG_KAUFFMAN_IR45_CH">对莱特教授喊叫的男人。</string>
+      <string id="DLG_KAUFFMAN_IR45">莱特教授提到有一个人在隧道入口附近对他喊叫，并且企求他别再叫了。我记不得他的名字了……</string>
+      <string id="DLG_KAUFFMAN_IR46">好极了！那是奥斯卡。我们应该试着找到他，他可能知道一些关于莱特教授恐惧的事情。</string>
+      <string id="DLG_KAUFFMAN_IR48">如果我们能够找到这个男人，我确信我们的调查会有所进展的。</string>
+      <string id="DLG_KAUFFMAN_IR49">确实，我的朋友。</string>
+      <string id="DLG_KAUFFMAN_IR50">你不妨去镇子里看看，看能不能找到关于奥斯卡的消息。</string>
+      <string id="DLG_KAUFFMAN_IR51">我很抱歉，但我必须待在这里，恢复恢复体力。</string>
+      <string id="DLG_KAUFFMAN_IR52">我已经知道了我们正在寻找的那个男人的身份了。</string>
+      <string id="DLG_KAUFFMAN_IR54_CH">奥斯卡神父。</string>
+      <string id="DLG_KAUFFMAN_IR52_CH">奥斯卡神父。</string>
+      <string id="DLG_KAUFFMAN_IR53">奥斯卡是维克港教区的神父。</string>
+      <string id="DLG_KAUFFMAN_IR58">你不妨去教堂看看，说不定在那里可以和神父聊聊。</string>
+      <string id="DLG_KAUFFMAN_IR59">教堂关着门。</string>
+      <string id="DLG_KAUFFMAN_IR60">我亲爱的威克菲尔德，这我也给不了什么建议了。教堂不会一整天都关着门的。有的时候你需要等待，那就不妨等下去吧。等待的同时，你也可以和镇民们谈谈。说不定可以发现什么关于教授的有价值的信息。咳咳……</string>
+      <string id="DLG_KAUFFMAN_IR63">根据本地人所说，莱特教授年轻时因为意外差点丧生，他家的避暑别墅被山崩摧毁了。</string>
+      <string id="DLG_KAUFFMAN_IR64">等一下，威克菲尔德，看来答案很明显了，对吧？在之前的谈话中，教授说过，隧道的入口需要穿过一个瀑布，还说“这不是水，而是高处滚落的泥和石头组成的瀑布”。这描述听起来和那灾难是如此相似！
 </string>
-      <string id="DLG_KAUFFMAN_IR65">I theorize that the entrance to the tunnel is concealed somewhere in that house.</string>
-      <string id="DLG_DWAYNE_12">I will remain here and take care of your friend.</string>
-      <string id="DLG_DWAYNE_13">Allow me to introduce myself: I am Dr. Armitage.</string>
-      <string id="DLG_DWAYNE_14">The innkeeper called me because he was worried about your friend.</string>
-      <string id="DLG_DWAYNE_16">It is too soon yet for a diagnosis. It could be a simple cold. But the sudden onset and severity of his symptoms is certainly a concern. He must be monitored for the next few hours at least.</string>
-      <string id="DLG_DWAYNE_18">Doctor, this is far from my specialty, but... Do you think it could be something more serious?</string>
-      <string id="DLG_DWAYNE_18_CH">Could it be something serious?</string>
-      <string id="DLG_DWAYNE_17_CH">I must leave.</string>
-      <string id="DLG_DWAYNE_17">I must leave. Please, have someone fetch me if his condition worsens.</string>
-      <string id="DATE">January 21st, 1893 </string>
-      <string id="IN_DECO_WINDOW">It's still snowing.</string>
-      <string id="INT_KAUFMANN_UNCONSCIOUS">Kaufmann is asleep. He breathes heavily and looks very pale. </string>
+      <string id="DLG_KAUFFMAN_IR65">我推测，通往隧道的入口，就隐藏在房子里的某处。</string>
+      <string id="DLG_DWAYNE_12">我会留在这里照看你的朋友的。</string>
+      <string id="DLG_DWAYNE_13">请允许我自我介绍一下，我是阿米蒂奇医生。</string>
+      <string id="DLG_DWAYNE_14">旅店老板给我打了电话，因为他担心你的朋友。</string>
+      <string id="DLG_DWAYNE_16">现在要下诊断还是太早了。可能只是感冒，但是状况突然恶化的情况也必须考量在内。接下来的几个小时内，必须好好观察。</string>
+      <string id="DLG_DWAYNE_18">医生，虽然这不是我专业领域的内容，但……您觉得病情会加重吗？</string>
+      <string id="DLG_DWAYNE_18_CH">病情严重吗？</string>
+      <string id="DLG_DWAYNE_17_CH">我得走了。</string>
+      <string id="DLG_DWAYNE_17">我得走了。如果他状况不对，请立刻派人带我过来。</string>
+      <string id="DATE">1893年1月21日</string>
+      <string id="IN_DECO_WINDOW">还在下雪。</string>
+      <string id="INT_KAUFMANN_UNCONSCIOUS">考夫曼睡着了，他呼吸粗重，看起来面无血色。</string>
     </bundle>
     <bundle id="ep6_inventory">
-      <string id="INV_REDKEY_DESC">A rusted iron key. It is painted in an intense red color.</string>
-      <string id="INV_LENS">Lens</string>
-      <string id="INV_TINSOLDIER_DESC">A tin soldier decorated in the colours of the British army. It is highly detailed for such a tiny figure. It appears to commemorate a military campaign.</string>
-      <string id="INV_ATTICKEY_DESC">A faded golden key.</string>
-      <string id="CLUE1">Those seeking wisdom must first know their own foolishness. Reflect on yourself in the heat of passion to reveal what the cold eye of logic sees not.</string>
-      <string id="CLUE3">The question is the world from the peak of man's tallest tower. The answer yearns up to it from the root of life and time itself.</string>
-      <string id="CLUE5">That only by entering the gnashing jaws of primal horror…</string>
-      <string id="CLUE_ADDED">I'll add this clue to the letter.</string>
-      <string id="CLUE1_CLUE2">Those seeking wisdom must first know their own foolishness. Reflect on yourself in the heat of passion to reveal what the cold eye of logic sees not.
+      <string id="INV_REDKEY_DESC">生锈的铁钥匙，涂成了鲜艳的红色。</string>
+      <string id="INV_LENS">透镜</string>
+      <string id="INV_TINSOLDIER_DESC">英国军队配色的锡兵。作为一个小模型，做工过于精致。似乎是某次军事战役的纪念品。</string>
+      <string id="INV_ATTICKEY_DESC">褪色的金钥匙。</string>
+      <string id="CLUE1">那些探寻世界的智慧须先认识到自我的愚蠢。在一腔热情的热力中映出自己的身影，发现那逻辑的冷眼无法看到之物。</string>
+      <string id="CLUE3">提问源自于人在最高之塔的顶端所看到的世界，对答案的渴求则来自于其自身生命和时间的根源。</string>
+      <string id="CLUE5">只有进入了原初恐惧的血盆大口之中……</string>
+      <string id="CLUE_ADDED">我要把这条线索加进信件中。</string>
+      <string id="CLUE1_CLUE2">那些探寻世界的智慧须先认识到自我的愚蠢。在一腔热情的热力中映出自己的身影，发现那逻辑的冷眼无法看到之物。
 - - -
-Knowing yourself, you may look upon your master. Meet his imposing gaze and seek to understand what lies beneath. Thereby, learn the question, if not the final answer.</string>
-      <string id="CLUE3_CLUE4">Then you will be ready to climb to the tallest heights, and from there to look down to the deepest roots...
+认知你自己，看着你的主人，不仅仅是他威严的注视，还要理解他眼神下的东西。由此寻找问题，或者寻找答案。</string>
+      <string id="CLUE3_CLUE4">之后你就准备去攀爬最高之塔，在那里俯瞰最深的根源……
 - - - 
-It is a Truth our ancestors knew and with stone silence came to un-know.</string>
-      <string id="CLUE5_CLUE6">That only by entering the gnashing jaws of primal horror...
+我们祖先早已洞悉的真实，渐渐在缄默中回归未知。</string>
+      <string id="CLUE5_CLUE6">只有进入了原初恐惧的血盆大口之中……
 - - -
-... will you at last know Truth.</string>
-      <string id="INV_TEAPOT_COLD_AGAIN">The teapot has cooled down.</string>
-      <string id="INV_COMPASS_DESC_BROKEN">It looks like a compass. It must be broken since it does not point North.</string>
-      <string id="INV_COMPASS_DESC_CRAZY">The needle is spinning on its axis, pointing in every which direction.</string>
-      <string id="INV_COMPASS_DESC_WORKING">A strange device. It cannot be a compass because it does not point North but to seemingly random directions.</string>
-      <string id="INV_GIVE_RUSTYBRONZEBELL_BEFORE_TALK">I think I should talk to him first.</string>
-      <string id="INV_ORNAMENT_DESC">Joined together, the two pieces form an intricately carved figurine or idol. It is ancient, without a doubt.</string>
-      <string id="INV_TINSOLDIER">Soldier</string>
-      <string id="INV_ENVELOP">Sealed Letter</string>
-      <string id="INV_LETTER">Letter</string>
-      <string id="INV_TEAPOT_DESC">The teapot is filled with water.</string>
-      <string id="INV_ENVELOP_DESC">A letter sealed with wax. It is addressed simply, "To my dearest visitor".</string>
-      <string id="INV_TEAPOT">Teapot</string>
-      <string id="INV_ATTICKEY">Golden Key</string>
-      <string id="INV_ORNAMENT">Idol</string>
-      <string id="INV_BIRDSKEY">Feather Key</string>
-      <string id="INV_BIRDSKEY_DESC">An old bronze key. It has been engraved with the shape of a feather.</string>
-      <string id="INV_BASEMENTKEY">Basement Key</string>
-      <string id="INV_BASEMENTKEY_DESC">An iron key. The attached tag reads “Basement”.</string>
-      <string id="INV_TELESCOPE">Telescope</string>
-      <string id="INV_TELESCOPE_DESC">An old telescope. It has been rusted by the salt water but it is still in good condition.</string>
-      <string id="INV_FLOWERS">Flowers</string>
-      <string id="INV_FLOWERS_DESC">A beautiful bouquet of wild flowers.</string>
-      <string id="INV_CLOTH">Cloth</string>
-      <string id="INV_CLOTH_DESC">A large piece of cloth, carefully embroidered.</string>
-      <string id="INV_HALF1">Fragment</string>
-      <string id="INV_HALF1_DESC">A fragment of a stone sculpture.</string>
-      <string id="INV_HALF2_DESC">A fragment of a stone sculpture.</string>
-      <string id="INV_COMPASS">Compass</string>
-      <string id="INV_KNOB">Lever</string>
-      <string id="INV_KNOB_DESC">It appears to be a part of some larger device.</string>
-      <string id="INV_RUSTYBRONZEBELL">Bell</string>
-      <string id="INV_RUSTYBRONZEBELL_DESC">An old, rusty bronze bell, typical of a seafaring vessel. It is engraved with the name "Augustine".</string>
-      <string id="INV_MATCHES">Matchbox</string>
-      <string id="INV_MATCHES_DESC">It is half-empty.</string>
-      <string id="INV_LANTERN">Lantern</string>
-      <string id="INV_LANTERN_DESC">An oil lamp, similar to those used by mine workers.</string>
-      <string id="INV_REDKEY">Red Key</string>
-      <string id="INV_HALF2">Fragment</string>
-      <string id="INV_EXPLORERBOOK">Book</string>
-      <string id="INV_BIRDSBOOK">Book</string>
-      <string id="CMB_FLOWERS_GRAVE2">I do not think this is the right grave.</string>
-      <string id="INV_EXPLORERBOOK_DESC">This seems to be the "Book of Travels" Professor Wright mentioned. It is "The Travels of Marco Polo".
+……最终才能知道何为真实。</string>
+      <string id="INV_TEAPOT_COLD_AGAIN">茶壶已经冷掉了。</string>
+      <string id="INV_COMPASS_DESC_BROKEN">看起来像是一个罗盘，但一定坏掉了，因为它并不指向北方。</string>
+      <string id="INV_COMPASS_DESC_CRAZY">指针绕着轴旋转，指向任何方向。</string>
+      <string id="INV_COMPASS_DESC_WORKING">奇怪的设备。应该不是罗盘，因为它不指向北，但似乎指定随机的方向。</string>
+      <string id="INV_GIVE_RUSTYBRONZEBELL_BEFORE_TALK">我觉得我应该先跟他说说。</string>
+      <string id="INV_ORNAMENT_DESC">合在一起了，两片东西组成了一个精致的人像雕刻。毋庸质疑，它非常古老。</string>
+      <string id="INV_TINSOLDIER">士兵</string>
+      <string id="INV_ENVELOP">封住的信</string>
+      <string id="INV_LETTER">信</string>
+      <string id="INV_TEAPOT_DESC">茶壶装潢了水。</string>
+      <string id="INV_ENVELOP_DESC">蜡封的信，地址处只简单地写着“致我最亲爱的访客”。</string>
+      <string id="INV_TEAPOT">茶壶</string>
+      <string id="INV_ATTICKEY">金钥匙</string>
+      <string id="INV_ORNAMENT">神像</string>
+      <string id="INV_BIRDSKEY">羽毛钥匙</string>
+      <string id="INV_BIRDSKEY_DESC">一把古老的铜钥匙。被雕成了羽毛的形状。</string>
+      <string id="INV_BASEMENTKEY">地下室钥匙</string>
+      <string id="INV_BASEMENTKEY_DESC">一把铁钥匙，标签上写着“地下室”。</string>
+      <string id="INV_TELESCOPE">望远镜</string>
+      <string id="INV_TELESCOPE_DESC">老旧的望远镜。虽然已经被海水锈蚀，但仍然状况良好。</string>
+      <string id="INV_FLOWERS">花</string>
+      <string id="INV_FLOWERS_DESC">一束漂亮的野花。</string>
+      <string id="INV_CLOTH">布</string>
+      <string id="INV_CLOTH_DESC">一大块布，上面有精细的刺绣。</string>
+      <string id="INV_HALF1">石雕碎片</string>
+      <string id="INV_HALF1_DESC">某种石雕的一块碎片。</string>
+      <string id="INV_HALF2_DESC">某种石雕的一块碎片。</string>
+      <string id="INV_COMPASS">罗盘</string>
+      <string id="INV_KNOB">操纵杆</string>
+      <string id="INV_KNOB_DESC">似乎是某种大型设备的一部分。</string>
+      <string id="INV_RUSTYBRONZEBELL">铃</string>
+      <string id="INV_RUSTYBRONZEBELL_DESC">一个老旧生锈的铜铃，标准航海船铃的样式。上面刻着名字“奥古斯汀”。</string>
+      <string id="INV_MATCHES">火柴盒</string>
+      <string id="INV_MATCHES_DESC">只剩下半盒火柴。</string>
+      <string id="INV_LANTERN">提灯</string>
+      <string id="INV_LANTERN_DESC">一盏油提灯，跟矿工用的那种很像。</string>
+      <string id="INV_REDKEY">红钥匙</string>
+      <string id="INV_HALF2">石雕碎片</string>
+      <string id="INV_EXPLORERBOOK">书</string>
+      <string id="INV_BIRDSBOOK">书</string>
+      <string id="CMB_FLOWERS_GRAVE2">我觉得不是这个墓。</string>
+      <string id="INV_EXPLORERBOOK_DESC">这似乎就是莱特教授说的《旅行之书》了。准确说应该是《马可·波罗游记》。
 </string>
-      <string id="WCMB_ATTICKEY_GUESTROOM">The key does not fit this keyhole.</string>
-      <string id="WCMB_BASEMENTKEY_GUESTROOM">The key does not fit here.</string>
-      <string id="WCMB_REDKEY_GUESTROOM">The key does not fit here.</string>
-      <string id="WCMB_BIRDSKEY_GUESTROOM">The key does not fit here.</string>
-      <string id="INV_BIRDSBOOK_DESC">“The Book of Birds”. It is a compilation of legends related to birds. Some of the text is marked.</string>
-      <string id="INV_MENTORKEY">Key</string>
-      <string id="INV_MENTORKEY_DESC">A yellow key.</string>
-      <string id="BIRDSBOOK_CONTENT_1">The birds were travelling to meet their King when they reached a crossroads. The wretched crow tried to lead them astray and onto the path of mists.</string>
-      <string id="BIRDSBOOK_CONTENT_2">Many birds followed him and were lost forever beyond that veil. </string>
-      <string id="BIRDSBOOK_CONTENT_3">Only the wisdom of the crested hoopoe and the prudence of the red-feathered robin could lead the remaining twenty-eight back onto the path of righteousness. Ever since, the birds have sung their praise, for without the hoopoe and the robin, silence would have fallen forever.
+      <string id="WCMB_ATTICKEY_GUESTROOM">钥匙和锁孔对不上。</string>
+      <string id="WCMB_BASEMENTKEY_GUESTROOM">钥匙不对。</string>
+      <string id="WCMB_REDKEY_GUESTROOM">钥匙不对。</string>
+      <string id="WCMB_BIRDSKEY_GUESTROOM">钥匙不对。</string>
+      <string id="INV_BIRDSBOOK_DESC">《鸟之书》，一本鸟的图鉴集，一些文字被画了标记。</string>
+      <string id="INV_MENTORKEY">钥匙</string>
+      <string id="INV_MENTORKEY_DESC">一把黄色的钥匙。</string>
+      <string id="BIRDSBOOK_CONTENT_1">鸟群踏上了寻找国王的旅程，它们到了一个岔路口，卑鄙的乌鸦想将它们带入歧途，带向通向迷雾的路。</string>
+      <string id="BIRDSBOOK_CONTENT_2">许多鸟跟着它，永远地迷失在了帷幕之后。 </string>
+      <string id="BIRDSBOOK_CONTENT_3">唯有凭借带羽冠的戴胜鸟的机智和红色羽毛的知更鸟的谨慎才能把剩下的二十八只带回正确的道路，自那以后，鸟儿们歌唱赞颂，没有了戴胜和知更，一切永远地归为寂静。
 </string>
-      <string id="INV_PICTURE">Picture</string>
-      <string id="INV_PICTURE_DESC">A picture of two young men. They could be Professor Wright and Father Oscar.</string>
-      <string id="INV_CLOTH_DESC_1">A carefully-embroidered cloth. The beginning of a phrase is written on it: "If the birds fall silent…"
+      <string id="INV_PICTURE">照片</string>
+      <string id="INV_PICTURE_DESC">两个人的照片，应该是莱特教授和奥斯卡神父。</string>
+      <string id="INV_CLOTH_DESC_1">一块精致绣花的布，布上写着“如果鸟安静下来……”
 </string>
-      <string id="INV_CLOTH_DESC_2">A carefully-embroidered cloth. The end of a phrase is written on it: "...a visitor will call."
+      <string id="INV_CLOTH_DESC_2">一块精致绣花的布，布上写着“……访客将会造访。”
 </string>
-      <string id="TELESCOPE_BEFORE_TALK_FISHERMAN">I should try to speak to him first.</string>
-      <string id="NOMOREMATCHES">I have run out of matches.</string>
-      <string id="INV_LOVERNECKLACE">Necklace</string>
-      <string id="INV_LOVERNECKLACE_DESC">A silver locket necklace containing a lock of human hair. It has an engraved message: "A token of love for my beloved rose."
+      <string id="TELESCOPE_BEFORE_TALK_FISHERMAN">我应该先跟他说话。</string>
+      <string id="NOMOREMATCHES">火柴用光了。</string>
+      <string id="INV_LOVERNECKLACE">项链</string>
+      <string id="INV_LOVERNECKLACE_DESC">银制的项链，项链上的小盒子里有一缕头发。项链刻着字“仅以此代表我对萝丝的爱”。
 </string>
     </bundle>
     <bundle id="ep6_kitchen">
