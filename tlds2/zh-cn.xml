@@ -1845,7 +1845,7 @@ Dane Tippman</string>
       <string id="INV_EXPLORERBOOK">书</string>
       <string id="INV_BIRDSBOOK">书</string>
       <string id="CMB_FLOWERS_GRAVE2">我觉得不是这个墓。</string>
-      <string id="INV_EXPLORERBOOK_DESC">这似乎就是莱特教授说的《旅行之书》了。准确说应该是《马可·波罗游记》。
+      <string id="INV_EXPLORERBOOK_DESC">这似乎就是莱特教授说的“旅行之书”了。准确说应该是《马可·波罗游记》。
 </string>
       <string id="WCMB_ATTICKEY_GUESTROOM">钥匙和锁孔对不上。</string>
       <string id="WCMB_BASEMENTKEY_GUESTROOM">钥匙不对。</string>
@@ -1871,33 +1871,33 @@ Dane Tippman</string>
 </string>
     </bundle>
     <bundle id="ep6_kitchen">
-      <string id="COLDTEAPOT_REACT">It is filled with cold water. </string>
-      <string id="COLDTEAPOT_INSPECT">An old teapot.</string>
-      <string id="COOKER_INSPECT">A cast-iron woodstove.</string>
-      <string id="KITCHEN_BASEMENT_LOCKED">The door is locked shut. A small sign reads “Basement”.</string>
-      <string id="MATCHES_INSPECT">Glass jars filled with spices and pickled food. There is a matchbox here, too.
+      <string id="COLDTEAPOT_REACT">它装满了冷水。</string>
+      <string id="COLDTEAPOT_INSPECT">一个老旧的茶壶。</string>
+      <string id="COOKER_INSPECT">一个铸了铁的柴灶。/string>
+      <string id="KITCHEN_BASEMENT_LOCKED">门紧锁着，有一个小标牌上面写着“地下室”。</string>
+      <string id="MATCHES_INSPECT">装有香料和腌制食物折玻璃瓶，旁边还有一盒火柴。
 </string>
-      <string id="MATCHES_REACT">I may need these matches later on.</string>
-      <string id="DECO_KI_OVEN">A bread oven.</string>
-      <string id="DECO_LI_FORNITURE">Various ingredients.
+      <string id="MATCHES_REACT">我之后可能会用到这火柴。</string>
+      <string id="DECO_KI_OVEN">一个烤面包炉。</string>
+      <string id="DECO_LI_FORNITURE">各种调料。
 </string>
-      <string id="DECO_LI_FORNITURE2">Glass jars filled with spices and pickled food.</string>
-      <string id="DLG_HOUSEKEEPER_KI_1">Mrs. Oakwood?
+      <string id="DECO_LI_FORNITURE2">装有香料和腌制食物折玻璃瓶。</string>
+      <string id="DLG_HOUSEKEEPER_KI_1">欧克伍德太太？
 </string>
-      <string id="MATCHES2_INSPECT">Glass jars filled with spices and pickled food.</string>
-      <string id="KITCHEN_ALREADY_LIGHTED">The fire is burning already.</string>
-      <string id="TEAPOT_COOKER_NOT_LIGHTED">If I want to heat the teapot on the stove, I will need to start a fire first. The stove already has plenty of wood.
+      <string id="MATCHES2_INSPECT">装有香料和腌制食物折玻璃瓶。</string>
+      <string id="KITCHEN_ALREADY_LIGHTED">火已经点燃了。</string>
+      <string id="TEAPOT_COOKER_NOT_LIGHTED">如果我想烧开水，需要先给柴灶点火。柴灶里已经有木柴了。
 </string>
-      <string id="DECO_KI_PIPE">A gilded pipe. It runs from underground to the corridor.</string>
-      <string id="TNK_TEAPOT_DURATION">The water will cool soon.</string>
-      <string id="WCMB_BIRDSKEY_BASEMENT">The key doesn't fit here.
+      <string id="DECO_KI_PIPE">镀金的管道。从房间走廊的末端通向楼梯上方。</string>
+      <string id="TNK_TEAPOT_DURATION">水很快就会冷掉的。</string>
+      <string id="WCMB_BIRDSKEY_BASEMENT">钥匙不对。
 </string>
-      <string id="WCMB_ATTICKEY_BASEMENT">The key doesn't fit here.
+      <string id="WCMB_ATTICKEY_BASEMENT">钥匙不对。
 </string>
-      <string id="WCMB_REDKEY_BASEMENT">The key doesn't fit here.
+      <string id="WCMB_REDKEY_BASEMENT">钥匙不对。
 </string>
-      <string id="DECO_PIPE">A gilded pipe. It runs from the ground to the corridor.</string>
-      <string id="THINK_PRE_CLOSED_ROOM_DIARY">If we cannot access the tunnel mentioned in Professor Wright’s log, how can we find the missing parts of his research? I must talk to Kaufmann about this.
+      <string id="DECO_PIPE">镀金的管道。从房间走廊的末端通向楼梯上方。</string>
+      <string id="THINK_PRE_CLOSED_ROOM_DIARY">如果我们不能进莱特教授在日志中提到的隧道，要怎么才能找到他缺失的那部分研究呢？我得跟考夫曼讨论一下。
 </string>
     </bundle>
     <bundle id="ep6_kohneHideout">
@@ -1920,52 +1920,52 @@ Dane Tippman</string>
       <string id="DLG_HIDEOUT_INIT_5">我们太迟了。</string>
     </bundle>
     <bundle id="ep6_library">
-      <string id="TINSOLDIER_REACT">Could it hold some special significance to Professor Wright?  Perhaps it will help stimulate his memories.</string>
-      <string id="TINSOLDIER_INSPECT">A tin soldier.  It looks to have been painted by hand.  It commemorates some military campaign that I have not heard of.</string>
-      <string id="LIBRARY1_INSPECT">Professor Wright has an eclectic collection: from old adventure novels to treatises on the occult sciences. Some of these titles I believe have been forbidden by the Crown.</string>
-      <string id="LIBRARY2_INSPECT">There is a large volume here, quite worn. It is an illustrated edition of “The Travels of Marco Polo”. Perhaps this is the “The Book of Travels" that Professor Wright mentioned?</string>
-      <string id="LIBRARY_BIRDSROOM_LOCKED">It is locked. I can hear the racket of many birds on the other side.</string>
-      <string id="GLOBE2_INSPECT">Just an empty compartment. Its sides and base are covered in black velvet.</string>
-      <string id="GLOBE_REACT">There is a sealed letter inside.</string>
-      <string id="GLOBE_INSPECT">A secret compartment has been revealed beneath the surface of the globe.  </string>
-      <string id="LIBRARY_CLUE">We began our journey by crossing the unforgiving desert, always facing the setting sun. At last, we arrived at the merciful sight of the great ocean. We followed the coast North, in dear hope of reaching our home soon.</string>
-      <string id="PLH_ENVELOP">It is simply addressed, “To my dearest visitor”. Kaufmann needs to see this before it is opened.</string>
-      <string id="LIBRARY2_INSPECT_2">There is a mark on one of the pages.</string>
-      <string id="LIBRARY_CLUE_2">It was not to be. The King of the land we traversed had declared war on the Great Khan, so we were forced to return as we had come. We never set foot in that bloody land again. We knew there was a port just a few miles to the south, where we could find a boat.</string>
-      <string id="LIBRARY_CLUE_3">Our sea voyage was short, as our sails billowed with the powerful Southern winds. We reached the most Eastern cape, and landed there. Our backs to the sea, we marched forth and soon reached home.</string>
-      <string id="DECO_LI_FIREPLACE">The fire burns fiercely, rendering the air thick and heavy in the room.
+      <string id="TINSOLDIER_REACT">这对莱特教授有什么特殊的意义吗？或许可以帮助他恢复记忆。</string>
+      <string id="TINSOLDIER_INSPECT">一个锡兵，涂装看起来像是手绘的。用来纪念一些我没听说过的战役。</string>
+      <string id="LIBRARY1_INSPECT">莱特教授不拘一格的藏书：从老式的冒险小说到关于神秘学的论文，应有尽有。其中有一些的标题看起来应该是皇室禁止发行的书。</string>
+      <string id="LIBRARY2_INSPECT">有一套磨损严重的书，是插图版的《马可·波罗游记》。或许莱特教授之前说的“旅行之书”其实就是指这个。</string>
+      <string id="LIBRARY_BIRDSROOM_LOCKED">锁上了，能听到鸟的吵闹声从另一边传来。</string>
+      <string id="GLOBE2_INSPECT">只是一个空空的暗格，四壁和底部都铺上了黑色的天鹅绒。</string>
+      <string id="GLOBE_REACT">有一封被封住的信在里面。</string>
+      <string id="GLOBE_INSPECT">地球仪表面之下有一个隐藏的暗格。</string>
+      <string id="LIBRARY_CLUE">旅程开始，我们面对夕阳，穿过沙漠的荒茫。到达仁慈的海，沿着北海岸，满怀归乡的企盼。</string>
+      <string id="PLH_ENVELOP">地址处只简单地写着“致我最亲爱的访客”。打开之前应该先给考夫曼看看。</string>
+      <string id="LIBRARY2_INSPECT_2">其中一页上有一个记号。</string>
+      <string id="LIBRARY_CLUE_2">但事与愿违，在我们穿过的领土内，国王发兵，与大可汗征战。我们被迫回到原路，永不驻足那血腥的大陆。还好若一路向南，数英里外有个港湾，那里有船。</string>
+      <string id="LIBRARY_CLUE_3">航海之旅非常短暂，强大的南风掀了我们的帆。到达东边的海岬，在那儿靠岸。我们背向大海，一路向前，最终抵达家园。</string>
+      <string id="DECO_LI_FIREPLACE">火猛烈地燃烧起来，使整个房间的空气都变得厚重了起来。
 </string>
-      <string id="DECO_LI_PICTURE">A painting of the cliffs of this region. </string>
-      <string id="FIRST_VISIT_GLOBE">A globe. The surface is extraordinarily detailed. Judging by the strange shape of the continents, this must derive from a fictional work, or some prehistoric era.</string>
-      <string id="GLOBE_JUST_OPEN">It seems I have triggered a hidden mechanism. A small compartment has opened in the globe.</string>
-      <string id="FRONTYARD_DOOR_OPENS">The door has been opened... </string>
-      <string id="DECO2_LI_FIREPLACE">The fire is out. How did this happen?</string>
+      <string id="DECO_LI_PICTURE">这一带的悬崖的画。</string>
+      <string id="FIRST_VISIT_GLOBE">一个地球仪。表面的板块做的非常精细，但陆地的形状很奇怪，看起来这一定是某个小说中或者是史前时代的地图。</string>
+      <string id="GLOBE_JUST_OPEN">似乎我触了隐藏的机关，地球仪中的暗格打开了。</string>
+      <string id="FRONTYARD_DOOR_OPENS">门已经打开了……</string>
+      <string id="DECO2_LI_FIREPLACE">火已经熄了，怎么回事？</string>
     </bundle>
     <bundle id="ep6_libraryConversastion">
-      <string id="DLG_LIBRARYCONVERSATION1">You see, Mr Wright, our organisation is keenly interested in your research. 
+      <string id="DLG_LIBRARYCONVERSATION1">您懂的，莱特先生，我们的组织对您的研究非常感兴趣。
 </string>
-      <string id="DLG_LIBRARYCONVERSATION2">We could reach an agreement to fund this project. </string>
-      <string id="DLG_LIBRARYCONVERSATION3">But first we need to know the details.</string>
-      <string id="DLG_LIBRARYCONVERSATION4">I understand.</string>
-      <string id="DLG_LIBRARYCONVERSATION5">The main factor is the condition of the test subject; how open he is to suggestion. As you know, only the human mind can open a physical passage to the other side.</string>
-      <string id="DLG_LIBRARYCONVERSATION6">So a complete, absolute darkness will be required for the experience to result. A secluded place, completely isolated.</string>
-      <string id="DLG_LIBRARYCONVERSATION7">A place that can only bring thoughts of what may be hiding in the dark.</string>
-      <string id="DLG_LIBRARYCONVERSATION8">But in total darkness and seclusion, how could the results of the experiment be studied or confirmed?</string>
-      <string id="DLG_LIBRARYCONVERSATION9">That is precisely where your organisation can provide help.
+      <string id="DLG_LIBRARYCONVERSATION2">我们可以批准出资赞助您的项目。</string>
+      <string id="DLG_LIBRARYCONVERSATION3">但在此之前，我们需要了解其中的细节。</string>
+      <string id="DLG_LIBRARYCONVERSATION4">我懂。</string>
+      <string id="DLG_LIBRARYCONVERSATION5">关键因素在于受试对象的状况，他的精神敏感和心理接受程度。正如你所知，只有人类的意识才打开通往另一边的物理通道。</string>
+      <string id="DLG_LIBRARYCONVERSATION6">所以需要通过体验一个绝对完全的黑暗环境才能达到预期的效果。需要一个隐藏的地方，完全的与世隔绝。</string>
+      <string id="DLG_LIBRARYCONVERSATION7">一个能够把潜藏于黑暗之处的那些东西显现出来的地方。</string>
+      <string id="DLG_LIBRARYCONVERSATION8">但如果在一个完全隔绝的黑暗环境中，我们如何才能跟进和确认实验的结果呢？</string>
+      <string id="DLG_LIBRARYCONVERSATION9">这恰恰就是你们的组织可以提供帮助的地方。
 </string>
-      <string id="DLG_LIBRARYCONVERSATION10">I have designed a special device that would allow me to listen from a safe distance. But I lack the means to manufacture it myself. </string>
-      <string id="DLG_LIBRARYCONVERSATION11">That we could arrange.</string>
-      <string id="DLG_LIBRARYCONVERSATION12">But there is one last thing I would like to know.</string>
-      <string id="DLG_LIBRARYCONVERSATION13">How would the... experience be triggered?</string>
-      <string id="DLG_LIBRARYCONVERSATION14">By means of a chemical compound of some kind?</string>
-      <string id="DLG_LIBRARYCONVERSATION15">Do you mean a serum?</string>
-      <string id="DLG_LIBRARYCONVERSATION16">Not at all. That would be of no elegance whatsoever!</string>
-      <string id="DLG_LIBRARYCONVERSATION17">The trigger is the mind itself. The emotion known as terror.</string>
-      <string id="DLG_LIBRARYCONVERSATION18">The primal fear that still survives in the depths of our mind, from the times humans were mere beasts.</string>
-      <string id="DLG_LIBRARYCONVERSATION19">That which allows us to open a physical passage beyond the Veil of rational thought.</string>
-      <string id="DLG_LIBRARYCONVERSATION20">Primal terror is the key that we will use to open the Last Door.</string>
-      <string id="INITIAL_TEXT">Today, a meeting finally took place</string>
-      <string id="DLG_LIBRARYCONVERSATION21">I have the perfect location in mind...</string>
+      <string id="DLG_LIBRARYCONVERSATION10">我设计了一种特别的设备，有了它，我们可以在安全的地方监听实验环境。但我仅凭我自己的力量没办法制造出来。</string>
+      <string id="DLG_LIBRARYCONVERSATION11">这个我们可以安排解决。</string>
+      <string id="DLG_LIBRARYCONVERSATION12">但还有最后一件事我们需要确认一下。</string>
+      <string id="DLG_LIBRARYCONVERSATION13">这个实验怎样才能……触发？</string>
+      <string id="DLG_LIBRARYCONVERSATION14">要通过某种化学试剂之类的吗？</string>
+      <string id="DLG_LIBRARYCONVERSATION15">你是指血清？</string>
+      <string id="DLG_LIBRARYCONVERSATION16">不。任何额外的手段都是多余的！</string>
+      <string id="DLG_LIBRARYCONVERSATION17">只需要意识本身就可以触发，就是被称作为恐惧的那种意识。</string>
+      <string id="DLG_LIBRARYCONVERSATION18">在人类尚未开化，形如野兽的时代，原初的恐惧就存在于我们的精神意识之中。</string>
+      <string id="DLG_LIBRARYCONVERSATION19">它能让我们揭开理性的帷幕，打开一条物理的通道。</string>
+      <string id="DLG_LIBRARYCONVERSATION20">原初的恐惧是可以打开最后一扇门的钥匙。</string>
+      <string id="INITIAL_TEXT">今天，终于进行了那个会面。</string>
+      <string id="DLG_LIBRARYCONVERSATION21">我已经想到了一个完美的地点……</string>
     </bundle>
     <bundle id="ep6_map">
       <string id="MAP_GRAVEYARD">墓园</string>
@@ -1975,37 +1975,37 @@ Dane Tippman</string>
       <string id="MAP_SQUARE_">城镇广场</string>
     </bundle>
     <bundle id="ep6_maze">
-      <string id="MAZE_BONES_DESC">These are... human remains. The flesh is gone, but the bones look undisturbed. How long have they lain here? Why on earth did Professor Wright not alert the authorities? I must press on. What possible "research" could have led to this?</string>
-      <string id="MAZE_HOLE_DESC">The hole goes deep into the wall of the cave...</string>
-      <string id="MAZE_PUDDLES_DESC">It is some viscous substance. It could be some kind of fungus, or maybe the decomposed remains of an animal...</string>
-      <string id="MAZE_PIT_DESC">There is a wide pit in the middle of the chamber. It descends deep into the dark. I think I hear the sound of the sea far below.</string>
-      <string id="MAZE_HOLE_BRICK_DESC">A small passage goes into the brick wall. It is too thin to pass through. </string>
-      <string id="MAZE_DEVICE_2">There is a strange metal device hanging from the ceiling.</string>
-      <string id="MAZE_DEVICE_3">There is a strange metal device hanging from the ceiling.</string>
-      <string id="MAZE_CAVEIN">This part of the cave is blocked by a cave-in. </string>
-      <string id="MAZE_PIANO">There is a grand piano placed in the middle of the room. </string>
-      <string id="MAZE_MESSAGE">The drawing represents a human figure stepping through some sort of archway or door...</string>
-      <string id="ARCHWAY_NOTES1">Who was gone will be back not the same, but somehow changed. Because that which lurks behind the Door waits. And no one that has crossed through can hope to escape its blessing.
+      <string id="MAZE_BONES_DESC">这些是……人类的遗骸。肉已经没有了，骨头还完好。他们死在这里多久了？为什么莱特教授没有报警？我得继续调查，到底是什么样的研究才会导致这样的结果？</string>
+      <string id="MAZE_HOLE_DESC">墙上的洞延伸至很深的地方……</string>
+      <string id="MAZE_PUDDLES_DESC">黏液物质。可能是某种菌类，或者是动物尸体的腐烂物……</string>
+      <string id="MAZE_PIT_DESC">室内中央有一个大洞，延伸至深邃的黑暗。我好像从下面听到了海的声音。</string>
+      <string id="MAZE_HOLE_BRICK_DESC">一条通向砖墙里的小通路，太窄了，没法钻过去。</string>
+      <string id="MAZE_DEVICE_2">天花板上挂着一个奇怪的金属设备。</string>
+      <string id="MAZE_DEVICE_3">天花板上挂着一个奇怪的金属设备。</string>
+      <string id="MAZE_CAVEIN">这一部分因为塌方堵住了。</string>
+      <string id="MAZE_PIANO">一架大钢琴摆在房间中央。</string>
+      <string id="MAZE_MESSAGE">这张画上……一个人通过了某种拱门之类的东西……</string>
+      <string id="ARCHWAY_NOTES1">失踪的人再回来时已经不同了，原因不明地发生了变化。因为潜伏在门后的东西在等待着，穿过门的人不可能逃过它的眷顾。
 </string>
-      <string id="ARCHWAY_NOTES2">I must tell Kaufmann about all of this.</string>
-      <string id="INT_DECO_CLOTHES">These clothes are torn down to unrecognisable shreds. There is a tag in here with two initials: “H. A.”.</string>
-      <string id="INT_DECO_ARCH">There is a large archway carved on the stone wall of the cave.</string>
-      <string id="INT_DECO_MACHINE">A strange machine. It does not seem to be working anymore.</string>
-      <string id="ARCH_DOOR_RIGHT_LOCKED">I cannot leave now after having come this far.</string>
-      <string id="ARCH_DOOR_RIGHT_DOOR_CONTINUE_INVESTIGATION">I cannot leave now after having come this far.</string>
-      <string id="DECO_BRICK">Part of the wall's stones seem to have dislodged from it, leaving behind a large, dark hole.</string>
-      <string id="LOOK_BACK_SURPRISE">What was that?</string>
-      <string id="ARCHWAY_NOTES">There is a note on the floor.</string>
-      <string id="ARCHWAY_FIRST_TIME">What is this place?</string>
-      <string id="MAZE_BONES_DESC_NECKLACE">These are... human remains. The flesh is gone, but the bones look undisturbed. Judging by their 
+      <string id="ARCHWAY_NOTES2">我必须把这些都告诉给考夫曼。</string>
+      <string id="INT_DECO_CLOTHES">这些衣服被撕得支离破碎，这里有一个标签，上面写着某个名字的两个首字母“H·A”。</string>
+      <string id="INT_DECO_ARCH">墙壁上雕了一个大拱门。</string>
+      <string id="INT_DECO_MACHINE">一台奇怪的机器，似乎不能再启动了。</string>
+      <string id="ARCH_DOOR_RIGHT_LOCKED">已经到了这地方了，不能就这么离开。</string>
+      <string id="ARCH_DOOR_RIGHT_DOOR_CONTINUE_INVESTIGATION">已经到了这地方了，不能就这么离开。</string>
+      <string id="DECO_BRICK">墙上一部分的石头似乎被挖了出来，留下一个又大又黑的洞。</string>
+      <string id="LOOK_BACK_SURPRISE">刚才那是什么？</string>
+      <string id="ARCHWAY_NOTES">地上有一张笔记。</string>
+      <string id="ARCHWAY_FIRST_TIME">这是什么地方？</string>
+      <string id="MAZE_BONES_DESC_NECKLACE">这些是……人类的遗骸。肉已经没有了，但骨头完好。
 
-constitution I would say they belonged to a woman. This cave has been sealed for seven years... 
+从体型上看，应该是女人的。这个洞已经被封锁了七年……
 
- What did the lady in the window say? Her lover disappeared seven years ago in the cliffs, and her 
+守在窗边的那位女士说过，她的爱人七年前的悬崖边失踪，遗体一直没有找到……这难道就是萝丝·喀忒的遗体？
 
-body was never found... Are these the remains of Rose Carter? Was this the "containment breach" 
+这难道就是教授在日志中提到的“收容失败”？
 
-Wright mentioned in his diaries? I must press on.</string>
+我得继续调查。</string>
     </bundle>
     <bundle id="ep6_menus">
       <string id="START_BT_NEWGAME">New Game</string>
@@ -2049,7 +2049,7 @@ Wright mentioned in his diaries? I must press on.</string>
       <string id="PREVIOUSLY_2">威克菲尔德发现亚历山大是一个名叫剧作家的秘密团体的领导者，剧作家的人通过进行仪式，试图穿过帷幕一瞥究竟。所谓帷幕，是分隔现世与充满恐惧的天外虚无世界的一条线。</string>
       <string id="PREVIOUSLY_3">东丘的一位病人过去曾是剧作家的一员，但她从医院逃走了。威克菲尔德和考夫曼跟着她来到了她的藏身之处——山上的一座小木屋。正在这时，一大群鸟突然出现了……</string>
       <string id="PREVIOUSLY_TITLE">最后一扇门，前情提要……</string>
-      <string id="BACK_TO_MENU">Back to Menu</string>
+      <string id="BACK_TO_MENU">返回标题画面</string>
     </bundle>
     <bundle id="ep6_opening">
       <string id="FT_TEXT_HEADER1">开发者</string>
@@ -2098,70 +2098,70 @@ Mariela González</string>
 Dane Tippman</string>
     </bundle>
     <bundle id="ep6_port">
-      <string id="STRANDED_BOAT1_INSPECT">This old ship is completely wrecked.</string>
-      <string id="STRANDED_BOAT2_INSPECT">I wonder how long it has lain here.</string>
-      <string id="STRANDED_BOAT1_REACT">It is... a small bell. It is quite rusty.</string>
-      <string id="DECO_PO_PLANKS">Some abandoned wooden planks. Perhaps they are here for the repair of local fishing boats.</string>
-      <string id="DECO_PO_OLDBOAT">An old fishing boat. It smells strongly of fish.</string>
-      <string id="DECO_PO_FARTREE">Far in the distance, I can see a lonely tree, bent by the sea wind.
+      <string id="STRANDED_BOAT1_INSPECT">这艘老旧的船已经完全地坏掉了。</string>
+      <string id="STRANDED_BOAT2_INSPECT">也不知道它在这里躺了多久了。</string>
+      <string id="STRANDED_BOAT1_REACT">这是……一个小铃铛。锈的相当严重。</string>
+      <string id="DECO_PO_PLANKS">一些被丢掉的木板，也许是拿来修补当地的渔船用的。</string>
+      <string id="DECO_PO_OLDBOAT">一艘老旧的渔船，闻起来有一股强烈的鱼腥味。</string>
+      <string id="DECO_PO_FARTREE">远远地能看到一棵形单影只的树，在海风中摇曳。
 </string>
-      <string id="BELL_INSPECT">An old, rusty bronze bell, typical of a seafaring vessel. It is engraved with the name "Augustine".</string>
-      <string id="BELL_REACT">Someone may be able to tell me more about it. </string>
-      <string id="DLG_DRUNK_PORT_1">Neither the cracks in your hull nor your flaking paint, none of it matters. You are beautiful as ever, Augustine.</string>
-      <string id="DLG_DRUNK_PORT_2">Today we will watch the sun set together.</string>
-      <string id="DLG_DRUNK_PORT_3">Good sir, I cannot put into words what a great service you have rendered this drunken knave. Just as you, a stranger, have brought me to my lost treasure, may this old sailor's spyglass, in whatever way it can, help light the way to yours. Take it: it is a gift from the heart.
+      <string id="BELL_INSPECT">一个老旧生锈的铜铃，标准航海船铃的样式。上面刻着名字“奥古斯汀”。</string>
+      <string id="BELL_REACT">也许有某个人可以告诉我一些关于它的事情。</string>
+      <string id="DLG_DRUNK_PORT_1">不管你船体受损还是涂装剥落，都没关系。你依旧跟以前一样美丽，我的奥古斯汀。</string>
+      <string id="DLG_DRUNK_PORT_2">今天，就让我们一起看日落吧。</string>
+      <string id="DLG_DRUNK_PORT_3">好心的先生，你居然肯帮我这样一个潦倒的醉汉，我感动得说不出话。你居然为一个陌生人为找回了丢失已久的财宝，作为回报，这是我的老航海望远镜，也许它能帮上你的忙。请收下吧，这是我发自真心的谢礼。
 </string>
-      <string id="CMB_TELESCOPE_DRUNK">He won't need it anymore.</string>
-      <string id="BETASLOT_DECO_PO_OLDBOAT">An old, rotting boat rests on the shore. The name 'Providence' is written on the side.</string>
+      <string id="CMB_TELESCOPE_DRUNK">他说过他不再需要这个了。</string>
+      <string id="BETASLOT_DECO_PO_OLDBOAT">一个老旧的、腐化的船搁浅在海岸上。船的一侧写着名字“普罗维登斯”。</string>
     </bundle>
     <bundle id="ep6_posthypnosis">
-      <string id="WAKE_UP_TITLE">Wake up!</string>
-      <string id="DLG_POSTHYPNOSIS_1">Enough.</string>
-      <string id="DLG_POSTHYPNOSIS_2">We went too far, mein Freund.</string>
-      <string id="DLG_POSTHYPNOSIS_3">You are right... I did not think he would react this way...</string>
-      <string id="DLG_POSTHYPNOSIS_4">You did well by stopping the trance, Kaufmann.</string>
-      <string id="DLG_POSTHYPNOSIS_5">I think it would be best if we leave it for today. Let us return to the inn.</string>
-      <string id="DLG_POSTHYPNOSIS_6">Reflect tonight on what we have witnessed here. Tomorrow, let's discuss the next steps in our investigation. </string>
+      <string id="WAKE_UP_TITLE">醒来！</string>
+      <string id="DLG_POSTHYPNOSIS_1">够了。</string>
+      <string id="DLG_POSTHYPNOSIS_2">我们做的太过了，我的朋友。</string>
+      <string id="DLG_POSTHYPNOSIS_3">你说的对……我没想到他反应过这么剧烈……</string>
+      <string id="DLG_POSTHYPNOSIS_4">多亏你中止了催眠，考夫曼。</string>
+      <string id="DLG_POSTHYPNOSIS_5">我觉得我们今天还是走吧，回到旅店去。</string>
+      <string id="DLG_POSTHYPNOSIS_6">回去整理一下今天的调查成果，明天我们再讨论下一步该怎么做。</string>
     </bundle>
     <bundle id="ep6_prehypnosis">
-      <string id="HYPNOTIZING1">Look at this candle. Fix your eyes upon it.
+      <string id="HYPNOTIZING1">看这根蜡烛，目光集中在它上面。
 </string>
-      <string id="HYPNOTIZING2">Your body is as light as a feather.</string>
-      <string id="HYPNOTIZING3">Everything around you fades. You are entering a dark, endless void.</string>
+      <string id="HYPNOTIZING2">你的身体越来越轻，像羽毛一样。</string>
+      <string id="HYPNOTIZING3">周边的一切渐渐消失，你来到一片黑暗的、无尽的虚无之中。</string>
     </bundle>
     <bundle id="ep6_pub">
-      <string id="DLG_DRUNK_1">Good morning.</string>
-      <string id="DLG_DRUNK_2">Let me drink in peace…</string>
-      <string id="DLG_DRUNK_3">Are you a ship captain?</string>
-      <string id="DLG_DRUNK_4">Why, what's it to you? Does I look like a captain?</string>
-      <string id="DLG_DRUNK_6">Because of the hat you are wearing.</string>
-      <string id="DLG_DRUNK_6_CH">Your hat.</string>
-      <string id="DLG_WAITRESS_4">Church? Let me give you some advice. Barmaids ain't the people to ask about church opening hours. This here bar is my church. Most of the village've come to see things my way too. We prays here these days.</string>
-      <string id="DLG_WAITRESS_5">You want a drink?</string>
-      <string id="DLG_WAITRESS_11">Good morning.</string>
-      <string id="DLG_WAITRESS_9_CH">When will the church open?</string>
-      <string id="DLG_WAITRESS_9">I wonder if you know when will the church open. I knocked on the door but there was no answer.</string>
-      <string id="DLG_WAITRESS_12_CH">When will the church open?</string>
-      <string id="DLG_WAITRESS_12">Do you know when will the church open?</string>
-      <string id="DLG_WAITRESS_6">The whole village has forsaken the church? But why?</string>
-      <string id="DLG_WAITRESS_7">The town is forsaken. No work on the coasts these days, see? Few can make a living. Most of the fishers and sailors have up and left. Half the cottages lie abandoned. Those who stayed, they barely leave their homes, 'cept to come here of course. </string>
-      <string id="DLG_WAITRESS_14">But surely there must be more than just this? Many coastal towns face the same struggle but none lie abandoned!</string>
-      <string id="DLG_WAITRESS_15">Weeell, there's rumours. Silly stories if you asks me, but some take 'em real serious. Fishers, big dependable guys, they'll tell you they've seen stuff out there on the water, apparitions, shapes among the rocks. I say it's the booze talking, and I should know. Who could see anything in all that mist anyway? But fishers, they're superstitious. Folk believed the tales and one by one they just didn't come home no more. </string>
-      <string id="DLG_WAITRESS_17_CH">Man sitting in the corner.</string>
-      <string id="DLG_WAITRESS_17">What is with that man on the corner?</string>
-      <string id="DLG_WAITRESS_18">Fred? You can ignore him. He's a sad lonely drunk.</string>
-      <string id="DLG_WAITRESS_19_CH">I must leave.</string>
-      <string id="DLG_WAITRESS_19">I must leave.</string>
-      <string id="DLG_WAITRESS_20">Godspeed.</string>
-      <string id="DLG_WAITRESS_21_CH">How is business going?</string>
-      <string id="DLG_WAITRESS_21">How is business going?</string>
-      <string id="DLG_WAITRESS_23">Been better. Not seen many folk here lately.</string>
-      <string id="DLG_WAITRESS_25">What brings you to Wickport? We don't get a lot of visitors.</string>
-      <string id="DLG_WAITRESS_26">Well, I am just passing through.</string>
-      <string id="DLG_WAITRESS_27">I can see why.</string>
-      <string id="DLG_WAITRESS_22_CH">Have you met Professor Wright?</string>
-      <string id="DLG_WAITRESS_22">Have you ever met Professor Wright? </string>
-      <string id="DLG_WAITRESS_29">The Professor? Sure. Saw him every other day as a young'un. Always involved in the village. He was la-di-dah alright but folk respected him. He got stuck in. Didn't last, though. Shut himself away, started getting visitors from out of town. He stopped coming to the village eventually. Last I heard, he'd gone crazy. None of us knows for sure though. Been years since I saw him.</string>
+      <string id="DLG_DRUNK_1">早上好。</string>
+      <string id="DLG_DRUNK_2">让我安静地喝会儿酒……</string>
+      <string id="DLG_DRUNK_3">您是一位船长吗？</string>
+      <string id="DLG_DRUNK_4">哎，是不是跟你又有什么关系？我看起来像船长吗？</string>
+      <string id="DLG_DRUNK_6">因为您戴着那样的帽子。/string>
+      <string id="DLG_DRUNK_6_CH">您的帽子</string>
+      <string id="DLG_WAITRESS_4">教堂？我给你些建议吧，向酒吧女待搭话时，一般不应该问教堂几点开门。这个酒吧就是我的教堂，大部分镇民也是这么觉得的，所以我们最近都在这里祈祷。</string>
+      <string id="DLG_WAITRESS_5">你要来一杯吗？</string>
+      <string id="DLG_WAITRESS_11">早上好。</string>
+      <string id="DLG_WAITRESS_9_CH">教堂什么时候开门？</string>
+      <string id="DLG_WAITRESS_9">您知道教堂什么时候开门吗？我刚才敲了门，但没人应门。</string>
+      <string id="DLG_WAITRESS_12_CH">教堂什么时候开门？</string>
+      <string id="DLG_WAITRESS_12">您知道教堂什么时候开门吗？</string>
+      <string id="DLG_WAITRESS_6">教堂似乎被整个镇子遗弃了，为什么？</string>
+      <string id="DLG_WAITRESS_7">是镇子被遗弃了。最近海滨上也没什么工作可做了，你看吧，都没几个人能过得下去了。大部分的渔民和水手都离开了，大半的村舍没人住。至于那些留下来的人，也基本都大门不出，当然，还是会来这里的。</string>
+      <string id="DLG_WAITRESS_14">但一定还有其他的原因吧？许多海滨城市也都有这样的问题，但也不至于被遗弃。</string>
+      <string id="DLG_WAITRESS_15">好——吧，确实是有些传言。如果你问我，我只能说那是些蠢故事，但有人会当真。渔夫，那些还算靠得住的家伙们，会跟你讲水里藏着东西，像是幽灵啊什么的就在岩石中间。要我说，就是些酒后的胡话，那里雾那么大，哪能看清东西啊。但渔夫就是那么迷信，本地人相信那些鬼故事，口耳相传，最后就没人敢来这儿了。</string>
+      <string id="DLG_WAITRESS_17_CH">坐在角落里的男人。</string>
+      <string id="DLG_WAITRESS_17">坐在角落里的那个男人怎么了？</string>
+      <string id="DLG_WAITRESS_18">你说弗莱德？无视他吧，他就是一个悲伤又孤独的醉汉。</string>
+      <string id="DLG_WAITRESS_19_CH">我得走了。</string>
+      <string id="DLG_WAITRESS_19">我得走了。</string>
+      <string id="DLG_WAITRESS_20">祝你成功。</string>
+      <string id="DLG_WAITRESS_21_CH">这儿的生意如何？</string>
+      <string id="DLG_WAITRESS_21">这儿的生意如何？</string>
+      <string id="DLG_WAITRESS_23">好多了。最近都看不到几个人了。</string>
+      <string id="DLG_WAITRESS_25">你是因为什么来到维克港的？我们这儿一般都看不到游客的。</string>
+      <string id="DLG_WAITRESS_26">嗯，我只是路过。</string>
+      <string id="DLG_WAITRESS_27">我知道为什么。</string>
+      <string id="DLG_WAITRESS_22_CH">您见过莱特教授吗？</string>
+      <string id="DLG_WAITRESS_22">您见过莱特教授吗？ </string>
+      <string id="DLG_WAITRESS_29">教授？年轻时隔三差五能看到他，他真是一个装模作样的人，但本地人都很尊敬他，他也跟大家打成一片。但不久之后，他就开始闭门不出，只招待来自镇子外面的访客，从那时候开始他就几乎不来这个镇子了。上次我听说，他已经疯了，不过我也不清楚真假，毕竟这么多年没见了。</string>
       <string id="DLG_WAITRESS_30_CH">I must leave.</string>
       <string id="DLG_WAITRESS_30">I will leave you to your work.</string>
       <string id="DRUNK_PHRASE_1">You cannot cross the sea  *hic!*</string>
