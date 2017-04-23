@@ -597,7 +597,7 @@
       <string id="DLG_21_08">我……我好像想起来了。我在鸦片馆……然后因为吸太多的浓烟昏了过去。.</string>
       <string id="DLG_22_00">听我说，我有很多事情要告诉你！我发现了许多新的信息。亚历山大真的曾经被收容在东丘，但他的档案资料都失踪了。我找到了一个认识他的人，他跟我讲了一个你肯定无法相信的故事，然后……</string>
       <string id="DLG_22_01">有个女人，是医院里的病人，她完全疯了，他袭击了我……这些人到底怎么了，考夫曼。这个亚历山大跟大卫是什么关系？</string>
-      <string id="DLG_22_02">我认为这个病人，空荷太太，可能知道怎样才能找到亚历山大。无论如何，我们必须马上回去找她谈谈。</string>
+      <string id="DLG_22_02">我认为这个病人，空荷小姐，可能知道怎样才能找到亚历山大。无论如何，我们必须马上回去找她谈谈。</string>
       <string id="DLG_22_03">我恐怕那不太可能了。</string>
       <string id="DLG_22_07">什么意思？</string>
       <string id="DLG_22_09">空荷夫人已经不在东丘了，她昨晚逃跑了。</string>
@@ -841,7 +841,7 @@ Dane Tippman</string>
       <string id="CAPTAIN_TEXT_03">我们永远不能……穿过界限。我们看到的东西是禁忌。看看我吧！禁忌……</string>
       <string id="DLG_18_00">想逃、想忘记，但都太迟了……</string>
       <string id="DLG_19_00">想逃、想忘记，但都太迟了……</string>
-      <string id="AFTER_CAPTAIN">我必须回到东丘，跟空荷太太谈谈。如果上尉所说属实，她也一定是他们中的一员。她可能知道在哪里能找到他们。</string>
+      <string id="AFTER_CAPTAIN">我必须回到东丘，跟空荷小姐谈谈。如果上尉所说属实，她也一定是他们中的一员。她可能知道在哪里能找到他们。</string>
       <string id="INT_CAPTAIN_DESC">毫无疑问这就是斯基德上尉了。他失去了意识，但是仍然有呼吸。</string>
       <string id="CAPTAIN_TEXT_01_00">跟我想的一样，你一无所知。杜普雷不是一个人在搞事，但他是金字塔的顶端。那是一个各种有权有势的人参与的规模庞大的组织。</string>
       <string id="CAPTAIN_TEXT_01_01">那是一个暗中活动的团体，只信奉一条神圣不可侵的法则：“去看无人所知之物”。</string>
@@ -870,7 +870,7 @@ Dane Tippman</string>
       <string id="INSPECT_STARINGPATIENT_NO_RESPONSE">她似乎没注意到我。</string>
       <string comment="Question 1" id="DLG_01_01">女士？如果我坚持问……您住在这里很久了吗？</string>
       <string comment="Answer 1" id="DLG_01_02">……轰隆隆……</string>
-      <string id="DLG_02_01">空荷太太非常不安，请别再刺激她了。</string>
+      <string id="DLG_02_01">空荷小姐非常不安，请别再刺激她了。</string>
       <string id="STARINGPATIENT_ALEXANDRE">听到杜普雷先生的名字后反应如此剧烈……至少，她一定见过他，我怎样才能让她告诉我呢？</string>
       <string id="INT_PATIENT_BEINGCALM">护工试着让她冷静下来。</string>
       <string id="PATIENT_DRAGGED_TEXT">女士，你这次该去收容所了！我们走！</string>
@@ -889,8 +889,8 @@ Dane Tippman</string>
       <string id="DLG_SOLDIER_09">我在找一位之前住在这里的病人，您见过他吗？他的名字是亚历山大·杜普雷。</string>
       <string id="DLG_SOLDIER_10">嗯，我认识一个叫那名字的人，我们曾经短暂地见过一面。我来的时候，他已经在这里了。</string>
       <string id="DLG_SOLDIER_11">关于他，您知道些什么？</string>
-      <string id="DLG_SOLDIER_12">他是个好小伙子，很有教养。他喜欢聆听其他病人的故事，但却不讲自己的故事。我们当时谈了很多。说起来，空荷太太跟他走得很近，他们好像是同期来到这里的，但是后来亚历山大走的时候却是自己走的。不知道他后来怎样了。</string>
-      <string id="DLG_SOLDIER_13">空荷太太是谁？</string>
+      <string id="DLG_SOLDIER_12">他是个好小伙子，很有教养。他喜欢聆听其他病人的故事，但却不讲自己的故事。我们当时谈了很多。说起来，空荷小姐跟他走得很近，他们好像是同期来到这里的，但是后来亚历山大走的时候却是自己走的。不知道他后来怎样了。</string>
+      <string id="DLG_SOLDIER_13">空荷小姐是谁？</string>
       <string id="DLG_SOLDIER_14">她也是这里的病人，一个暴脾气的女士，你可能已经见过她了。自从杜普雷先生走了后，她就像变了个人似的，总独自一人默不作声地坐在一边。就算你想跟她讲话，估计她也不会搭理你。她……总似乎在盯着什么东西看，或者至少她觉得她在盯着什么东西看。</string>
       <string id="DLG_SOLDIER_15">您和杜普雷先生之前谈了些什么？</string>
       <string id="DLG_SOLDIER_16">我们聊了我在南非打仗时的故事，我本来不想说那些的，但是不知怎的，想说给他听。他是一个很会说服别人的人。</string>
@@ -910,7 +910,7 @@ Dane Tippman</string>
       <string id="DLG_SOLDIER_30">请让我一个人待会儿。战争的回忆充满了伤痛，我真的不愿再回想了。</string>
       <string id="DLG_07_44_00">为什么他们把您关在这里？</string>
       <string id="DLG_07_44_01">关于他，您知道些什么？</string>
-      <string id="DLG_07_44_02">空荷太太是谁？</string>
+      <string id="DLG_07_44_02">空荷小姐是谁？</string>
       <string id="DLG_07_44_03">您和杜普雷先生之前谈了些什么？</string>
       <string comment="Choice 1" id="DLG_17_08_00">有没有在这里工作时间更久的人？</string>
       <string comment="Choice 2" id="DLG_17_08_01">这么大的医院里居然只有这么几个病人。</string>
@@ -918,7 +918,7 @@ Dane Tippman</string>
       <string id="DLG_17_08_03">您忙吧，我不打扰了。</string>
       <string id="DLG_17_15">好吧，除了隔离病房的那些人，确实现在没有多少病人。但实际上护工更少，整个医院才三个人。我听说，以前这里的收入很不错，应有尽有：充足的员工、适合病人的住处、最好的医生。但随着这一带建起了更新、更大的精神病院后，皇室对东丘逐步撤资。人们一个个离开，只剩下这些了。</string>
       <string comment="Q 1" id="DLG_17_11">或许您有其他在这里工作更久的同事认识这位病人？</string>
-      <string id="DLG_17_16">你是说空荷太太吗？她在这里很久了，我来的时候她就已经在了。她有些莫名的精神紧张，但医生们也不再检查具体原因是什么。她对某些东西很痴迷，像是古代的文化。</string>
+      <string id="DLG_17_16">你是说空荷小姐吗？她在这里很久了，我来的时候她就已经在了。她有些莫名的精神紧张，但医生们也不再检查具体原因是什么。她对某些东西很痴迷，像是古代的文化。</string>
       <string id="DLG_17_12">好吧，你可以问问李斯威尔小姐，她就在大厅。她在这儿好几年了，也许更久。你知道我们护工得跟病人一起住在这里，又不能出去。所以如果要是不小心点儿，可能对自己也不太好。反正我是跟这些疯子们尽量保持距离，越远越好……</string>
       <string id="DLG_17_14">这位病人对我的问题反应很大，她到底怎么了？</string>
       <string id="DLG_17_13">这医院真大，但我注意到好像附近没有几个病人。</string>
@@ -1226,7 +1226,7 @@ Dane Tippman</string>
       <string id="DLG_HOUSEKEEPER_BY_6">早上好，欧克伍德太太，您不记得我了吗？</string>
       <string id="DLG_HOUSEKEEPER_BY_7">天啊，考夫曼医生！好久不见，都认不出你来了。能再见到你真高兴。</string>
       <string id="DLG_HOUSEKEEPER_BY_8">允许我介绍一下，这位是我的同事，约翰·威克菲尔德医生。教授在家吗？我们想要见他。</string>
-      <string id="DLG_HOUSEKEEPER_BY_9">哦，是的，医生，他当然在。我带你去见他，你能来真是太好 了，自从他变成那个样子后，最近都没什么人来串门。</string>
+      <string id="DLG_HOUSEKEEPER_BY_9">哦，是的，医生，他当然在。我带你去见他，你能来真是太好了，自从他变成那个样子后，最近都没什么人来串门。</string>
       <string id="ROOT1_INSPECT">这棵橡树看起来很古老，可能经这幢房子还要老。</string>
       <string id="ROOT2_INSPECT">看起来有什么东西被藏在盘根错节的树根之下。</string>
       <string id="ROOT2_REACT">另一个笔记，还有一把钥匙，放在一起。</string>
@@ -1239,8 +1239,6 @@ Dane Tippman</string>
       <string id="NOMOREMATCHES">火柴用尽了。</string>
       <string id="DECO_BA_FORNITURE">老式家具被丢在这里，兀自腐朽。 </string>
       <string id="AIR_STREAM_THINK">这里伸手不见五指。我感觉到前边有一丝丝冷风吹过来。</string>
-    </bundle>
-    <bundle id="ep6_bathroom">
       <string id="MIRROR1_INSPECT">我看向镜子中的自己，发现映出的我被奇怪地扭曲了。</string>
       <string id="MIRROR2_INSPECT">有趣，即使蒸汽退去，文字还在镜子上。</string>
       <string id="PLH_MIRROR_HOTTEAPOT">茶壶中升腾的蒸汽使镜子上隐藏的文字浮现了出来。</string>
@@ -1788,7 +1786,7 @@ Dane Tippman</string>
     </bundle>
     <bundle id="ep6_inventory">
       <string id="INV_REDKEY_DESC">生锈的铁钥匙，涂成了鲜艳的红色。</string>
-      <string id="INV_LENS">透镜</string>
+      <string id="INV_LENS">调查</string>
       <string id="INV_TINSOLDIER_DESC">英国军队配色的锡兵。作为一个小模型，做工过于精致。似乎是某次军事战役的纪念品。</string>
       <string id="INV_ATTICKEY_DESC">褪色的金钥匙。</string>
       <string id="CLUE1">那些探寻世界的智慧须先认识到自我的愚蠢。在一腔热情的热力中映出自己的身影，发现那逻辑的冷眼无法看到之物。</string>
@@ -1873,7 +1871,7 @@ Dane Tippman</string>
     <bundle id="ep6_kitchen">
       <string id="COLDTEAPOT_REACT">它装满了冷水。</string>
       <string id="COLDTEAPOT_INSPECT">一个老旧的茶壶。</string>
-      <string id="COOKER_INSPECT">一个铸了铁的柴灶。/string>
+      <string id="COOKER_INSPECT">一个铸了铁的柴灶。</string>
       <string id="KITCHEN_BASEMENT_LOCKED">门紧锁着，有一个小标牌上面写着“地下室”。</string>
       <string id="MATCHES_INSPECT">装有香料和腌制食物折玻璃瓶，旁边还有一盒火柴。
 </string>
@@ -1907,8 +1905,8 @@ Dane Tippman</string>
       <string id="FT_TEXT4">一种无法描述的声音。</string>
       <string id="DLG_HIDEOUT_5">窗户都会木板钉上了，看起来她好像在阻止什么人进来。</string>
       <string id="DLG_HIDEOUT_CLUE1_7">或者阻止什么东西出去……</string>
-      <string id="DLG_HIDEOUT_CLUE2_1">粉笔，旁边的地板上匆忙地画了一个圆圈。</string>
-      <string id="DLG_HIDEOUT_CLUE2_3">她似乎认为，这样就可以阻止她觉得即将发生的事情。但是她错了……</string>
+      <string id="DLG_HIDEOUT_CLUE2_1">地上有根粉笔，旁边的地板上用粉笔匆忙地画了一个圆圈。</string>
+      <string id="DLG_HIDEOUT_CLUE2_3">她似乎觉得，这样就可以阻止她认为即将发生的事情。但是她错了……</string>
       <string id="DLG_HIDEOUT_CLUE3_1">这是……灰烬。</string>
       <string id="DLG_HIDEOUT_CLUE3_3">……</string>
       <string id="DLG_HIDEOUT_FINAL_1">我不明白到底发生了什么？</string>
@@ -1916,7 +1914,7 @@ Dane Tippman</string>
       <string id="DLG_HIDEOUT_INIT_1">什……</string>
       <string id="DLG_HIDEOUT_INIT_2">……</string>
       <string id="DLG_HIDEOUT_INIT_3">这里刚刚发生了什么？</string>
-      <string id="DLG_HIDEOUT_INIT_4">空荷太太呢？</string>
+      <string id="DLG_HIDEOUT_INIT_4">空荷小姐呢？</string>
       <string id="DLG_HIDEOUT_INIT_5">我们太迟了。</string>
     </bundle>
     <bundle id="ep6_library">
@@ -2134,7 +2132,7 @@ Dane Tippman</string>
       <string id="DLG_DRUNK_2">让我安静地喝会儿酒……</string>
       <string id="DLG_DRUNK_3">您是一位船长吗？</string>
       <string id="DLG_DRUNK_4">哎，是不是跟你又有什么关系？我看起来像船长吗？</string>
-      <string id="DLG_DRUNK_6">因为您戴着那样的帽子。/string>
+      <string id="DLG_DRUNK_6">因为您戴着那样的帽子。</string>
       <string id="DLG_DRUNK_6_CH">您的帽子</string>
       <string id="DLG_WAITRESS_4">教堂？我给你些建议吧，向酒吧女待搭话时，一般不应该问教堂几点开门。这个酒吧就是我的教堂，大部分镇民也是这么觉得的，所以我们最近都在这里祈祷。</string>
       <string id="DLG_WAITRESS_5">你要来一杯吗？</string>
@@ -2343,13 +2341,13 @@ Dane Tippman</string>
       <string id="UPCCORRIDOR_ATTIC_LOCKED">锁了，门上有标牌写着“阁楼”。</string>
       <string id="UPCORRIDOR_CLOSEDROOM_LOCKED">很特别的门，漆成了红色，上面刻着复杂的图案。这门关着并且锁上了。</string>
       <string id="UPCORRIDOR_GUESTROOM_LOCKED">打不开。</string>
-      <string id="DECO_UP_PICTURE1">纸上的写着东西，是一种我看不懂的语言。</string>
+      <string id="DECO_UP_PICTURE1">这幅画上用一种我看不懂的语言写着什么东西。</string>
       <string id="DECO_UP_PICTURE2">一幅油画。画着朦胧的中世纪场景。</string>
       <string id="UPCORRIDOR_BEDROOM_LOCKED">门用钥匙锁上了。</string>
       <string id="BETASLOT_DECO_PICTURE1">傍晚时分的大海的画。海滩上有一个黑色的人形，但它的脸被斗蓬遮住了。
 </string>
       <string id="BETASLOT_DECO_PICTURE2">画里是一座古旧的塔。长刺的藤蔓从入口伸出，蜿蜒盘桓，将一切封锁住。画面栩栩如生，盯着看久了会觉得它像活了一样。</string>
-      <string id="BETASLOT_DECO_LAMP">灯发出柔和的光，提供了一股暖意。</string>
+      <string id="BETASLOT_DECO_LAMP">灯发出柔和的光，提供了一丝暖意。</string>
       <string id="SECRET_ROOM_APPEARS">走廊的尽头出现了一个秘密的通道！</string>
     </bundle>
     <bundle id="ep6_window">
