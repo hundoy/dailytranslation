@@ -65,7 +65,7 @@
   </episode>
   <episode id="EP5">
     <bundle id="ep5_archive">
-      <string id="LOCKER_INSPECT">一个金属保险柜，上面的小标牌写着：查获的东西</string>
+      <string id="LOCKER_INSPECT">一个金属保险柜，上面的小标牌写着：没收的东西</string>
       <string id="LOCKER_INSPECT2">没什么有用的了。</string>
       <string id="DESK">已经很久没人用过的桌子，上面放着凌乱的纸和笔，并覆着厚厚一层灰。</string>
       <string id="CABINET">我看看……嗯，这个柜子中所有的文件都是1870年以前的，我需要再晚一些的。</string>
@@ -1188,7 +1188,7 @@ Dane Tippman</string>
       <string id="DLG_HOUSEKEEPER_BY_18">这是他们家族的遗传病，莱特教授的父亲和祖父也都有这病。</string>
       <string id="DLG_HOUSEKEEPER_BY_19">莱特教授提到了他童年时代的一个故事，他把它叫做“旅行的故事”。您知道那是指什么吗？</string>
       <string id="DLG_HOUSEKEEPER_BY_19_CH">莱特教授提到了一个故事……</string>
-      <string id="DLG_HOUSEKEEPER_BY_20">哦，当然知道，他经常让我给他讲这个故事。你可以在图书室的一本书上找到它。</string>
+      <string id="DLG_HOUSEKEEPER_BY_20">哦，当然知道，他经常让我给他讲这个故事。你可以在书房的一本书上找到它。</string>
       <string id="DLG_HOUSEKEEPER_BY_21">教授是不是很喜欢解谜？</string>
       <string id="DLG_HOUSEKEEPER_BY_21_CH">教授喜欢解谜吗？</string>
       <string id="DLG_HOUSEKEEPER_BY_22">是的，确实如此。他对动脑子的游戏非常狂热，在他身体还好的时候，每月都举办解谜的主题晚会。</string>
@@ -1198,12 +1198,12 @@ Dane Tippman</string>
       <string id="DLG_HOUSEKEEPER_BY_25">没什么，您忙吧，谢谢您的帮助。</string>
       <string id="DLG_HOUSEKEEPER_BY_25_CH">我得走了。</string>
       <string id="DLG_HOUSEKEEPER_BY_26">祝您一天愉快，威克菲尔德医生。</string>
-      <string id="DLG_HOUSEKEEPER_BY_29">那个莱特教授家族代代相传的遗传病，您知道它有什么样的症状吗？</string>
+      <string id="DLG_HOUSEKEEPER_BY_29">莱特教授家族代代相传的遗传病，您知道这病有什么样的症状吗？</string>
       <string id="DLG_HOUSEKEEPER_BY_29_CH">遗传病的症状是什么？</string>
       <string id="DLG_HOUSEKEEPER_BY_30">哦，关于这个，内科医生说了一大堆，我可讲不上来。 </string>
       <string id="DLG_HOUSEKEEPER_BY_31">总之真的非常可怕。尤其是啊，最近几年，莱特教授知道自己将会变成现在这样。……愿上帝怜悯这可怜的灵魂。
 </string>
-      <string id="DLG_HOUSEKEEPER_BY_32">虽然我不清楚这病的具体症状，但我能跟你讲讲我看到的。最近四十年的事情，莱特教授一件都记不起来了。 </string>
+      <string id="DLG_HOUSEKEEPER_BY_32">虽然我不清楚这病的具体症状，但我能跟你讲讲我知道的。比如，最近四十年的事情，莱特教授一件都记不起来了。 </string>
       <string id="DLG_HOUSEKEEPER_BY_33">他变得好像一个孩子，这一定是上帝的慈悲，因为这样至少教授不会再感觉到痛苦。</string>
       <string id="DLG_HOUSEKEEPEr_BY_34">很容易就能找到的，医生。那本书很大，封面五颜六色的。</string>
       <string id="DLG_HOUSEKEEPER_BY_35">他在房子各处布置各种各样的谜题，哦，你可以想象一下，那些绅士和女士们循着教授提供的线索，满屋子地探索，一玩就是一晚上……</string>
@@ -1221,13 +1221,13 @@ Dane Tippman</string>
       <string id="DLG_HOUSEKEEPER_BY_47">是啊，确实如此！他长时间热衷于你能想象到的各种头脑游戏。</string>
       <string id="DLG_HOUSEKEEPER_BY_48">天气好的时候，他每隔一个月都会办一次解谜主题晚会，他还曾经说过“哦，真是太有趣了”。</string>
       <string id="DLG_HOUSEKEEPER_BY_49">感觉那是很久以前的事情了。</string>
-      <string id="DLG_HOUSEKEEPER_BY_5">唉？那是谁？</string>
-      <string id="DLG_HOUSEKEEPER_BY_50">那本书应该就在图书室。</string>
+      <string id="DLG_HOUSEKEEPER_BY_5">诶？是谁？</string>
+      <string id="DLG_HOUSEKEEPER_BY_50">那本书应该就在书房。</string>
       <string id="DLG_HOUSEKEEPER_BY_6">早上好，欧克伍德太太，您不记得我了吗？</string>
       <string id="DLG_HOUSEKEEPER_BY_7">天啊，考夫曼医生！好久不见，都认不出你来了。能再见到你真高兴。</string>
       <string id="DLG_HOUSEKEEPER_BY_8">允许我介绍一下，这位是我的同事，约翰·威克菲尔德医生。教授在家吗？我们想要见他。</string>
       <string id="DLG_HOUSEKEEPER_BY_9">哦，是的，医生，他当然在。我带你去见他，你能来真是太好了，自从他变成那个样子后，最近都没什么人来串门。</string>
-      <string id="ROOT1_INSPECT">这棵橡树看起来很古老，可能经这幢房子还要老。</string>
+      <string id="ROOT1_INSPECT">这棵橡树看起来很古老，可能比这幢房子还要老。</string>
       <string id="ROOT2_INSPECT">看起来有什么东西被藏在盘根错节的树根之下。</string>
       <string id="ROOT2_REACT">另一个笔记，还有一把钥匙，放在一起。</string>
       <string id="ROOT3_INSPECT">只是一些小植物，因为清晨的霜凋零了。</string>
@@ -1239,14 +1239,14 @@ Dane Tippman</string>
       <string id="NOMOREMATCHES">火柴用尽了。</string>
       <string id="DECO_BA_FORNITURE">老式家具被丢在这里，兀自腐朽。 </string>
       <string id="AIR_STREAM_THINK">这里伸手不见五指。我感觉到前边有一丝丝冷风吹过来。</string>
-      <string id="MIRROR1_INSPECT">我看向镜子中的自己，发现映出的我被奇怪地扭曲了。</string>
+      <string id="MIRROR1_INSPECT">我看向镜子，镜中的自己被奇怪地扭曲了。</string>
       <string id="MIRROR2_INSPECT">有趣，即使蒸汽退去，文字还在镜子上。</string>
       <string id="PLH_MIRROR_HOTTEAPOT">茶壶中升腾的蒸汽使镜子上隐藏的文字浮现了出来。</string>
       <string id="MIRROR_MESSAGE_DISCOVERED">"在一腔热情的热力中映出自己的身影……发现那逻辑的冷眼无法看到之物……"。茶壶中的蒸汽使隐藏的文字浮现了出来！</string>
       <string id="DECO_BA_PIPE">镀了金的管道，从地板伸出来，通到天花板。</string>
-      <string id="DECO_BA_HEATER">常见的电暖气。</string>
+      <string id="DECO_BA_HEATER">常见的暖气。</string>
       <string id="CLUE1_INSPECT">谜题说“映出自己的身影”“逻辑的冷眼无法看到”，是不是指在这儿某处有什么看不到的东西？</string>
-      <string id="BETASLOT_BA_BATH">一个大瓷浴缸，四个黑色的铁脚支撑着它的重量。一层薄薄的水珠挂在它的内壁上，看起来最近使用过。</string>
+      <string id="BETASLOT_BA_BATH">一个瓷制的大浴缸，四个黑色的铁脚支撑着它的重量。一层薄薄的水珠挂在它的内壁上，看起来最近使用过。</string>
       <string id="COLDTEAPOT_MIRROR_REACT">壶中的水不够热。</string>
     </bundle>
     <bundle id="ep6_bedroom">
@@ -1260,7 +1260,7 @@ Dane Tippman</string>
       <string id="DLG_BEDROOM_CTS7">是我啊，教授，乔安·考夫曼。</string>
       <string id="DLG_MENTOR_SOLDIER_2">您认得这个吗，莱特教授？</string>
       <string id="DLG_MENTOR_DEFAULT_1">莱特教授？</string>
-      <string id="DLG_MENTOR_DEFAULT_2">神父？为什么你必须花这么长的时间？</string>
+      <string id="DLG_MENTOR_DEFAULT_2">神父？为什么你要花这么久？</string>
       <string id="DLG_BEDROOM_CTS17">神父在哪？他被带到哪里去了？</string>
       <string id="DLG_BEDROOM_CTS18">……</string>
       <string id="DECO_BE_WARDROBE">一个雕花的大衣橱。</string>
@@ -1276,7 +1276,7 @@ Dane Tippman</string>
       <string id="DLG_BEDROOM_CTS29">也许能让他想起些什么……</string>
       <string id="DLG_BEDROOM_CTS30">或许我们能让他想起什么……</string>
       <string id="DLG_KAUFFMAN_BR_24">我们必须想一个办法，让教授恢复记忆。</string>
-      <string id="DLG_KAUFFMAN_BR_25">你不妨去找找有没有什么东西对教授来说很有纪念意义。</string>
+      <string id="DLG_KAUFFMAN_BR_25">你不妨去找找看，有没有什么东西对教授来说很有纪念意义。</string>
       <string id="DLG_KAUFFMAN_BR_28">与此同时，我会跟他聊聊我们当年一起做研究时的往事。</string>
       <string id="DLG_KAUFMANN_TIN_SOLDIER_1">这个小锡兵似乎是用来纪念一次战役的胜利，它也许可以唤起到教授的记忆。</string>
       <string id="DLG_KAUFMANN_TIN_SOLDIER_2">没错，这可能有用，我的朋友。你不妨试着拿给他看看。</string>
@@ -1284,7 +1284,7 @@ Dane Tippman</string>
       <string id="DLG_MENTOR_SOLDIER_6">唐宁中士被派到了前线，回来的不是唐宁中士。</string>
       <string id="DLG_MENTOR_SOLDIER_7">它藏得很好，藏起来，但是他会找到它……我确信。</string>
       <string id="DLG_MENTOR_SOLDIER_8">您的访客？那是什么意思，教授？</string>
-      <string id="DLG_MENTOR_SOLDIER_9">我最亲爱的访客，他会知道看什么地方。哦，what a time we will have!</string>
+      <string id="DLG_MENTOR_SOLDIER_9">我最亲爱的访客，他会知道看什么地方。哦，我们一起度过了快乐的时光！</string>
       <string id="DLG_MENTOR_SOLDIER_10">他将会看到地图，他也将知道旅行之书。</string>
       <string id="DLG_MENTOR_SOLDIER_11">旅行之书？</string>
       <string id="DLG_MENTOR_SOLDIER_12">是的，是的，他会解开的。谜题不简单，但他一定能找到奖品的。一定。</string>
@@ -1293,8 +1293,8 @@ Dane Tippman</string>
       <string id="DLG_MENTOR_SOLDIER_14">有什么宝贵的东西被藏了起来……难道他在神志不清的状态下，把他研究的一部分给藏了起来？</string>
       <string id="DLG_MENTOR_SOLDIER_15">嗯，他一向是一个骄傲的人，不会轻易忘记自己呕心沥血的研究，至少那种对至关重要之物的感觉会保留下来。在精神错乱之中，他把什么东西藏了起来，等着他所谓的那个“最亲爱的访客”来找到它。</string>
       <string id="DLG_MENTOR_SOLDIER_20">你可以去探索一下宅邸，说不定会发现什么跟他刚说的那些话有关。</string>
-      <string id="DLG_MENTOR_SOLDIER_21">与此同时，我会尽量跟他们说说话，说不定能让他恢复记忆……</string>
-      <string id="DLG_KAUFFMAN_BR_31">教授刚提到的地图和一个叫“旅行之书”的东西。</string>
+      <string id="DLG_MENTOR_SOLDIER_21">与此同时，我会尽量跟他说说话，说不定能让他恢复记忆……</string>
+      <string id="DLG_KAUFFMAN_BR_31">教授刚提到了地图和一个叫“旅行之书”的东西。</string>
       <string id="DLG_KAUFFMAN_BR_32">那是什么意思？</string>
       <string id="DLG_KAUFFMAN_BR_34">那是什么意思？</string>
       <string id="DLG_MENTOR_DEFAULT_10">我深信不疑。</string>
@@ -1310,7 +1310,7 @@ Dane Tippman</string>
       <string id="BIRDS_REACT_TEXT">《鸟之书》，一本鸟的图鉴集，一些文字被画了标记。</string>
       <string id="CTS_BEDROOM_HYPNOSIS">莱特教授不在这里。</string>
       <string id="DECO_BE_HYP_WINDOW2">外面还在下着雪。</string>
-      <string id="DECO_BE_WINDOW1">外面还在下雪，雪花缓慢、悄无声息。</string>
+      <string id="DECO_BE_WINDOW1">外面还在下雪，雪花缓慢飘落，悄无声息。</string>
       <string id="DECO_BE_WINDOW2">莱特教授死死地盯着窗户看，仿佛在等待着什么人。</string>
       <string id="DLG_MENTOR_SOLDIER_23">会不会跟我找到的信有关？</string>
       <string id="DLG_MENTOR_SOLDIER_24">确实有可能，我的朋友。只能解开谜题了。</string>
@@ -1321,7 +1321,7 @@ Dane Tippman</string>
       <string id="KAUFFMAN_TO_MENTOR_FT2">还记得那些日子吗？我们彻夜搞研究。</string>
       <string id="KAUFFMAN_TO_MENTOR_FT3">求求你，教授，
 跟我说说话。</string>
-      <string id="DLG_BEDROOM_CTS20">你们俩跟教授好好聊吧，虽然他现在很难长时间聊一个话题，但跟老朋友说说话总是有好处。</string>
+      <string id="DLG_BEDROOM_CTS20">你们俩跟教授好好聊吧，虽然他现在很难长时间聊一个话题，但跟老朋友说说话总是有好处的。</string>
     </bundle>
     <bundle id="ep6_birdsRoom">
       <string id="BROKENBUST_INSPECT">我们祖先早已洞悉的真实，渐渐在缄默中回归未知……</string>
@@ -1525,7 +1525,7 @@ Dane Tippman</string>
       <string id="SEE_LADDER">谢天谢地！一架梯子！</string>
     </bundle>
     <bundle id="ep6_downCorridor">
-      <string id="DECO_PIPE">镀金的管道。从房间走廊的末端通向楼梯上方。</string>
+      <string id="DECO_PIPE">镀金的管道。从走廊一边的墙通往楼上。</string>
       <string id="DECO_DO_PICTURE">海的风景画。</string>
       <string id="WCMB_BASEMENTKEY_SERVANTROOM">钥匙不对。</string>
       <string id="WCMB_REDKEY_SERVANTROOM">钥匙不对。
@@ -1536,15 +1536,15 @@ Dane Tippman</string>
       <string id="DOOR_LOCKED">锁上了。</string>
     </bundle>
     <bundle id="ep6_frontyard">
-      <string id="LOOSE_BRICK_INSPECT">墙上有一个奇怪的装饰，我觉得可以移动它。</string>
-      <string id="LION_STATUE1_INSPECT">凶猛的狮子，但是被海岸这里厉害的气候毁得不轻。</string>
+      <string id="LOOSE_BRICK_INSPECT">墙上有一个奇怪的装饰物，好像可以动。</string>
+      <string id="LION_STATUE1_INSPECT">凶猛的狮子，但是被海滨城市这里严重的湿气毁得不轻。</string>
       <string id="LION_STATUE2_INSPECT">“只有进入了原初恐惧的血盆大口之中，……”</string>
       <string id="LION_STATUE2_REACT">狮子的嘴里藏了什么东西，是一个拉杆……</string>
       <string id="LION_STATUE2_REACT2">我认为刚才触发了大屋的某个机关，有一种谜题已经接近尾声的感觉。</string>
       <string id="LION_STATUE3_INSPECT">狮子的身体和脸都严重磨损，但牙齿却保持着尖利的样子。</string>
       <string id="FRONTYARD_HALL_LOCKED">大门从内侧关闭了。</string>
       <string id="DLG_FRONTYARD_CTS_1">我怀疑他是不是现在出门了，或者是没听到大门这里的声音。我们试试从后门进去吧。</string>
-      <string id="DECO_FR_LIONBROKEN">凶猛的狮子，但是被海岸这里厉害的气候毁得不轻。它的头丢了。</string>
+      <string id="DECO_FR_LIONBROKEN">凶猛的狮子，但是被海滨城市这里严重的湿气毁得不轻。它的头丢了。</string>
       <string id="LION_ITEMS_FOUND">我认为刚才触发了大屋的某个机关，这还有一张纸条。</string>
       <string id="LAST_CLUE">"……最终才能知道何为真实。"</string>
       <string id="LAST_CLUE_ADDED">这是谜题的最后一部分吗？</string>
@@ -1872,21 +1872,21 @@ Dane Tippman</string>
       <string id="COLDTEAPOT_REACT">它装满了冷水。</string>
       <string id="COLDTEAPOT_INSPECT">一个老旧的茶壶。</string>
       <string id="COOKER_INSPECT">一个铸了铁的柴灶。</string>
-      <string id="KITCHEN_BASEMENT_LOCKED">门紧锁着，有一个小标牌上面写着“地下室”。</string>
-      <string id="MATCHES_INSPECT">装有香料和腌制食物折玻璃瓶，旁边还有一盒火柴。
+      <string id="KITCHEN_BASEMENT_LOCKED">门紧锁着，门上有一个小标牌，上面写着“地下室”。</string>
+      <string id="MATCHES_INSPECT">装有香料和腌制食物的玻璃瓶，旁边还有一盒火柴。
 </string>
       <string id="MATCHES_REACT">我之后可能会用到这火柴。</string>
       <string id="DECO_KI_OVEN">一个烤面包炉。</string>
       <string id="DECO_LI_FORNITURE">各种调料。
 </string>
-      <string id="DECO_LI_FORNITURE2">装有香料和腌制食物折玻璃瓶。</string>
+      <string id="DECO_LI_FORNITURE2">装有香料和腌制食物的玻璃瓶。</string>
       <string id="DLG_HOUSEKEEPER_KI_1">欧克伍德太太？
 </string>
-      <string id="MATCHES2_INSPECT">装有香料和腌制食物折玻璃瓶。</string>
+      <string id="MATCHES2_INSPECT">装有香料和腌制食物的玻璃瓶。</string>
       <string id="KITCHEN_ALREADY_LIGHTED">火已经点燃了。</string>
       <string id="TEAPOT_COOKER_NOT_LIGHTED">如果我想烧开水，需要先给柴灶点火。柴灶里已经有木柴了。
 </string>
-      <string id="DECO_KI_PIPE">镀金的管道。从房间走廊的末端通向楼梯上方。</string>
+      <string id="DECO_KI_PIPE">镀金的管道。从走廊一边的墙通往楼上。</string>
       <string id="TNK_TEAPOT_DURATION">水很快就会冷掉的。</string>
       <string id="WCMB_BIRDSKEY_BASEMENT">钥匙不对。
 </string>
@@ -1894,7 +1894,7 @@ Dane Tippman</string>
 </string>
       <string id="WCMB_REDKEY_BASEMENT">钥匙不对。
 </string>
-      <string id="DECO_PIPE">镀金的管道。从房间走廊的末端通向楼梯上方。</string>
+      <string id="DECO_PIPE">镀金的管道。从走廊一边的墙通往楼上。</string>
       <string id="THINK_PRE_CLOSED_ROOM_DIARY">如果我们不能进莱特教授在日志中提到的隧道，要怎么才能找到他缺失的那部分研究呢？我得跟考夫曼讨论一下。
 </string>
     </bundle>
@@ -1903,7 +1903,7 @@ Dane Tippman</string>
       <string id="FT_TEXT2">我们听到了一大群鸟的叫声。</string>
       <string id="FT_TEXT3">但在它们的声音之上，还听到了另一个声音。</string>
       <string id="FT_TEXT4">一种无法描述的声音。</string>
-      <string id="DLG_HIDEOUT_5">窗户都会木板钉上了，看起来她好像在阻止什么人进来。</string>
+      <string id="DLG_HIDEOUT_5">窗户都被木板钉上了，看起来她好像想阻止什么人进来。</string>
       <string id="DLG_HIDEOUT_CLUE1_7">或者阻止什么东西出去……</string>
       <string id="DLG_HIDEOUT_CLUE2_1">地上有根粉笔，旁边的地板上用粉笔匆忙地画了一个圆圈。</string>
       <string id="DLG_HIDEOUT_CLUE2_3">她似乎觉得，这样就可以阻止她认为即将发生的事情。但是她错了……</string>
@@ -1921,8 +1921,8 @@ Dane Tippman</string>
       <string id="TINSOLDIER_REACT">这对莱特教授有什么特殊的意义吗？或许可以帮助他恢复记忆。</string>
       <string id="TINSOLDIER_INSPECT">一个锡兵，涂装看起来像是手绘的。用来纪念一些我没听说过的战役。</string>
       <string id="LIBRARY1_INSPECT">莱特教授不拘一格的藏书：从老式的冒险小说到关于神秘学的论文，应有尽有。其中有一些的标题看起来应该是皇室禁止发行的书。</string>
-      <string id="LIBRARY2_INSPECT">有一套磨损严重的书，是插图版的《马可·波罗游记》。或许莱特教授之前说的“旅行之书”其实就是指这个。</string>
-      <string id="LIBRARY_BIRDSROOM_LOCKED">锁上了，能听到鸟的吵闹声从另一边传来。</string>
+      <string id="LIBRARY2_INSPECT">有一套磨损严重的书，是插图版的《马可·波罗游记》。或许莱特教授之前说的“旅行之书”就是指这个。</string>
+      <string id="LIBRARY_BIRDSROOM_LOCKED">锁上了，能听到另一边有鸟的吵闹声。</string>
       <string id="GLOBE2_INSPECT">只是一个空空的暗格，四壁和底部都铺上了黑色的天鹅绒。</string>
       <string id="GLOBE_REACT">有一封被封住的信在里面。</string>
       <string id="GLOBE_INSPECT">地球仪表面之下有一个隐藏的暗格。</string>
@@ -1931,9 +1931,9 @@ Dane Tippman</string>
       <string id="LIBRARY2_INSPECT_2">其中一页上有一个记号。</string>
       <string id="LIBRARY_CLUE_2">但事与愿违，在我们穿过的领土内，国王发兵，与大可汗征战。我们被迫回到原路，永不驻足那血腥的大陆。还好若一路向南，数英里外有个港湾，那里有船。</string>
       <string id="LIBRARY_CLUE_3">航海之旅非常短暂，强大的南风掀了我们的帆。到达东边的海岬，在那儿靠岸。我们背向大海，一路向前，最终抵达家园。</string>
-      <string id="DECO_LI_FIREPLACE">火猛烈地燃烧起来，使整个房间的空气都变得厚重了起来。
+      <string id="DECO_LI_FIREPLACE">火烧得很旺，整个房间的空气都变得厚重了起来。
 </string>
-      <string id="DECO_LI_PICTURE">这一带的悬崖的画。</string>
+      <string id="DECO_LI_PICTURE">附近悬崖的画。</string>
       <string id="FIRST_VISIT_GLOBE">一个地球仪。表面的板块做的非常精细，但陆地的形状很奇怪，看起来这一定是某个小说中或者是史前时代的地图。</string>
       <string id="GLOBE_JUST_OPEN">似乎我触了隐藏的机关，地球仪中的暗格打开了。</string>
       <string id="FRONTYARD_DOOR_OPENS">门已经打开了……</string>
@@ -2329,7 +2329,7 @@ Dane Tippman</string>
 </string>
       <string id="DLG_TRAIN_16">无论怎样，空荷小姐的命运一定与之相关，但可惜我在这个领域的知识还不够。</string>
       <string id="DLG_TRAIN_17">我们必须去拜访我的一位老友，我本以为再也不会见到他了。</string>
-      <string id="DLG_TRAIN_18">他是把我带入神秘学这一科学领域的人。</string>
+      <string id="DLG_TRAIN_18">他就是把我领入神秘学这一科学领域的人。</string>
       <string id="DLG_TRAIN_19">我的导师，亚当·莱特教授。</string>
     </bundle>
     <bundle id="ep6_tunnel">
@@ -2338,7 +2338,7 @@ Dane Tippman</string>
       <string id="NOTE_CONTENT">不论你在下面发现什么，别停下。</string>
     </bundle>
     <bundle id="ep6_upCorridor">
-      <string id="UPCCORRIDOR_ATTIC_LOCKED">锁了，门上有标牌写着“阁楼”。</string>
+      <string id="UPCCORRIDOR_ATTIC_LOCKED">锁上了，门上有一个标牌，上面写着“阁楼”。</string>
       <string id="UPCORRIDOR_CLOSEDROOM_LOCKED">很特别的门，漆成了红色，上面刻着复杂的图案。这门关着并且锁上了。</string>
       <string id="UPCORRIDOR_GUESTROOM_LOCKED">打不开。</string>
       <string id="DECO_UP_PICTURE1">这幅画上用一种我看不懂的语言写着什么东西。</string>
@@ -2346,8 +2346,8 @@ Dane Tippman</string>
       <string id="UPCORRIDOR_BEDROOM_LOCKED">门用钥匙锁上了。</string>
       <string id="BETASLOT_DECO_PICTURE1">傍晚时分的大海的画。海滩上有一个黑色的人形，但它的脸被斗蓬遮住了。
 </string>
-      <string id="BETASLOT_DECO_PICTURE2">画里是一座古旧的塔。长刺的藤蔓从入口伸出，蜿蜒盘桓，将一切封锁住。画面栩栩如生，盯着看久了会觉得它像活了一样。</string>
-      <string id="BETASLOT_DECO_LAMP">灯发出柔和的光，提供了一丝暖意。</string>
+      <string id="BETASLOT_DECO_PICTURE2">画里是一座古旧的塔。长刺的藤蔓从入口伸出，蜿蜒盘桓，将一切封锁。画面栩栩如生，盯着看久了会觉得它像活的一样。</string>
+      <string id="BETASLOT_DECO_LAMP">灯发出柔和的光，为房间带来一丝暖意。</string>
       <string id="SECRET_ROOM_APPEARS">走廊的尽头出现了一个秘密的通道！</string>
     </bundle>
     <bundle id="ep6_window">
