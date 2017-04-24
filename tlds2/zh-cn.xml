@@ -992,25 +992,25 @@ Dane Tippman</string>
   </episode>
   <episode id="EP6">
     <bundle id="ep6_attic">
-      <string id="ATTIC_CABLE_INSPECT">A gilded pipe runs from the strange device through to the floor below.</string>
-      <string id="DECO_AT_BOOKCASE">A shelf covered in old ornaments, pieces of metalwork and pipes of strange shapes.</string>
-      <string id="DECO_AT_WINDOW">The window is old and warped, letting in a cold draft.</string>
-      <string id="DLG_KAUFFMAN_AT_10">Not to state the obvious, but it sounds as if someone is still down there - playing the piano, of all things.</string>
-      <string id="DLG_KAUFFMAN_AT_11">But... how is that even remotely possible?</string>
-      <string id="DLG_KAUFFMAN_AT_12">I do not know. But this means something important to us.</string>
-      <string id="DLG_KAUFFMAN_AT_13">It means there is another entrance to the underground tunnel.</string>
-      <string id="DLG_KAUFFMAN_AT_14">And that we must find it.</string>
-      <string id="DLG_KAUFFMAN_AT_15">And how will we do that? </string>
-      <string id="DLG_KAUFFMAN_AT_16">There is one method we might try.</string>
-      <string id="DLG_KAUFFMAN_AT_17">But we have run out of leads. You did not find anything of use in the archive, and Professor Wright continues to mutter incoherently about childhood memories.</string>
-      <string id="DLG_KAUFFMAN_AT_18">You must hypnotise the Professor, mein lieber Freund.</string>
-      <string id="GADGET_INSPECT">An unusual electrical device. I'm unfamiliar with its function, but I can tell that there is a piece of equipment missing.</string>
-      <string id="DLG_KAUFFMAN_AT_19">We are running out of options. This might be the only way to find the answers we seek.</string>
-      <string id="LEVER_INSPECT">Some kind of round mechanism. </string>
-      <string id="PLH_RADIO_KNOB">I think it will work now.</string>
-      <string id="RADIO_RESOLVED_PHRASE1">This sound…</string>
-      <string id="RADIO_RESOLVED_PHRASE2">Do my ears deceive me? Is that... a piano melody? I must seek Kaufmann at once.</string>
-      <string id="RADIO_SOLVED_NO_USE">The device is silent.</string>
+      <string id="ATTIC_CABLE_INSPECT">一根镀金管道，从一台奇怪的机器中伸出来，伸到地板下面。</string>
+      <string id="DECO_AT_BOOKCASE">一个装饰风格古老的架子。各种金属装饰，奇形怪状。</string>
+      <string id="DECO_AT_WINDOW">窗户很古旧，甚至都有些歪了，凛冽的寒风吹了进来。</string>
+      <string id="DLG_KAUFFMAN_AT_10">听起来，好像有什么人在下面，还在弹钢琴。</string>
+      <string id="DLG_KAUFFMAN_AT_11">但……那完全不可能啊。怎么会？</string>
+      <string id="DLG_KAUFFMAN_AT_12">我不知道，但这应该对我们的调查很关键。</string>
+      <string id="DLG_KAUFFMAN_AT_13">你的意思是，还有一个通往地下隧道的入口。</string>
+      <string id="DLG_KAUFFMAN_AT_14">嗯，而且我们必须找到它。</string>
+      <string id="DLG_KAUFFMAN_AT_15">怎么找？</string>
+      <string id="DLG_KAUFFMAN_AT_16">有一个办法，可以试试。</string>
+      <string id="DLG_KAUFFMAN_AT_17">毕竟我们已经无计可施了，你在档案里也没找到有用的东西，而莱特教授仍然只会喃喃地嘟嚷他的童年回忆。</string>
+      <string id="DLG_KAUFFMAN_AT_18">你必须催眠教授，我亲爱的朋友。</string>
+      <string id="GADGET_INSPECT">一个不寻常的电器设备，虽然不知道它是做什么的，但我能看出来它缺了一部分。</string>
+      <string id="DLG_KAUFFMAN_AT_19">我们别无选择了，这是唯一有可能找到答案的办法。</string>
+      <string id="LEVER_INSPECT">某种圆形机关。</string>
+      <string id="PLH_RADIO_KNOB">我想它现在能起作用了。</string>
+      <string id="RADIO_RESOLVED_PHRASE1">这个声音……</string>
+      <string id="RADIO_RESOLVED_PHRASE2">那是幻听吗？刚才好像是……钢琴的旋律？我必须马上去找考夫曼。</string>
+      <string id="RADIO_SOLVED_NO_USE">设备安静了。</string>
     </bundle>
     <bundle id="ep6_audio">
       <string id="SILENCE_SONG">-</string>
@@ -2369,19 +2369,19 @@ Dane Tippman</string>
   <episode id="EP7">
     <bundle id="ep7_alley">
       <string id="DECO_ROOF">BETA SLOT</string>
-      <string id="DECO_BOAT">An old rowboat filled with stale water.
+      <string id="DECO_BOAT">一艘旧小船，里面有积水。
 </string>
-      <string id="UMBRELLA1_INSPECT">An old rowboat filled with stale water.
+      <string id="UMBRELLA1_INSPECT">一艘旧小船，里面有积水。
 </string>
-      <string id="UMBRELLA1_POSTCATCH">A worn-out umbrella. It doesn't look like it will rain anytime soon, but there might be a purpose for it.</string>
-      <string id="UMBRELLA2_INSPECT">The water is so muddy that I can barely see the bottom of the trough.</string>
-      <string id="WCM_BOTTEL_UMBRELLA">I don't need to fill the bottle with water.
+      <string id="UMBRELLA1_POSTCATCH">一把破旧的雨伞，虽然看起来天不像要下雨的样子，但是带着它兴许会有其他用处。</string>
+      <string id="UMBRELLA2_INSPECT">水太脏了，看不清水底。</string>
+      <string id="WCM_BOTTEL_UMBRELLA">我没有给瓶子装水的必要。
 </string>
-      <string id="DRAGON_CANNOT_GO_BACK">I should follow this masked person.</string>
-      <string id="BTS_DOGHOUSE">An empty dog house. Nothing has slept here in many years.</string>
-      <string id="BTS_ROOF">No matter the strength of structure, all things succumb to time. But whether it was the ages or something else that ravaged this place, I cannot say.</string>
-      <string id="WCM_BRACE_UMBRELLA">There is only water in the rowboat, I don't need to empty it.</string>
-      <string id="CTS_MIRROR_BROKEN">What... was that?</string>
+      <string id="DRAGON_CANNOT_GO_BACK">我应该跟着戴面具的人。</string>
+      <string id="BTS_DOGHOUSE">一个空空的狗屋。看起来好多年都没有狗在里面睡过了。</string>
+      <string id="BTS_ROOF">尽管结构很坚固，但一切终究逃不过时间的摧残。不过其实很难看出来，这里到底是被时间摧残的还是别的什么东西毁坏的。</string>
+      <string id="WCM_BRACE_UMBRELLA">小船里有只积水，我不需要特地去清理它。</string>
+      <string id="CTS_MIRROR_BROKEN">刚才那是……什么？</string>
     </bundle>
     <bundle id="ep7_brewery">
       <string id="BRACE_INSPECT">A common carpenter's brace. A tool like this would be used for drilling holes in wood.</string>
