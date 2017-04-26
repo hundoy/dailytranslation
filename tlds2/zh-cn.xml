@@ -1242,17 +1242,17 @@ Dane Tippman</string>
       <string id="MIRROR1_INSPECT">我看向镜子，镜中的自己被奇怪地扭曲了。</string>
       <string id="MIRROR2_INSPECT">有趣，即使蒸汽退去，文字还在镜子上。</string>
       <string id="PLH_MIRROR_HOTTEAPOT">茶壶中升腾的蒸汽使镜子上隐藏的文字浮现了出来。</string>
-      <string id="MIRROR_MESSAGE_DISCOVERED">"在一腔热情的热力中映出自己的身影……发现那逻辑的冷眼无法看到之物……"。茶壶中的蒸汽使隐藏的文字浮现了出来！</string>
+      <string id="MIRROR_MESSAGE_DISCOVERED">"在一腔热情的热力中映照出自己的身影……发现那逻辑的冷眼无法看到之物……"。茶壶中的蒸汽使隐藏的文字浮现了出来！</string>
       <string id="DECO_BA_PIPE">镀了金的管道，从地板伸出来，通到天花板。</string>
       <string id="DECO_BA_HEATER">常见的暖气。</string>
-      <string id="CLUE1_INSPECT">谜题说“映出自己的身影”“逻辑的冷眼无法看到”，是不是指在这儿某处有什么看不到的东西？</string>
+      <string id="CLUE1_INSPECT">谜题说“映照出自己的身影”“逻辑的冷眼无法看到”，是不是指在这儿某处有什么看不到的东西？</string>
       <string id="BETASLOT_BA_BATH">一个瓷制的大浴缸，四个黑色的铁脚支撑着它的重量。一层薄薄的水珠挂在它的内壁上，看起来最近使用过。</string>
       <string id="COLDTEAPOT_MIRROR_REACT">壶中的水不够热。</string>
     </bundle>
     <bundle id="ep6_bedroom">
-      <string id="DLG_KAUFFMAN_BR_8">考夫曼，你看，我找到了一个信封。我通过一个奇怪机关打开的一个地球仪，它藏在里面。</string>
+      <string id="DLG_KAUFFMAN_BR_8">考夫曼，你看，我找到了一个信封。我触发了一个奇怪机关，打开一个地球仪，它就藏在里面。</string>
       <string id="DLG_KAUFFMAN_BR_9">上面写着“致我最亲爱的访客”，让我们看看里面有什么？</string>
-      <string id="DLG_KAUFFMAN_BR_10">恰巧，这是一个大谜题的另一部分。但这么做是为了什么？为了藏东西？或者只是教授即将神志不清前最后的演出。</string>
+      <string id="DLG_KAUFFMAN_BR_10">是的，这是又一个精妙的大谜题的一部分。但这样做是为了什么？为了藏东西？或者只是教授神志不清前最后的演出。</string>
       <string id="DLG_BEDROOM_CTS1">莱特教授，您有访客啦，而且有一位还是您的老朋友。看啊，您还记得他吗？</string>
       <string id="DLG_BEDROOM_CTS2">我估计他记得你，乔安。很久没看到他这么兴奋了。</string>
       <string id="DLG_BEDROOM_CTS5">教授？</string>
@@ -1299,7 +1299,7 @@ Dane Tippman</string>
       <string id="DLG_KAUFFMAN_BR_34">那是什么意思？</string>
       <string id="DLG_MENTOR_DEFAULT_10">我深信不疑。</string>
       <string id="DLG_MENTOR_DEFAULT_11">神父……</string>
-      <string id="DLG_KAUFFMAN_BR_37">我越来越觉得这是某种精神构建——我的意思是说，教授不经意地想出了这些谜题，并且自己都没意识到自己藏了什么。</string>
+      <string id="DLG_KAUFFMAN_BR_37">我越来越觉得这是某种精神上的表现——我的意思是说，教授不经意地想出了这些谜题，并且自己都没意识到自己藏了什么。</string>
       <string id="DLG_KAUFFMAN_BR_38">谜题……那么，所谓的“访客”又是指谁呢？</string>
       <string id="DLG_KAUFFMAN_BR_39">我也不清楚，我的朋友。但这是唯一的解释。</string>
       <string id="DLG_KAUFFMAN_BR_40">如果我们能找出教授谜题的答案，或许一切的疑问都会迎刃而解了。</string>
@@ -1568,13 +1568,13 @@ Dane Tippman</string>
       <string id="BETASLOT_DECO_DEADTREE">一棵僵死的树，它看起来也几乎像是一尊雕像。</string>
     </bundle>
     <bundle id="ep6_globe">
-      <string id="CLUE1_GLOBE">旅程开始，我们面对夕阳，穿过沙漠的荒茫。到达仁慈的海，沿着北海岸，满怀归乡的企盼。
+      <string id="CLUE1_GLOBE">旅程开始，我们面对夕阳的方向，穿过沙漠的荒茫。满怀欣喜，到达大海，沿着北海岸，家就在前，满怀归乡的企盼。
 </string>
       <string id="CLUE2_GLOBE">但事与愿违，在我们穿过的领土内，国王发兵，与大可汗征战。我们被迫回到原路，永不驻足那血腥的大陆。还好若一路向南，数英里外有个港湾，那里有船。</string>
-      <string id="CLUE3_GLOBE">航海之旅非常短暂，强大的南风掀了我们的帆。到达东边的海岬，在那儿靠岸。我们背向大海，一路向前，最终抵达家园。</string>
+      <string id="CLUE3_GLOBE">航海之旅非常短暂，强大的南风推着我们的帆。到达东边的海岬，在那儿靠岸。我们背向大海，一路向前，最终抵达家园。</string>
     </bundle>
     <bundle id="ep6_graveyard">
-      <string id="GRAVE_INSPECT">- 萝丝·喀忒 -
+      <string id="GRAVE_INSPECT">- 萝丝·卡特 -
 1840 – 1885</string>
       <string id="BURIAL1_INSPECT">这块墓石上没有雕名字、生卒年和墓志铭……</string>
       <string id="BURIAL2_INSPECT">这里并没有棺材。</string>
@@ -1789,11 +1789,11 @@ Dane Tippman</string>
       <string id="INV_LENS">调查</string>
       <string id="INV_TINSOLDIER_DESC">英国军队配色的锡兵。作为一个小模型，做工过于精致。似乎是某次军事战役的纪念品。</string>
       <string id="INV_ATTICKEY_DESC">褪色的金钥匙。</string>
-      <string id="CLUE1">那些探寻世界的智慧须先认识到自我的愚蠢。在一腔热情的热力中映出自己的身影，发现那逻辑的冷眼无法看到之物。</string>
+      <string id="CLUE1">那些探寻世界智慧之人须先认识到自身的愚蠢。在一腔热情的热力中映照出自己的身影，发现那逻辑的冷眼无法看到之物。</string>
       <string id="CLUE3">提问源自于人在最高之塔的顶端所看到的世界，对答案的渴求则来自于其自身生命和时间的根。</string>
       <string id="CLUE5">只有进入了原初恐惧的血盆大口之中……</string>
-      <string id="CLUE_ADDED">我要把这条线索加进信件中。</string>
-      <string id="CLUE1_CLUE2">那些探寻世界的智慧须先认识到自我的愚蠢。在一腔热情的热力中映出自己的身影，发现那逻辑的冷眼无法看到之物。
+      <string id="CLUE_ADDED">我要把这条线索也记在信上。</string>
+      <string id="CLUE1_CLUE2">那些探寻世界智慧之人须先认识到自身的愚蠢。在一腔热情的热力中映照出自己的身影，发现那逻辑的冷眼无法看到之物。
 - - -
 认知你自己，看着你的主人，不仅仅是他威严的注视，还要理解他眼神下的东西。由此寻找问题，或者寻找答案。</string>
       <string id="CLUE3_CLUE4">之后你就准备去攀爬最高之塔，在那里俯瞰最深的根源……
@@ -1923,21 +1923,21 @@ Dane Tippman</string>
       <string id="LIBRARY1_INSPECT">莱特教授不拘一格的藏书：从老式的冒险小说到关于神秘学的论文，应有尽有。其中有一些的标题看起来应该是皇室禁止发行的书。</string>
       <string id="LIBRARY2_INSPECT">有一套磨损严重的书，是插图版的《马可·波罗游记》。或许莱特教授之前说的“旅行之书”就是指这个。</string>
       <string id="LIBRARY_BIRDSROOM_LOCKED">锁上了，能听到另一边有鸟的吵闹声。</string>
-      <string id="GLOBE2_INSPECT">只是一个空空的暗格，四壁和底部都铺上了黑色的天鹅绒。</string>
-      <string id="GLOBE_REACT">有一封被封住的信在里面。</string>
+      <string id="GLOBE2_INSPECT">只是一个空空的暗格，里面还铺上了黑色的天鹅绒。</string>
+      <string id="GLOBE_REACT">有一封被蜡封的信在里面。</string>
       <string id="GLOBE_INSPECT">地球仪表面之下有一个隐藏的暗格。</string>
-      <string id="LIBRARY_CLUE">旅程开始，我们面对夕阳，穿过沙漠的荒茫。到达仁慈的海，沿着北海岸，满怀归乡的企盼。</string>
+      <string id="LIBRARY_CLUE">旅程开始，我们面对夕阳的方向，穿过沙漠的荒茫。满怀欣喜，到达大海，沿着北海岸，家就在前，满怀归乡的企盼。</string>
       <string id="PLH_ENVELOP">地址处只简单地写着“致我最亲爱的访客”。打开之前应该先给考夫曼看看。</string>
       <string id="LIBRARY2_INSPECT_2">其中一页上有一个记号。</string>
       <string id="LIBRARY_CLUE_2">但事与愿违，在我们穿过的领土内，国王发兵，与大可汗征战。我们被迫回到原路，永不驻足那血腥的大陆。还好若一路向南，数英里外有个港湾，那里有船。</string>
-      <string id="LIBRARY_CLUE_3">航海之旅非常短暂，强大的南风掀了我们的帆。到达东边的海岬，在那儿靠岸。我们背向大海，一路向前，最终抵达家园。</string>
+      <string id="LIBRARY_CLUE_3">航海之旅非常短暂，强大的南风推着我们的帆。到达东边的海岬，在那儿靠岸。我们背向大海，一路向前，最终抵达家园。</string>
       <string id="DECO_LI_FIREPLACE">火烧得很旺，整个房间的空气都变得厚重了起来。
 </string>
       <string id="DECO_LI_PICTURE">附近悬崖的画。</string>
       <string id="FIRST_VISIT_GLOBE">一个地球仪。表面的板块做的非常精细，但陆地的形状很奇怪，看起来这一定是某个小说中或者是史前时代的地图。</string>
-      <string id="GLOBE_JUST_OPEN">似乎我触了隐藏的机关，地球仪中的暗格打开了。</string>
+      <string id="GLOBE_JUST_OPEN">似乎我触发了隐藏的机关，地球仪中的暗格打开了。</string>
       <string id="FRONTYARD_DOOR_OPENS">门已经打开了……</string>
-      <string id="DECO2_LI_FIREPLACE">火已经熄了，怎么回事？</string>
+      <string id="DECO2_LI_FIREPLACE">火已经熄了，怎么回一事？</string>
     </bundle>
     <bundle id="ep6_libraryConversastion">
       <string id="DLG_LIBRARYCONVERSATION1">您懂的，莱特先生，我们的组织对您的研究非常感兴趣。
@@ -1999,7 +1999,7 @@ Dane Tippman</string>
 
 从体型上看，应该是女人的。这个洞已经被封锁了七年……
 
-守在窗边的那位女士说过，她的爱人七年前的悬崖边失踪，遗体一直没有找到……这难道就是萝丝·喀忒的遗体？
+守在窗边的那位女士说过，她的爱人七年前的悬崖边失踪，遗体一直没有找到……这难道就是萝丝·卡特的遗体？
 
 这难道就是教授在日志中提到的“收容失败”？
 
@@ -2294,7 +2294,7 @@ Dane Tippman</string>
       <string id="DLG_ALBINO_54">我一直都想去我爱人的墓去看看她，但因为生病，我不能离开这屋子。</string>
       <string id="DLG_ALBINO_55">您能……您能把这些花放在那儿吗？镇里的人都不肯帮我的忙。</string>
       <string id="DLG_ALBINO_56">哦，我真是太感激了。您真是一个温柔的人！您可以穿过那边的小路去墓园。</string>
-      <string id="DLG_ALBINO_57">您只需要找一个名字叫做……喀忒……的墓。</string>
+      <string id="DLG_ALBINO_57">您只需要找一个名字叫做……卡特……的墓。</string>
       <string id="WINDOW_CLOSED">窗户关上了。</string>
       <string id="DOOR_LOCKED">酒吧关门了。</string>
       <string id="SQUARE_CHURCH_LOCKED_AGAIN">关着门。</string>
@@ -2398,7 +2398,7 @@ Dane Tippman</string>
       <string id="DECO_CORNER">地下室的这一侧似乎在大火中崩塌。</string>
       <string id="DECO_TABLE">倒扣的桌子。</string>
       <string id="DIARY_INSPECT1">一个装饰华丽的，箱子里面没有被火烧到的样子。应该是在大火熄灭后才被人打开的。</string>
-      <string id="DIARY_INSPECT2">日记上的署名是“布里吉德·莱德森德”，后面许多页都缺失了……</string>
+      <string id="DIARY_INSPECT2">日记上的署名是“布丽吉德·莱德森德”，后面许多页都缺失了……</string>
       <string id="DIARY_AFTER_INSPECT">莱德森德小姐一定是在她家的地窖里发现了什么糟糕的东西，如果我要是能知道那是什么，应该能更进一步地了解寇龙猸郸的事。直觉告诉我，必须今晚行动，不然恐怕一切都太迟了。</string>
       <string id="CTS_BREWERY_FIRST_TIME">看来这地下室曾经是一间书房。这里虽然没有像其他房间烧得那样彻底，但仍然只有极少量的东西完整地保留下来。</string>
       <string id="BTS_BED">看起来是临时床铺，基兰曾经就孤单地睡在这样糟糕的地方吗？
@@ -2414,7 +2414,7 @@ Dane Tippman</string>
 我身体不舒服，我请你不要来爱丽丝摩尔看我，现在别来，以后也别来。另外，请代我保管好奶奶的指环，我相信她也希望你能带着它。
 
 你忠实的，
-布里吉德</string>
+布丽吉德</string>
       <string id="MAILBOX_OPEN2_INSPECT">这没有什么其他东西了。</string>
       <string id="MAILBOX_OPEN_REACT">信封非常老旧，上面印着“退回”的戳，里面有一封信。</string>
       <string id="MAILBOX_OPEN_REACT2">信封里还有什么东西。</string>
