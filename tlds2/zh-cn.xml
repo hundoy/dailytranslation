@@ -2384,46 +2384,46 @@ Dane Tippman</string>
       <string id="CTS_MIRROR_BROKEN">刚才那是……什么？</string>
     </bundle>
     <bundle id="ep7_brewery">
-      <string id="BRACE_INSPECT">A common carpenter's brace. A tool like this would be used for drilling holes in wood.</string>
-      <string id="BRACE_REACT">It could be useful later.</string>
-      <string id="DIARY1">7 August 1801 – Words cannot express the gratitude that I feel for Aunt Máire's bequest—may her dear soul rest in peace. This house is just what I needed to still my nerves after the exhausting pace of life in Dublin.</string>
-      <string id="DIARY2">10 September 1801 – I would not have thought to find such a remarkable library hidden away in the basement. It includes several magnificent tomes on the most picturesque customs of our land.</string>
-      <string id="DIARY3">23 September 1801 – I found Aunt Máire's diaries next to an odd iron disc. But the contents of the diaries were appalling. What could have happened that dear old Máire would write such things? </string>
-      <string id="DIARY4">The damnable place that she speaks of… I must know if it really exists. I am resolved to investigate our family's crypt. It would be prudent to wait until dusk before traveling to the Northern Cape, so as to not be seen.</string>
-      <string id="DIARY5">25 September 1801 – The abbey was in such a state of decay that it was nearly impossible to find the mural painting in the dark. Fortunately, a dim light happened to shine through a gap in a wall, illuminating the face of the Sentinel. 
+      <string id="BRACE_INSPECT">一个常见的木工钻，这东西一般用来在木头上钻孔。</string>
+      <string id="BRACE_REACT">之后可能用得着。</string>
+      <string id="DIARY1">1801年8月7日。玛莉婶婶的遗产真是让我感激得说不出话来，愿她的灵魂在天堂安息。这个房子正是我梦寐以求的，在这里，我终于可以缓解一下我在都柏林日夜奔波所造成的劳顿和紧张感。</string>
+      <string id="DIARY2">1801年9月10日。我从未想过，地下室居然藏了这样一个不同凡响的书房。它囊括了海量的书籍，都是关于这片土地上如画般美丽的风俗人情的。</string>
+      <string id="DIARY3">1801年9月23日。我在一个奇怪的铁盘旁边发现了玛莉婶婶的日记，内容令我十分震惊。到底在亲爱的老玛莉身上发生了什么事情，才能让她写下这样的文字？</string>
+      <string id="DIARY4">她提到的那个该死的地方……我必须确认它是否真的存在。我决定去调查我老家的地窖，必须得小心点儿，黄昏再开始动身去北开普，这样就不会被人看到了。</string>
+      <string id="DIARY5">1801年9月25日。修道院已经衰败到如此地步，里面伸手不见五指，几乎不可能去找什么壁画了。幸运的是，有一束昏暗的光透过墙壁的缝隙照了进来，也照亮了哨兵的脸。
 
-I believe Aunt Máire's iron disc is needed to open the secret passage.</string>
-      <string id="DIARY6">10 October 1801 – Is this the legacy of the Laidcend? I can stand to bear it no longer. Fire will put an end to this blasphemy and cleanse the land of our family's curse. And should the fire prove insufficient, may this testimony serve as warning.</string>
-      <string id="DECO_BOTTLES">Remains of the books, scorched by the fire. Most of the pages are ashy or blackened, so the text is illegible.</string>
-      <string id="DECO_CORNER">This side of the basement seems to have collapsed during the fire. </string>
-      <string id="DECO_TABLE">This table has been upended.</string>
-      <string id="DIARY_INSPECT1">An ornate chest, its inside untouched by the fire. It was probably opened long after the inferno died down. There is a diary inside.</string>
-      <string id="DIARY_INSPECT2">It is signed 'Brighid Laidcend'. Several pages towards the end are missing…</string>
-      <string id="DIARY_AFTER_INSPECT">Miss Laidcend must have found something abhorrent in her family's crypt. If I could find out what it was, I may learn more about the Cronemeadan. My intuition tells me that I must act tonight or else it will be too late. </string>
-      <string id="CTS_BREWERY_FIRST_TIME">I think this basement might have once housed a library. It looks like it was not burned as badly as the rest of the house. Even so, little here remains intact.</string>
-      <string id="BTS_BED">It looks like some sort of makeshift bed. Was Kieran sleeping in this terrible, lonely place?
+我坚信，用玛莉婶婶的铁盘就可以打开秘密的通道。</string>
+      <string id="DIARY6">1801年10月10日。这就是莱德森德的遗产吗？我忍无可忍，真应该一把火烧了这些渎神的鬼东西，净化一下被我家族诅咒的这片土地。光用火烧还不够，还必须留下些证据警示后人。</string>
+      <string id="DECO_BOTTLES">被火烧焦的书的残骸。大部分的书页都化为灰烬或熏得黢黑，上面的文字已经无法辨认。</string>
+      <string id="DECO_CORNER">地下室的这一侧似乎在大火中崩塌。</string>
+      <string id="DECO_TABLE">倒扣的桌子。</string>
+      <string id="DIARY_INSPECT1">一个装饰华丽的，箱子里面没有被火烧到的样子。应该是在大火熄灭后才被人打开的。</string>
+      <string id="DIARY_INSPECT2">日记上的署名是“布里吉德·莱德森德”，后面许多页都缺失了……</string>
+      <string id="DIARY_AFTER_INSPECT">莱德森德小姐一定是在她家的地窖里发现了什么糟糕的东西，如果我要是能知道那是什么，应该能更进一步地了解寇龙猸郸的事。直觉告诉我，必须今晚行动，不然恐怕一切都太迟了。</string>
+      <string id="CTS_BREWERY_FIRST_TIME">看来这地下室曾经是一间书房。这里虽然没有像其他房间烧得那样彻底，但仍然只有极少量的东西完整地保留下来。</string>
+      <string id="BTS_BED">看起来是临时床铺，基兰曾经就孤单地睡在这样糟糕的地方吗？
 </string>
     </bundle>
     <bundle id="ep7_burntHouseExt">
-      <string id="MAILBOX_OPEN_INSPECT">There is nothing else here.</string>
-      <string id="MAILBOX_CLOSED_INSPECT">A mailbox.</string>
-      <string id="WICKERMAN_BURNTHOUSEEXT_BURNING_INSPECT">The wicker statue is burning. Who did this?</string>
-      <string id="WICKERMAN_BURNTHOUSEEXT_INSPECT">A wicker statue sporting a pair of animal horns. The twigs look fresh. </string>
-      <string id="MAILBOX_LETTER">My dear cousin,
+      <string id="MAILBOX_OPEN_INSPECT">这没什么其他的东西了。</string>
+      <string id="MAILBOX_CLOSED_INSPECT">一个邮箱。</string>
+      <string id="WICKERMAN_BURNTHOUSEEXT_BURNING_INSPECT">柳条人像着火了，是谁干的？</string>
+      <string id="WICKERMAN_BURNTHOUSEEXT_INSPECT">长着一对动物角的柳条人像，柳条看起来还很新。</string>
+      <string id="MAILBOX_LETTER">我亲爱的表哥，
 
-I am poorly. I would ask that you not call upon me here at Éilís Mór—not now, nor ever again. Please keep Grandmother's ring; I believe that she would have wanted you to have it.
+我身体不舒服，我请你不要来爱丽丝摩尔看我，现在别来，以后也别来。另外，请代我保管好奶奶的指环，我相信她也希望你能带着它。
 
-Yours faithfully,
-Brighid</string>
-      <string id="MAILBOX_OPEN2_INSPECT">There is nothing else here.</string>
-      <string id="MAILBOX_OPEN_REACT">The envelope is very old. It is stamped 'RETURNED' and there is a letter inside.</string>
-      <string id="MAILBOX_OPEN_REACT2">There is something else in the envelope.</string>
-      <string id="MAILBOX_OPEN_REACT3">An iron ring.</string>
-      <string id="DECO_BURNHOUSE">This must be the house that the child was telling me about. Kieran was here just before his disappearance.</string>
+你忠实的，
+布里吉德</string>
+      <string id="MAILBOX_OPEN2_INSPECT">这没有什么其他东西了。</string>
+      <string id="MAILBOX_OPEN_REACT">信封非常老旧，上面印着“退回”的戳，里面有一封信。</string>
+      <string id="MAILBOX_OPEN_REACT2">信封里还有什么东西。</string>
+      <string id="MAILBOX_OPEN_REACT3">一个铁制的指环。</string>
+      <string id="DECO_BURNHOUSE">这里一定就是那个孩子说的房子，基兰在失踪前一直都住在这里。</string>
     </bundle>
     <bundle id="ep7_burntHouseInt">
-      <string id="HOUSE_FIRSTTIME_THINK">The house is falling apart. I must tread with care.</string>
-      <string id="BREWERY_TRAPDOOR_THINK">A metal trapdoor. It seems to lead to some sort of basement.</string>
+      <string id="HOUSE_FIRSTTIME_THINK">房子损毁严重，我得小心点儿走。</string>
+      <string id="BREWERY_TRAPDOOR_THINK">金属的窑门，应该是通往地下室的。</string>
     </bundle>
     <bundle id="ep7_cc">
       <string id="FS_WOOD">-</string>
@@ -2564,122 +2564,122 @@ Brighid</string>
       <string id="SFX_WICKERMAN_GATEHILL">Set on fire</string>
     </bundle>
     <bundle id="ep7_cemetery">
-      <string id="FT_CEMETERY_1">They found me on the beach, unconscious…</string>
-      <string id="FT_CEMETERY_2">…clutching the piece of wood that had saved me from drowning.</string>
-      <string id="FT_CEMETERY_3">When at last I awoke, the letter was waiting on my table.</string>
-      <string id="FT_CEMETERY_4">Lieber Wakefield,
+      <string id="FT_CEMETERY_1">人们在海滩上发现了失去意识的我……</string>
+      <string id="FT_CEMETERY_2">……紧抓着一块木头，让我在水中保住了性命。</string>
+      <string id="FT_CEMETERY_3">最后当我醒来时，这封信就放在我的桌子上。</string>
+      <string id="FT_CEMETERY_4">亲爱的威克菲尔德，
 
-I write this letter in my last moments of lucidity. I have not received word from you since I regained consciousness, but I am confident that you will soon return with information that is crucial to our investigation. The bravery that you demonstrated in the face of these latest discoveries is worthy of my most sincere admiration.</string>
-      <string id="FT_CEMETERY_4_1">I must now ask you for yet more courage. The doctors were unable to determine the cause of my sudden illness, nor have they found a cure. I have not much time left. My greatest regret is that I must abandon you to the difficult tasks that lie ahead. I implore you to persevere, now that we are so close to finding an answer.</string>
-      <string id="FT_CEMETERY_4_2">The Professor's documents were filled with references to a place of dark legend: the Cronemeadan, an ancient sanctuary on the island of Éllís Mór. The exact location of the Cronemeadan has been lost, but the Professor believed that its secrets may explain why his experiments met with such disastrous results. You must find this place, mein Freund.
+趁现在清醒，我给你写下了这封信。虽然当我醒来后，就再也没有听到你的音讯，但我坚信你会带着事关我们调查的重要线索归来。在最后的调查中，你表现出来的惊人的勇敢，着实令我钦佩不已。</string>
+      <string id="FT_CEMETERY_4_1">听我说，你可以更加勇敢。医生无法查明我突发疾病的病因，也无法找到治疗的方法，所以我其实已经时日不多。很抱歉，我不得不丢下你，让你一个人去面对前方的艰难险阻。但我希望你可以坚持调查下去，现在我们已经离答案不远了。</string>
+      <string id="FT_CEMETERY_4_2">教授的文件指向了一个充满黑暗传说的地方：寇龙猸郸——位于爱丽丝摩尔岛上的一个古老的庇护所。寇龙猸郸的确切位置已经不得而知，但教授认为，它那里的秘密可以解释实验产生灾难性后果的原因。你必须找到那个地方，我的朋友。
 
-I do not need to remind you to exercise the uttermost discretion. I have complete trust in you.</string>
-      <string id="FT_CEMETERY_5">Always your Friend,
-Johan Kaufmann</string>
+我毋须再叮嘱你必须十万分小心谨慎行事了，我相信你可以做好。</string>
+      <string id="FT_CEMETERY_5">你永远的朋友，
+乔安·考夫曼</string>
     </bundle>
     <bundle id="ep7_coldOpen">
-      <string id="COLDOPEN_SENTENCE3">Only then will you be ready</string>
-      <string id="COLDOPEN_SENTENCE1">For three days, you must wait</string>
-      <string id="COLDOPEN_SENTENCE2">Alone amongst these dead stones.</string>
-      <string id="COLDOPEN_SENTENCE4">To complete your journey, 
-Mr. Ashdown.</string>
+      <string id="COLDOPEN_SENTENCE3">只有到那时，你才能够……</string>
+      <string id="COLDOPEN_SENTENCE1">整整三天时间，你必须安静地等着。</string>
+      <string id="COLDOPEN_SENTENCE2">在这里了无生息的岩石间，孤独地等着。</string>
+      <string id="COLDOPEN_SENTENCE4">完成你的旅程。
+阿什当先生。</string>
     </bundle>
     <bundle id="ep7_gateHill">
-      <string id="WICKERMAN_GATEHILL_INSPECT">The wicker statue stands like a silent guard. Its presence makes me uncomfortable, as though I have trespassed on forbidden grounds.</string>
-      <string id="GATEHILL_FIRSTTIME_THINK">This must be the old abbey that Brighid Laidcend described in her diary. Could the Cronemeadan be here? Brighid mentioned a dim light, but I see only darkness.</string>
-      <string id="WICKERMAN_BURNING_GATEHILL_INSPECT">Burning again....</string>
+      <string id="WICKERMAN_GATEHILL_INSPECT">柳条人像矗立在这里，就像一个沉默寡言的守卫。它的存在让我感到略不舒服，就好像我是禁地的入侵者一般。</string>
+      <string id="GATEHILL_FIRSTTIME_THINK">这一定就是布丽吉德·莱德森德在她日记中提到的旧修道院。寇龙猸郸会在这里吗？布丽吉德提到有一束昏暗的光，但我只看到漆黑一片。</string>
+      <string id="WICKERMAN_BURNING_GATEHILL_INSPECT">又着火了……</string>
     </bundle>
     <bundle id="ep7_graveyard">
-      <string id="DECO_TREE">In the middle of the graveyard stands an old alder tree, which the locals call a fearnóg. Many lanterns hang from it, I do not know for what purpose.</string>
-      <string id="DECO_GRAVE1">This gravestone bears no name, but a strange and intricate engraving.</string>
-      <string id="MASKED_VILLAGER1">The woman hides her face behind a badger mask. She murmurs something in unison with the others—a muted prayer I cannot quite make out.</string>
-      <string id="MASKED_VILLAGER2">The man hides his face behind a deer mask. He murmurs something in unison with the others—a muted prayer I cannot quite make out.</string>
-      <string id="MASKED_VILLAGER3">The woman hides her face behind a bull mask. She murmurs something in unison with the others—a muted prayer I cannot quite make out.</string>
-      <string id="MASKED_VILLAGER4">A man, his face hidden by a wolf mask, stands in the middle. There is something familiar about him.</string>
-      <string id="THINK_AFTER_DIGGIN">I believe they were burying mirrors in a hole in the ground. What a peculiar tradition.</string>
-      <string id="DECO_BURRIED_MIRROR">I would rather not interfere with traditions I do not quite yet understand.</string>
-      <string id="DECO_MAUSOLEUM">A small mausoleum. The door has a small slot. I might be able to peer through it…</string>
-      <string id="MAUSOLEUM_INSIDE">Inside, a candle provides dim light. I can make out a statue of a hooded man. I can also hear someone whispering.</string>
-      <string id="FT_MAUSOLEUM_1">No, I can't die yet... not without... knowledge.</string>
-      <string id="FT_MAUSOLEUM_2">Is it so terribly unthinkable to truly understand the gods?</string>
-      <string id="FT_MAUSOLEUM_3">How can we live only on faith?</string>
-      <string id="FT_MAUSOLEUM_4">No! Shut up! Knowledge is what I pursue, not faith nor assumptions.
+      <string id="DECO_TREE">墓园的中央有一棵老桤树，本地人管桤树叫fearnóg。上面挂着许多灯笼，不知道是用来做什么的。</string>
+      <string id="DECO_GRAVE1">这块墓石没有名字，但却有着奇怪的错综复杂的雕刻。</string>
+      <string id="MASKED_VILLAGER1">女人的脸藏在獾的面具之下，她喃喃地嘟囔，和其他祈祷者附和着，我听不清楚他们具体在说什么。</string>
+      <string id="MASKED_VILLAGER2">男人的脸藏在鹿的面具之下，他喃喃地嘟囔，和其他祈祷者附和着，我听不清楚他们具体在说什么。</string>
+      <string id="MASKED_VILLAGER3">女人的脸藏在牛的面具之下，她喃喃地嘟囔，和其他祈祷者附和着，我听不清楚他们具体在说什么。</string>
+      <string id="MASKED_VILLAGER4">一个男人站在正中央，脸藏在狼的面具之下。看起来有点眼熟。</string>
+      <string id="THINK_AFTER_DIGGIN">地里一定埋了镜子，真是奇特的传统。</string>
+      <string id="DECO_BURRIED_MIRROR">既然不太懂，我还是不要贸然打扰这个传统活动了。</string>
+      <string id="DECO_MAUSOLEUM">一座小陵墓，门上有一个孔，我可以往里看一下……</string>
+      <string id="MAUSOLEUM_INSIDE">里面看到一根蜡烛，发出昏暗的光，还有一个戴着斗蓬的人的雕像。另外还能听到有人在小声低语。</string>
+      <string id="FT_MAUSOLEUM_1">不，我还不能死……不能就这样……一无所知地死去。</string>
+      <string id="FT_MAUSOLEUM_2">从最真实的层面去理解神明，有这么难以理解吗？</string>
+      <string id="FT_MAUSOLEUM_3">我们又不能只靠着信仰过活。</string>
+      <string id="FT_MAUSOLEUM_4">不，闭嘴！我所追求的东西，是知识，不是什么信仰也不是什么假想。
 </string>
-      <string id="FT_MAUSOLEUM_5">No. No man can face Death believing there is nothing on the Other Side.</string>
-      <string id="FT_MAUSOLEUM_6">Yes... yes... You are right. Now I understand.</string>
-      <string id="MASKED_VILLAGER5">The man hides his face behind a fox mask. He murmurs something in unison with the others—a muted prayer I cannot quite make out.</string>
-      <string id="MUST_FOLLOW_DRAGON">I should follow that masked person.</string>
-      <string id="MAUSOLEUM_EMPTY">Only darkness. I cannot hear or see a thing.
+      <string id="FT_MAUSOLEUM_5">不，不可能有人面对那样的死亡，还坚信另一边没有什么不好的东西。</string>
+      <string id="FT_MAUSOLEUM_6">好的……好的……你说的没错，现在，我明白了。</string>
+      <string id="MASKED_VILLAGER5">男人的脸藏在狐狸的面具之下，他喃喃地嘟囔，和其他祈祷者附和着，我听不清楚他们具体在说什么。</string>
+      <string id="MUST_FOLLOW_DRAGON">我应该跟着那个戴面具的人。</string>
+      <string id="MAUSOLEUM_EMPTY">漆黑一片，听不见声音也看不到东西。
 </string>
-      <string id="DECO_MIRROR_2">I am not too sure about this...</string>
-      <string id="CTS_MIRROR_BROKEN">What... was that?</string>
-      <string id="DECO_MIRROR_3">The mirrors are completely shattered. Why would that masked man do this?</string>
-      <string id="DECO_BURRIED_MIRROR_2">I dug up the mirror the villagers buried. I'll leave it like that.
+      <string id="DECO_MIRROR_2">关于这个，我也不太确定……</string>
+      <string id="CTS_MIRROR_BROKEN">刚才那是……什么？</string>
+      <string id="DECO_MIRROR_3">镜子完全碎掉了，那个面具人为什么要做这种事？</string>
+      <string id="DECO_BURRIED_MIRROR_2">我把居民埋的镜子挖了出来，就这样放着不管吧。
 </string>
-      <string id="BTS_GRAVE">The epitaph on this gravestone is written in Gaelic, the shadows cast by the lanterns only making the characters more mysterious.</string>
-      <string id="CHRISTOPHER_LEE_TRIBUTE">In memoriam Christopher Lee.</string>
+      <string id="BTS_GRAVE">这块墓石上的墓志铭是用凯尔特语写的，灯影幢幢，字母看起来愈加神秘。</string>
+      <string id="CHRISTOPHER_LEE_TRIBUTE">纪念克里斯多夫·李。</string>
     </bundle>
     <bundle id="ep7_holeBottom">
-      <string id="DECO_COFFIN_CLOSED">A small coffin rests inside a crude niche that has been carved into the stone wall.</string>
-      <string id="DECO_COFFIN_OPENED">Only ashes are inside.</string>
-      <string id="MAIN_COFFIN_1">Some old pages lie haphazardly on the coffin lid. It is as though they had been dropped here from the upper hill, long ago. They bear faint notes written in a trembling hand. </string>
-      <string id="MAIN_COFFIN_2">The engraving on the coffin is so badly eroded that the name is barely readable...</string>
-      <string id="COFFIN_PAPER_1">Down in this unholy burrow, in the feared Cronemeadan, our worst nightmares crawl and die.
+      <string id="DECO_COFFIN_CLOSED">石墙上刻着壁龛，一具小棺材被安放在里面。</string>
+      <string id="DECO_COFFIN_OPENED">里面只有灰。</string>
+      <string id="MAIN_COFFIN_1">棺材盖上散落着一些古旧的纸页，看起来应该是很久以前从山上面掉到这里来的。字迹模糊又颤抖。</string>
+      <string id="MAIN_COFFIN_2">棺材上的雕刻已经严重磨损，文字无法辨认……</string>
+      <string id="COFFIN_PAPER_1">在这邪恶的深坑之下，在这令人畏惧的寇龙猸郸，我们最恶的梦魇爬来爬去直到横死。
 
-Resting down here are the dauntless, those who dared enter the lair of the snake and the bird.</string>
-      <string id="COFFIN_PAPER_2">Each of those men and women crossed the Path Between. They walked through the mist, to the Other Side, where the ultimate truth screams in terror... and then they returned. These are my ancestors.
+那些相信蛇与鸟的谎言而待在这里的人，都是些不怕死的人。</string>
+      <string id="COFFIN_PAPER_2">那些男男女女，穿过了那之间的路，穿过了迷雾，到达了另一边，充斥着浸于恐惧中的终极真实的另一边……然后他们回来了，他们就是我们的祖先。
 
-Amongst the dead stones of the Cronemeadan lie the proud Laidcend, reduced to something far worse than dust or ashes.</string>
-      <string id="COFFIN_PAPER_3">Could that blasphemy in the coffin be Aunt Máire's true legacy? 
+在寇龙猸郸死亡的岩石间，骄傲的莱德森德躺在那里，已经化为了比灰烬和尘土还要不祥之物。</string>
+      <string id="COFFIN_PAPER_3">棺材中的渎神之物就是玛莉婶婶传说的真相吗？
 
-No, I shall not accept this fate for myself.</string>
-      <string id="MAIN_COFFIN_3">...Máire Laidcend.</string>
-      <string id="COFFIN_TITLE">...Máire Laidcend.</string>
-      <string id="DECO_SUN_SYMBOL">A spiked circle is engraved on the bare stone.</string>
-      <string id="DECO_SYMBOL_CIRCLES">These indentations may have once supported a structure of some kind, though there is nothing left of it now.</string>
-      <string id="DECO_COFFIN_HOLE">This niche is empty.</string>
-      <string id="DECO_COFFIN1">A small coffin, half rotted away.</string>
-      <string id="DECO_COFFIN2">This coffin is covered in ashes.</string>
-      <string id="DECO_COFFIN3">This coffin does not look quite as old as the others.</string>
+不，我不能接受这就是我的命运。</string>
+      <string id="MAIN_COFFIN_3">……玛莉·莱德森德。</string>
+      <string id="COFFIN_TITLE">……玛莉·莱德森德。</string>
+      <string id="DECO_SUN_SYMBOL">露出的石头上刻着一个有刺的圆形。</string>
+      <string id="DECO_SYMBOL_CIRCLES">这些豁口可能曾经被用来支撑某种建筑，但现在什么都没有了。</string>
+      <string id="DECO_COFFIN_HOLE">这个壁龛是空的。</string>
+      <string id="DECO_COFFIN1">一个小棺材，大半都被腐蚀了。</string>
+      <string id="DECO_COFFIN2">这个棺材上面落着厚厚的灰。</string>
+      <string id="DECO_COFFIN3">这个棺材看起来不像其他几个那么古老。</string>
     </bundle>
     <bundle id="ep7_holeHill">
-      <string id="DISH_INSPECT">A bronze bowl that bears strange symbols in its rim. It looks ancient.</string>
-      <string id="HOLE_INSPECT">A huge hole lies in front of me. An ominous, chilling draft issues from within that sends shivers down my spine and makes me very uneasy. To a superstitious mind, it might seem like a passage to another world.</string>
-      <string id="DECO_STONE">This place appears to be the remnants of an ancient temple to some unknown deity.</string>
+      <string id="DISH_INSPECT">一个铜碗，边沿上有奇怪的符号，看起来很古老。</string>
+      <string id="HOLE_INSPECT">我面前有一个巨大的洞，一种令人毛骨悚然的寒意穿透了我的脊背，让我很不安。对迷信的人来说，这里一定就像是可以通往另一个世界的通道。</string>
+      <string id="DECO_STONE">这个地方似乎是某个古老神庙的遗迹，神庙用来供奉某种未知的神祇。</string>
     </bundle>
     <bundle id="ep7_inventory">
-      <string id="INV_CHAINBROKEN">Chain</string>
-      <string id="INV_CHAINBROKEN_DESC">The chain of the bicycle I found. It is missing a link.</string>
-      <string id="INV_CHAINFIXED_DESC">The ring fits perfectly on the chain. I am sorry to use Brighid's grandmother's ring in such a manner. Still, maybe now I can get the bicycle to work. </string>
-      <string id="INV_CHAINFIXED">Chain</string>
-      <string id="INV_LINK">Ring</string>
-      <string id="INV_LINK_DESC">A small, thin steel ring.</string>
-      <string id="INV_BRACE">Brace</string>
-      <string id="INV_BRACE_DESC">A carpenter's brace, used to drill holes in wood.</string>
-      <string id="INV_CONTAINER_DESC">A bottle, tumbled and frosted by its time in the sea.</string>
-      <string id="INV_CONTAINER">Bottle</string>
-      <string id="INV_OIL">Oil</string>
-      <string id="INV_OIL_DESC">The bottle is filled with mineral oil.</string>
-      <string id="INV_RIBBON">Ribbon</string>
-      <string id="INV_RIBBON_DESC">A red ribbon. I think it was part of the child's mask that was left behind in the hills.</string>
-      <string id="INV_BATTERY">Battery</string>
-      <string id="INV_BATTERY_DESC">An electrical mechanism that is used to store energy. Its upper part looks like some kind of dynamo. It seems to need charging.</string>
-      <string id="INV_BATTERYCH">Battery</string>
-      <string id="INV_BATTERYCH_DESC">Hopefully, the battery has enough charge to keep the lighthouse lit for a few hours.</string>
-      <string id="INV_GEAR">Cog</string>
-      <string id="INV_GEAR_DESC">An industrial cogwheel that I found lying discarded in the village.</string>
-      <string id="INV_HOOK">Umbrella</string>
-      <string id="INV_HOOK_DESC">An old, worn-out umbrella. It is unusable.</string>
-      <string id="INV_PICTURE">Drawing</string>
-      <string id="INV_PICTURE_DESC">A child's drawing.</string>
-      <string id="CHAINFIXED_CREATED">The ring fits perfectly on the chain. I am sorry to use Brighid's grandmother's ring in such a manner. Still, maybe now I can get the bicycle to work. </string>
-      <string id="INV_LENS">Lens</string>
-      <string id="INV_BATTERYCHARGED">Battery</string>
-      <string id="INV_BATTERYCHARGED_DESC">Hopefully, the battery has enough charge to keep the lighthouse lit for a few hours.</string>
-      <string id="INV_COIN">Disc</string>
-      <string id="INV_SCREW">Screw</string>
-      <string id="INV_SCREW_DESC">A worm screw. It is a piece of a large mechanism.</string>
-      <string id="INV_COIN_DESC">An old iron disc. A drawing of a spiked circle is engraved on it.</string>
+      <string id="INV_CHAINBROKEN">链子</string>
+      <string id="INV_CHAINBROKEN_DESC">我找到的自行车的链子，但缺了连结链子的环。</string>
+      <string id="INV_CHAINFIXED_DESC">指环正好可以装在链子上，虽然这样对布丽吉德的奶奶很抱歉，但这样自行车或许就可以用了。</string>
+      <string id="INV_CHAINFIXED">链子</string>
+      <string id="INV_LINK">指环</string>
+      <string id="INV_LINK_DESC">一个又小又细的钢指环。</string>
+      <string id="INV_BRACE">木工钻</string>
+      <string id="INV_BRACE_DESC">一个木工钻，可以用来在木头上钻孔。</string>
+      <string id="INV_CONTAINER_DESC">一个瓶子，曾经在大海中饱经风霜。</string>
+      <string id="INV_CONTAINER">瓶子</string>
+      <string id="INV_OIL">油</string>
+      <string id="INV_OIL_DESC">瓶子中装满了矿物油。</string>
+      <string id="INV_RIBBON">带子</string>
+      <string id="INV_RIBBON_DESC">红色的带子。应该是孩子面具的一部分，被落在了山上。</string>
+      <string id="INV_BATTERY">蓄电池</string>
+      <string id="INV_BATTERY_DESC">用来贮存电的东西。上部分看起来像某种发电机，它似乎需要充电。</string>
+      <string id="INV_BATTERYCH">蓄电池</string>
+      <string id="INV_BATTERYCH_DESC">希望这个电池的电量足够让灯塔亮上几个小时。</string>
+      <string id="INV_GEAR">齿轮</string>
+      <string id="INV_GEAR_DESC">被人丢弃的工业齿轮，我在村子中捡到的。</string>
+      <string id="INV_HOOK">伞</string>
+      <string id="INV_HOOK_DESC">一把又旧又破烂的伞，已经不能用了。</string>
+      <string id="INV_PICTURE">画</string>
+      <string id="INV_PICTURE_DESC">孩子画的画。</string>
+      <string id="CHAINFIXED_CREATED">指环正好可以装在链子上，虽然这样对布丽吉德的奶奶很抱歉，但这样自行车或许就可以用了。</string>
+      <string id="INV_LENS">调查</string>
+      <string id="INV_BATTERYCHARGED">蓄电池</string>
+      <string id="INV_BATTERYCHARGED_DESC">希望这个电池的电量足够让灯塔亮上几个小时。</string>
+      <string id="INV_COIN">圆盘</string>
+      <string id="INV_SCREW">螺钉</string>
+      <string id="INV_SCREW_DESC">一个蜗杆螺钉，应该是一个大装置上的一部分。</string>
+      <string id="INV_COIN_DESC">一个古老的铁圆盘，上面刻着一个带刺的圆形。</string>
     </bundle>
     <bundle id="ep7_lakeShore">
       <string id="BARREL_INSPECT">An old barrel lies stranded on the shore. A painted label reads "mineral oil". It is sealed.</string>

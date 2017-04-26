@@ -1,0 +1,863 @@
+ep7_alley	CTS_MIRROR_BROKEN	What... was that?	那……是什么？
+ep7_brewery	ARY_INSPECT2	It is signed 'Brighid Laidcend'. Several pages towards the end are missing…	上面著名“布里基德·莱德森德”。日记本的最后几张纸不见了……
+ep7_brewery	ARY_INSPECT1	An ornate chest, its inside untouched by the fire. It was probably opened long after the inferno died down. There is a diary inside.	一只装饰华丽的宝箱，内部没有遭到火焰的烤炙。可能是在烈火熄灭很久之后才打开的，里面有一本日记。
+ep7_brewery	ECO_TABLE	This table has been upended.	这张桌子被翻了过来。
+ep7_brewery	ECO_CORNER	This side of the basement seems to have collapsed during the fire.	地下室的这一侧看上去在火灾中塌方了。
+ep7_brewery	ECO_BOTTLES	Remains of the books, scorched by the fire. Most of the pages are ashy or blackened, so the text is illegible.	书的残页被火烧焦了。大部分的书页都化为尘土或是变为焦黑，上面写的字也无法阅读。
+ep7_brewery	ARY6	10 October 1801 – Is this the legacy of the Laidcend? I can stand to bear it no longer. Fire will put an end to this blasphemy and cleanse the land of our family's curse. And should the fire prove insufficient, may this testimony serve as warning.	一八〇一年十月十日 —— 这就是莱德森德家族的遗产吗？我再也不能忍受了。火焰会把这些渎神之物焚烧殆尽，清除我们家族的诅咒。如果火焰的威力还不够的话，让这份证言作为对后来人的警告吧。
+ep7_brewery	ARY5	25 September 1801 – The abbey was in such a state of decay that it was nearly impossible to find the mural painting in the dark. Fortunately, a dim light happened to shine through a gap in a wall, illuminating the face of the Sentinel. ?
+?
+I believe Aunt Máire's iron disc is needed to open the secret passage.	一八〇一年九月二十五日 —— 修道院已经腐朽得不成样子，几乎不可能在黑暗中找到那幅壁画。幸运的是，墙上的孔洞中透出了一丝昏暗的灯光，照亮了哨兵的面庞。?
+?
+我相信玛丽阿姨的铁质碟子是打开密道的关键。
+ep7_brewery	ARY4	The damnable place that she speaks of… I must know if it really exists. I am resolved to investigate our family's crypt. It would be prudent to wait until dusk before traveling to the Northern Cape, so as to not be seen.	她所说的那个恶劣的地方……我必须查明它是否真实存在。我已经决心彻底调查我们家族的地下室。以防万一，要等到黄昏之后再动身去北海角，这样不会被人发现。
+ep7_brewery	ARY3	23 September 1801 – I found Aunt Máire's diaries next to an odd iron disc. But the contents of the diaries were appalling. What could have happened that dear old Máire would write such things?	一八〇一年九月二十三日 —— 我在一只奇怪的铁质碟子边找到了玛丽阿姨的日记。但是日记的内容令人震惊。亲爱的老玛丽究竟经历了什么才会写下这种东西？
+ep7_brewery	ARY2	10 September 1801 – I would not have thought to find such a remarkable library hidden away in the basement. It includes several magnificent tomes on the most picturesque customs of our land.	一八〇一年九月十日 —— 我从未预料到在地下室会有如此卓越的图书馆，里面存放着数册精美的古籍，上面记录了这座岛上最为生动形象的风俗。
+ep7_brewery	ARY1	7 August 1801 – Words cannot express the gratitude that I feel for Aunt Máire's bequest—may her dear soul rest in peace. This house is just what I needed to still my nerves after the exhausting pace of life in Dublin.	一八〇一年八月七日 —— 我对于玛丽阿姨馈赠的感激之情不能用言语表达——希望她的在天之灵安息。这座房子就是我从都柏林快节奏生活退隐之后最好的休息场所。
+ep7_brewery	BRACE_REACT	It could be useful later.	这个东西之后会有用的。
+ep7_brewery	BRACE_INSPECT	A common carpenter's brace. A tool like this would be used for drilling holes in wood.	一把普通的木工钻头，用来在木料上钻洞的工具。
+ep7_alley	WCM_BRACE_UMBRELLA	There is only water in the rowboat, I don't need to empty it.	划艇里仅仅有水而已，我不需要把水舀干。
+ep7_alley	BTS_ROOF	No matter the strength of structure, all things succumb to time. But whether it was the ages or something else that ravaged this place, I cannot say.	无论建筑的结构有多么坚固，一切都会在岁月的磨砺下屈服。但是我不能确定究竟是时光还是其他东西蹂躏了这个地方。
+ep7_burntHouseExt	MAILBOX_CLOSED_INSPECT	A mailbox.	一个信箱。
+ep7_alley	BTS_DOGHOUSE	An empty dog house. Nothing has slept here in many years.	一个空荡荡的狗屋，里面有好多年没有东西住过了。
+ep7_alley	RAGON_CANNOT_GO_BACK	I should follow this masked person.	我应该跟上这个带着面具的男人。
+ep7_alley	WCM_BOTTEL_UMBRELLA	I don't need to fill the botle with water.	我不需要在瓶子里灌水。
+ep7_alley	UMBRELLA2_INSPECT	The water is so muddy that I can barely see the bottom of the trough.	泥水非常浑浊，看不清水槽底部。
+ep7_alley	UMBRELLA1_POSTCATCH	A worn-out umbrella. It doesn't look like it will rain anytime soon, but there might be a purpose for it.	一把破旧的伞。看上去未来几天不会下雨，但是说不定会有其它用处。
+ep7_alley	UMBRELLA1_INSPECT	An old rowboat filled with stale water	一条老旧的划艇，里面满是腐臭的污水。
+ep7_alley	ECO_BOAT	An old rowboat filled with stale water	一条老旧的划艇，里面满是腐臭的污水。
+ep7_burntHouseExt	MAILBOX_OPEN_INSPECT	There is nothing else here.	这里没有其它东西了。
+ep7_brewery	ARY_AFTER_INSPECT	Miss Laidcend must have found something abhorrent in her family's crypt. If I could find out what it was, I may learn more about the Cronemeadan. My intuition tells me that I must act tonight or else it will be too late.	莱德森德小姐一定是在家族地宫中找到了一些令人生厌的东西。如果我能调查出那是什么，我可能会更加了解望盈朔。我的直觉告诉我一定要在今晚行动，不然就太晚了。
+ep7_brewery	CTS_BREWERY_FIRST_TIME	I think this basement might have once housed a library. It looks like it was not burned as badly as the rest of the house. Even so, little here remains intact.	我想这间地下室一定容纳了一个图书馆。看上去它受火灾的毁坏比屋子的其它地方少多了。尽管如此，这里的东西也很少完好无缺。
+ep7_brewery	BTS_BED	It looks like some sort of makeshift bed, was kieran sleeping in this terrible lonely place?	这看上去是一张临时的床，难道基兰在这个可怕、孤寂的地方睡过觉吗？
+ep7_burntHouseExt	WICKERMAN_BURNTHOUSEEXT_BURNING_INSPECT	The wicker statue is burning. Who did this?	柳条人烧起来了。是谁点的火？
+ep7_burntHouseExt	WICKERMAN_BURNTHOUSEEXT_INSPECT	A wicker statue sporting a pair of animal horns. The twigs look fresh.	一个长着动物犄角的柳条人，枝条看上去还很新鲜。
+ep7_lightHouseInt	ECO_WOOD	A few logs and cords of firewood.	一些成条成片的柴火。
+ep7_lightHouseInt	ECO_STOVE	The small stove hardly manages to warm such a spacious room.	这个小壁炉很难使如此宽敞的房间暖和起来。
+ep7_lightHouseInt	LG_LIGHTROOM_DOOR1	I would like to visit the lightroom. May I?	我想去看看灯具室，可以吗？
+ep7_lightHouseInt	LG_LIGHTROOM_DOOR2	And what would you see up there? The mechanism is a mess, and there's not even a light anymore!	你想在上面看什么？机械装置一塌糊涂，而且灯具室里也没有灯了！
+ep7_lightHouseInt	LG_LIGHTROOM_DOOR4	I should like to visit the lightroom now, if I may.	如果可以的话，我想现在就去看看灯具室。
+ep7_lightHouseExt	WICKERMAN_LIGHTHOUSEEXT_FLOOR_INSPECT	The rope gave way just as I passed…	我经过的时候绳子刚好断了……
+ep7_lightHouseExt	ECO_DRYTREE	This tree looks like it has been dead for a long time.	看上去这棵树枯了很久了。
+ep7_lightHouseExt	ECO_TOWER	A strongly-built lighthouse. It looks like it is in very good condition, despite the thousands of storms that it must have withstood.	一座坚固的灯塔，看上去没有受什么损伤，尽管它已经经历了千万次狂风暴雨。
+ep7_lightHouseInt	LG_KEEPER_18	You say you had an accident? What happened?	你说发生了一次事故？发生什么了？
+ep7_lightHouseInt	LG_KEEPER_20_CH	And the lamp has not been fixed since?	从这以后灯就再也没有修好过？
+ep7_lightHouseInt	LG_KEEPER_20	Has nobody else tried to fix the lamp since?	从这之后就没有人修理过这盏灯了吗？
+ep7_lightHouseInt	LG_KEEPER_21	No, no one in the village is interested. For them, the more isolated éilís Mór is, the better. They do not care about ships or accidents, especially Lord Donnán. He sees anything coming from outside of the island as a threat.	不，村里没有人对此有任何兴趣。对他们来说，大埃利斯岛越与世隔绝越好。他们毫不关心过往船只的安全，尤其是多南领主。他把来自岛外的一切事物视为威胁。
+ep7_lightHouseInt	LG_KEEPER_13_CH	Do you know Lord Donnán?	你认识多南领主吗？
+ep7_lightHouseInt	LG_KEEPER_13	Do you know Lord Donnán personally?	你和多南领主有私交吗？
+ep7_lightHouseInt	LG_LIGHTROOM_DOOR5	Yes, yes. You already has my permission.	是的，是的。我允许你上去了。
+ep7_lightHouseInt	LG_KEEPER_22	Naturally! The Donnán family has ruled éilís Mór for generations.	当然了！多南家族几代以来都统治着大埃利斯岛。
+ep7_lightHouseInt	LG_KEEPER_23_CH	I would like to visit the lightroom anyway.	无论如何我都要去看一眼灯具室。
+ep7_lightHouseInt	LG_KEEPER_23	Might I go upstairs and see the lightroom? Even though the lamp is off, I should like to take a view of the surrounding countryside.	我能上楼看一眼灯具室吗？虽然灯关着，但是我还想看看周围的乡村风光。
+ep7_lightHouseInt	LG_KEEPER_24	Well, I do not think you will see anything, really. But if you are so interested... Yes, I guess you may.	嗯，我不觉得你会看到什么，真的。但如果你这么感兴趣的话……好的，去吧。
+ep7_lightHouseInt	LG_KEEPER_25_CH	I see.	我明白了。
+ep7_lightHouseInt	LG_KEEPER_25	I understand.	我明白了。
+ep7_lightHouseInt	LG_KEEPER_26_CH	I must go.	我该走了。
+ep7_lightHouseInt	LG_KEEPER_26	Thank you for the pleasant conversation. I must go.	和你聊天我很高兴，我该走了。
+ep7_lightHouseInt	LG_KEEPER_30	It cannot be! I never thought I would hear the rhythm of my beloved lighthouse working again.	这不可能！我之前从未想象过，有那么一天，我再也听不见我亲爱的灯塔工作时的声音了。
+ep7_lightHouseInt	LG_KEEPER_31	You don't know how grateful I am. For years I've longed to hear those marvelous sounds.	我对你的感激之情无以复加，这么多年来我对着美妙的乐音梦寐以求。
+ep7_lightHouseInt	LG_KEEPER_32	Memories of better times.	光辉年代的记忆。
+ep7_lightHouseExt	LIGHTHOUSEINT_LOCKED	No one is answering.	没有人应门。
+ep7_lightHouseExt	WICKERMAN_LIGHTHOUSEEXT_INSPECT	What a ghastly custom! This wicker man is in the shape of a hangman.	多么可怕的服装啊！柳条人居然被编成了吊死鬼的形状。
+ep7_lightHouseExt	WICKERMAN_LIGHTHOUSEEXT_BURNING_INSPECT	This wicker man has been set on fire too! Who keeps doing this?	这个柳条人也被点上火了！是谁一直在点火？
+ep7_lightHouseExt	WICKERMAN_LIGHTHOUSEEXT_FLOOR	Good Lord!	天哪！
+ep7_lightHouseInt	LG_KEEPER_6_CH	I am visiting the island.	我是来游览这座岛的。
+ep7_lightHouseInt	LG_KEEPER_5_CH	I got lost.	我迷路了。
+ep7_lightHouseInt	LG_KEEPER_12_CH	Why is the lamp not lit?	为什么灯塔没有点亮？
+ep7_lightHouseInt	LG_KEEPER_10	If you stand at the apex of that hill, over there, past the rocks, you will see the lights of the village.	如果你站在那座山的山顶上，就在那里，越过礁石，就能看到村庄的灯火。
+ep7_lightHouseInt	LG_KEEPER_9	I understand. After sunset, the hills of éilís Mór can be tricky. We have a saying here: 'In dusk, all paths change'.	我理解。日落后，大埃利斯岛的山路走起来很困难。我们当地人有句俗话：“黄昏将近，阡陌易途”。
+ep7_lightHouseInt	LG_KEEPER_5	I was taking a stroll, and I fear I got lost.	我是在四处探访，然后恐怕迷路了。
+ep7_lightHouseInt	LG_KEEPER_8	Well, it's not. Even though I can barely see a thing, this is my house.	好吧，它没有被遗弃。尽管我几乎什么都看不见，但这还是我的住所。
+ep7_lightHouseInt	LG_KEEPER_7	And since it's dark, you thought it to be abandoned?	因为灯塔没有发光，所以你就觉得它被遗弃了吗？
+ep7_lightHouseInt	LG_KEEPER_6	I am a visitor to éilís Mór. This lighthouse caught my eye.	我是到大埃利斯岛的一名游客。这座灯塔吸引了我的注意。
+ep7_lightHouseInt	LG_KEEPER_3	A stranger… And what would he want from me?	一个陌生人……你想要从我这里得到什么？
+ep7_lightHouseInt	LG_KEEPER2	My name is Wakefield.	我的名字叫威克菲尔德。
+ep7_lightHouseInt	LG_KEEPER1	Good evening. Would you happen to be the lighthouse keeper?	晚上好。你就是灯塔看守吗？
+ep7_lightHouseInt	BTS_PICTURE	A portrait of a bearded ship's captain, done in oils. The varnish has darkened his features considerably.	一幅油画人像，画的是一位长着胡子的船长。画上的清漆使他的外貌变得更加阴沉。
+ep7_lightHouseInt	BTS_KITCHEN	A drip of water, left unchecked, has ruined the mantle and collected into a small pool.	一滩无人注意的水侵蚀了幕墙，积成了一个小水池。
+ep7_lightHouseInt	ECO_CEILING	The ceiling is stained with humidity.	天花板因为潮湿出现了斑点。
+ep7_lightHouseInt	LG_KEEPER_44	Well, I’ll admit I’m not sure what happened to the boy... But one thing I'm sure of, this 'Festival of Reunion' is nothing but a farce. And it would be just so easy to prove it...	好吧，我承认我不知道那个男孩怎么了……但是我很确定一件事，这个所谓的“重逢节”纯属一场闹剧。证明我的观点易如反掌……
+ep7_lightHouseInt	LG_KEEPER_41	What of Kieran's disappearance, then?	那么，基兰的失踪又如何解释呢？
+ep7_lightHouseInt	LG_KEEPER_41_CH	What of Kieran's disappearance?	基兰的失踪又如何解释呢？
+ep7_lightHouseInt	LG_KEEPER_51	Exactly! What do you think would happen if you unburied them mirrors? That a band of goblins would come out of the marshes to steal them? Nothing but nonsense.	就是这样！你觉得如果把镜子挖出来会怎么样？一群哥布林会从沼泽里冒出来偷走镜子？荒谬，荒谬至极。
+ep7_lightHouseInt	LG_KEEPER_50	Well, I did see a group of people in the village burying mirrors.	没错，我的确见过村子里的一群人在埋镜子。
+ep7_lightHouseInt	LG_KEEPER_49	But sure it’s all nonsense! Look, it’s really easy to prove it all wrong: just don’t follow the rituals. You’re a stranger to our ways, but have you seen any of the things I mentioned?	但这一切都是胡扯！其实很容易就能证明这一切都是错误的：不要进行所谓的仪式。你对于我们的传统还很陌生，但是你一定见过我提到的种种现象吧？
+ep7_lightHouseInt	LG_KEEPER_48	Look, folks here are too gullible, they’ll do anything to protect themselves from their strange fears. They’ll not eat corn, nor drink milk, or they'll dig graves for their mirrors. And of course, they’ll avoid standing near a fearnóg too long because, though the fiends cannot touch the tree, they're attracted to the smell of its resin.	你看，这里的村民十分轻信流言，他们会不顾一切保护自己，不受他们奇特的恐惧侵扰。他们不吃谷物，不喝牛奶，或者把镜子埋在地底。当然，他们不会站在水清风下太久，因为他们认为即使恶魔无法触碰这种树，也会被它的树脂的香气吸引。
+ep7_lightHouseInt	LG_KEEPER_47	What do you mean?	你是什么意思？
+ep7_lightHouseInt	LG_KEEPER_46	I just find it a bit suspicious that it happened so close to the Reunion. It’s too easy to be keeping secrets during the festival, being how everyone is afraid of leaving the village those nights.	如此临近重逢仪式的关头，基兰突然失踪了，我觉得很可疑。节日期间有什么秘密再简单不过了，因为现在大家都不敢在晚上离开村子。
+ep7_lightHouseInt	LG_KEEPER_45	A tragedy, it was. A strange one, but a tragedy nonetheless.	没错，那真是个悲剧。十分奇异的一场悲剧，但至始至终都是悲剧。
+ep7_lightHouseInt	LG_KEEPER_39	Do you know anything about the disappearance of Lord Donnán's son?	你知道多南领主之子失踪的来龙去脉吗？
+ep7_lightHouseInt	LG_KEEPER_39_CH	Kieran's disappearance.	基兰的失踪。
+ep7_lightHouseInt	LG_KEEPER_37	What was so strange about Kieran's disappearance?	基兰的失踪有什么奇怪的？
+ep7_lightHouseInt	LG_KEEPER_37_CH	Kieran's disappearance was strange?	基兰的失踪经过很奇怪吗？
+ep7_lightHouseInt	MAYBE_ASK	Maybe I could persuade him to allow me up there...	说不定我能说服他让我上去看看……
+ep7_lightHouseInt	LG_KEEPER_12	Why is the lighthouse lamp not lit? Is it not dangerous for the ships?	为什么没有点亮灯塔？这对于来往的船只不是很危险吗？
+ep7_lightRoom	BUTTON_OFF_INSPECT	This switch seems to be related to the lighthouse's electric lamp.	这个开关似乎能操控灯塔的电灯。
+ep7_lightRoom	SPOTLIGHT_ON	The lighthouse's lamp, surrounded by eight large lenses. It is now on, but pointing out to sea.	灯塔的灯具，四周环绕着八个巨大的透镜。现在灯打开了，但是朝向大海的方向。
+ep7_lightRoom	LIGHT_ROTOR_ON	Even though the reflector's spin mechanism is working, the lamp is still off.	虽然反射镜可以转动了，但灯还是熄灭的。
+ep7_lightRoom	LIGHTROOM_OFF	The lighthouse's lamp, surrounded by eight large lenses. It is off.	灯塔的灯具，四周环绕着八个巨大的透镜。灯熄灭了。
+ep7_lightRoom	LIGHTROOM_ON	The lighthouse is working properly again. With luck, its light will now help me find the mural in the old abbey.	灯塔又能正常工作了。说不定灯光能帮助我在老修道院找到壁画。
+ep7_lightRoom	MACHINE_FIXED	The cog was the missing piece of the mechanism. It has been replaced and the mechanism has been well oiled. It was easy to wind and now it is back to life!	齿轮就是整个机械缺失的一部分。现在齿轮被放了回去，润滑油也涂好了。整部机械转起来很容易，焕发着新生命！
+ep7_lightRoom	ONLY_OIL_APPLIED	The mechanism has been thoroughly oiled, but something is still missing.	机械完全涂上了润滑油，但是还缺少什么东西。
+ep7_lightRoom	MACHINE_BROKEN	The clockwork mechanism that causes the lamp's reflector to spin. However, I think that something is missing. It could do with some oiling as well.	发条装置可以使灯具的反射镜转动起来。但是我觉得似乎缺了什么东西。发条也需要上一点油。
+ep7_lighthouseTree	LIGHTHOUSEKEEPER_INSPECT_2	There is a dim light inside.	里面有一丝昏暗的灯光。
+ep7_lighthouseTree	WCB_CONTANIER_LIGHTHOUSETREE	I would rather leave it intact.	我最好让它保持完整。
+ep7_lighthouseTree	WCB_OIL_LIGHTHOUSETREE	There is no need to oil the pipe.	给管道上油毫无必要。
+ep7_lighthouseTree	WCB_LINK_LIGHTHOUSETREE	I cannot use the ring here.	我不能在这里使用戒指。
+ep7_lighthouseTree	WCB_UMBRELLA_LIGHTHOUSETREE	The umbrella will hardly be of use to me here.	雨伞在此对我毫无帮助。
+ep7_lighthouseTree	WCB_RIBBON_LIGHTHOUSETREE	Tie up the ribbon to the pipe has no much sense.	把丝带绑在管道上没有什么用。
+ep7_lighthouseTree	WCB_BRACE_LIGHTHOUSETREE	The brace cannot drill through metal.	木钻不能在金属上钻孔。
+ep7_lighthouseTree	GONG_REACT_AFTER_SOLVE	I do not need to make more noise.	我不需要再制造响声了。
+ep7_lighthouseTree	LIGHTHOUSE_DOOR_OPEN	It sounds like it attracted someone's attention downstairs.	看上去楼下的某个人注意到了响声。
+ep7_lighthouseTree	LIGHTHOUSEKEEPER_ABSENT_INSPECT	There is a dim light inside.	里面有一丝昏暗的灯光。
+ep7_lighthouseTree	LIGHTHOUSEKEEPER_INSPECT	Someone is inside! Maybe I could make some kind of noise to attract their attention.	有人在灯塔里！说不定我能弄出点声音吸引他的注意。
+ep7_lighthouseTree	GONG_INSPECT	Maybe by making some noise, I will be able to attract the attention of the person inside the lighthouse.	说不定我弄出点响声，就能吸引灯塔里的人的注意力。
+ep7_lighthouseTree	LIGHTHOUSETREE_INSPECT	A wide copper pipe runs from the tower to the ground. It is covered in salt and seaweed.	一根粗铜管从塔顶通到地面。上面布满了海盐和海藻。
+ep7_lightHouseInt	LG_KEEPER_18_CH	An accident?	是事故吗？
+ep7_lightHouseInt	LG_KEEPER_19	I was checking the lenses, because the failure looked so very strange and I was worried. All of a sudden, the light must have gone on; I was blinded and can see nothing but fleeting shapes ever since.	因为这次故障很奇怪，我很担心，于是我检查了灯具的透镜组。突然，灯打开了；我被光芒刺中了眼，从此之后只能看见模糊的影子。
+ep7_lightHouseInt	LG_KEEPER_17	Precisely that. One stormy afternoon, I suddenly heard a strong noise up in the lightroom. The clockwork mechanism had stopped working and the lamp was off! I had never seen a failure like that. I could not get the lighthouse working again.	一点没错。一个狂风暴雨的下午，我听见灯具室里传来一声巨响。发条机械停工了，灯也灭了！我之前从未见过那样的故障。我倾尽全力也无法恢复灯塔运作。
+ep7_lightHouseInt	LG_KEEPER_16	Was there a failure in the lamp's mechanism?	是机械故障吗？
+ep7_lightHouseInt	LG_KEEPER_16_CH	Was there a failure in the mechanism?	是机械故障吗？
+ep7_lightHouseInt	LG_KEEPER_14	Do not let it concern you—many years ago, the sea lanes were altered to avoid this coast. Now it's rare indeed to see a ship in these waters. After the accident, the lighthouse was never repaired.	不要担心——很多年前，海路就已经改道，避开这片滩涂。现在，在这片海域已经很少看到有船经过了。在那次事故后，灯塔也从未有人修理过。
+ep7_lightRoom	BUTTON_ON_INSPECT	The lamp is on.	灯打开了。
+ep7_lightRoom	BATTERYPOST_INSPECT	It looks like the lighthouse's electric lamp battery slot.	这像是灯塔电灯的电池孔。
+ep7_lightRoom	ONLY_GEAR_INSTALLED	The cog was the missing piece of the mechanism. I have replaced it. However, the mechanism is still too rusty to move.	齿轮就是整部机械缺失的部分。我已经把齿轮装上了。但是机械磨合十分不顺畅，无法运作。
+ep7_menus	START_BT_CONTINUE	Continue	继续游戏
+ep7_menus	START_BT_NEWGAME	New Game	新游戏
+ep7_map	MAP_VILLAGE	Village	村庄
+ep7_map	MAP_MANOR	Donnán Manor	多南宅邸
+ep7_map	MAP_HOLEHILL	Hills	山区
+ep7_map	MAP_BURNTHOUSEEXT	Solitary House	孤房
+ep7_map	MAP_LIGHTHOUSE	Lighthouse	灯塔
+ep7_map	MAP_RUINS	Old Abbey	老修道院
+ep7_lightroomBattery	BATTERYCHARGED_INSPECT	The battery is now charged and connected.	电池充满电了，也连接上了。
+ep7_lightroomBattery	BATTERY_AGAIN_ON_POST	I have reattached the battery, but it is still flat.	我把电池又接上了，但里面还是没有电。
+ep7_lightroomBattery	BATTERY_CHARGED	Hopefully, the battery has enough charge to keep the lighthouse lit for a few hours.	希望电池里的电足够点亮灯塔几个小时。
+ep7_lightroomBattery	WRONG_COMBO_BATTERY_NOT_CHARGED	It is not yet recharged.	电池还没有充好电。
+ep7_lightroomBattery	BATTERY_REACT	Perhaps I can find a way to recharge the battery.	说不定我能找到办法给电池充电。
+ep7_lightroomBattery	NO_BATTERY_INSPECT	I have the battery. I must find a way to recharge it.	我有电池了，现在要找到办法给它充电。
+ep7_lightroomBattery	BATTERY_INSPECT	It looks like the lamp is powered by an electric battery. However, the battery is flat.	看上去灯是由电池提供能源的。但是电池里没有电了。
+ep7_lightRoom	ECO_ISLANDS	A thick layer of mist covers the sea out there.	一层厚厚的迷雾笼罩着远处的大海。
+ep7_lightRoom	RIBBON_STOP_LEAK	Now I can oil the mechanism without worrying for it leaking.	现在我可以给机械加油，不用担心漏油了。
+ep7_lightRoom	OIL_LEAK	There is a little hole in the tank and the oil is leaking. The mechanism will not work properly unless I fix it.	油箱上有个小洞，正在漏油。只有修好它，机械才能正常运作。
+ep7_lightRoom	WCB_BATERYCH_MACHINERY	It is a clockwork mechanism. It works by winding it by hand. Or it would, were it not missing a piece.	这是一套发条装置。可以通过手摇启动，或者说原本可以，如果没有缺一个部分的话。
+ep7_lightRoom	WCB_GEAR_LIGHT	A gear won't turn the lamp on. I need to charge its battery somehow.	单单一只齿轮是打不开灯的，我需要以某种方式给电池充电。
+ep7_lightRoom	WCB_CHAINFIXED_LIGHT	I need to charge the battery somehow.	我需要以某种方式给电池充电。
+ep7_lightRoom	WCB_CHAINBROKEN_LIGHT	I need to charge the battery somehow.	我需要以某种方式给电池充电。
+ep7_lightRoom	WCB_BRACE_LIGHT	I need to charge the battery somehow.	我需要以某种方式给电池充电。
+ep7_lightRoom	WCB_BRACE_MACHINERY	That is out of the question.	这绝不可能。
+ep7_lightRoom	WCB_BATERY_MACHINERY	It is a clockwork mechanism. It works by winding it by hand. Or it would, were it not missing a piece.	这是一套发条装置。可以通过手摇启动，或者说原本可以，如果没有缺一个部分的话。
+ep7_lightRoom	WCB_CHAINFIXED_MACHINERY	Chains are not part of the mechanism.	链条不是机械的一部分。
+ep7_lightRoom	WCB_CHAINBROKEN_MACHINERY	Chains are not part of the mechanism.	链条不是机械的一部分。
+ep7_lightRoom	WCB_LINK_MACHINERY	I do not think the ring would serve that purpose.	我不觉得戒指能这样使用。
+ep7_lightRoom	BATTERYPOST_SPOTLIGHTON_INSPECT	The lamp is already on.	灯已经打开了。
+ep7_menus	CHAPTER_TITLE	Season Two: Episode Three?
+- The Reunion -	第二季：第三集?
+- 重逢 -
+ep7_menus	CREDITS_SLIDE9_NAME	Jozski	Jozski
+ep7_menus	CREDITS_SLIDE8_NAME	Michaelcthulhu	Michaelcthulhu
+ep7_menus	CREDITS_SLIDE7_NAME	05ltonkinm	05ltonkinm
+ep7_menus	CREDITS_SLIDE6_NAME	Kathrarg	Kathrarg
+ep7_menus	ARRIVAL_THINK	I can see the island in the distance. éllís Mór.	我可以看见远处的那座岛。大埃利斯岛。
+ep7_menus	CREDITS_ADVENTURECONTINUES	The adventure continues in	冒险仍将继续
+ep7_menus	CREDITS_NEXTEPISODE	Season finale	季度完结篇
+ep7_menus	CREDITS_SLIDE0	The Last Door SE02E03 was released on August 17th, 2015	《最后一扇门》第二季第三集于2015年8月17日发布
+ep7_menus	CREDITS_SLIDE1	Kitchen Furniture description by	厨房家具描述提供者
+ep7_menus	CREDITS_SLIDE2	Swing description by	秋千描述提供者
+ep7_menus	CREDITS_SLIDE3	Grave description by	坟墓描述提供者
+ep7_menus	CREDITS_SLIDE4	Picture description by	图片描述提供者
+ep7_menus	CREDITS_SLIDE5	Picture description by	图片描述提供者
+ep7_menus	CREDITS_SLIDE6	Doghouse description by	狗屋描述提供者
+ep7_menus	CREDITS_SLIDE7	Roof description by	屋顶描述提供者
+ep7_menus	CREDITS_SLIDE8	Bed description by	床铺描述提供者
+ep7_menus	CREDITS_SLIDE9	Statue description by	雕像描述提供者
+ep7_menus	CREDITS_SLIDE10	Window description by	窗户描述提供者
+ep7_menus	CREDITS_SLIDE1_NAME	Shepherd	Shepherd
+ep7_menus	CREDITS_SLIDE2_NAME	Jozski	Jozski
+ep7_menus	STARTOPS_ACCESSIBILITY	Accesibility options	访问选项
+ep7_menus	CREDITS_SLIDE3_NAME	His Dudeliness	His Dudeliness
+ep7_menus	STARTOPS_HEADPHONES	Headphones and dark environment recommended	建议佩戴耳机，在黑暗环境下游玩。
+ep7_menus	CREDITS_SLIDE4_NAME	ameaulnes	ameaulnes
+ep7_menus	CREDITS_SLIDE5_NAME	redrubin	redrubin
+ep7_menus	STARTOPS_WHILEPLAYING	While playing:	游玩途中：
+ep7_menus	STARTOPS_DYSLEXIA	Press '1': Enable/disable dyslexia-friendly font.	按“1”：打开/关闭读写障碍综合征可用字体（中文模式下不可用）
+ep7_menus	STARTOPS_CC	Press '2': Enable/disable sound descriptions [cc].	按“2”：打开/关闭声音描述[字幕]。
+ep7_menus	STARTOPS_CONTINUE	Click to continue	点击继续
+ep7_millExt	WCB_BATERY_DINAMO	The mill wheel is too powerful. It could overcharge the battery.	磨房水车功率太大了，会使电池充电过剩的。
+ep7_millExt	BIKE_2_INSPECT	It is a safety bicycle. I still do not understand how they manage to keep balance with such small wheels.	这是一部安全自行车。我还不是很明白如何用这么小的轮子保持平衡的。
+ep7_millExt	BIKE_INSPECT	It is a safety bicycle. I still do not understand how they manage to keep balance with such small wheels.	这是一部安全自行车。我还不是很明白如何用这么小的轮子保持平衡的。
+ep7_millExt	BIKE_REACT	I may find a way to fix this chain.	我必须找到一个方法修好链条。
+ep7_millExt	CHAINFIXED_ON_BIKE	I think it is now fixed.	我想现在自行车已经修好了。
+ep7_millExt	PLAYROOM_LOCKED	Kieran's Playroom' is written on the door in hand-painted letters. The door is locked.	门上手绘着“基兰的儿童房“几个字。门锁着。
+ep7_millExt	BATTERY_CHARGED	I managed to charge the battery by attaching the dynamo to the bicycle's cog.	我把发电机接在了自行车齿轮上，把电池充满电了。
+ep7_millExt	BATTERY_COMBINATION	Now that the bicycle is fixed… if I attach one of its cogs to the battery's dynamo, I may be able to provide it with a charge.	现在自行车修好了……如果我把一个齿轮接在电池发电机上的话，我说不定能给它充电。
+ep7_millExt	BATTERY_COMBINATION_NO_CHAINFIXED	With the bicycle's chain broken, any experiment is hopeless.	现在自行车的链条断了，任何操作都是徒劳。
+ep7_millExt	ECO_WATERWHEEL	The mill wheel. Something is preventing it from spinning.	磨坊的水车。有什么东西阻止它转动。
+ep7_millExt	WCB_CHAINBROKEN_BIKE	This chain is still broken.	链条还是坏的。
+ep7_millExt	WCB_GEAR_BIKE	The wheel does not need another cog.	轮盘不需要加上齿轮。
+ep7_millExt	WCB_RIBBON_BIKE	I cannot use the ribbon to fix the bicycle.	丝带修不好自行车。
+ep7_millExt	WCB_OIL_BIKE	The bicycle is well-oiled as it is.	自行车不需要润滑油。
+ep7_millExt	WCB_LINK_BIKE	The ring could replace the chain's missing link. I should try putting it on the bicycle.	戒指能替代链条缺失的一环。我应该试着把它安装在自行车上。
+ep7_millExt	WCB_BRACE_BIKE	This is preposterous.	这太荒谬了。
+ep7_millExt	WCB_BATTERY_WATERWHEEL	The mill wheel is too big to help me charge this battery.	磨坊的水车太大了，没有办法给电池充电。
+ep7_millExt	WCB_BRACE_WATERWHEEL	I would rather not drill the mill wheel.	我最好不要给水车钻孔。
+ep7_millExt	WCB_UMBRELLA_WATERWHEEL	I do not see how that would help.	我不知道那有什么用。
+ep7_millExt	WCB_CHAINBROKEN_WATERWHEEL	I do not see how that would help.	我不知道那有什么用。
+ep7_millExt	WCB_CHAINFIXED_WATERWHEEL	I do not see how that would help.	我不知道那有什么用。
+ep7_millExt	WCB_OIL_WATERWHEEL	The mill wheel does not appear to require oiling.	水车似乎不需要上油。
+ep7_millExt	WCB_BRACE_MILLEXTDOOR	I cannot use the brace to open the door.	我不能用木钻开门。
+ep7_millExt	ABOUT_STATUE_BROKEN_SOUND	What was that sound?	那是什么声音？
+ep7_millExt	ECO_WATERWHEEL_2	It seems the mechanism works properly now.	看上去机械工作正常了。
+ep7_millExt	NSPECT_DINAMO	A strange mechanism runs from the mill wheel's shaft into the building. It seems to be lacking a small piece.	一个奇特的机械从磨坊水车连到建筑内。看上去它少了一部分。
+ep7_millExt	WCB_BATERYCH_DINAMO	The batery is already charged.	电池已经充好电了。
+ep7_millExt	MUST_FOLLOW_DRAGON	I should check the mill before I leave.	我应该在离开之前检查一下水车。
+ep7_millExt	BTS_SWING	The noise of the swing, gently being moved by the wind, is the only thing breaking the silence.	清风荡起秋千，摇摆的声响就在耳边，打破了无限的寂静。
+ep7_menus	CREDITS_SLIDE10_NAME	Futurekubik	Futurekubik
+ep7_parlour	LG_PARLOUR_QUESTIONS_6_CH	Thank you for your invitation.	感谢您的邀请。
+ep7_parlour	LG_PARLOUR_QUESTIONS_5	Yes, it is. Although some historians might disagree, we believe that this manor was built atop an ancient Roman villa. In our traditions, the double serpent represents a sentinel that protects us from the terrible threat hidden within itself.	没错，尽管一些历史学家对此持异议，但是我们相信这座大宅是奠基于一座古罗马别墅的遗址上的。在我们的传统文化里，双蛇代表着一名守护我们，同时压制他自身隐藏的邪恶的哨兵。
+ep7_parlour	LG_PARLOUR_QUESTIONS_3	Well, I… I cannot help noticing this remarkable mosaic. It looks authentic.	好吧，我……我无法不注意到这幅画，它看上去很真实。
+ep7_parlour	LG_PARLOUR_QUESTIONS_3_CH	Snakes mosaic.	蛇镶嵌画。
+ep7_parlour	LG_PARLOUR_QUESTIONS_4	They are the panels of the first king of éilís Mór. In the days of the druids, we worshipped the great god Lugh, and our kings did right by those beliefs.	那些是大埃利斯岛第一位国王的嵌板。在德鲁伊教的时代，我们崇拜的是巨神鲁，我们的国王根据信仰做出了正确的决定。
+ep7_parlour	LG_PARLOUR_QUESTIONS_2	Do these panels on the wall represent a classical theme? I cannot seem to place it.	墙上的嵌板有什么古老的含义吗？我根本无法理解。
+ep7_parlour	LG_PARLOUR_QUESTIONS_2_CH	Engraved panels.	刻着字的嵌板。
+ep7_parlour	WINDOW_INSPECT	An odd mosaic adorns the floor. It depicts two snakes biting each other.	一幅奇特的马赛克镶嵌画装点着地面，描绘着两条互相噬咬的蛇。
+ep7_parlour	PICTURE_PARLOUR_INSPECT	There are two engraved panels on the wall. They appear to be ancient, but I cannot decipher their meaning.	墙上有两块刻着字的嵌板。他们看上去十分古老，但是我无法解读它们的含义。
+ep7_parlour	LG_FIRST_CONVERSATION_7	…But I should not bore you with the details. You shall have occasion to see for yourself.	……但是细节太繁琐了。你应该自己去看看。
+ep7_parlour	LG_FIRST_CONVERSATION_6	According to tradition, for the next three nights, the spirits of Reunion leave the confines of the Other Side and roam the hills of éilís Mór. We wear costumes and masks so that the spirits will not recognize us and make us the targets of their mischief. Certain rites take place, too…	根据传统，接下来的三个夜晚，重逢之魂灵会脱离彼端的限制，在大埃利斯岛的群山中游荡。我们穿上奇装异服，戴上面具，这样魂灵们就不会注意到我们，也不会作弄我们。我们也会进行某些仪式……
+ep7_parlour	LG_FIRST_CONVERSATION_5	Fascinating. May I ask, what does it entail?	真是引人入胜。我能不能冒昧的问一下，重逢节包括哪些内容？
+ep7_parlour	LG_FIRST_CONVERSATION_8	We call it the Festival of Reunion.	我们称之为重逢节。
+ep7_parlour	LG_FIRST_CONVERSATION_4	Well, if it’s distractions you’ve come looking for, you’ve chosen the right time of year for it. These days we celebrate a very special tradition of our kin. Something unique.	好吧，如果你是来转移注意力的，你来得正好。我们近些天正在庆祝我们族内十分特殊的庆典，非常独特。
+ep7_parlour	LG_FIRST_CONVERSATION_3	I see.	我明白了。
+ep7_parlour	LG_FIRST_CONVERSATION_2	Yes, indeed. I have come to enjoy a rest somewhere far from the stresses of city life.	是的，没错。我是来远离城市生活压力休养生息的。
+ep7_parlour	LG_FIRST_CONVERSATION_1	Well, Dr Wakefield. You are here on holiday, then?	好吧，威克菲尔德医生，那么你是在这里度假是吗？
+ep7_parlour	CARPET_INSPECT	An odd mosaic adorns the floor. It depicts two snakes biting each other.	一幅奇特的马赛克镶嵌画装点着地面，描绘着两条互相噬咬的蛇。
+ep7_parlour	LG_PARLOUR_QUESTIONS_14	It is Lugh Lámhfhada, a hero and High King of our myths.	那是鲁·拉巴达，我们传说中的英雄和至高无上的王。
+ep7_parlour	LG_PARLOUR_QUESTIONS_13	The statue is remarkable. May I ask what it represents?	这尊雕像很引人注意，它代表什么？
+ep7_parlour	LG_PARLOUR_QUESTIONS_13_CH	The statue.	雕像。
+ep7_parlour	SCULPTURE_INSPECT	A large statue of a person. It is so eroded by the passage of time, it is difficult to tell any specific detail.	一尊巨大的人像，在时间的侵蚀下，很难分辨出任何细节。
+ep7_parlour	ECO_TEA	An exotic blend of black tea.	一种异域进口的红茶。
+ep7_parlour	ECO_STATUE	A large statue of a person. It is so eroded by the passage of time, it is difficult to tell any specific detail.	一尊巨大的人像，在时间的侵蚀下，很难分辨出任何细节。
+ep7_parlour	LG_LORD_PARLOUR_35	Let us take a walk by the lake. From there we can see the beauty of the island as we talk, and be the better for it.	我们一起在河边走一走吧。我们可以边聊边欣赏岛屿的美丽，这样最好了。
+ep7_parlour	LG_LORD_PARLOUR_34	I see.	我明白了。
+ep7_millExt	WCB_OIL_DINAMO	The mechanism does not appear to require oiling.	这个机械不需要上油。
+ep7_parlour	LG_LORD_PARLOUR_26	I had a religious upbringing, but my experience as a psychiatrist has led me to doubt certain tenets of faith.	我在宗教氛围中长大，但是我作为一名心理医生，我对于宗教教义还是有所怀疑。
+ep7_parlour	LG_LORD_PARLOUR_26_CH	I am not sure.	我不确定。
+ep7_millExt	NSPECT_DINAMO2	Now the water wheel is working.	现在水车转了起来。
+ep7_parlour	LG_PARLOUR_QUESTIONS_6	My sincere thanks for your warm welcome.	感谢您的热情款待。
+ep7_pendulum	FT_PENDULUM_5	but it was not... that of an animal	但那不是……禽兽的哭号
+ep7_pendulum	FT_PENDULUM_4	but it was not... that of an animal	但那不是……禽兽的哭号
+ep7_pendulum	FT_PENDULUM_3	Its... terrible.. screech	它的……可怕的……尖啸
+ep7_pendulum	FT_PENDULUM_2	I think... I can remember...	我想……我还记得……
+ep7_pendulum	FT_PENDULUM_1	This... I can not...	这……我不能……
+ep7_passage	CANT_GO_BACK	No. I will not relent now.	不。我现在不能退缩。
+ep7_passage	ENTER_THINK	The tunnel descends deep into the earth. Will I find the Laidcend crypt at the bottom, or... something... Dear God, I am reeling. Kaufmann, my friend, your faith in me was misplaced! I cannot… No. I will... persevere.	隧道深深地钻进了地底。我会不会发现下面埋藏着莱德森德的地宫，或者……某种东西……天哪，我有些眩晕。考夫曼，我的朋友，我辜负了你对我的信任！我不能……不。我要……坚持。
+ep7_parlour	LG_LORD_PARLOUR_25	I consider myself to be a man of science, but some phenomena can be explained only by the existence of an Unmoved Mover.	我自认为是一个信仰科学的人，但是一些现象只能用上帝存在来解释。
+ep7_parlour	LG_LORD_PARLOUR_25_CH	There must be an Unmoved Mover.	上帝一定存在。
+ep7_parlour	LG_LORD_PARLOUR_24	Do not get me wrong, I am a man of science. But during my upbringing, the Lord's word was a constant.	不要误解我，我是信仰科学的。但是我从小耳边就充满了上帝的话语。
+ep7_parlour	LG_LORD_PARLOUR_24_CH	I have been educated in faith.	我受过宗教教学。
+ep7_parlour	LG_LORD_PARLOUR_22	I have not yet found a religion that provides the answers I seek.	我还没有找到一个能提供我所寻求的答案的宗教。
+ep7_parlour	LG_LORD_PARLOUR_22_CH	I am not a man of faith.	我还不是一名教徒。
+ep7_parlour	LG_LORD_PARLOUR_29	Nevertheless, I have come to understand that reality sometimes overcomes our ability to understand it.	尽管如此，我明白有时候事实会超出我们的理解范围。
+ep7_parlour	LG_LORD_PARLOUR_21	As a scholar of the human mind, I consider religions to be nothing more than social artifacts that are designed to influence ideologies.	作为一名研究人类心理的学者，我认为宗教只是一种为了改变意识形态而被创造出来的社会文物。
+ep7_parlour	LG_LORD_PARLOUR_21_CH	Religion means nothing to me.	宗教对于我并不意味着什么。
+ep7_parlour	LG_LORD_PARLOUR_30	Everything else is mere superstition, a result of fear of the unknown.	其他的一切都只是迷信，一种未知导致的恐惧。
+ep7_parlour	LG_LORD_PARLOUR_20	My only faith is the belief that all phenomena can be explained through rational inquiry.	我唯一的信仰是一切现象都可以通过理性推导得出。
+ep7_parlour	LG_LORD_PARLOUR_20_CH	I am a man of science.	我的信仰是科学。
+ep7_parlour	LG_LORD_PARLOUR_15	You seem so certain. Might I ask why?	你看上去很肯定，我能问为什么吗？
+ep7_parlour	LG_LORD_PARLOUR_18	You seem so certain. Might I ask why?	你看上去很肯定，我能问为什么吗？
+ep7_parlour	LG_LORD_PARLOUR_13	Yes, I do.	是的，没错。
+ep7_parlour	LG_LORD_PARLOUR_13_CH	Yes.	是的。
+ep7_parlour	LG_LORD_PARLOUR_14	No, I do not.	不，我不是。
+ep7_parlour	LG_LORD_PARLOUR_14_CH	No.	不是。
+ep7_parlour	LG_LORD_PARLOUR_11	Please forgive my indiscretion, but do you consider yourself a religious man, Dr Wakefield?	我冒昧地问一句，威克菲尔德医生，你是否自认为是一名教徒？
+ep7_parlour	LG_LORD_PARLOUR_36	It is true that we in éilís Mór cleave to the ancient traditions. We haven’t lost touch like some of those on the mainland. But I am no expert. If you are really interested, you should talk to Miss Foster.	我们大埃利斯岛上的居民的确坚守传统。我们和本土不同，还没有脱离传统。但我并不是专家。如果你很感兴趣的话，你应该和佛斯特女士谈谈。
+ep7_parlour	LG_LORD_PARLOUR_37	You seem to be knowledgeable about éilís Mór's folklore. I should very much like to learn about the island's history in more detail.	你似乎对大埃利斯岛的民俗有很深的学问。我很想详细了解这座岛的历史。
+ep7_parlour	LG_PARLOUR_QUESTIONS_7	You need not thank me. I simply observe our traditions.	你不需要谢我，我只是在遵从传统。
+ep7_quay	BOTTLE_LETTER	Gods remain silent as the fog settles.?
+We may look for the king beyond the clouds,?
+But find the queen with a fiery crown.	雾沉之时，神祇缄默。?
+云端之王，吾辈求索。?
+耀冠之后，幕后静坐。
+ep7_quay	ARRIVAL_THINK_3	As Kaufmann emphasized, I must exercise discretion. For all I know, the Playwright is watching.	正如考夫曼所强调的，我必须慎重行动。剧作家可能在什么地方看着我。
+ep7_quay	ARRIVAL_THINK_2	According to Kaufmann's letter, the legendary Cronemeadan can be found here.	根据考夫曼的信件，传说中的望盈朔就在此处。
+ep7_quay	ARRIVAL_THINK_1	éilís Mór.	大埃利斯岛。
+ep7_quay	NVITATION_CONTENT	To our most recent visitor, Mr Wakefield,?
+?
+It is customary in éilís Mór to welcome strangers with hospitality. I should be honoured if you would accept this invitation to join me at my manor for dinner and amiable conversation.?
+?
+Your new friend,?
+Lord Donnán	致我们最近到访的客人，威克菲尔德先生：?
+?
+在大埃利斯岛，盛情招待陌生人是一项传统。如果您能接受邀请，莅临寒舍，与我共进晚餐，谈天说地，将是我莫大的荣誉。?
+?
+您的新朋友，?
+多南领主
+ep7_quay	LG_MESSENGER_4	Lord Donnán?	多南领主？
+ep7_quay	LG_MESSENGER_3	I've a message from Lord Donnán.	多南领主有一条口信。
+ep7_quay	LG_MESSENGER_2	I am.	我就是。
+ep7_quay	LG_MESSENGER_1	Excuse me, are you Mr Wakefield?	不好意思，你是威克菲尔德医生吗？
+ep7_quay	BOTTLE2_INSPECT	The glass has been tumbled and frosted by its time in the sea.	在大海里的长时间漂流、颠簸使玻璃瓶表面变白了。
+ep7_quay	BOTTLE_REACT	The bottle contains a fragment of a poem.	瓶子里放着一首诗的残篇。
+ep7_quay	BOTTLE_INSPECT	A bottle is floating on the water. It is caught in the seaweed, just out of reach. I think there is something inside.	水里漂浮着一只瓶子。它被卷在了水草中，刚好无法触及。里面似乎有什么东西。
+ep7_playRoom	LEVER_REACT_MILL_FIXED	...	……
+ep7_playRoom	LEVER_REACT_MILL_NOT_FIXED	I believe the mechanism is not working properly.	我觉得这组机械工作不正常。
+ep7_pendulum	FT_PENDULUM_6	there was something... human in it	声音中有一丝……人性
+ep7_playRoom	LEVER_NOTHING_HAPPENED	Apparently, the lever is not working.	拉杆很明显坏了。
+ep7_playRoom	KIERAN_INSPECT	I can hear something wandering in the dark. I can see... a deformed shadow in there, writhing and fidgeting... I cannot... I cannot get any closer!	我听见黑暗中有什么东西在游荡。我看见……那里有一个残缺的影子，扭曲、颤抖……我不能……我不能再靠近了！
+ep7_playRoom	ECO_HANGING_STUFF	Celestial bodies made out of paper.	纸做的天体。
+ep7_playRoom	ECO_RIGHT_ROLL	A painted man-sized wooden doll, It represents an old lady.	一只手绘的真人大小木娃娃，画的是一位老妇人。
+ep7_playRoom	ECO_LEFT_DOLL	A painted man-sized wooden doll, It represents a king.	一只手绘的真人大小木娃娃，画的是一位国王。
+ep7_playRoom	ECO_LAMP	A doll's theatre lamp spinning around.	一个洋娃娃的剧场灯正在旋转。
+ep7_playRoom	RAGONMASK2_INSPECT	Its hollow eyes bore into me.	它空洞的双眼直瞪着我。
+ep7_playRoom	RAGONMASK_REACT1	Something is underneath the mask.	面具下有什么东西。
+ep7_playRoom	RAGONMASK_REACT2	An old iron disc. A drawing of a spiked circle is engraved on it.	一张古老的铁质碟子。上面刻着一个带刺的圆环。
+ep7_playRoom	RAGONMASK_INSPECT	The stranger's mask is lying on the floor.	那个陌生人的面具被丢在了地上。
+ep7_playRoom	ECO_MASK_DESC	A disturbing mask made in the semblance of a dragon.	一张令人背脊发寒的龙面具。
+ep7_quay	BOTTLE_WITH_MESSAGE	A paper is rolled up inside the bottle.	瓶子里有一张卷起来的纸。
+ep7_playRoom	PLAYROOM_LEVER2_INSPECT	Not long ago, I might have found these toys amusing. But now they fill me with dismay, like some vile opium hallucination.	不久前，我还觉得这些玩具很有趣。但是现在它们却使我充满沮丧，就像某种邪恶的鸦片幻觉。
+ep7_playRoom	PLAYROOM_LEVER_INSPECT	An ornate lever is built into the wall.	一根华丽的拉杆嵌在了墙上。
+ep7_pendulum	FT_PENDULUM_7	a desperate cry for forgiveness...	乞求宽恕的绝望哭泣……
+ep7_rocksHill	LG_BURNTHOUSE8	They say a villager defied it and the next day her house was burned to the ground.	人们说一个村民忤逆了它，第二天她的房子就失火焚毁了。
+ep7_quay	LG_BOATMAN_1	And here we are! The island of éilís Mór.	我们到了！大埃利斯岛。
+ep7_quay	LG_BOATMAN_2	Thank you very much.	十分感谢。
+ep7_quay	LG_BOATMAN_5	When will you be back?	你什么时候回来？
+ep7_quay	LG_BOATMAN_6	Tomorrow at first light, probably. I'll be delivering supplies and the mail.	可能明天一大早就回来。我会来运送补给和信件。
+ep7_quay	LG_BOATMAN_7	I will see you then.	到时候再见。
+ep7_quay	LG_BOATMAN_8	As you wish, Dr Wakefield.	如你所愿，威克菲尔德医生。
+ep7_quay	LG_VILLAGER_1	Good evening, my name is Wakefield. I have just arrived on the island.	晚上好，我叫威克菲尔德。我刚刚抵达这座岛。
+ep7_quay	LG_VILLAGER_2	You ought to speak with Lord Donnán, then.	那么你必须先和多南领主谈谈。
+ep7_quay	LG_VILLAGER_3	I beg your pardon?	不好意思你说什么？
+ep7_quay	LG_VILLAGER_4	Lord Donnán. You should see him.	多南领主，你应该去见他。
+ep7_quay	LG_VILLAGER_2_1	Good evening.	晚上好。
+ep7_quay	LG_VILLAGER_3_1	Good evening.	晚上好。
+ep7_quay	LG_VILLAGER_4_1	Excuse me…	不好意思……
+ep7_quay	LG_VILLAGER_4_2	A visitor! Visitors are most welcome in éilís Mór.	游客！大埃利斯岛最欢迎游客了。
+ep7_quay	LG_VILLAGER_4_3	Yes, they are.	没错。
+ep7_quay	LG_VILLAGER_2_2	Welcome to éilís Mór.	欢迎来到大埃利斯岛。
+ep7_quay	LG_VILLAGER_3_2	Visiting? I hope you enjoy your stay.	来旅游的吗？希望你在这里玩得开心。
+ep7_quay	WCB_CHAINBROKEN_BOTTLE	It is not long enough.	太短了，够不到。
+ep7_quay	WCB_CHAINFIXED_BOTTLE	It is not long enough.	太短了，够不到。
+ep7_quay	THINK_NPCS_GONE	All the villagers are gone…	所有的村民都不见了……
+ep7_quay	BOTTLE_REACT_CANNOT_CATCH	The bottle is just to far to catch it from here.	瓶子刚好在我能触及的范围之外。
+ep7_ravine	RIBBON_INSPECT	This is the ribbon that was snatched by the wind.	这就是被风卷走的丝带。
+ep7_ravine	RIBBON_REACT	I had better catch it.	我最好抓住它。
+ep7_ravine	LIGHTHOUSE_INSPECT	I can see a lighthouse in the distance.	远处有一座灯塔。
+ep7_ravine	LIGHTHOUSE_OFF_INSPET	It may have provided the light that Brighid spoke of in her diary. But the lamp is off. I wonder if it has been abandoned.	布里基德的日记中写到的光源可能就是这座灯塔。但是灯现在关着。这座灯塔是否已经被废弃了？
+ep7_ravine	LIGHTSHOUSE_ON_INSPECT	The lighthouse is working again, casting its light over the surounding landscape.	灯塔又开始发光了，照亮了周围的风景。
+ep7_rocksHill	LG_BURNTHOUSE9	That's the house where Kieran found the treasure.	这就是基兰找到财宝的地方。
+ep7_rocksHill	LG_BURNTHOUSE10	Do you know how to get to there?	你知道怎么到那里吗？
+ep7_rocksHill	LG_BURNTHOUSE11	Sure, it’s easy.	当然，很简单。
+ep7_cc	SFX_LANTERN_SWING	Lanterns Swing	灯笼晃动声
+ep7_cc	SFX_WATER_STR	-	-
+ep7_cc	SFX_GRASS_SOFT_WIND	Wind Through Grass	风吹玻璃窗声
+ep7_cc	SFX_PAPER_BIN	Paper Rustle	纸页沙沙声
+ep7_cc	SFX_LORD_SMOKING_2 	Smoking	冒烟
+ep7_cc	AMB_VILLAGE	Wind	风声
+ep7_cc	SFX_BOTTLE_FULL	Liquid Pouring	倒入液体声
+ep7_cc	AMB_LAKE	Slow Waves	轻缓的浪花声
+ep7_cc	SFX_WIND_GUST_2	Wind Gust	大风呼啸声
+ep7_cc	SFX_WIND_GUST_1	Wind Gust	大风呼啸声
+ep7_cc	AMB_HILLS	Wind	风声
+ep7_cc	SFX_TEACUP	Teacup	茶杯敲击声
+ep7_burntHouseExt	MAILBOX_LETTER	My dear cousin,?
+?
+I am poorly. I would ask that you not call upon me here at éilís Mór—not now, nor ever again. Please keep Grandmother's ring; I believe that she would have wanted you to have it.?
+?
+Yours faithfully,?
+Brighid	亲爱的堂兄：?
+?
+我最近身体欠佳。我不希望你来大埃利斯岛探访我——不是现在，也不是今后。请好好保管祖母的戒指。如果她还在世，她一定会让你留着它的。?
+?
+你忠实的?
+布里基德
+ep7_cc	SFX_LORD_SMOKING	Smoking	冒烟
+ep7_cc	AMB_MANOR	Wind	风声
+ep7_cc	SFX_TAKE_BOTTLE	Rustling	沙沙声
+ep7_cc	AMB_SEASHORE	Seashore	浪花拍岸声
+ep7_cc	SFX_BOAT_CREAKING	Boat Creaks	船只吱呀声
+ep7_cc	SFX_LIGHTHOUSE_DOOR_OPENS	Distant Door Opens	远处的开门声
+ep7_cc	SFX_GONG	Loud Clank	响亮的金属声
+ep7_cc	FS_DIRT	-	-
+ep7_cc	SFX_DOOR_LOCKED	Locked Door	门锁关闭声
+ep7_cc	FS_WOOD	-	-
+ep7_burntHouseInt	BREWERY_TRAPDOOR_THINK	A metal trapdoor. It seems to lead to some sort of basement.	一扇金属活板门，看上去是通向某一间地下室的。
+ep7_burntHouseInt	HOUSE_FIRSTTIME_THINK	The house is falling apart. I must tread with care.	这座房子已经破旧不堪了。我必须小心行动。
+ep7_burntHouseExt	ECO_BURNHOUSE	This must be the house that the child was telling me about. Kieran was here just before his disappearance.	这一定就是那个小孩告诉我的那栋房子。基兰在消失前曾在这里停留过。
+ep7_burntHouseExt	MAILBOX_OPEN_REACT3	An iron ring.	一枚铁戒指。
+ep7_burntHouseExt	MAILBOX_OPEN_REACT2	There is something else in the envelope.	信封里还有什么东西。
+ep7_burntHouseExt	MAILBOX_OPEN_REACT	The envelope is very old. It is stamped 'RETURNED' and there is a letter inside.	信封已经很旧了。上面印着“退回”，里面有一封信。
+ep7_burntHouseExt	MAILBOX_OPEN2_INSPECT	There is nothing else here.	这里没有别的东西了。
+ep7_rocksHill	LG_DRAWING_OPTION_3_2	Don’t know. Never seen them before.	不知道，从未见过。
+ep7_rocksHill	LG_BURNTHOUSE12	They say it was the Crooked One, paying her back.	他们说那是驼背人在报复她。
+ep7_rocksHill	LG_BURNTHOUSE13	The house that the dragon is burning… Is that the house you were telling me about?	火龙在炙烤的房子……就是你刚刚告诉我的那一栋吗？
+ep7_rocksHill	LG_ARTISTKID12	Hi.	你好。
+ep7_rocksHill	LG_ARTISTKID13	It's a symbol, not a drawing.	这是一个符号，不是一幅画。
+ep7_rocksHill	LG_ARTISTKID14	A symbol? What does it mean?	一个符号？那是什么意思？
+ep7_rocksHill	LG_ARTISTKID15	It's the final truth that’ll protect us from the marsh dwellers. But we're not allowed to say its name out loud.	这是阻挡沼泽行者伤害我们的最终真相。但是我们不能把它的名字大声说出来。
+ep7_rocksHill	LG_ARTISTKID17_CH	I must go.	我该走了。
+ep7_rocksHill	LG_ARTISTKID17	I must go now. Good bye!	我现在该走了。再见！
+ep7_rocksHill	LG_ARTISTKID18	Farewell.	再见。
+ep7_rocksHill	LG_DRAWING_OPTION_1_1	What is this?	这是什么？
+ep7_rocksHill	LG_DRAWING_OPTION_1_2	That's the burrow of the hill. That one up there. But you can’t get too close. The Crooked One sleeps at the bottom.	那是山上的洞穴。上面的那个。但是你不要太靠近它。驼背人沉睡在洞穴深处。
+ep7_rocksHill	LG_DRAWING_OPTION_2_1	Is this the village?	这就是那座村庄吗？
+ep7_rocksHill	LG_DRAWING_OPTION_2_2	Yes, and the fearnóg tree in the graveyard. That tree gives me the chills these nights. On Reunion they got them little lanterns on it and they look like evil eyes staring into you.	是的，还有坟场里的那棵水清风。那棵树在夜晚使我背脊发凉。在重逢节，上面会挂上小灯笼，看上去就像恶灵的眼睛直瞪着你。
+ep7_rocksHill	LG_DRAWING_OPTION_3_1	What about these buildings?	那么这些建筑呢？
+ep7_rocksHill	LG_TAW_ROCKSHILL_1	The marsh in this valley is, for simpletons, a wellspring of frightful tales.	对于那些头脑简单的人来说，村子里的沼泽有一系列骇人的传说。
+ep7_rocksHill	LG_TAW_ROCKSHILL_4	The educated among us enjoy the tales as little more than distractions, knowing us safe from those visions. We know these stories to be nothing but superstition.	我们中的读书人把这些传闻仅仅当作消遣，知道这些幻象与我们无关。我们听这些故事只是当成迷信故事听的。
+ep7_rocksHill	LG_TAW_ROCKSHILL_5	But how can we be so sure that in the dense mist that eminates from the stagnant water, we may not find passages to other worlds?	但是你怎么能确定这潭死水中散发的厚重迷雾中没有通向其它世界的通道呢？
+ep7_rocksHill	LG_TAW_ROCKSHILL_6	What if the wails that drift from the reeds in the darkest of nights are the songs of those from our worst nightmares?	如果暗夜里芦苇丛中传来的歌声，来自于我们最可怕的噩梦中的存在呢？
+ep7_rocksHill	LG_ARTISTKID21_CH	The marsh dwellers.	沼泽行者。
+ep7_rocksHill	LG_ARTISTKID21	The marsh dwellers? Who are they?	沼泽行者？他们是谁？
+ep7_rocksHill	LG_ARTISTKID22	They’re scary. My Aunt Kathleen says they were real bad people. You’d never see them, but you’d hear them in the reeds. They try to take you in there with them.	他们很可怕。我的婶婶凯瑟琳说他们是很坏的人。你不会看见他们，但是你能听见他们在芦苇丛中歌唱。他们会尝试把你拖进去。
+ep7_rocksHill	LG_ARTISTKID24	That? It's a map that Kieran made.	那个？那是一张基兰画的地图。
+ep7_rocksHill	LG_ARTISTKID25	So it is a map…	那么这的确是一张地图……
+ep7_rocksHill	LG_ARTISTKID26	The drawing is Kieran's? There could be a clue here of his whereabouts…	这是基兰画的？这可能隐含着他去向的线索……
+ep7_rocksHill	LG_ARTISTKID27_CH	Did you know Kieran?	你认识基兰吗？
+ep7_rocksHill	LG_ARTISTKID27	Were you Kieran's friend?	你是基兰的朋友吗？
+ep7_rocksHill	LG_ARTISTKID28	He was nice, but he didn’t want to play much. He was mostly for going in the hills by himself.	他是个好人，但是他不经常和我们玩。他大部分时间都一个人在山里。
+ep7_rocksHill	LG_ARTISTKID29_CH	Was Kieran not afraid?	基兰不害怕吗？
+ep7_rocksHill	LG_ARTISTKID29	Was Kieran not scared of the marsh dwellers?	基兰不怕那些沼泽行者吗？
+ep7_ruinedChapel	ECO_SUN	This symbol looks familiar. A spiked circle… It could be the sun.	这个符号看上去很熟悉，带刺的圆环……可能是太阳。
+ep7_ruinedChapel	ECO_VIRGIN	A statue of a Madonna. But something is off. I cannot tell what it is.	一尊圣母玛利亚的雕像。但缺了什么东西。我看不出缺了什么。
+ep7_rocksHill	LG_BURNTHOUSE6	That's the Crooked One.	那是驼背人。
+ep7_rocksHill	LG_ARTISTKID11	Hello. My name is Wakefield.	你好。我的名字叫威克菲尔德。
+ep7_rocksHill	LG_BURNTHOUSE1	What is this?	这是什么？
+ep7_rocksHill	LG_ARTISTKID5	That? No, Kieran painted it a long time ago.	那个？不，是基兰很久以前画的。
+ep7_rocksHill	LG_ARTISTKID4	I found this drawing at the school. Is it yours?	我在学校找到了这幅画，是你画的吗？
+ep7_rocksHill	LG_ARTISTKID7_CH	About this drawing…	关于这幅画……
+ep7_rocksHill	LG_ARTISTKID2	What are you drawing on the ground?	你在地上画什么？
+ep7_rocksHill	LG_ARTISTKID2_CH	What are you drawing?	你在画什么？
+ep7_rocksHill	WCB_RIBBON_STICK	I will keep the ribbon.	我最好留着这根丝带。
+ep7_rocksHill	CMB_ARTISTKID2	The kid doesn't seems interested.	那个小孩不是很感兴趣。
+ep7_rocksHill	ECO_FENCES	A broken old fence.	一道损坏的栅栏。
+ep7_rocksHill	ECO_ROCKS	A group of jagged rocks.	很多尖锐的石头。
+ep7_rocksHill	RIBBON_FLY_THINK	Where did it go?	它去哪里了？
+ep7_rocksHill	LG_ARTISTKID2_2	…	……
+ep7_rocksHill	LG_ARTISTKID2_1	Excuse me?	不好意思？
+ep7_rocksHill	ECO_PICTURE_GROUND	It is a drawing of some sort of spiked circle. Is it the sun, or something else?	这是一个带刺圆环的图案。这是太阳还是别的什么东西？
+ep7_rocksHill	LG_ARTISTKID36	He took it from the old house in the hills. Maybe the marsh dwellers wanted it.	基兰把它从山上的老屋里带了出来，可能沼泽行者想要它。
+ep7_rocksHill	STICK2_INSPECT	The child that I spoke with earlier seems to have left his mask here.	我之前和他聊过的孩子似乎把他的面具落在这里了。
+ep7_rocksHill	STICK_INSPECT	The child that I spoke with earlier seems to have left his mask here.	我之前和他聊过的孩子似乎把他的面具落在这里了。
+ep7_rocksHill	LG_ARTISTKID35	That's why we can't come here alone. We always has to take someone with us.	这就是我们不独自来这里的原因。我们总要结伴同行。
+ep7_rocksHill	LG_ARTISTKID33	Yes, for sure. Before he disappeared he said he found a treasure, a disc with a beautiful drawing.	是的，没错。他在失踪前宣称找到了一件宝藏，一张画着精美图案的碟子。
+ep7_rocksHill	LG_ARTISTKID32	You think the marsh dwellers took him?	你认为沼泽行者带走了他？
+ep7_rocksHill	LG_ARTISTKID31	No, he said he had seen them and that they were not that scary as Aunt says. I think that is why they took him.	不，他说他见过那些沼泽行者，他们没有婶婶说的那么可怕。我觉得这就是他们把基兰带走的原因。
+ep7_rocksHill	LG_BURNTHOUSE15	It is the house from Kieran's picture, the one that the Crooked One burned with its breath.	这是基兰图画上画的房子，就是被驼背人吐息烧毁的那一栋。
+ep7_ruinedChapel	CHAPEL_FIRST_TIME	This seems like some sort of chapel, but Christian symbols are scarce.	这看上去像某种教堂，但是几乎没有基督教的符号。
+ep7_school	BIN_INSPECT	A trash bin filled with papers. There is a drawing on one.	一个塞满了纸张的垃圾桶。其中一张上面有一幅画。
+ep7_school	BIN_INSPECT2	There is nothing else of interest.	这里没有什么值得看的东西。
+ep7_school	BIN_REACT	It is a child's drawing. There seems to be a village, a lake, and some sort of creature.	这是一个孩子的图画。上面有一座村庄，一片湖，和某种生物。
+ep7_school	LG_TEACHER_26_CH	Tell me about Kieran.	告诉我基兰的事。
+ep7_school	ESK_INSPECT	A paper with black circles painted on it.	一张画着黑圈的纸。
+ep7_school	OOR_SCHOOL_GRAVEYARD_LOCKED	Locked.	锁着。
+ep7_school	LG_TEACHER_1	Good evening. To what do I owe the pleasure? I am a busy woman, as you can see.	晚上好。什么风把你吹来了？如你所见，我可是很忙的。
+ep7_school	LG_TEACHER_2	My name is Dr Wakefield. I have come to éilís Mór to rest for a while. Lord Donnán said that I might find you here.	我是威克菲尔德医生。我来大埃利斯岛上休憩一段时间。多南领主说我能在这里找到你。
+ep7_school	LG_TEACHER_3	Have you met Lord Donnán? It has been so long since I have seen him here in the village. I hope he is well.	你见过多南领主了吗？上次在村子里见到他已经是很久之前的事了。我希望他一切还好。
+ep7_school	LG_TEACHER_9_CH	Lord Donnán.	多南领主。
+ep7_school	LG_TEACHER_9	So you have not seen Lord Donnán lately?	你最近没有见到多南领主？
+ep7_school	LG_TEACHER_7	We all searched the island, but… he was nowhere to be found.	我们搜遍了小岛，但是……根本找不到他的影子。
+ep7_school	LG_TEACHER_10	As far as I know, no one has seen him since... well, it's been a few weeks. Now that the festival has started, maybe he'll be motivated to join us in the village.	据我所知，自从……好吧，几个星期前就没有人见过他。现在重逢节开始了，说不定他会来村子里助兴。
+ep7_school	LG_TEACHER_11_CH	Ask about the Cronemeadan.	询问望盈朔的相关信息。
+ep7_school	LG_TEACHER_11	Might I ask you a question, Miss Foster?	我能问你一个问题吗，佛斯特女士？
+ep7_school	LG_TEACHER_13	What can you tell me about this curious festival?	关于这个奇特的节日，你知道多少？
+ep7_school	LG_TEACHER_13_CH	Festival of Reunion.	重聚节。
+ep7_school	LG_TEACHER_14	Well, it takes place when the constellation Reunion is visible in the sky. On those nights, dark things and spirits ride the winds that travel across the hills. As you may have already seen, at sunset the villagers don masks. They do this so that the spirits will not know them or carry them away to the depths of their underground caves.	是的，当天空中重逢的星座闪耀之时，就是重聚节开始之日。在这些夜晚，黑暗之物与魂灵骑乘着狂风在山间驰骋。如你所见，日落之后，村民们都戴上了面具。他们这样做是为了防止魂灵们认出他们，把他们挟持到魂灵的地下洞穴之中。
+ep7_school	LG_TEACHER_19_CH	I must go.	我该走了。
+ep7_school	LG_TEACHER_19	I must leave now. It has been a pleasure.	我现在该走了。和你谈话很高兴。
+ep7_school	LG_TEACHER_20	The pleasure was mine. Enjoy your time on éilís Mór.	我应该高兴才是。祝你在大埃利斯岛上玩得开心。
+ep7_school	LG_TEACHER_45	Céad míle fáilte, Dr Wakefield. Welcome to éilís Mór.	别来无恙，威克菲尔德医生。欢迎来到大埃利斯岛。
+ep7_school	LG_TEACHER_22_CH	What happened?	发生什么了？
+ep7_school	LG_TEACHER_22	Did something happen a few weeks ago?	几周前发生了什么？
+ep7_school	LG_TEACHER_24	Oh, sure it was only terrible. Kieran, his only child, disappeared without a trace. He went off to play in the hills and just... vanished. No one has seen him since.	哦，当然很可怕了。基兰，他的独生子，没有留下任何线索就失踪了。他去山上玩，然后就……消失了。从那之后没人再见过他。
+ep7_school	LG_TEACHER_30	Good Lord. And you say he has not been found yet? How is that possible?	天哪。你说他还没被找到？这怎么可能？
+ep7_school	LG_TEACHER_26	What can you tell me about Kieran's disappearance?	关于基兰的失踪你又知道多少？
+ep7_school	LG_TEACHER_27	Just that he was a restless child who loved exploring deserted areas. You might learn more from his classmates.	他是一个好动的孩子，喜欢探索了无人烟的地方。你可以问问他的同学。
+ep7_school	LG_TEACHER_46	His desk was in the back corner.	他的课桌在教室角落。
+ep7_school	LG_TEACHER_31	Yes, of course.	是的，当然。
+ep7_school	LG_TEACHER_32	Do you know the meaning of the word 'Cronemeadan'?	你知道“望盈朔”是什么意思吗？
+ep7_school	LG_TEACHER_33	Yes… It's a very unusual word. Very much indeed.	是的……那是一个很特殊的词。十分特殊。
+ep7_school	LG_TEACHER_34	The Cronemeadan is the sanctuary of the Crooked One. It is a cursed place, the dwelling of the Devil. I recall it from the tales that I heard as a child. Of course, our elders only made up those tales to scare us and protect us from harm.	望盈朔是驼背人的圣堂。这个地方受到了诅咒，是魔鬼的处所。我童年时听到过这个传说。当然，这些传说都是长辈们为了吓我们，不让我们去危险的地方捏造出来的。
+ep7_school	LG_TEACHER_51	Lord Donnán said you are an expert on the island's folklore.	多南领主说你是岛上民俗的专家。
+ep7_school	LG_TEACHER_48	But a few nights later, the Laidcend house was consumed in a horrific blaze, putting an end to the old family.	但是几天后的一个夜晚，莱德森德的家宅被可怕的烈焰吞噬了，终结了这个古老的家族。
+ep7_schoolSt	ECO_WINDOW_LEFT	The windows are open and a light is on.	窗户开着，里面亮着一盏灯。
+ep7_schoolSt	BIKE_WHEEL2_INSPECT	It looks like the wheel has been lying here for a long time.	看上去这只轮子在这里放了很久了。
+ep7_schoolSt	BIKE_WHEEL_REACT	Based on the cog's workmanship, it looks like it was part of a complex industrial mechanism. But someone has tried to fit it crudely onto that broken bicycle wheel. How on Earth did it come to be in a village like this?	根据齿轮的做工，看上去是一套复杂工业机械的一部分。但是有人把它强行装在了坏掉的自行车轮上。这只齿轮是怎么到这样的村庄的？
+ep7_schoolSt	BIKE_WHEEL_INSPECT	An abandoned wheel. A peculiar cog is attached to it.	一个被废弃的轮子，上面装着一只奇特的齿轮。
+ep7_schoolSt	SCHOOL_DOOR_LOCKED	The door is locked.	门锁着。
+ep7_school	CTS_MIRROR_BROKEN	What... was that?	那……是什么？
+ep7_school	BTS_PICTURE_SCHOOL	A picture of a slender woman, apparently a goddess, wearing a black dress and having a murder of crows around her. It's signed with a name: "Badb Catha".	一个消瘦女人的图片，明显是一位女神，身着黑裙，身边围绕着一群乌鸦。上面写着名字：“战鸦”。
+ep7_school	LG_TEACHER_PICTURE4	Things that were familiar to him, the village, his home... but these other shapes... I do not know. You could ask one of his class mates, they should be able to tell you more about it.	对他熟悉的东西：村庄、他的家……但是其他形状……我不知道。你可以问问他的同学他们应该可以告诉你更多信息。
+ep7_school	LG_TEACHER_PICTURE3	What would you say it represents?	你认为它代表什么？
+ep7_school	LG_TEACHER_PICTURE2	Yes... This was painted by poor Kieran.	是的……这是可怜的基兰画的。
+ep7_school	LG_TEACHER_PICTURE_1	I found this picture. Was it made by one of your students?	我找到了这张画，是不是你的学生画的？
+ep7_school	ESK_REACT	There is some kind of worm drive inside, the remains of an insect and some drawings engraved on the desk. I will take the drive with me, it may prove itself useful.	里面有一根蜗杆和昆虫的残骸，桌上刻着一些图案。我要带上螺杆，说不定会有用。
+ep7_school	ECO_BLACKBOARD	'They'll dance around the burrow,?
+Around the burrow they'll sing.?
+It's cold inside as winter.?
+Don't get too close!?
+Don't get too close!?
+Or else they'll pull you in.'	“他们在洞口边舞蹈，?
+在洞口边歌唱。?
+里面如严冬一般寒冷。?
+不要靠太近！?
+不要靠太近！?
+不然他们就会把你拉进去。”
+ep7_school	ECO_BOOKSHELF	A shelf of handmade books with unfamiliar titles. Most of them concern strange rites.	书架上放着许多标题陌生的手制书籍。很多书都描写了奇特的仪式。
+ep7_school	ECO_WINDOWS	The windows are open, letting a chilly draft inside.	窗户开着，一丝冷风吹了进来。
+ep7_school	LG_TEACHER_52	He said that, did he? Well I wouldn’t call myself an expert, now, but I’ve lived here in éilís Mór longer than most. And I’ve heard my fair share of stories about the Other Side and its people.	他的确这么说了，是吗？当然，现在我还不能自称为专家，但是我比大多数人住在大埃利斯岛上的时间长。我也听过不少关于另一侧世界及其居民的故事。
+ep7_school	LG_TEACHER_51_CH	éilís Mór's traditions.	大埃利斯岛的传统。
+ep7_school	LG_TEACHER_44	Yes, that was one of the first rites of the Reunion, a very important one. As I said, people dress up to protect themselves from those that will come. But this is not enough. Since the mirrors they have looked into while changing know their identities, they bury them next to the old fearnóg. The roots of this tree grow in both worlds at the same time, so they keep the witness mirrors safe.	是的，那是重聚节起始的仪式之一，十分重要。正如我所说，人们穿上奇装异服保护自己不受即将到来的东西的伤害。但这还不够。因为他们照的镜子知道他们的真实身份，他们就把镜子埋在老水清风树下。这棵树的根系连接阴阳两界，维护了镜子的安全。
+ep7_school	LG_TEACHER_43	There was a group of masked people at the graveyard. Was that part of the festival?	坟场里有一群带着面具的人。那是节日的一部分吗？
+ep7_school	LG_TEACHER_43_CH	People at the graveyard.	坟场里的人。
+ep7_school	LG_TEACHER_47	It is general knowledge that beings from the Other Side detest iron, so the cursing and the shouting of the young Laidcend received no immediate answer.	众所周知，另一侧的存在厌恶铁器，所以年轻的莱德森德的诅咒与喊叫没有立刻得到答复。
+ep7_school	LG_TEACHER_41	It is said that the last heir of the Laidcend once defied the Crooked One by approaching the rim with an iron amulet in her hand.	据说莱德森德家族的最后一名继承人曾经手持一个铁质护身符接近洞口，冒犯了驼背人。
+ep7_school	LG_TEACHER_40	Long ago, our ancestors threw livestock into the pit in the hope of placating the Crooked One's hunger. Though that tradition has not been practiced for some time, so perhaps it would be best if you did not approach the hole.	很久之前，我们的祖先向洞里投放牲畜来满足驼背人的食欲。因为这种传统已经断绝很久了，所以可能最好不要接近洞口。
+ep7_school	LG_TEACHER_39	Folks around here believe there lies an old serpent at its depths – ravenous for flesh. The Crooked One.	附近的村民相信洞穴深处有一条老蟒蛇——渴望人肉。那就是驼背人。
+ep7_school	LG_TEACHER_38	There’s a hole in the ground up in the hills, not too far from the village. A hole so dark and deep, you’d not see the end.	离村子不远的山上有一个洞穴，深不见底，黑暗无边。
+ep7_school	LG_TEACHER_37	All right.	好的。
+ep7_school	LG_TEACHER_36	Would you tell me the story of the Cronemeadan?	你能告诉我望盈朔的故事吗？
+ep7_school	LG_TEACHER_36_CH	Please tell me the story.	请把这个故事讲给我听。
+ep7_wall	MOUTH_DESC	The mouth of the Sentinel is wide open.	哨兵的嘴张开了。
+ep7_wall	RUINEDCHAPEL_DISCOVERED_LIT	The secret door is now open.	隐藏的门打开了。
+ep7_wall	STRANGE_ROCK	A strangely shaped rock.	一块奇形怪状的岩石。
+ep7_veil	LG_DEVITT_7	You should not have—go back now!	你不应该——马上回去！
+ep7_veil	LG_DEVITT_6	No, you should not be here.	不，你不应该在这里出现的。
+ep7_wellSt	GRAVEYARD_LOCKED	The gate leads to the village graveyard. It is closed and locked.	这道大门通向村庄里的坟场。大门紧紧关上并且锁住了。
+ep7_veil	LG_DEVITT_5	No.	不。
+ep7_veil	LG_DEVITT_4	What are you...	你在……什么？
+ep7_veil	LG_DEVITT_3	Doctor... Wakefield?	威克菲尔德……医生？
+ep7_veil	LG_DEVITT_2	Devitt?	戴维特？
+ep7_veil	LG_DEVITT_1	...	……
+ep7_veil	EVITT_ANSWER	Go back before they come!	在他们来之前，回去！
+ep7_wellSt	MAP_LOCKED	I should learn more about the village before exploring the rest of the island.	我应该在探索这座岛之前先了解一下村庄的情况。
+ep7_veil	FT_SENTENCE_4	Only the light of your sign ?
+Will carry its purge.	只有你征兆的光芒?
+才能释放它的净化
+ep7_veil	FT_SENTENCE_3	Your offspring we welcome, ?
+Its hidden threat.	我们欢迎你的子孙?
+还有它隐藏的威胁
+ep7_wall	WALL_FIRST_TIME	According to the diary, the light from the lighthouse revealed the eyes of the Sentinel.	根据日记记载，灯塔传来的光会照亮哨兵的双眼。
+ep7_veil	FT_SENTENCE_2	So to open the way to ?
+Where the fearnóg blooms.	并以此打开彼端通道?
+通向水清风盛开之地
+ep7_veil	FT_SENTENCE_1	Seekers of truth will ?
+Sacrifice their wisdom	寻找真理的人必须?
+先牺牲他们的智慧
+ep7_tombEntrance	OOR_CHAPEL_OPENED	The hidden entrance is open now.	隐藏的入口打开了。
+ep7_tombEntrance	ECO_DOME	The dome appears to be Roman in origin. It is in better condition than the other ruins.	这座圆顶看上去是罗马式的。它比周围的遗迹保存情况好得多。
+ep7_tombEntrance	RUINEDCHAPEL_DISCOVERED_LIT_BY_SPOTLIGHT	The light has revealed a mural painting on the stones, just as it did for Brighid nearly a century ago.	光照亮了石头上的一幅壁画，就像近百年前布里基德看到的那样。
+ep7_streetRaining	SENTENCE5	Wherever he was.	无论他在哪里。
+ep7_streetRaining	SENTENCE4	To honour my friend's memory, I had to keep looking.?
+I had to find Jeremiah Devitt.	为了纪念我的朋友，我必须继续寻找。?
+我必须找到杰里米亚·戴维特。
+ep7_streetRaining	SENTENCE3	Weeks passed, maybe months. I did not count the time. ?
+But the day came when I realized there was no other option.	日复一日，或许过了几个月，我已记不清楚时间了，?
+但是终于有一天我意识到没有其他方法了。
+ep7_streetRaining	SENTENCE2	It was as though my friend had written a letter ?
+to a person who no longer existed.	就像是我的朋友写了一封信?
+收信人已经不存在了。
+ep7_streetRaining	SENTENCE1	With Kaufmann gone, I found myself lost, ?
+my life suddenly devoid of meaning.	考夫曼走后，我迷失了自我，?
+我的生命突然失去了意义。
+ep7_schoolSt	ECO_SIGN	A sign reads: 'The Wisdom of Silence'	标牌上写着：“沉默的智慧”
+ep7_schoolSt	ECO_GATE	It looks like the gate has been broken for some time now.	看上去大门已经坏了很久了。
+ep7_schoolSt	ECO_WINDOW	The windows are open and a light is on.	窗户开着，里面亮着一盏灯。
+ep7_wall	EYES_DESC	A pair of evil eyes seem to glitter in the dark.	一对邪恶的眼睛在黑暗中闪耀。
+ep7_yard	BTS_LEFTSTATUE	This seems to be Athena; goddess of wisdom, war and the arts. She is dressed in armor, seeming to be ready for war.	这似乎是雅典娜：智慧、战争和艺术之女神。她身着铠甲，准备迎战。
+ep7_yard	FT_TEXT_CONTENT5_1	Thanks to The Last Door Community?
+for your amazing feedback!	感谢《最后一扇门》团体?
+感谢你们的优质反馈！
+ep7_yard	FT_TEXT_HEADER6	This game is community powered.?
+Join us and leave your mark!	这个游戏是团体完成的。?
+加入我们，留下你的足迹！
+ep7_yard	FT_TEXT_CONTENT6	TheLastDoor.com	TheLastDoor.com
+ep7_yard	FT_TEXT_CONTENT5		
+ep7_yard	FT_TEXT_CONTENT4	Christopher Beaton?
+Johnny-Eyeball?
+Tyson Guttwein?
+Anna Pecho?ová?
+Daniel Pontiveros?
+Lucie Tvarohová	Christopher Beaton?
+Johnny-Eyeball?
+Tyson Guttwein?
+Anna Pecho?ová?
+Daniel Pontiveros?
+Lucie Tvarohová
+ep7_yard	FT_TEXT_CONTENT3	Michael Chumak?
+Dino Ljubi??
+Aaron Loehrlein?
+Silp Novak?
+Aoife Nic Chraith?
+David Techman	Michael Chumak?
+Dino Ljubi??
+Aaron Loehrlein?
+Silp Novak?
+Aoife Nic Chraith?
+David Techman
+ep7_yard	FT_TEXT_HEADER5		
+ep7_yard	FT_TEXT_HEADER4	Special Thanks	特别鸣谢
+ep7_yard	FT_TEXT_HEADER3	English Localization	英语本土化
+ep7_yard	FT_TEXT_HEADER2	Original Music by	原音轨制作者
+ep7_yard	FT_TEXT_CONTENT2	Carlos Viola	Carlos Viola
+ep7_yard	FT_TEXT_CONTENT1	Enrique Cabeza?
+Mauricio García?
+Daniel Márquez?
+Antonio Martínez?
+Jose Antonio Perales?
+Mateo Pérez?
+Anton Rogov	Enrique Cabeza?
+Mauricio García?
+Daniel Márquez?
+Antonio Martínez?
+Jose Antonio Perales?
+Mateo Pérez?
+Anton Rogov
+ep7_yard	FT_TEXT_HEADER1	Developed by	开发者
+ep7_yard	MUST_FOLLOW_DRAGON	I can't go back now. The masked person must be around.	我不能临阵退缩。面具男一定在附近。
+ep7_yard	STATUE_BROKEN	The Roman statue lies shattered on the ground. To destroy such an ancient statue...could this really be part of the festival?	罗马雕塑在地上摔得粉碎。毁掉了如此古老的雕塑……这真的是节日的一部分吗？
+ep7_yard	WICKERMAN_INSPECT	The Roman statue has been thrown down and replaced with a wicker one.	罗马雕塑被推倒了，取而代之的是一个柳条人。
+ep7_yard	ECO_STATUE	This statue appears to be very old. Its appearance suggests that it could date back to ancient Rome.	这尊雕像看上去十分古老。它的外表表现它的历史可以追溯到古罗马时期。
+ep7_yard	PARLOUR_LOCKED	The door is locked. The Manor appears to be dark and empty.	门锁上了。大宅看上去黑漆漆、空荡荡的。
+ep7_yard	STATUE_INSPECT	This statue appears to be very old. Its appearance suggests that it could date back to ancient Rome.	这尊雕像看上去十分古老。它的外表表现它的历史可以追溯到古罗马时期。
+ep7_yard	BURNING_WICKERMAN_INSPECT	Egad, now this statue is burning too. Is someone following me?	天哪，这个柳条人也烧起来了。是有人在跟踪我吗？
+ep7_wellSt	CTS_MIRROR_BROKEN	What... was that?	那……是什么？
+ep7_wellSt	BTS_WINDOW	The faint smell of fish and potatoes is drifting through the shutter. The fish smells slightly rotten.	炸鱼土豆的淡淡气味从百叶窗里飘了出来，鱼的气味掺杂着一丝腐败的味道。
+ep7_wellSt	FOLLOW_DRAGON	I should follow the masked person.	我应该跟着那个戴面具的人。
+ep7_wellSt	ECO_SKYLINE	I can still see the hills with the light of dusk.	在黄昏黯淡的阳光下我依旧能看到连绵的群山。
+ep7_wellSt	RAGON_DIRECTION_THINK	It seems to be heading east.	看上去它在往东走。
+ep7_wellSt	ALLEY_LOCKED	The door is locked.	门锁住了。
+ep7_cc	SFX_OIL_DROP	Drop	滴落声
+ep7_cc	SFX_PUT_CHAIN	Chain Sounds	链条传动声
+ep7_cc	SFX_RIBBON	Ribbon Rustles	丝巾簌簌声
+ep7_cc	SFX_TEACHER_SCRIBBLE	Scribbling	涂鸦声
+ep7_cc	SFX_SWING_CREAK	Swing Creaking	秋千摇摆声
+ep7_cc	SFX_WHEEL_RUNNING	Mill Wheel Paddles	水车划水声
+ep7_cc	SFX_BARREL_DRILL	Drilling Wood	钻木声
+ep7_cc	AMB_LIGHTROOM	Seagulls	海鸥鸣叫声
+ep7_cc	SFX_PLUG_IN	Click	敲击声
+ep7_cc	SFX_UNPLUG	Click	敲击声
+ep7_cc	SFX_COG_IN	Click	敲击声
+ep7_cc	SFX_RUSTY	Grinding	摩擦声
+ep7_cc	AMB_STOVE	Stove Crackles	火炉噼啪作响
+ep7_cc	AMB_SOFT_WIND_CALM	Calm Wind	宁静的风声
+ep7_cc	SFX_CHARGE_BATTERY	Static Crackles	静态的爆裂声
+ep7_cc	SFX_WHEEL_STUCK	Mill Wheel Stuck	水车卡死声
+ep7_cc	AMB_BURNT_HOUSE	Dreadful Wind Gusts	可怕的风声
+ep7_cc	SFX_SEE_WICKERMAN	Surprise	！！！
+ep7_cc	SFX_DRAGON_MOUTH	Jaws Snap	牙齿咯咯声
+ep7_cc	SFX_STATUE_FALLING	Distant Loud Hit	遥远而响亮的击打声
+ep7_cc	SFX_SWITCH	Switch	挥动声
+ep7_cc	SFX_WICKERMAN_HANGS	Rope Creaks	绳索吱呀声
+ep7_cc	SFX_WICKERMAN_FALLS	Rope Breaks	绳索断裂声
+ep7_cc	SFX_WICKERMAN_BURNS	Flames Roar	火焰咆哮声
+ep7_cc	SFX_SWITCH_PLAYHOUSE	Clack	噼啪声
+ep7_cc	SFX_PLAYHOUSE_PUPPETS_1 	Clockwork Mechanism	发条机械声
+ep7_cc	SFX_PLAYHOUSE_PUPPETS_2 	Clockwork Mechanism	发条机械声
+ep7_cc	SFX_PLAYHOUSE_PUPPETS_3 	Clockwork Mechanism	发条机械声
+ep7_cc	SFX_PLAYHOUSE_MUSIC	Music Box Song	八音盒乐声
+ep7_cc	SFX_MACHINERY	Machinery	机械声
+ep7_cc	AMB_HOLE_HILL	Wind	风声
+ep7_cc	SFX_COFFIN_SCARE	Horror Effect	恐惧效果
+ep7_cc	SFX_COFFIN_FEAR	Fear Effect	惊人效果
+ep7_cc	SFX_HOLE_PLATE	Large Slab Moving	大石板移动声
+ep7_cc	FS_KIERAN	-	-
+ep7_cc	AMB_TUNNEL_WIND	Wind Gusts	大风呼啸
+ep7_cc	AMB_PRAYER	Ominous Prayer	不祥的祈祷声
+ep7_cc	AMB_CRYPT	Ominous Ambience	不祥的气氛
+ep7_cc	SFX_BLOWING_CANDLE	Blowing Candle	吹熄蜡烛声
+ep7_cc	SFX_DRAWING_CIRCLE	Drawing in the Floor	在地板上画图声
+ep7_cc	FS_RAIN	-	-
+ep7_cc	AMB_RAINING	Rain	雨声
+ep7_cc	SFX_RUN_FROM_HUGO	Escaping Wright's Maze Audio-Only Sequence	逃离莱特的迷宫——此片段仅有音频
+ep7_cc	SFX_WOOD_PIECE	Click	敲击声
+ep7_cc	SFX_MACHINERY_NEXT_DOOR	Distant Machinery	遥远的机械声
+ep7_cc	SFX_METAL_GATE	Metal Gate Open	金属大门开启声
+ep7_cc	AMB_YARD	Wind	风声
+ep7_cc	AMB_RAVINE	Wind	风声
+ep7_cc	AMB_MAP	Sea Waves and Gulls	海浪与海鸥声
+ep7_cc	SFX_SCHOOL_DOOR	Open Door	开门声
+ep7_cc	SFX_GRAVEYARD_CLOSED_FENCE	Fence Door Locked	篱笆门关闭声
+ep7_cc	SFX_GRAVEYARD_DOOR	Fence	篱笆门打开声
+ep7_cc	SFX_STOMP	-	-
+ep7_cc	SFX_TRAPDOOR	Open Trapdoor	活板门打开声
+ep7_cc	SFX_MAILBOX	Open Latch	门闩打开声
+ep7_cc	SFX_WOLF_MIRROR	Dropping	滴落声
+ep7_cc	SFX_WOLF_DIG	Digging	挖掘声
+ep7_cc	AMB_HOLE_HILL_VOICE	Laments In the Deep	深处传来的恸哭声
+ep7_cc	SFX_PLAYROOM_NEXT_DOOR	Distant Clockwork	遥远的发条声
+ep7_cc	SFX_SCARE_MASK	Scare Effect	惊人的效果
+ep7_cc	SFX_EYES	Strings	弦乐
+ep7_cc	AMB_COLDOPEN	Ominous Music	不祥的音乐
+ep7_cc	AMB_COLDOPEN_PHASE_2 	Ominous Prayer	不祥的祈祷声
+ep7_cc	SFX_PENDULUM_CLOCK	Clock Ticking Loudly	钟表响亮的滴答声
+ep7_cc	SFX_PENDULUM_SWOSH	-	-
+ep7_cc	AMB_HOLEBOTTOM	Mysteious Ambience	神秘的气氛
+ep7_cc	AMB_VEIL	Otherwordly Ambience	异界气氛
+ep7_cc	SFX_VEIL_SCARE_1	Screech	尖啸声
+ep7_cc	SFX_COFFIN_SCARE_2	Screech	尖啸声
+ep7_cc	SFX_VEIL_SCARE_3	Screech	尖啸声
+ep7_cc	SFX_VEIL_SCARE_4	Screech	尖啸声
+ep7_cc	SFX_VEIL_SCARE_5	Screech	尖啸声
+ep7_cc	AMB_VEIL_FINAL	Primal Fear	原初的恐惧
+ep7_cc	SFX_BIG_EYE	I See You	我看见你了
+ep7_cc	SFX_DESK_OPEN	Open Desk	桌子打开声
+ep7_cc	FS_SCHOOL	-	-
+ep7_cc	SFX_PLAYROOM_NOT_WORKING	Clank	金属声
+ep7_cc	SFX_COIN_STONE	Grate	刺耳的摩擦声
+ep7_cc	SFX_HIDDEN_GATE	Secret Passage Opens	密道打开声
+ep7_cc	SFX_DIG_MIRROR	Digging	挖掘声
+ep7_cc	SFX_MIRROR_BROKE	Glass Shatters	玻璃碎裂声
+ep7_cc	MISSING	Sad Music	哀伤的音乐
+ep7_cc	CRYTONIGHT	Melancholic Music	忧郁的音乐
+ep7_cc	THE_TRAGEDY	Nostalgic Music	怀旧的音乐
+ep7_cc	CHASE	Drums	鼓声
+ep7_cc	CRYTONIGHT_1	Melancholic Music	忧郁的音乐
+ep7_cc	CRYTONIGHT_2	Dramatic Music	戏剧性的音乐
+ep7_cc	REQUIEM	Melancholic Music	忧郁的音乐
+ep7_cc	OPENING	Opening Theme	开场乐
+ep7_cc	SFX_COFFIN_OPEN	Opening Coffin	棺材打开声
+ep7_gateHill	GATEHILL_FIRSTTIME_THINK	This must be the old abbey that Brighid Laidcend described in her diary. Could the Cronemeadan be here? Brighid mentioned a dim light, but I see only darkness.	这一定就是布里基德·莱德森德在日记中描写的修道院了。难道望盈朔在这里吗？布里基德提到了昏暗的光亮，但我只能看见黑暗。
+ep7_graveyard	MASKED_VILLAGER1	The woman hides her face behind a badger mask. She murmurs something in unison with the others—a muted prayer I cannot quite make out.	这个女人戴着一个獾面具。她与其他人齐声喃喃着——他们无声的祈祷无法听清。
+ep7_cc	CC_ENABLED	Closed Captions Enabled	字幕启用
+ep7_cc	SFX_TEACUP_2	Teacup	茶杯敲击声
+ep7_cc	SFX_LORD_SMOKING_2	Smoking	冒烟
+ep7_cc	SFX_WATER_STIR	-	-
+ep7_cc	SFX_BOTTLE_FILL	Liquid Pouring	液体注入声
+ep7_cc	SFX_KNOCKING	Knocking	敲击声
+ep7_cc	SFX_ENTER_LIGHTHOUSE	Steps	脚步声
+ep7_cc	SFX_PLAYHOUSE_PUPPETS_1	Clockwork Mechanism	发条机械声
+ep7_cc	SFX_PLAYHOUSE_PUPPETS_2	Clockwork Mechanism	发条机械声
+ep7_cc	SFX_PLAYHOUSE_PUPPETS_3	Clockwork Mechanism	发条机械声
+ep7_cc	SFX_COFFIN_SCARE2	Screech	尖啸声
+ep7_cc	SFX_HOLE_CLOSE	Dragging Stone	石块拖行声
+ep7_graveyard	ECO_GRAVE1	This gravestone bears no name, but a strange and intricate engraving.	墓碑上没有篆刻死者的姓名，只有一种奇怪而且复杂的铭文。
+ep7_cc	FS_STONE	-	-
+ep7_cc	SFX_VEIL_SCARE_2	Screech	尖啸声
+ep7_cemetery	FT_CEMETERY_1	They found me on the beach, unconscious…	他们发现我躺在沙滩上，毫无意识……
+ep7_cemetery	FT_CEMETERY_2	…clutching the piece of wood that had saved me from drowning.	……紧紧抓着不让我沉底的那块浮木。
+ep7_cemetery	FT_CEMETERY_3	When at last I awoke, the letter was waiting on my table.	当我最终醒来时，那封信已经放在了我的桌上。
+ep7_graveyard	ECO_TREE	In the middle of the graveyard stands an old alder tree, which the locals call a fearnóg. Many lanterns hang from it, I do not know for what purpose.	在墓园中央矗立着一颗桤木，当地人称之为水清风。树枝上悬挂着许多灯笼，我不知道这是什么风俗习惯。
+ep7_cemetery	FT_CEMETERY_4	Lieber Wakefield,?
+?
+I write this letter in my last moments of lucidity. I have not received word from you since I regained consciousness, but I am confident that you will soon return with information that is crucial to our investigation. The bravery that you demonstrated in the face of these latest discoveries is worthy of my most sincere admiration.	亲爱的威克菲尔德：?
+?
+我正在竭尽最后一丝清醒神智给你写这封信。我恢复意识之后还没有听到你的消息，但我相信你一定能得到至关紧要的信息。你在最近几次探险中展现出的勇气值得我最崇高的敬意。
+ep7_cemetery	FT_CEMETERY_4_1	I must now ask you for yet more courage. The doctors were unable to determine the cause of my sudden illness, nor have they found a cure. I have not much time left. My greatest regret is that I must abandon you to the difficult tasks that lie ahead. I implore you to persevere, now that we are so close to finding an answer.	我现在不得不要求你更加勇敢。医师们无法确定我突发疾病的病因，也没有找到任何治疗方法。我的时间不多了。我最大的遗憾就是留下你一个人面对前路上重重的考验。我恳求你，在这个如此接近真相的关头，坚持下去。
+ep7_cemetery	FT_CEMETERY_4_2	The Professor's documents were filled with references to a place of dark legend: the Cronemeadan, an ancient sanctuary on the island of éllís Mór. The exact location of the Cronemeadan has been lost, but the Professor believed that its secrets may explain why his experiments met with such disastrous results. You must find this place, mein Freund.?
+?
+I do not need to remind you to exercise the uttermost discretion. I have complete trust in you.	教授的文档中全部记载着一个黑暗传奇的描述：望盈朔，这座大埃利斯岛上的古老圣堂。望盈朔的确切位置已经散佚了，但是教授坚信它的秘密能解释他的实验为何会产生如此灾难性的后果。你必须找到这个地方，我的朋友。?
+?
+我已不必再提醒你一定要把自己的行动绝对保密了。我对你的信任无以复加。
+ep7_cemetery	FT_CEMETERY_5	Always your Friend,?
+Johan Kaufmann	你永远的朋友，?
+乔安·考夫曼
+ep7_coldOpen	COLDOPEN_SENTENCE3	Only then will you be ready	只有这时你才会准备好
+ep7_coldOpen	COLDOPEN_SENTENCE1	For three days, you must wait	你必须等待，三天三夜
+ep7_coldOpen	COLDOPEN_SENTENCE2	Alone amongst these dead stones	独自一人，在死寂的石块间
+ep7_coldOpen	COLDOPEN_SENTENCE4	To complete your journey, ?
+Mr Ashdown	才能完成你的旅途，?
+阿什当先生
+ep7_gateHill	WICKERMAN_GATEHILL_INSPECT	The wicker statue stands like a silent guard. Its presence makes me uncomfortable, as though I have trespassed on forbidden grounds.	柳条人像一位安静的卫兵一般肃立。它的存在使我浑身不适，就像我已涉足禁地。
+ep7_graveyard	MUST_FOLLOW_DRAGON	I should follow that masked person.	我应该跟着那个戴着面具的人。
+ep7_graveyard	MAUSOLEUM_INSIDE	Inside, a candle provides dim light. I can make out a statue of a hooded man. I can also hear someone whispering.	陵墓内部只有一枝蜡烛散发这微弱的光芒。我看到了一个戴着面具的人的轮廓。我还听见有人在低声说话。
+ep7_graveyard	MASKED_VILLAGER2	The man hides his face behind a deer mask. He murmurs something in unison with the others—a muted prayer I cannot quite make out.	这个男人戴着一个鹿面具。他与其他人齐声喃喃着——他们无声的祈祷无法听清。
+ep7_graveyard	MASKED_VILLAGER3	The woman hides her face behind a bull mask. She murmurs something in unison with the others—a muted prayer I cannot quite make out.	这个女人戴着一个牛面具。她与其他人齐声喃喃着——他们无声的祈祷无法听清。
+ep7_graveyard	MASKED_VILLAGER4	A man, his face hidden by a wolf mask, stands in the middle. There is something familiar about him.	这个男人带着一个狼面具，站在人群中间。他似乎有些熟悉。
+ep7_graveyard	THINK_AFTER_DIGGIN	I believe they were burying mirrors in a hole in the ground. What a peculiar tradition.	他们似乎在地里埋镜子。真是奇特的习俗啊。
+ep7_graveyard	ECO_BURRIED_MIRROR	I would rather not interfere with traditions I do not quite yet understand.	对于这种我不熟悉的风俗习惯，我还是不要插手为好。
+ep7_graveyard	ECO_MAUSOLEUM	A small mausoleum. The door has a small slot. I might be able to peer through it…	一个小型陵墓。墓门上有一个小洞。我应该可以透过它看到内部……
+ep7_graveyard	FT_MAUSOLEUM_1	No, I can't die yet... not without... knowledge.	不，我还不能死……我还……不明白。
+ep7_graveyard	FT_MAUSOLEUM_2	Is it so terribly unthinkable to truly understand the gods?	认识神明的真正面目就如此无法想象吗？
+ep7_graveyard	FT_MAUSOLEUM_3	How can we live only on faith?	我们只能依靠信仰过活吗？
+ep7_graveyard	FT_MAUSOLEUM_4	No! Shut up! Knowledge is what I pursue?, not faith nor assumptions.?	不！闭嘴！我并不追求知识，亦非信仰或是假设。?
+ep7_graveyard	FT_MAUSOLEUM_5	No. No man can face Death believing there is nothing on the Other Side.	不。要面对死亡，必须相信那一侧存在着什么东西。
+ep7_graveyard	FT_MAUSOLEUM_6	Yes... yes... You are right. Now I understand.	是的……是的……你说得对。我明白了。
+ep7_graveyard	MASKED_VILLAGER5	The man hides his face behind a fox mask. He murmurs something in unison with the others—a muted prayer I cannot quite make out.	这个男人戴着一个狐狸面具。他与其他人齐声喃喃着——他们无声的祈祷无法听清。
+ep7_graveyard	MAUSOLEUM_EMPTY	Only dark. I cannot hear or see a thing.	面前只有黑暗。我什么也听不见，什么也看不见。
+ep7_graveyard	ECO_MIRROR_2	I am not too sure about this...	我对此不太确定……
+ep7_graveyard	CTS_MIRROR_BROKEN	What... was that?	那……是什么？
+ep7_graveyard	ECO_MIRROR_3	The mirrors are completely shattered. Why would that masked man do this?	镜子全都碎了。为什么那个面具男要这样？
+ep7_graveyard	ECO_BURRIED_MIRROR_2	I dug up the mirror the villagers burried. I'll leave it like that.	我把村民们埋下的镜子挖出来了。不用再处理了。
+ep7_graveyard	BTS_GRAVE	The epitaph on this gravestone is written in Gaelic, the shadows cast by the lanterns only making the characters more mysterious.	墓碑上的铭文是用盖尔语写的。灯笼投下的阴影使这些字符显得更加神秘。
+ep7_holeBottom	ECO_COFFIN_CLOSED	A small coffin rests inside a crude niche that has been carved into the stone wall.	石墙上有一个雕刻粗糙的壁龛，里面有一副小棺材。
+ep7_holeBottom	ECO_COFFIN_OPENED	Only ashes are inside.	里面只有尘土。
+ep7_holeBottom	MAIN_COFFIN_1	Some old pages lie haphazardly on the coffin lid. It is as though they had been dropped here from the upper hill, long ago. They bear faint notes written in a trembling hand.	棺材盖上杂乱地散落着一些老旧的纸页。它们似乎是很久以前从山上丢下来的。笔迹十分模糊而且颤抖。
+ep7_holeBottom	MAIN_COFFIN_2	The engraving on the coffin is so badly eroded that the name is barely readable...	棺材上的铭文被严重侵蚀了，上面的名字几乎无法辨认……
+ep7_holeBottom	COFFIN_PAPER_1	Down in this unholy burrow, in the feared Cronemeadan, our worst nightmares crawl and die.?
+?
+Resting down here are the dauntless, those who dared enter the lair of the snake and the bird.	在这邪恶的洞穴底部，在令人生畏的望盈朔中，我们最可怕的梦魇匍匐而死。?
+?
+在此长眠着无畏的勇者们，那些敢于侵犯蛇与鸟的领地之人。
+ep7_holeBottom	COFFIN_PAPER_2	Each of those men and women crossed the Path Between. They walked through the mist, to the Other Side, where the ultimate truth screams in terror... and then they returned. These are my ancestors.?
+?
+Amongst the dead stones of the Cronemeadan lie the proud Laidcend, reduced to something far worse than dust or ashes.	这些男男女女全部穿越了两界之路。他们走过了迷雾，到达了另一侧，在那里，终极真理在恐惧中尖声惊呼……然后他们回来了。那些人就是我的祖先。?
+?
+在望盈朔死寂的石块之间，自傲的莱德森德于此安息，她已化身比尘土还卑微的存在。
+ep7_holeBottom	COFFIN_PAPER_3	Could that blasphemy in the coffin be Aunt Máire's true legacy? ?
+?
+No, I shall not accept this fate for myself.	难道棺材里的魔物就是玛丽阿姨真正的遗产吗？?
+?
+不，我不甘于接受这个命运。
+ep7_holeBottom	MAIN_COFFIN_3	...Máire Laidcend.	……玛丽·莱德森德。
+ep7_holeBottom	COFFIN_TITLE	...Máire Laidcend.	……玛丽·莱德森德。
+ep7_inventory	NV_LINK	Ring	戒指
+ep7_holeBottom	ECO_SUN_SYMBOL	A spiked circle is engraved on the bare stone.	石面上篆刻着一个带刺的圆环。
+ep7_holeBottom	ECO_SYMBOL_CIRCLES	These indentations may have once supported a structure of some kind, though there is nothing left of it now.	这些缺口可能曾经用于稳定某种建筑，但是它支撑的东西已经不复存在了。
+ep7_holeBottom	ECO_COFFIN_HOLE	This niche is empty.	壁龛是空的。
+ep7_holeBottom	ECO_COFFIN1	A small coffin, half rotted away.	一副小棺材，已经有一半腐朽了。
+ep7_holeBottom	ECO_COFFIN2	This coffin is covered in ashes.	棺材上布满了尘土。
+ep7_holeBottom	ECO_COFFIN3	This coffin does not look quite as old as the others.	这副棺材比其它棺材要新一些。
+ep7_holeHill	HOLE_INSPECT	A huge hole lies in front of me. An ominous, chilling draft issues from within that sends shivers down my spine and makes me very uneasy. To a superstitious mind, it might seem like a passage to another world.	我面前有一个大坑。从中渗出了一丝不祥而冰冷的气息，我浑身战栗，心神不安。对于一个迷信的人，这看上去就像通向另一个世界的大门。
+ep7_holeHill	ECO_STONE	This place appears to be the remnants of an ancient temple to some unknown deity.	这个地方看上去是祭祀某个未知神明的古老寺庙遗迹。
+ep7_holeHill	SH_INSPECT	A bronze bowl that bears strange symbols in its rim. It looks ancient.	一只铜碗，边缘上刻着奇怪的符号，看上去十分古老。
+ep7_inventory	NV_CHAINBROKEN	Chain	链条
+ep7_inventory	NV_CHAINBROKEN_DESC	The chain of the bicycle I found. It is missing a link.	我找到的自行车上的链条，上面缺了一个链节。
+ep7_inventory	NV_CHAINFIXED_DESC	The ring fits perfectly on the chain. I am sorry to use Brighid's grandmother's ring in such a manner. Still, maybe now I can get the bicycle to work.	戒指完美地嵌合在链条上。我对于把布里基德祖母的戒指用作这样的用途十分抱歉，但是至少我可以让自行车正常工作了。
+ep7_inventory	NV_CHAINFIXED	Chain	链条
+ep7_inventory	NV_LINK_DESC	A small, thin steel ring.	一枚又小又细的戒指。
+ep7_inventory	NV_BRACE	Brace	手钻
+ep7_inventory	NV_BRACE_DESC	A carpenter's brace, used to drill holes in wood.	木工手钻，用于在木料上打洞。
+ep7_inventory	NV_CONTAINER_DESC	A bottle, tumbled and frosted by its time in the sea.	一只曾在海水中浮浮沉沉的漂流瓶。
+ep7_inventory	NV_CONTAINER	Bottle	漂流瓶
+ep7_inventory	NV_OIL	Oil	油
+ep7_inventory	NV_OIL_DESC	The bottle is filled with mineral oil.	瓶子里装满了矿物油。
+ep7_inventory	NV_RIBBON	Ribbon	丝带
+ep7_inventory	NV_RIBBON_DESC	A red ribbon. I think it was part of the child's mask that was left behind in the hills.	一条红丝带。这也许是那个小孩面具上的一部分，他把丝带落在山里了。
+ep7_inventory	NV_BATTERY	Battery	电池
+ep7_inventory	NV_BATTERY_DESC	An electrical mechanism that is used to store energy. Its upper part looks like some kind of dynamo. It seems to need charging.	一种用于储存能量的电力设备。它的上端看上去是某种发电机。设备里似乎没有电。
+ep7_inventory	NV_BATTERYCH	Battery	电池
+ep7_inventory	NV_BATTERYCH_DESC	Hopefully, the battery has enough charge to keep the lighthouse lit for a few hours.	希望这组电池能点亮灯塔几个小时。
+ep7_inventory	NV_GEAR	Cog	齿轮
+ep7_inventory	NV_GEAR_DESC	An industrial cogwheel that I found lying discarded in the village.	我在村庄里找到的一只被丢弃的齿轮。
+ep7_inventory	NV_HOOK	Umbrella	雨伞
+ep7_inventory	NV_BATTERYCHARGED	Battery	电池
+ep7_inventory	NV_PICTURE	Drawing	画作
+ep7_inventory	NV_PICTURE_DESC	A child's drawing.	一幅儿童的画。
+ep7_inventory	NV_HOOK_DESC	An old, worn-out umbrella. It is unusable.	一把老旧、破损的雨伞，根本不能遮风挡雨。
+ep7_lakeShore	CANT_TAKE_WITH_MY_HANDS	I would need some sort of container to pour the contents of the barrel into.	我需要用某种容器装木桶里的东西。
+ep7_lakeShore	LG_LORD_LAKESHORRE_13	It has been a pleasure, Lord Dónnan.	见到你很高兴，多南领主。
+ep7_lakeShore	ECO_LAKE	The water of the marsh is murky and dark.	沼泽里的水又泥泞又黯淡。
+ep7_lakeShore	CONTAINTER_ON_BARREL	Now that there is a hole in the barrel, I just have to push the bottle in a bit and–I managed to fill it with oil.	现在桶壁上有了一个洞，我就可以把瓶子塞进去，然后……我在瓶子里装满了油！
+ep7_lakeShore	BARREL3_INSPECT	I have all the oil I need.	这些油已经够了。
+ep7_lakeShore	BARREL2_INSPECT	The barrel is filled with oil.	桶里面装满了油。
+ep7_lakeShore	WCB_OIL_BARREL	I have enough oil in the bottle.	瓶子里的油已经足够了。
+ep7_lakeShore	WCB_GEAR_BARREL	The cog is not sharp enough to open the barrel.	齿轮不够尖锐，划不开木桶。
+ep7_lakeShore	WCB_LINK_BARREL	I cannot open it with this.	我不能用这个打开它。
+ep7_lakeShore	WCB_UMBRELLA_BARREL	I doubt I could use an umbrella to open this barrel.	我不觉得我能用一把伞打开木桶。
+ep7_inventory	NV_LENS	Lens	透镜
+ep7_lakeShore	LG_LORD_LAKESHORRE_11	Farewell, Doctor Wakefield.	再见，威克菲尔德医生。
+ep7_inventory	CHAINFIXED_CREATED	The ring fits perfectly on the chain. I am sorry to use Brighid's grandmother's ring in such a manner. Still, maybe now I can get the bicycle to work.	戒指完美地嵌合在链条上。我对于把布里基德祖母的戒指用作这样的用途十分抱歉，但是至少我可以让自行车正常工作了。
+ep7_lakeShore	LG_LORD_LAKESHORRE_9	As I mentioned earlier, you may wish to speak with Miss Foster. She is something of a resident expert on éilís Mór's history. She can often be found working late at the school—the building right across from the quay.	正如我之前提到的，你可能想和佛斯特女士谈谈。她是一名本地专家，主业研究大埃利斯岛历史。你可以在学校找到她，她经常加班到很晚——学校就在码头的另一边。
+ep7_lakeShore	LG_LORD_LAKESHORRE_8	It has been a pleasure meeting you.	很高兴见到你。
+ep7_lakeShore	CONTAINER_ON_BARREL	Now that there is a hole in the barrel, I just have to push the bottle in a bit and… I managed to fill it with oil!	现在桶壁上有了一个洞，我就可以把瓶子塞进去，然后……我在瓶子里装满了油！
+ep7_lakeShore	BRACE_ON_BARREL	I may be able to drill a hole in the barrel using this brace.	我用这把手钻应该可以在这个木桶上钻个洞。
+ep7_lakeShore	LG_LORD_LAKESHORRE_4	I must now take my leave, as my presence is required to start the rites of Reunion. Feel free to continue your walk on your own. The village can be found just beyond those hills.	我现在该离开了，因为我必须亲自到场，开启重逢的仪式。你可以随意在岛上探索。村庄就在山的那一边。
+ep7_lakeShore	LG_LORD_LAKESHORRE_2	In éilís Mór we keep our traditions alive. Oh, they change, just as the times do. But they always keep their essence. These are our roots, Doctor.	在大埃利斯岛上，我们坚持着传统。哦，传统和时间一样不停变化，但是不变的是它们的本质。那些是我们的根源，医生。
+ep7_lakeShore	LG_LORD_LAKESHORRE_1	Many of the gods that men worshipped for millennia now lie buried in the common grave of oblivion.	千百年来人们崇拜的神现在被埋葬在平淡无奇的遗忘之墓中。
+ep7_lakeShore	BARREL_INSPECT	An old barrel lies stranded on the shore. It is sealed, and the paint used to label its contents has peeled off long ago.	海岸上遗弃着一只旧木桶。它被封了起来，上面指明内容的标签也早已脱落了。
+ep7_inventory	NV_COIN_DESC	An old iron disc. A drawing of a spiked circle is engraved on it.	一只古老的铁质碟片。上面刻着一个带刺的圆环。
+ep7_inventory	NV_SCREW_DESC	A worm screw. It is a piece of a large mechanism.	一只蜗杆螺钉，是一个大型机械的一部分。
+ep7_inventory	NV_SCREW	Screw	螺钉
+ep7_inventory	NV_COIN	Disc	碟片
+ep7_inventory	NV_BATTERYCHARGED_DESC	Hopefully, the battery has enough charge to keep the lighthouse lit for a few hours.	希望这组电池能点亮灯塔几个小时。
