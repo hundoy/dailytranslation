@@ -995,21 +995,21 @@ Dane Tippman</string>
       <string id="ATTIC_CABLE_INSPECT">一根镀金管道，从一台奇怪的机器中伸出来，伸到地板下面。</string>
       <string id="DECO_AT_BOOKCASE">一个装饰风格古老的架子。各种金属装饰，奇形怪状。</string>
       <string id="DECO_AT_WINDOW">窗户很古旧，甚至都有些歪了，凛冽的寒风吹了进来。</string>
-      <string id="DLG_KAUFFMAN_AT_10">听起来，好像有什么人在下面，还在弹钢琴。</string>
+      <string id="DLG_KAUFFMAN_AT_10">听起来，好像有什么人在隧道下面，而且还在弹钢琴。</string>
       <string id="DLG_KAUFFMAN_AT_11">但……那完全不可能啊。怎么会？</string>
       <string id="DLG_KAUFFMAN_AT_12">我不知道，但这应该对我们的调查很关键。</string>
       <string id="DLG_KAUFFMAN_AT_13">你的意思是，还有一个通往地下隧道的入口。</string>
       <string id="DLG_KAUFFMAN_AT_14">嗯，而且我们必须找到它。</string>
       <string id="DLG_KAUFFMAN_AT_15">怎么找？</string>
       <string id="DLG_KAUFFMAN_AT_16">有一个办法，可以试试。</string>
-      <string id="DLG_KAUFFMAN_AT_17">毕竟我们已经无计可施了，你在档案里也没找到有用的东西，而莱特教授仍然只会喃喃地嘟嚷他的童年回忆。</string>
-      <string id="DLG_KAUFFMAN_AT_18">你必须催眠教授，我亲爱的朋友。</string>
+      <string id="DLG_KAUFFMAN_AT_17">确实我们已经无计可施了，你在档案里也没找到有用的东西，而莱特教授仍然只会喃喃地嘟嚷他的童年回忆。</string>
+      <string id="DLG_KAUFFMAN_AT_18">所以你必须催眠教授，我亲爱的朋友。</string>
       <string id="GADGET_INSPECT">一个不寻常的电器设备，虽然不知道它是做什么的，但我能看出来它缺了一部分。</string>
       <string id="DLG_KAUFFMAN_AT_19">我们别无选择了，这是唯一有可能找到答案的办法。</string>
       <string id="LEVER_INSPECT">某种圆形机关。</string>
-      <string id="PLH_RADIO_KNOB">我想它现在能起作用了。</string>
+      <string id="PLH_RADIO_KNOB">我想它现在能用了。</string>
       <string id="RADIO_RESOLVED_PHRASE1">这个声音……</string>
-      <string id="RADIO_RESOLVED_PHRASE2">那是幻听吗？刚才好像是……钢琴的旋律？我必须马上去找考夫曼。</string>
+      <string id="RADIO_RESOLVED_PHRASE2">这是幻听吗？这无论怎么听都是……钢琴的旋律？我必须马上去找考夫曼。</string>
       <string id="RADIO_SOLVED_NO_USE">设备安静了。</string>
     </bundle>
     <bundle id="ep6_audio">
@@ -1185,7 +1185,7 @@ Dane Tippman</string>
       <string id="DLG_HOUSEKEEPER_BY_16">当然可以啦，医生。</string>
       <string id="DLG_HOUSEKEEPER_BY_17">教授是怎么得病的？</string>
       <string id="DLG_HOUSEKEEPER_BY_17_CH">教授是怎么得病的？</string>
-      <string id="DLG_HOUSEKEEPER_BY_18">这是他们家族的遗传病，莱特教授的父亲和祖父也都有这病。</string>
+      <string id="DLG_HOUSEKEEPER_BY_18">这是他们家族的遗传病，莱特教授的父亲和祖母也都有这病。</string>
       <string id="DLG_HOUSEKEEPER_BY_19">莱特教授提到了他童年时代的一个故事，他把它叫做“旅行的故事”。您知道那是指什么吗？</string>
       <string id="DLG_HOUSEKEEPER_BY_19_CH">莱特教授提到了一个故事……</string>
       <string id="DLG_HOUSEKEEPER_BY_20">哦，当然知道，他经常让我给他讲这个故事。你可以在书房的一本书上找到它。</string>
@@ -1219,7 +1219,7 @@ Dane Tippman</string>
       <string id="DLG_HOUSEKEEPER_BY_45_CH">教授是不是很喜欢解谜？</string>
       <string id="DLG_HOUSEKEEPER_BY_46">哦，是啊，医生，我知道。事实上，他经常让我读给他听。</string>
       <string id="DLG_HOUSEKEEPER_BY_47">是啊，确实如此！他长时间热衷于你能想象到的各种头脑游戏。</string>
-      <string id="DLG_HOUSEKEEPER_BY_48">天气好的时候，他每隔一个月都会办一次解谜主题晚会，他还曾经说过“哦，真是太有趣了”。</string>
+      <string id="DLG_HOUSEKEEPER_BY_48">天气好的时候，他每个月都会办一次解谜主题晚会，他曾经说过“哦，那真是太有趣了”。</string>
       <string id="DLG_HOUSEKEEPER_BY_49">感觉那是很久以前的事情了。</string>
       <string id="DLG_HOUSEKEEPER_BY_5">诶？是谁？</string>
       <string id="DLG_HOUSEKEEPER_BY_50">那本书应该就在书房。</string>
@@ -1229,15 +1229,15 @@ Dane Tippman</string>
       <string id="DLG_HOUSEKEEPER_BY_9">哦，是的，医生，他当然在。我带你去见他，你能来真是太好了，自从他变成那个样子后，最近都没什么人来串门。</string>
       <string id="ROOT1_INSPECT">这棵橡树看起来很古老，可能比这幢房子还要老。</string>
       <string id="ROOT2_INSPECT">看起来有什么东西被藏在盘根错节的树根之下。</string>
-      <string id="ROOT2_REACT">另一个笔记，还有一把钥匙，放在一起。</string>
-      <string id="ROOT3_INSPECT">只是一些小植物，因为清晨的霜凋零了。</string>
+      <string id="ROOT2_REACT">另一张笔记，放在一起的还有一把钥匙。</string>
+      <string id="ROOT3_INSPECT">这里长了一些小植物，它们因为清晨的霜降而凋零。</string>
       <string id="ROOTS_CLUE">这把钥匙被雕成了羽毛的形状。</string>
     </bundle>
     <bundle id="ep6_bathroom">
-      <string id="HIDDEN_LEVER_INSPECT">某种机器。</string>
+      <string id="HIDDEN_LEVER_INSPECT">某种机关。</string>
       <string id="TOO_DARK_TO_CONTINUE_THINK">这里太暗了，我需要有东西能照明。</string>
       <string id="NOMOREMATCHES">火柴用尽了。</string>
-      <string id="DECO_BA_FORNITURE">老式家具被丢在这里，兀自腐朽。 </string>
+      <string id="DECO_BA_FORNITURE">一些老式的家具被丢在这里，兀自腐朽。 </string>
       <string id="AIR_STREAM_THINK">这里伸手不见五指。我感觉到前边有一丝丝冷风吹过来。</string>
       <string id="MIRROR1_INSPECT">我看向镜子，镜中的自己被奇怪地扭曲了。</string>
       <string id="MIRROR2_INSPECT">有趣，即使蒸汽退去，文字还在镜子上。</string>
@@ -1305,7 +1305,7 @@ Dane Tippman</string>
       <string id="DLG_KAUFFMAN_BR_40">如果我们能找出教授谜题的答案，或许一切的疑问都会迎刃而解了。</string>
       <string id="DLG_KAUFFMAN_BR_42">要想解开疑问，只能去找出谜题的答案了。 </string>
       <string id="WCMB_BEDROOM_ENVELOP_MENTOR">最好拿给考夫曼看看。</string>
-      <string id="MENTOR_CLOTHES_INSPECT">莱特教授穿着睡衣和拖鞋。</string>
+      <string id="MENTOR_CLOTHES_INSPECT">莱特教授之前穿着的睡衣和拖鞋。</string>
       <string id="BIRDS_BOOK_INSPECT">地上有一本打开的书。</string>
       <string id="BIRDS_REACT_TEXT">《鸟之书》，一本鸟的图鉴集，一些文字被画了标记。</string>
       <string id="CTS_BEDROOM_HYPNOSIS">莱特教授不在这里。</string>
@@ -1326,7 +1326,9 @@ Dane Tippman</string>
     <bundle id="ep6_birdsRoom">
       <string id="BROKENBUST_INSPECT">我们祖先早已洞悉的真实，渐渐在缄默中回归未知……</string>
       <string id="BUST_INSPECT">希腊哲学家阿那克萨哥拉的半身像。</string>
+      <string id="BUST_INSPECT_2">科学之祖，希腊哲学家阿那克萨哥拉的半身像。</string>
       <string id="BUST_REACT">“我们祖先早已洞悉的真实，渐渐在缄默中回归未知……”在半身像的石座里有暗格，里面藏了一张笔记！</string>
+      <string id="BUST_REACT_2">把这个也记到信上。</string>
       <string id="JAILBIRD1_INSPECT">头部、胸部长着红色羽毛的一种鸟，“知更鸟”。</string>
       <string id="JAILBIRD1_INSPECT2">鸟鸣戛然而止，顿时鸦雀无声。</string>
       <string id="BROKENBUST2_INSPECT">暗格里没有其他东西了。</string>
@@ -1343,7 +1345,7 @@ Dane Tippman</string>
       <string id="FIRST_TIME_COVER_JAIL">里面的鸟突然安静了。</string>
       <string id="JAILBIRD9-2_INSPECT">鸦雀无声。</string>
       <string id="JAILBIRD6-2_INSPECT">鸦雀无声。</string>
-      <string id="CLUE_THINK">原初的……恐惧……？</string>
+      <string id="CLUE_THINK">原始的……恐惧……？</string>
       <string id="JAILBIRD7-COVERED_INSPECT">一块绣花的布盖着笼子，布上写着“如果鸟安静下来……”后面的字越来越淡，看不清楚。</string>
       <string id="FRONTYARD_DOOR_OPENS_BIRDROOM">听起来好像有人在门口。</string>
     </bundle>
@@ -1361,7 +1363,7 @@ Dane Tippman</string>
       <string id="DLG_PASTOR_8">我得走了，神父。
 </string>
       <string id="DLG_PASTOR_12">愿上帝保佑你。</string>
-      <string id="DLG_PASTOR_13">请等一下……我有一个小小的请求，请把这个东西关给亚当。虽然我不知道这对现在的他还是否有意义，但如果能把这代表我的友谊的东西放在他的身边，至少会为我的灵魂带来安宁。
+      <string id="DLG_PASTOR_13">请等一下……我有一个小小的请求，请把这个东西交给亚当。虽然我不知道这对现在的他还是否有意义，但如果能把这代表我们友谊的东西放在他的身边，至少会为我的灵魂带来安宁。
 </string>
       <string id="DECO_CH_BROKENWINDOW">窗户被木板封住了。</string>
       <string id="DECO_CH_CONFESSIONAL">忏悔室。</string>
@@ -1406,14 +1408,14 @@ Dane Tippman</string>
       <string id="DLG_FISHERMAN_32">该死，如果我的视力能恢复如初的话，对天发誓，一定刺死那个怪物。</string>
       <string id="DLG_FISHERMAN_33">哦，这望远镜虽然毫无疑问已经很旧了，但难得居然修补得非常精致漂亮。谢谢你，陌生人，欠你一个人情。
 </string>
-      <string id="DLG_FISHERMAN_35">嗯……唔……哦！那边的悬崖上的那是什么？活见鬼了，那不是莱特以前的避暑别墅么，我还以它就早就灰飞烟灭了！而且看起来从那边悬崖的老路就能过去的样子。</string>
+      <string id="DLG_FISHERMAN_35">嗯……唔……哦！那边悬崖上的是什么？活见鬼了，那不是莱特以前的避暑别墅么，我还以为它就早就灰飞烟灭了！而且看起来从那边悬崖的老路就能过去的样子。</string>
       <string id="DLG_FISHERMAN_36">打扰一下……您刚才说莱特的避暑别墅？</string>
       <string id="DLG_FISHERMAN_37">是啊。我还从来没亲眼见过呢，毕竟听说有它的时候我还年轻得很。这附近的人都知道它的事情，可真是一个可怕的悲剧。曾经有那么一天晚上，那房子的下面发生了山崩。</string>
       <string id="DLG_FISHERMAN_38">那房子的大部分都滑进海里了，只留下那边的废墟。当时死了不少人，但是奇迹的是，年轻的主人莱特居然幸免于难。
 </string>
       <string id="DLG_FISHERMAN_39">只要我这把老骨头还在，我就一定要弄死那个东西。</string>
       <string id="DLG_FISHERMAN_40">从这儿你可以看到它。看，就在海滩的另一边。你看到了吗？</string>
-      <string id="BETASLOT_DECO_CL_TREE">一棵饱受海风摧残的粗糙的树用根紧紧地把着悬崖，说不定哪天就会掉到下面的海里。</string>
+      <string id="BETASLOT_DECO_CL_TREE">一棵树，饱受海风摧残，表皮粗糙，它用根紧紧地抓着悬崖，说不定哪天就会掉到下面的海里。</string>
     </bundle>
     <bundle id="ep6_cliffHouseExt">
       <string id="DECO_CLE_CLIFF">从这令人头晕目眩的高度看下去，我能看到海浪在无情地拍打着下面的岩石。</string>
@@ -1422,11 +1424,11 @@ Dane Tippman</string>
       <string id="THINK_HUGO_ROAR">刚才那是……什么？</string>
     </bundle>
     <bundle id="ep6_cliffHouseInt">
-      <string id="FIREPLACE_INSPECT">石头上有一个特殊的压痕。</string>
+      <string id="FIREPLACE_INSPECT">壁炉的石头上有一个特殊的凹槽。</string>
       <string id="OPEN_ORNAMENT_FIREPLACE">触发了一个秘密机关！壁炉后面居然有一个通道，看起来是通向悬崖深处。</string>
       <string id="DECO_CLI_GUARDROBE">空空如也的衣橱，因为长时间暴露在海风之中，它的木头已经腐烂。</string>
       <string id="DECO_CLI_PORTRAIT">这张风景照上正是这间屋子在山崩前的模样。</string>
-      <string id="DECO_CLI_SEA">悬崖的这一边严重暴露在劲风和海浪之中。</string>
+      <string id="DECO_CLI_SEA">这一边暴露在劲风和海浪之中。</string>
       <string id="DECO_CLI_STRUCTURE">房子的地基重度损毁，我必须小心一点，随时可能塌方。</string>
     </bundle>
     <bundle id="ep6_cliffNightmare">
@@ -1435,38 +1437,38 @@ Dane Tippman</string>
     <bundle id="ep6_closedRoom">
       <string id="SILHOUETTES_INSPECT">一些被装裱的剪影画，每个下面都有一个刻着字的小牌匾。</string>
       <string id="SWITCH_DESC">墙上的隔间被打开了。</string>
-      <string id="DLG_KAUFFMAN_CR_LOOK_NOTE_TEXT">1865年8月1日 － 终于有成果了。经过数月冗长乏味的观察，终于有什么东西从另一边过来了，我听到了石拱门附近的脚步声。这似乎可以证实我的假设：绝对的恐惧正是我们寻找的钥匙。</string>
+      <string id="DLG_KAUFFMAN_CR_LOOK_NOTE_TEXT">1885年8月1日 － 终于有成果了。经过数月冗长乏味的观察，终于有什么东西从另一边过来了，我听到了石拱门附近的脚步声。这似乎可以证实我的假设：绝对的恐惧正是我们寻找的钥匙。</string>
       <string id="DLG_KAUFFMAN_CR_LOOK_NOTE_TEXT_2">1885年9月20日 － 现在正是它们派上用场的时候，我把这两个新的设备装在外面的隧道处，我不敢进里面，虽然没再听到它的声音，但我知道那个东西一定还在那里，就在黑暗之中。</string>
       <string id="DLG_KAUFFMAN_CR_LOOK_NOTE_TEXT_3">
-1885年11月12日 － 地下隧道的封锁被打破了，████████████████████逃走了。</string>
+1885年11月12日 － 地下隧道的封锁被打破了，██████████逃走了。</string>
       <string id="DLG_KAUFFMAN_CR_LOOK_NOTE_TEXT_4">
-1885年12月15日 － 我别无选择，只能毁掉这个实验，一切已经无法控制。我能做的唯一的事情，就是彻底封锁隧道，把那令人憎恶的东西永远地埋葬在里面。</string>
-      <string id="DLG_KAUFFMAN_CR_2">“实验，1885年”让我们看看……</string>
+1885年12月15日 － 我别无选择，只能毁掉这个实验，一切已经失控。我能做的唯一的事情，就是彻底封锁隧道，把那令人憎恶的东西永远埋葬在里面。</string>
+      <string id="DLG_KAUFFMAN_CR_2">“1885年实验记录”，让我们看看……</string>
       <string id="DLG_KAUFFMAN_CR_4">这……这是什么？</string>
       <string id="DLG_KAUFFMAN_CR_7_CH">封锁的入口</string>
       <string id="DLG_KAUFFMAN_CR_7">通往地下隧道的入口已经被封锁了，我们该怎么办？</string>
       <string id="DLG_KAUFFMAN_CR_8">真不走运呢，我的朋友。</string>
-      <string id="DLG_KAUFFMAN_CR_10">小心。</string>
+      <string id="DLG_KAUFFMAN_CR_10">万事小心。</string>
       <string id="DLG_KAUFFMAN_CR_35_CH">奇怪的机器。</string>
       <string id="DLG_KAUFFMAN_CR_35">我觉得我已经找到莱特教授日记里提到的设备了。</string>
       <string id="DLG_KAUFFMAN_CR_38_CH">你继续找吧。</string>
       <string id="DLG_KAUFFMAN_CR_38">你继续找吧，考夫曼。</string>
       <string id="DLG_KAUFFMAN_CR_37">好极了，我的朋友。现在只需要知道如何让它开始运作。</string>
-      <string id="DLG_KAUFFMAN_CR_15">我这里还需要些时间，你不妨不盾盾那把钥匙是否能打开去地下室的门。</string>
-      <string id="DLG_KAUFFMAN_CR_46">嗯……看这个。当心，文件夹里有一把小钥匙。</string>
-      <string id="WAKEFIELD_CLOSED_ROOM_CTS_THINK">This looks like Professor Wright's archive. I should bring Kaufmann here at once.</string>
+      <string id="DLG_KAUFFMAN_CR_15">我这里还需要花些工夫，你不妨去看看那把钥匙是否真的能打开地下室的门。</string>
+      <string id="DLG_KAUFFMAN_CR_46">嗯……你看这个。当心，文件夹里还有一把小钥匙。</string>
+      <string id="WAKEFIELD_CLOSED_ROOM_CTS_THINK">这里看起来像是莱特教授的档案室，我得立刻把考夫曼也叫过来。</string>
       <string id="DECO_CL_BOOKSCASE1">一系列标有日期的文件夹，顺序被打乱了。</string>
       <string id="DECO_CL_BOOKSCASE2">许多文件夹，上面没什么特别的标签。</string>
       <string id="DECO_CL_NOTES">一些碎纸，碎前似乎是笔记。</string>
       <string id="SWITCH_PANEL_CLOSED">墙上有某种金属制舱口，但是上面没有把手。</string>
-      <string id="DLG_KAUFFMAN_CR_47">似乎是教授在实验期间记的日志，都差不多是七年前的东西了。值得注意的是，其中有一条被改过……</string>
+      <string id="DLG_KAUFFMAN_CR_47">似乎是教授在实验期间记的日志，都差不多是七年前的东西了。值得注意的是，其中一篇里有文字被涂掉了……</string>
       <string id="DLG_KAUFFMAN_CR_48">但上面写的东西……不可能是真的，一定只是某种幻觉。</string>
       <string id="DLG_KAUFFMAN_CR_49">可能是莱特教授发病后的症状。</string>
       <string id="DLG_KAUFFMAN_CR_50">或许吧，但现在直接下结论还为时过早。</string>
       <string id="DLG_KAUFFMAN_CR_51">至少通过这些我们能断定一件事，教授还有一个工作室，就在地下。</string>
       <string id="DLG_KAUFFMAN_CR_53">或许那把钥匙就能打开地下室的大门，那里可能会通向地下的隧道。</string>
       <string id="DLG_KAUFFMAN_CR_54">你调查的同时，我在这里翻翻这些文件。除了那个文件夹，应该还有其他有用的东西。</string>
-      <string id="DLG_KAUFFMAN_CR_55">应该会有一个入口，可以通向教授所说的地下隧道。</string>
+      <string id="DLG_KAUFFMAN_CR_55">那里应该会有一个入口，可以通向教授所说的地下隧道。</string>
       <string id="DLG_KAUFFMAN_CR_58">如果我们能找到并使用教授在日志里提到的装置的话……</string>
       <string id="DLG_KAUFFMAN_CR_57">教授的笔记中有提到一种监听用的设备。</string>
       <string id="DLG_KAUFFMAN_CR_59">我相信在这件事上我们会找到头绪的。</string>
@@ -1491,19 +1493,17 @@ Dane Tippman</string>
       <string id="DLG_AFT_LIB_CONV_11">我相信到时就会有头绪了。</string>
     </bundle>
     <bundle id="ep6_closedRoomDiary">
-      <string id="DLG_CLOSEDROOMDIARY_1">我可以用这把钥匙探索地下室。
+      <string id="DLG_CLOSEDROOMDIARY_1">用这把钥匙可以进地下室。
 </string>
       <string id="DLG_CLOSEDROOMDIARY_3">嗯……看来我们不太走运。</string>
-      <string id="DLG_CLOSEDROOMDIARY_4">我的朋友，我这边也有了些进展。
-我觉得这或许能让我们的调查更进一步。 
-</string>
+      <string id="DLG_CLOSEDROOMDIARY_4">我的朋友，我这边也有了些进展。我觉得这或许能让我们的调查更进一步。</string>
       <string id="SECRET_MEETING">一个组织对我的研究表现出了浓厚的兴趣。
 我跟组织的一个代理人终于联系见面了，但见面会谈的结果对我的研究并没什么帮助。那个代理人对我研究的进展和结论都非常感兴趣，但是其实他们并不理解，他们永远也不可能理解。
 </string>
-      <string id="DLG_CLOSEDROOMDIARY_5">地板上有一个大洞，洞的另一边可能通向一个隧道。</string>
+      <string id="DLG_CLOSEDROOMDIARY_5">那里地上有一个大洞，洞的另一边可能通向地下隧道。</string>
       <string id="DLG_CLOSEDROOMDIARY_6">但它完全被岩石和杂物堵住了，所以我也不敢保证。</string>
-      <string id="DLG_CLOSEDROOMDIARY_7">被杂物堵住了？看起来教授成功地把通往地下区域的入口堵上了。</string>
-      <string id="DLG_CLOSEDROOMDIARY_8">看啊。</string>
+      <string id="DLG_CLOSEDROOMDIARY_7">被杂物堵住了？看起来教授把通往地下区域的入口封上了。</string>
+      <string id="DLG_CLOSEDROOMDIARY_8">看这个。</string>
     </bundle>
     <bundle id="ep6_coldOpen">
       <string id="DYNAMITE_TEXT">一切必须安置妥当</string>
@@ -1513,15 +1513,15 @@ Dane Tippman</string>
     </bundle>
     <bundle id="ep6_deadEnd">
       <string id="KNOB_INSPECT">看起来像是某种机器的一部分。</string>
-      <string id="KNOB_REACT">或许我能找到应该把它用在哪里。</string>
+      <string id="KNOB_REACT">或许我能找到用它的地方。</string>
       <string id="BLOCKED_TUNNEL_INSPECT">路因为塌方被堵住了。</string>
       <string id="LANTERN_REACT">现在，我可以从这里安全地出去了。</string>
       <string id="LANTERN_INSPECT">一个作业用提灯。</string>
       <string id="NO_LANTERN_BEFORE_LEAVE">这里有一个梯子，但是已经严重变形，并且因为潮湿所以很滑。在这漆黑的环境里，我不敢用它爬，担心会再次跌下来。</string>
       <string id="STRANGE_GADGET_INSPECT">似乎是某种电子设备。</string>
-      <string id="FALL_THINK">我……我掉到一个洞里 了，我在哪儿？ </string>
+      <string id="FALL_THINK">我……我掉到一个洞里了，我在哪儿？ </string>
       <string id="FALL_THINK2">这里气流变强了。</string>
-      <string id="LANTERN_AFTERCATCH">这里因为塌方阻塞了，不能从这里进地下隧道。我得往回走。</string>
+      <string id="LANTERN_AFTERCATCH">这里因为塌方阻塞了，进不去地下隧道。只好先回去了。</string>
       <string id="SEE_LADDER">谢天谢地！一架梯子！</string>
     </bundle>
     <bundle id="ep6_downCorridor">
@@ -1538,21 +1538,21 @@ Dane Tippman</string>
     <bundle id="ep6_frontyard">
       <string id="LOOSE_BRICK_INSPECT">墙上有一个奇怪的装饰物，好像可以动。</string>
       <string id="LION_STATUE1_INSPECT">凶猛的狮子，但是被海滨城市这里严重的湿气毁得不轻。</string>
-      <string id="LION_STATUE2_INSPECT">“只有进入了原初恐惧的血盆大口之中，……”</string>
+      <string id="LION_STATUE2_INSPECT">“只有进入了原始的恐惧的血盆大口之中，……”</string>
       <string id="LION_STATUE2_REACT">狮子的嘴里藏了什么东西，是一个拉杆……</string>
-      <string id="LION_STATUE2_REACT2">我认为刚才触发了大屋的某个机关，有一种谜题已经接近尾声的感觉。</string>
+      <string id="LION_STATUE2_REACT2">刚才似乎触发了某个机关，有一种谜题已经接近尾声的感觉。</string>
       <string id="LION_STATUE3_INSPECT">狮子的身体和脸都严重磨损，但牙齿却保持着尖利的样子。</string>
       <string id="FRONTYARD_HALL_LOCKED">大门从内侧关闭了。</string>
       <string id="DLG_FRONTYARD_CTS_1">我怀疑他是不是现在出门了，或者是没听到大门这里的声音。我们试试从后门进去吧。</string>
       <string id="DECO_FR_LIONBROKEN">凶猛的狮子，但是被海滨城市这里严重的湿气毁得不轻。它的头丢了。</string>
-      <string id="LION_ITEMS_FOUND">我认为刚才触发了大屋的某个机关，这还有一张纸条。</string>
+      <string id="LION_ITEMS_FOUND">刚才似乎触发了某个机关，另外这里还有一张纸条。</string>
       <string id="LAST_CLUE">"……最终才能知道何为真实。"</string>
       <string id="LAST_CLUE_ADDED">这是谜题的最后一部分吗？</string>
     </bundle>
     <bundle id="ep6_garden">
       <string id="COMPASS_REACT">看起来像是一个罗盘，但一定是坏掉了，因为它并不指向北方。
 </string>
-      <string id="COMPASS_INSPECT">雕像拿着的黏土容器已经碎掉了，碎片中的一个东西，一定是之前藏进去的…….</string>
+      <string id="COMPASS_INSPECT">雕像之前拿着的黏土容器已经摔碎了，碎片中有一个东西，一定是事先藏进去的…….</string>
       <string id="COMPASS2_INSPECT">只是容器的碎片而已。</string>
       <string id="GARDEN_STATUE1_A">一个皇后的雕像，脸藏在面具之下。</string>
       <string id="GARDEN_STATUE2_A">一个农妇的雕像，脸藏在面具之下。</string>
@@ -1562,7 +1562,7 @@ Dane Tippman</string>
       <string id="GARDEN_STATUE4_A">一个牧师的雕像，脸藏在面具之下。</string>
       <string id="GARDEN_STATUE4_B">牧师摘下了面具，脸的位置是一个空洞。</string>
       <string id="GARDEN_STATUE5_A">中间的雕像是一个穿着斗篷的人，拿着一个黏土容器，容器上面有一个小洞，透过洞可以看到里面藏了一个金属的东西。</string>
-      <string id="GARDEN_STATUE5_B">中间的雕像移动了位置，手中的黏土容器摔到了地上。</string>
+      <string id="GARDEN_STATUE5_B">中间的雕像动了，手中的黏土容器摔到了地上。</string>
       <string id="GARDEN_STATUE1_B">皇后摘下了面具，脸的位置是一个空洞。</string>
       <string id="GA_STATUE_SIGN">当四个人摘下了谎言的面具，通往墓园的路将开启。</string>
       <string id="BETASLOT_DECO_DEADTREE">一棵僵死的树，它看起来也几乎像是一尊雕像。</string>
@@ -1581,10 +1581,12 @@ Dane Tippman</string>
       <string id="BURIAL1_REACT">有什么东西埋在这儿……</string>
       <string id="TRG_COMPASS_SENTENCE">嗯……这真是不同寻常……</string>
       <string id="GRAVE_FLOWERS_CTS_1">……</string>
-      <string id="GRAVE_FLOWERS_CTS_2">那是教堂的钟声……看来牧师正在召集民众。</string>
+      <string id="GRAVE_FLOWERS_CTS_2">那是教堂的钟声……看来神父正在召集民众。</string>
       <string id="GRAVE2_INSPECT">……</string>
       <string id="BURIAL_COMPASS">罗盘指向……这个墓？</string>
-      <string id="DECO_GR_GRAVE1">“将我身体和海中浮木葬在一起；和碧绿的海藻、陈旧的绳索葬在一起。这样，我就能感到秋日冷冷的微风。”
+      <string id="DECO_GR_GRAVE1">“将我身体和海中浮木葬在一起；
+和碧绿的海藻、陈旧的绳索葬在一起。
+这样，我就能感到秋日冷冷的微风。”
 
 - 杰拉尔德·贝雷 -
 1810 - 1875</string>
@@ -1592,15 +1594,16 @@ Dane Tippman</string>
  
 - 玛莉·简·班尼特 -
 1861 - 1890</string>
-      <string id="DECO_GR_GRAVE3">“不要带花来，只有朗姆酒才能令我欢喜，生时我在群星下远航，死后我在群星下安息。”
+      <string id="DECO_GR_GRAVE3">“不要带花来，只有朗姆酒才能令我欢喜，
+生时我在群星下远航，死后我在群星下安息。”
 
- -
+- 丹尼尔·阿尔贝托 -
 1798 – 1842"</string>
-      <string id="HALF1_FULLIMAGE_TEXT">被雕过的石头。似乎是大雕像的一半……</string>
+      <string id="HALF1_FULLIMAGE_TEXT">石头雕塑。似乎只是一半……</string>
       <string id="CMB_FLOWERS_GRAVE1">贝雷……不是我要找的墓。</string>
       <string id="CMB_FLOWERS_GRAVE2">班尼特……不，这不是我要找的。</string>
       <string id="CMB_FLOWERS_BURIAL">这块墓石上没有雕名字、生卒年和墓志铭……</string>
-      <string id="CMB_FLOWERS_GRAVE3">阿贝尔顿……不是我要找的墓。</string>
+      <string id="CMB_FLOWERS_GRAVE3">阿尔贝托……不是我要找的墓。</string>
       <string id="WRONG_EMPTYGRAVE_FLOWERS">没有名字，不是我要找的墓。</string>
     </bundle>
     <bundle id="ep6_guestRoom">
@@ -1608,10 +1611,10 @@ Dane Tippman</string>
       <string id="DECO_GU_BOOKS">一些关于古典戏剧的书。</string>
       <string id="DECO_CLOTHES">衣帽架上有薄薄的一层灰，但是大衣上没有。</string>
       <string id="DECO_GU_GUARDROBE">老旧的衣橱。</string>
-      <string id="BE_MENTOR_DEAD">可怜的人，看样子他的心脏已经停止跳动了。他的眼睛……天啊……极度的恐惧感凝固在了里面。嗯，我看看……他的紧握着拳头，里面好像攥着什么东西。</string>
+      <string id="BE_MENTOR_DEAD">可怜的人，看样子他的心脏已经停止跳动了。他的眼睛……天啊……极度的恐惧感凝固在里面。嗯，我看看……他紧握着拳头，好像攥着什么东西。</string>
       <string id="BE_MENTOR_DEAD2">他发生什么事了？我以前也见过尸体，但……从来没见过这样令我不舒服的尸体。我……不禁全身发抖。</string>
-      <string id="GE_HALF1_INCATCH">一个小石雕，他紧紧地握着它，就好像不想被某个人夺走一样。</string>
-      <string id="GE_HALF1_PRECATCH">石雕很漂亮，但是似乎是一个大石雕的一半。</string>
+      <string id="GE_HALF1_INCATCH">一个小石雕，他紧紧地握着它，似乎不想被某个人夺走一样。</string>
+      <string id="GE_HALF1_PRECATCH">石雕很漂亮，但是似乎只是一半。</string>
       <string id="GE_WINDOW_OPENED">窗户大开，冷风吹进了房间。</string>
       <string id="GUESTROOM_SURPRISE">天啊，莱特教授！</string>
       <string id="TRG_TO_INNROOM">事态严重，我必须告诉考夫曼。当然还得报警。</string>
@@ -1622,7 +1625,7 @@ Dane Tippman</string>
       <string id="PLH_PORTRAIT_CLUE">跟我想的一样，画框后面藏了一把小钥匙，还有一张笔记……</string>
       <string id="DECO_HA_JAR">瓷瓶中插了一些枯树枝。</string>
       <string id="DOOR_HALL_FRONTYARD_LOCKED_AFTER_BACK">锁上了。</string>
-      <string id="PORTRAIT2_INSPECT">“……看着你的主人……不仅仅是他威严的注视，还要理解他眼神下的东西……”</string>
+      <string id="PORTRAIT2_INSPECT">“再看看这里的主人……看他威严的注视……并寻找那之下隐藏的东西”</string>
       <string id="PORTRAIT3_INSPECT">莱特教授的肖像画，看起来威风凛凛、充满求知欲，跟现在的教授相当不同。
 </string>
       <string id="BETASLOT_DECO_HA_PICTURESTAIRS">巨大的画，画着一条湍急的河流，浪花拍打着河岸。背景可以看到一座明显已经被遗弃的老旧教堂。
@@ -1650,12 +1653,12 @@ Dane Tippman</string>
       <string id="DLG_HYPNOSIS_35_CH">告诉我你现在在哪儿？</string>
       <string id="DLG_HYPNOSIS_36_CH">向西。</string>
       <string id="DLG_HYPNOSIS_48_CH">向南。</string>
-      <string id="DLG_HYPNOSIS_50_CH">Go East.</string>
+      <string id="DLG_HYPNOSIS_50_CH">向东。</string>
       <string id="DLG_HYPNOSIS_52">我已经原路返回，再一次站在海滩上。</string>
       <string id="DLG_HYPNOSIS_53_CH">现在告诉我，你在哪里？</string>
       <string id="DLG_HYPNOSIS_44_CH">向北。</string>
       <string id="DLG_HYPNOSIS_55_CH">现在告诉我，你在哪里？</string>
-      <string id="DLG_HYPNOSIS_56_CH">向汞。</string>
+      <string id="DLG_HYPNOSIS_56_CH">向东。</string>
       <string id="DLG_HYPNOSIS_57_CH">向南。</string>
       <string id="DLG_HYPNOSIS_58_CH">现在告诉我，你在哪里？</string>
       <string id="DLG_HYPNOSIS_66">一具尸体浮在水上，我不敢看他的脸。</string>
@@ -1663,7 +1666,7 @@ Dane Tippman</string>
       <string id="DLG_HYPNOSIS_62">我来到一个开阔的地方，这里有一架钢琴，钢琴的旁边有……什么东西站在那里……我看不清楚它，……它的脸……</string>
       <string id="DLG_HYPNOSIS_76">隧道通向黑暗。</string>
       <string id="DLG_HYPNOSIS_60">一个非常小的房间，房间中央有一个深坑，有梯子通向下面。下面太黑了。</string>
-      <string id="DLG_HYPNOSIS_69">就在那儿……它在那儿……它在等丰……我不想继续了！我必须回去！</string>
+      <string id="DLG_HYPNOSIS_69">就在那儿……它在那儿……它在等我……我不想继续了！我必须回去！</string>
       <string id="DLG_HYPNOSIS_78_CH">爬下梯子。</string>
       <string id="DLG_HYPNOSIS_71">我什么也看不到，漆黑一片……我……我能感觉到它的呼吸，……它就在这儿！在我身边！</string>
       <string id="DLG_HYPNOSIS_79">我不能！我听到它就在我身边！它的呼吸……天啊，我得快逃！</string>
@@ -1721,7 +1724,7 @@ Dane Tippman</string>
       <string id="DLG_KAUFFMAN_IR3">考夫曼，你还好吗？</string>
       <string id="DLG_DWAYNE_3">考夫曼！发生什么事了，考夫曼？</string>
       <string id="DLG_DWAYNE_2">别担心，威克菲尔德医生。</string>
-      <string id="DLG_DWAYNE_4">别担心，我已经给他服了镇定的药。</string>
+      <string id="DLG_DWAYNE_4">别担心，我给他服了镇定的药。</string>
       <string id="DLG_DWAYNE_5">您好，很高兴见到您。我是威克菲尔德医生。考夫曼他都有什么症状？</string>
       <string id="DLG_DWAYNE_6">严重的咳嗽，身体虚弱，头晕……</string>
       <string id="DLG_DWAYNE_8">现在还不好定论，只能等着看看还有没有其他症状。</string>
@@ -1743,20 +1746,20 @@ Dane Tippman</string>
       <string id="DECO_IN_FORNITURE">我应该尊重考夫曼的隐私。</string>
       <string id="DECO_IN_COAT">考夫曼的外套。</string>
       <string id="DECO_PICTURE">丑陋的画。</string>
-      <string id="DLG_KAUFFMAN_IR33">关于昨天谈话时听到的事情，我想听听你的想法。你觉得有没有什么对我们的调查有帮助的事情？</string>
+      <string id="DLG_KAUFFMAN_IR33">关于昨天催眠时听到的事情，我想听听你的想法。你觉得有没有什么对我们的调查有帮助的事情？</string>
       <string id="DLG_KAUFFMAN_IR35_CH">对莱特教授喊叫的男人。</string>
       <string id="DLG_KAUFFMAN_IR36_CH">地下隧道。</string>
       <string id="DLG_KAUFFMAN_IR37_CH">海边。</string>
       <string id="DLG_KAUFFMAN_IR38_CH">神秘的人。</string>
-      <string id="DLG_KAUFFMAN_IR36">我觉得教授在潜意识里，非常在意这个地下隧道。</string>
-      <string id="DLG_KAUFFMAN_IR38">催眠期间，他看到了一个看不清脸的人：身体浮在水中，岩石中间，在钢琴旁边……</string>
-      <string id="DLG_KAUFFMAN_IR39">是的，确实如此……或者隧道的入口就在靠近海岸的什么地方。</string>
-      <string id="DLG_KAUFFMAN_IR37">催眠过程中，海是一个反复出现的主题。</string>
-      <string id="DLG_KAUFFMAN_IR40">是的，没错。但我恐怕现在就对那些画面下定论，还是有些为时过早。</string>
-      <string id="DLG_KAUFFMAN_IR41">我赞同。在谈话最后，他经历的恐惧感实在是太过强烈，不像是仅凭想象就能达到的程度。说明还存在某种来自外部的创伤。</string>
+      <string id="DLG_KAUFFMAN_IR36">我觉得教授在潜意识里，非常在意那个地下隧道。</string>
+      <string id="DLG_KAUFFMAN_IR38">催眠期间，他看到了一个看不清脸的人：身体浮在水中，藏在岩石中间，以及在钢琴旁边……</string>
+      <string id="DLG_KAUFFMAN_IR39">是的，确实如此……或许隧道的入口就在靠近海岸的什么地方。</string>
+      <string id="DLG_KAUFFMAN_IR37">催眠过程中，海是一个反复出现的场景。</string>
+      <string id="DLG_KAUFFMAN_IR40">是的，没错。但恐怕现在就对这些下定论还是为时过早。</string>
+      <string id="DLG_KAUFFMAN_IR41">我赞同。在催眠最后，他经历的恐惧感实在是太过强烈，不像是仅凭想象就能达到的程度。说明还存在某种来自外部的创伤。</string>
       <string id="DLG_KAUFFMAN_IR45_CH">对莱特教授喊叫的男人。</string>
-      <string id="DLG_KAUFFMAN_IR45">莱特教授提到有一个人在隧道入口附近对他喊叫，并且企求他别再叫了。我记不得他的名字了……</string>
-      <string id="DLG_KAUFFMAN_IR46">好极了！那是奥斯卡。我们应该试着找到他，他可能知道一些关于莱特教授恐惧的事情。</string>
+      <string id="DLG_KAUFFMAN_IR45">莱特教授提到有一个人在隧道入口附近对他喊叫，并且求他停止。我记不得他的名字了……</string>
+      <string id="DLG_KAUFFMAN_IR46">对的！那个名字是奥斯卡。我们应该试着找到他，他可能知道莱特教授害怕的东西是什么。</string>
       <string id="DLG_KAUFFMAN_IR48">如果我们能够找到这个男人，我确信我们的调查会有所进展的。</string>
       <string id="DLG_KAUFFMAN_IR49">确实，我的朋友。</string>
       <string id="DLG_KAUFFMAN_IR50">你不妨去镇子里看看，看能不能找到关于奥斯卡的消息。</string>
@@ -1766,10 +1769,10 @@ Dane Tippman</string>
       <string id="DLG_KAUFFMAN_IR52_CH">奥斯卡神父。</string>
       <string id="DLG_KAUFFMAN_IR53">奥斯卡是维克港教区的神父。</string>
       <string id="DLG_KAUFFMAN_IR58">你不妨去教堂看看，说不定在那里可以和神父聊聊。</string>
-      <string id="DLG_KAUFFMAN_IR59">教堂关着门。</string>
+      <string id="DLG_KAUFFMAN_IR59">但是教堂关着门。</string>
       <string id="DLG_KAUFFMAN_IR60">我亲爱的威克菲尔德，这我也给不了什么建议了。教堂不会一整天都关着门的。有的时候你需要等待，那就不妨等下去吧。等待的同时，你也可以和镇民们谈谈。说不定可以发现什么关于教授的有价值的信息。咳咳……</string>
       <string id="DLG_KAUFFMAN_IR63">根据本地人所说，莱特教授年轻时因为意外差点丧生，他家的避暑别墅被山崩摧毁了。</string>
-      <string id="DLG_KAUFFMAN_IR64">等一下，威克菲尔德，看来答案很明显了，对吧？在之前的谈话中，教授说过，隧道的入口需要穿过一个瀑布，还说“这不是水，而是高处滚落的泥和石头组成的瀑布”。这描述听起来和那灾难是如此相似！
+      <string id="DLG_KAUFFMAN_IR64">等一下，威克菲尔德，看来答案很明显了，对吧？在之前的催眠中，教授说过，隧道的入口需要穿过一个瀑布，还说“这不是水，而是高处滚落的泥和石头组成的瀑布”。这描述听起来和那灾难是如此相似！
 </string>
       <string id="DLG_KAUFFMAN_IR65">我推测，通往隧道的入口，就隐藏在房子里的某处。</string>
       <string id="DLG_DWAYNE_12">我会留在这里照看你的朋友的。</string>
@@ -1790,22 +1793,22 @@ Dane Tippman</string>
       <string id="INV_TINSOLDIER_DESC">英国军队配色的锡兵。作为一个小模型，做工过于精致。似乎是某次军事战役的纪念品。</string>
       <string id="INV_ATTICKEY_DESC">褪色的金钥匙。</string>
       <string id="CLUE1">那些探寻世界智慧之人须先认识到自身的愚蠢。在一腔热情的热力中映照出自己的身影，发现那逻辑的冷眼无法看到之物。</string>
-      <string id="CLUE3">提问源自于人在最高之塔的顶端所看到的世界，对答案的渴求则来自于其自身生命和时间的根。</string>
-      <string id="CLUE5">只有进入了原初恐惧的血盆大口之中……</string>
+      <string id="CLUE3">问题源自于人在最高之塔的顶端所看到的世界，对答案的渴求则来自于其自身生命和时间的根。</string>
+      <string id="CLUE5">只有进入了原始的恐惧的血盆大口之中……</string>
       <string id="CLUE_ADDED">我要把这条线索也记在信上。</string>
       <string id="CLUE1_CLUE2">那些探寻世界智慧之人须先认识到自身的愚蠢。在一腔热情的热力中映照出自己的身影，发现那逻辑的冷眼无法看到之物。
 - - -
-认知你自己，看着你的主人，不仅仅是他威严的注视，还要理解他眼神下的东西。由此寻找问题，或者寻找答案。</string>
-      <string id="CLUE3_CLUE4">之后你就准备去攀爬最高之塔，在那里俯瞰最深的根源……
+认识了真正的自己后，再看看这里的主人，看他威严的注视，并寻找那之下隐藏的东西。即使无法找到答案，至少可以发现新的问题。</string>
+      <string id="CLUE3_CLUE4">问题源自于人在最高之塔的顶端所看到的世界，对答案的渴求则来自于其自身生命和时间的根。
 - - - 
 我们祖先早已洞悉的真实，渐渐在缄默中回归未知。</string>
-      <string id="CLUE5_CLUE6">只有进入了原初恐惧的血盆大口之中……
+      <string id="CLUE5_CLUE6">只有进入了原始的恐惧的血盆大口之中……
 - - -
 ……最终才能知道何为真实。</string>
       <string id="INV_TEAPOT_COLD_AGAIN">茶壶已经冷掉了。</string>
       <string id="INV_COMPASS_DESC_BROKEN">看起来像是一个罗盘，但一定坏掉了，因为它并不指向北方。</string>
       <string id="INV_COMPASS_DESC_CRAZY">指针绕着轴旋转，指向任何方向。</string>
-      <string id="INV_COMPASS_DESC_WORKING">奇怪的设备。应该不是罗盘，因为它不指向北，但似乎指定随机的方向。</string>
+      <string id="INV_COMPASS_DESC_WORKING">奇怪的装置。应该不是罗盘，因为它不指向北，似乎指定随机的方向。</string>
       <string id="INV_GIVE_RUSTYBRONZEBELL_BEFORE_TALK">我觉得我应该先跟他说说。</string>
       <string id="INV_ORNAMENT_DESC">合在一起了，两片东西组成了一个精致的人像雕刻。毋庸质疑，它非常古老。</string>
       <string id="INV_TINSOLDIER">士兵</string>
@@ -1895,7 +1898,7 @@ Dane Tippman</string>
       <string id="WCMB_REDKEY_BASEMENT">钥匙不对。
 </string>
       <string id="DECO_PIPE">镀金的管道。从走廊一边的墙通往楼上。</string>
-      <string id="THINK_PRE_CLOSED_ROOM_DIARY">如果我们不能进莱特教授在日志中提到的隧道，要怎么才能找到他缺失的那部分研究呢？我得跟考夫曼讨论一下。
+      <string id="THINK_PRE_CLOSED_ROOM_DIARY">既然进不去莱特教授在日志中提到的隧道，怎么才能找到他另一部分的研究呢？我得跟考夫曼商量一下。
 </string>
     </bundle>
     <bundle id="ep6_kohneHideout">
@@ -1936,7 +1939,7 @@ Dane Tippman</string>
       <string id="DECO_LI_PICTURE">附近悬崖的画。</string>
       <string id="FIRST_VISIT_GLOBE">一个地球仪。表面的板块做的非常精细，但陆地的形状很奇怪，看起来这一定是某个小说中或者是史前时代的地图。</string>
       <string id="GLOBE_JUST_OPEN">似乎我触发了隐藏的机关，地球仪中的暗格打开了。</string>
-      <string id="FRONTYARD_DOOR_OPENS">门已经打开了……</string>
+      <string id="FRONTYARD_DOOR_OPENS">门被打开了……</string>
       <string id="DECO2_LI_FIREPLACE">火已经熄了，怎么回一事？</string>
     </bundle>
     <bundle id="ep6_libraryConversastion">
@@ -1944,9 +1947,9 @@ Dane Tippman</string>
 </string>
       <string id="DLG_LIBRARYCONVERSATION2">我们可以批准出资赞助您的项目。</string>
       <string id="DLG_LIBRARYCONVERSATION3">但在此之前，我们需要了解其中的细节。</string>
-      <string id="DLG_LIBRARYCONVERSATION4">我懂。</string>
-      <string id="DLG_LIBRARYCONVERSATION5">关键因素在于受试对象的状况，他的精神敏感和心理接受程度。正如你所知，只有人类的意识才打开通往另一边的物理通道。</string>
-      <string id="DLG_LIBRARYCONVERSATION6">所以需要通过体验一个绝对完全的黑暗环境才能达到预期的效果。需要一个隐藏的地方，完全的与世隔绝。</string>
+      <string id="DLG_LIBRARYCONVERSATION4">好的，我明白了。</string>
+      <string id="DLG_LIBRARYCONVERSATION5">关键因素在于受试对象的状况，也就是他是否容易接受暗示。正如你所知，只有人类的意识才打开通往另一边的物理通道。</string>
+      <string id="DLG_LIBRARYCONVERSATION6">所以需要通过体验一个绝对完全的黑暗环境才能达到预期的效果。这需要一个隐藏的地方，完全与世隔绝。</string>
       <string id="DLG_LIBRARYCONVERSATION7">一个能够把潜藏于黑暗之处的那些东西显现出来的地方。</string>
       <string id="DLG_LIBRARYCONVERSATION8">但如果在一个完全隔绝的黑暗环境中，我们如何才能跟进和确认实验的结果呢？</string>
       <string id="DLG_LIBRARYCONVERSATION9">这恰恰就是你们的组织可以提供帮助的地方。
@@ -1959,9 +1962,9 @@ Dane Tippman</string>
       <string id="DLG_LIBRARYCONVERSATION15">你是指血清？</string>
       <string id="DLG_LIBRARYCONVERSATION16">不。任何额外的手段都是多余的！</string>
       <string id="DLG_LIBRARYCONVERSATION17">只需要意识本身就可以触发，就是被称作为恐惧的那种意识。</string>
-      <string id="DLG_LIBRARYCONVERSATION18">在人类尚未开化，形如野兽的时代，原初的恐惧就存在于我们的精神意识之中。</string>
+      <string id="DLG_LIBRARYCONVERSATION18">在人类尚未开化，形如野兽的时代，原始的恐惧就存在于我们的精神意识之中。</string>
       <string id="DLG_LIBRARYCONVERSATION19">它能让我们揭开理性的帷幕，打开一条物理的通道。</string>
-      <string id="DLG_LIBRARYCONVERSATION20">原初的恐惧是可以打开最后一扇门的钥匙。</string>
+      <string id="DLG_LIBRARYCONVERSATION20">原始的恐惧是可以打开最后一扇门的钥匙。</string>
       <string id="INITIAL_TEXT">今天，终于进行了那个会面。</string>
       <string id="DLG_LIBRARYCONVERSATION21">我已经想到了一个完美的地点……</string>
     </bundle>
@@ -1986,12 +1989,12 @@ Dane Tippman</string>
       <string id="ARCHWAY_NOTES1">失踪的人再回来时已经不同了，原因不明地发生了变化。因为潜伏在门后的东西在等待着，穿过门的人不可能逃过它的眷顾。
 </string>
       <string id="ARCHWAY_NOTES2">我必须把这些都告诉给考夫曼。</string>
-      <string id="INT_DECO_CLOTHES">这些衣服被撕得支离破碎，这里有一个标签，上面写着某个名字的两个首字母“H·A”。</string>
+      <string id="INT_DECO_CLOTHES">这些衣服被撕得支离破碎，上面有一个标签，写着某个姓名的首字缩写“雨·阿”。</string>
       <string id="INT_DECO_ARCH">墙壁上雕了一个大拱门。</string>
       <string id="INT_DECO_MACHINE">一台奇怪的机器，似乎不能再启动了。</string>
       <string id="ARCH_DOOR_RIGHT_LOCKED">已经到了这地方了，不能就这么离开。</string>
       <string id="ARCH_DOOR_RIGHT_DOOR_CONTINUE_INVESTIGATION">已经到了这地方了，不能就这么离开。</string>
-      <string id="DECO_BRICK">墙上一部分的石头似乎被挖了出来，留下一个又大又黑的洞。</string>
+      <string id="DECO_BRICK">墙上一部分的石头似乎被挖掉了，留下一个又大又黑的洞。</string>
       <string id="LOOK_BACK_SURPRISE">刚才那是什么？</string>
       <string id="ARCHWAY_NOTES">地上有一张笔记。</string>
       <string id="ARCHWAY_FIRST_TIME">这是什么地方？</string>
@@ -2096,7 +2099,7 @@ Mariela González</string>
 Dane Tippman</string>
     </bundle>
     <bundle id="ep6_port">
-      <string id="STRANDED_BOAT1_INSPECT">这艘老旧的船已经完全地坏掉了。</string>
+      <string id="STRANDED_BOAT1_INSPECT">这艘老旧的船已经完全坏掉了。</string>
       <string id="STRANDED_BOAT2_INSPECT">也不知道它在这里躺了多久了。</string>
       <string id="STRANDED_BOAT1_REACT">这是……一个小铃铛。锈的相当严重。</string>
       <string id="DECO_PO_PLANKS">一些被丢掉的木板，也许是拿来修补当地的渔船用的。</string>
@@ -2107,7 +2110,7 @@ Dane Tippman</string>
       <string id="BELL_REACT">也许有某个人可以告诉我一些关于它的事情。</string>
       <string id="DLG_DRUNK_PORT_1">不管你船体受损还是涂装剥落，都没关系。你依旧跟以前一样美丽，我的奥古斯汀。</string>
       <string id="DLG_DRUNK_PORT_2">今天，就让我们一起看日落吧。</string>
-      <string id="DLG_DRUNK_PORT_3">好心的先生，你居然肯帮我这样一个潦倒的醉汉，我感动得说不出话。你居然为一个陌生人为找回了丢失已久的财宝，作为回报，这是我的老航海望远镜，也许它能帮上你的忙。请收下吧，这是我发自真心的谢礼。
+      <string id="DLG_DRUNK_PORT_3">好心的先生，你居然肯帮我这样一个潦倒的醉汉，我感动得说不出话。你居然为一个陌生人找回了丢失已久的财宝，作为回报，这是我的老航海望远镜，也许它能帮上你的忙。请收下吧，这是我发自真心的谢礼。
 </string>
       <string id="CMB_TELESCOPE_DRUNK">他说过他不再需要这个了。</string>
       <string id="BETASLOT_DECO_PO_OLDBOAT">一个老旧的、腐化的船搁浅在海岸上。船的一侧写着名字“普罗维登斯”。</string>
@@ -2116,7 +2119,7 @@ Dane Tippman</string>
       <string id="WAKE_UP_TITLE">醒来！</string>
       <string id="DLG_POSTHYPNOSIS_1">够了。</string>
       <string id="DLG_POSTHYPNOSIS_2">我们做的太过了，我的朋友。</string>
-      <string id="DLG_POSTHYPNOSIS_3">你说的对……我没想到他反应过这么剧烈……</string>
+      <string id="DLG_POSTHYPNOSIS_3">你说的对……我没想到他反应这么剧烈……</string>
       <string id="DLG_POSTHYPNOSIS_4">多亏你中止了催眠，考夫曼。</string>
       <string id="DLG_POSTHYPNOSIS_5">我觉得我们今天还是走吧，回到旅店去。</string>
       <string id="DLG_POSTHYPNOSIS_6">回去整理一下今天的调查成果，明天我们再讨论下一步该怎么做。</string>
@@ -2141,9 +2144,9 @@ Dane Tippman</string>
       <string id="DLG_WAITRESS_9">您知道教堂什么时候开门吗？我刚才敲了门，但没人应门。</string>
       <string id="DLG_WAITRESS_12_CH">教堂什么时候开门？</string>
       <string id="DLG_WAITRESS_12">您知道教堂什么时候开门吗？</string>
-      <string id="DLG_WAITRESS_6">教堂似乎被整个镇子遗弃了，为什么？</string>
+      <string id="DLG_WAITRESS_6">您的意思是，教堂被整个镇子遗弃了？为什么？</string>
       <string id="DLG_WAITRESS_7">是镇子被遗弃了。最近海滨上也没什么工作可做了，你看吧，都没几个人能过得下去了。大部分的渔民和水手都离开了，大半的村舍没人住。至于那些留下来的人，也基本都大门不出，当然，还是会来这里的。</string>
-      <string id="DLG_WAITRESS_14">但一定还有其他的原因吧？许多海滨城市也都有这样的问题，但也不至于被遗弃。</string>
+      <string id="DLG_WAITRESS_14">但一定还有其他的原因吧？许多海滨城市也都有这样的问题，但还不至于被遗弃。</string>
       <string id="DLG_WAITRESS_15">好——吧，确实是有些传言。如果你问我，我只能说那是些蠢故事，但有人会当真。渔夫，那些还算靠得住的家伙们，会跟你讲水里藏着东西，像是幽灵啊什么的就在岩石中间。要我说，就是些酒后的胡话，那里雾那么大，哪能看清东西啊。但渔夫就是那么迷信，本地人相信那些鬼故事，口耳相传，最后就没人敢来这儿了。</string>
       <string id="DLG_WAITRESS_17_CH">坐在角落里的男人。</string>
       <string id="DLG_WAITRESS_17">坐在角落里的那个男人怎么了？</string>
@@ -2162,13 +2165,13 @@ Dane Tippman</string>
       <string id="DLG_WAITRESS_29">教授？年轻时隔三差五能看到他，他真是一个装模作样的人，但本地人都很尊敬他，他也跟大家打成一片。但不久之后，他就开始闭门不出，只招待来自镇子外面的访客，从那时候开始他就几乎不来这个镇子了。上次我听说，他已经疯了，不过我也不清楚真假，毕竟这么多年没见了。</string>
       <string id="DLG_WAITRESS_30_CH">我得走了。</string>
       <string id="DLG_WAITRESS_30">您继续忙吧。</string>
-      <string id="DRUNK_PHRASE_1">你无法穿过大海，隔！</string>
+      <string id="DRUNK_PHRASE_1">你无法穿过大海，嗝！</string>
       <string id="DRUNK_PHRASE_2">……如果你只是站着……呃啊……</string>
       <string id="DRUNK_PHRASE_3">只是盯着水看。</string>
       <string id="DLG_DRUNK_11">哈！原来城里人戴个帽子就能摇身一变成船长。在英格兰的随便一个跳蚤市场里你都能买到这样一顶帽子。</string>
       <string id="DLG_DRUNK_7">因为您粗糙的皮肤，看起来饱经海浪与海风的洗礼。</string>
       <string id="DLG_DRUNK_7_CH">您粗糙的皮肤</string>
-      <string id="DLG_DRUNK_8">因为您的手，因为长年抓着缰绳，布满了老茧。</string>
+      <string id="DLG_DRUNK_8">因为您的手，长年抓着缰绳，布满了老茧。</string>
       <string id="DLG_DRUNK_8_CH">您的手</string>
       <string id="DLG_DRUNK_9_CH">您的三个耳环</string>
       <string id="DLG_DRUNK_9">因为您戴的三个耳环。</string>
@@ -2177,7 +2180,7 @@ Dane Tippman</string>
       <string id="DLG_DRUNK_18">如果我死在海里，这仨耳环就是我的下葬费。但可惜，我现在还活得好好的。</string>
       <string id="DLG_DRUNK_19">您的意思是，您不会再出海了？</string>
       <string id="DLG_DRUNK_20">我比任何人都热爱大海，它是我的激情、我的自由、我的生命。</string>
-      <string id="DLG_DRUNK_21">你见识过这些东西吗？</string>
+      <string id="DLG_DRUNK_21">您见识过这些东西吗？</string>
       <string id="DLG_DRUNK_22">没有……但是……</string>
       <string id="DLG_DRUNK_23">但是，我后来明白了。</string>
       <string id="DLG_DRUNK_26_CH">您明白什么了？</string>
@@ -2211,20 +2214,20 @@ Dane Tippman</string>
 </string>
       <string id="DLG_DRUNK_42">但是有许多关于祂的事情，我们还根本一无所知。远离海岸的地方，深邃的黑暗之中，还有一些我们根本没有心理准备去直视的东西。</string>
       <string id="DLG_DRUNK_43">相信我，那些东西正在下面的深渊中等待着。</string>
-      <string id="DLG_DRUNK_44">你可能已经听说过一两件渔夫们讲的故事了，就是关于他们在那儿看到什么东西的故事。</string>
-      <string id="DLG_DRUNK_45">其实没什么，就是些吓唬傻小子们的鬼故事，就是些根本不敢面对黑暗的胆小鬼们编的小迷信。随便找个靠谱的海员都晓得，一刮大风的时候，紧绷的绳子就是会一边晃一边叫。
+      <string id="DLG_DRUNK_44">你可能已经听说过渔夫们讲的那些故事了，就是关于他们在那儿看到了某种东西的故事。</string>
+      <string id="DLG_DRUNK_45">其实没什么，就是些吓唬傻小子们的鬼故事，是那些根本不敢面对黑暗的胆小鬼们编的小迷信。随便找个靠谱的海员都晓得，一刮大风的时候，紧绷的绳子就是会一边晃一边叫。
 </string>
       <string id="DLG_DRUNK_46">我自己啊，有一次也把它误听成小孩子在哭叫。但是，有那么一次……有那么一次，不一样，不是那种声音。那次，连海都开始咆哮起来。
 </string>
       <string id="DLG_DRUNK_47">没有雷电，也没有巨浪要掀我的船，没有。</string>
-      <string id="DLG_DRUNK_48">有的只是一种声音，或者说嗓声……它在用一种无法描述的语言对我说话，一种好像某些活物发出的喃喃的声音，一种跟我以前听过的任何声音都不同的呼唤的声音。</string>
+      <string id="DLG_DRUNK_48">有的只是一种声音，或者说嗓音……它在用一种无法描述的语言对我说话，一种好像某些活物发出的喃喃的声音，一种跟我以前听过的任何声音都不同的呼唤的声音。</string>
       <string id="DLG_DRUNK_49">这么多年，经过这么多次潮起潮落，我却都不知道我亲爱的奥古斯汀的遗骸在哪里。我找过她，找了好几个月，但最后我找到只是这个酒吧，还有我空空的杯底。自那次以后，我再也没有回过海岸，奥古斯汀她或许会原谅我的。</string>
       <string id="DLG_DRUNK_50">现在，让我一个人静静。</string>
-      <string id="DLG_DRUNK_51">不管那些发出怪声的是谁，我敢肯定它们不会把船还给我了。</string>
-      <string id="DLG_DRUNK_52">我觉得我再也没办法见到她了！我明明可以把她再修好，再清理得闪闪发亮。</string>
+      <string id="DLG_DRUNK_51">不管发出那些怪声的家伙是谁，但我敢肯定，它们不会把船还给我了。</string>
+      <string id="DLG_DRUNK_52">我本以为我再也没办法见到她了！结果我可以把她再修好，再清理得闪闪发亮。</string>
       <string id="DLG_WAITRESS_36_CH">一位名叫奥斯卡的男人。</string>
       <string id="DLG_WAITRESS_36">您认识一位叫奥斯卡的男人吗？</string>
-      <string id="DLG_WAITRESS_37">你是说奥斯卡神父吗？如果他不在这里，那就能在教堂找到他。教堂就在外面。</string>
+      <string id="DLG_WAITRESS_37">你是说奥斯卡神父吗？如果他不在这里，那应该就在教堂。教堂就在外面。</string>
       <string id="DECO_PU_GUYS">那两个渔夫用怀疑的眼神看了我一眼。</string>
       <string id="BETASLOT_DECO_PU_WHEEL">从船舵上卸下来的轮子，或许是证明某个舵手当年在海上驰骋过的纪念品。</string>
       <string id="BETASLOT_DECO_WOMAN">作为在这样一个地方喝酒的女士，她的衣着算是相当优雅。
@@ -2243,7 +2246,7 @@ Dane Tippman</string>
       <string id="EMPTY_JAIL_INSPECT">里面没有鸟。</string>
     </bundle>
     <bundle id="ep6_silhouettes">
-      <string id="INT_PIC1_DESC">“斯特罗恩先生是一位成功人士，他疯狂地爱上了巴特利家的小女儿，想跟她未婚。”</string>
+      <string id="INT_PIC1_DESC">“斯特罗恩先生是一位成功人士，他疯狂地爱上了巴特利家的小女儿，想跟她求婚。”</string>
       <string id="INT_PIC2_DESC">“年轻的艾格尼丝幻想与一位老先生结婚，但她不敢让母亲知道她的这个想法。”</string>
       <string id="INT_PIC3_DESC">“巴特利太太不肯把目光从她的女儿身上移开，无时无刻不盯着他们的一举一动。”
 </string>
@@ -2254,37 +2257,37 @@ Dane Tippman</string>
       <string id="SQUARE_CHURCH_LOCKED">锁上了。</string>
       <string id="DLG_ALBINO_1">打扰了，您是在暗中观察我吗？ </string>
       <string id="DLG_ALBINO_2">抱歉，我不是那个意思……您不是这里的人，对吧？</string>
-      <string id="DLG_ALBINO_3">嗯，我只是路过这时在。您还好吧？</string>
+      <string id="DLG_ALBINO_3">嗯，我只是路过这里。您还好吧？</string>
       <string id="DLG_ALBINO_6">好的，那个地方在哪儿？</string>
       <string id="DLG_ALBINO_6_CH">好的。</string>
       <string id="DLG_ALBINO_7_CH">我很忙。</string>
       <string id="DLG_ALBINO_7">抱歉，我现在很忙。</string>
       <string id="DLG_ALBINO_9">哦……我明白。</string>
-      <string id="DLG_ALBINO_10">What can you tell me about the barmaid?</string>
-      <string id="DLG_ALBINO_10_CH">让我想想……你能跟我说说酒吧女招待的事情吗？</string>
-      <string id="DLG_ALBINO_17">为什么你刚才一直暗中观察我？</string>
+      <string id="DLG_ALBINO_10">您能跟我说说酒吧女招待的事情吗？</string>
+      <string id="DLG_ALBINO_10_CH">让我想想……您能跟我说说酒吧女招待的事情吗？</string>
+      <string id="DLG_ALBINO_17">为什么您刚才一直暗中观察我？</string>
       <string id="DLG_ALBINO_18">哦，别那么说！那太难听了，我只是……看看路过的居民。我不能离开房子，所以……我只能一整天都待在窗户这儿。这还算挺有趣的，可以从人们身上看出些事情，您知道吗？</string>
       <string id="DLG_ALBINO_19">真的？那您从我身上看出了什么？</string>
       <string id="DLG_ALBINO_20">我只看了您一小会儿，但是……我能看出来您有一项很重要的任务要完成，您正在寻找某个对你很重要的人。您觉得任务艰巨，前途漫漫又长远。</string>
       <string id="DLG_ALBINO_21">好吧，真的挺准！说实话，我很惊讶。</string>
       <string id="DLG_ALBINO_22">谢谢。</string>
-      <string id="DLG_ALBINO_24">让我想想……你能跟我说说酒吧女招待的事情吗？</string>
-      <string id="DLG_ALBINO_24_CH">你能跟我说说酒吧女招待的事情吗？</string>
-      <string id="DLG_ALBINO_28">伊娃是个性子很强的女人，有一次我看以她毫不犹豫地将一群喝醉了的水手们踢出酒吧。但最近她心情很差，因为酒吧的生意大不如以前了。尽管如此，她也不想离开这个镇子，就像其他人一样。</string>
-      <string id="DLG_ALBINO_25_CH">你能告诉我些关于摩维尔船长的事情吗？</string>
-      <string id="DLG_ALBINO_25">让我想想……你能跟我说说摩维尔船长的事情吗？</string>
+      <string id="DLG_ALBINO_24">让我想想……您能跟我说说酒吧女招待的事情吗？</string>
+      <string id="DLG_ALBINO_24_CH">您能跟我说说酒吧女招待的事情吗？</string>
+      <string id="DLG_ALBINO_28">伊娃是个性子很强的女人，有一次我看到她毫不犹豫地将一群喝醉了的水手们踢出酒吧。但最近她心情很差，因为酒吧的生意大不如以前了。尽管如此，她也不想离开这个镇子，就像其他人一样。</string>
+      <string id="DLG_ALBINO_25_CH">您能告诉我些关于摩维尔船长的事情吗？</string>
+      <string id="DLG_ALBINO_25">让我想想……您能跟我说说摩维尔船长的事情吗？</string>
       <string id="DLG_ALBINO_29">可怜的弗莱德总是借酒浇愁。以前的时候，他即便不出海也常去海滩边开心地散步，但是现在他连看都不想看海岸一眼，他已经失去了全部的希望。</string>
-      <string id="DLG_ALBINO_26">你能告诉我关于奥斯卡神父的事情吗？</string>
-      <string id="DLG_ALBINO_26_CH">让我想想……你能跟我说说奥斯卡神父的事情吗？</string>
+      <string id="DLG_ALBINO_26">您能告诉我关于奥斯卡神父的事情吗？</string>
+      <string id="DLG_ALBINO_26_CH">让我想想……您能跟我说说奥斯卡神父的事情吗？</string>
       <string id="DLG_ALBINO_27">我考虑过了，我会帮您的。</string>
       <string id="DLG_ALBINO_27_CH">我会帮您的。</string>
       <string id="DLG_ALBINO_31">您会帮我吗？</string>
       <string id="DLG_ALBINO_30_CH">我得走了。</string>
-      <string id="DLG_ALBINO_30">你得走了，谢谢您，祝您一天愉快。</string>
+      <string id="DLG_ALBINO_30">我得走了，谢谢您，祝您一天愉快。</string>
       <string id="DLG_ALBINO_35">他是一个迷失了人生目标的男人。我见他从早到晚漫无目的地走着，精神紧张充满疑虑。</string>
       <string id="DLG_ALBINO_45">我已经按您所说的，把花放在您爱人的墓前。</string>
       <string id="DLG_ALBINO_48">非常感谢，我欠您一个人情。</string>
-      <string id="DECO_SQ_PUBSIGN">“渔夫旅店”</string>
+      <string id="DECO_SQ_PUBSIGN">“渔夫小馆”</string>
       <string id="DOOR_SQUARE_CHURCH_INSPECT">这就是维克港教堂的大门了。</string>
       <string id="DLG_ALBINO_49_CH">您认识一位叫奥斯卡的男人吗？</string>
       <string id="DLG_ALBINO_49">您认识一位叫奥斯卡的男人吗？</string>
@@ -2292,7 +2295,7 @@ Dane Tippman</string>
       <string id="DLG_ALBINO_52">是的……</string>
       <string id="DLG_ALBINO_53">您能……您能帮我一个忙吗？</string>
       <string id="DLG_ALBINO_54">我一直都想去我爱人的墓去看看她，但因为生病，我不能离开这屋子。</string>
-      <string id="DLG_ALBINO_55">您能……您能把这些花放在那儿吗？镇里的人都不肯帮我的忙。</string>
+      <string id="DLG_ALBINO_55">您能……您能把这些花放在她那儿吗？镇里的人都不肯帮我的忙。</string>
       <string id="DLG_ALBINO_56">哦，我真是太感激了。您真是一个温柔的人！您可以穿过那边的小路去墓园。</string>
       <string id="DLG_ALBINO_57">您只需要找一个名字叫做……卡特……的墓。</string>
       <string id="WINDOW_CLOSED">窗户关上了。</string>
@@ -2342,11 +2345,11 @@ Dane Tippman</string>
       <string id="UPCORRIDOR_CLOSEDROOM_LOCKED">很特别的门，漆成了红色，上面刻着复杂的图案。这门关着并且锁上了。</string>
       <string id="UPCORRIDOR_GUESTROOM_LOCKED">打不开。</string>
       <string id="DECO_UP_PICTURE1">这幅画上用一种我看不懂的语言写着什么东西。</string>
-      <string id="DECO_UP_PICTURE2">一幅油画。画着朦胧的中世纪场景。</string>
+      <string id="DECO_UP_PICTURE2">一幅油画。画着朦胧未知的中世纪场景。</string>
       <string id="UPCORRIDOR_BEDROOM_LOCKED">门用钥匙锁上了。</string>
       <string id="BETASLOT_DECO_PICTURE1">傍晚时分的大海的画。海滩上有一个黑色的人形，但它的脸被斗蓬遮住了。
 </string>
-      <string id="BETASLOT_DECO_PICTURE2">画里是一座古旧的塔。长刺的藤蔓从入口伸出，蜿蜒盘桓，将一切封锁。画面栩栩如生，盯着看久了会觉得它像活的一样。</string>
+      <string id="BETASLOT_DECO_PICTURE2">画里是一座古旧的塔。荆棘藤蔓从入口伸出来，蜿蜒盘桓，将一切封锁。画面栩栩如生，盯着看久了会觉得它像活的一样。</string>
       <string id="BETASLOT_DECO_LAMP">灯发出柔和的光，为房间带来一丝暖意。</string>
       <string id="SECRET_ROOM_APPEARS">走廊的尽头出现了一个秘密的通道！</string>
     </bundle>
