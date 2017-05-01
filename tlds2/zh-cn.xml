@@ -1307,7 +1307,7 @@ Dane Tippman</string>
       <string id="WCMB_BEDROOM_ENVELOP_MENTOR">最好拿给考夫曼看看。</string>
       <string id="MENTOR_CLOTHES_INSPECT">莱特教授之前穿着的睡衣和拖鞋。</string>
       <string id="BIRDS_BOOK_INSPECT">地上有一本打开的书。</string>
-      <string id="BIRDS_REACT_TEXT">《鸟之书》，一本鸟的图鉴集，一些文字被画了标记。</string>
+      <string id="BIRDS_REACT_TEXT">《鸟之书》，一本鸟的传说的合辑，一些文字被画了标记。</string>
       <string id="CTS_BEDROOM_HYPNOSIS">莱特教授不在这里。</string>
       <string id="DECO_BE_HYP_WINDOW2">外面还在下着雪。</string>
       <string id="DECO_BE_WINDOW1">外面还在下雪，雪花缓慢飘落，悄无声息。</string>
@@ -1647,7 +1647,7 @@ Dane Tippman</string>
       <string id="DLG_HYPNOSIS_23_CH">向东。</string>
       <string id="DLG_HYPNOSIS_27_CH">向南。</string>
       <string id="DLG_HYPNOSIS_26">我站在海岸边上，水打湿了我的鞋子，身边是船的残骸。</string>
-      <string id="DLG_HYPNOSIS_31">我在一个黑暗的隧道里，奥斯卡也在这儿。他很烦躁，他向我大喊大叫，他求我停止。</string>
+      <string id="DLG_HYPNOSIS_31">我在一个黑暗的隧道里，奥斯卡也在这儿。他很不安，向我大喊大叫，求我停止。</string>
       <string id="DLG_HYPNOSIS_33_CH">向南。</string>
       <string id="DLG_HYPNOSIS_34_CH">向北。</string>
       <string id="DLG_HYPNOSIS_35_CH">告诉我你现在在哪儿？</string>
@@ -1852,7 +1852,7 @@ Dane Tippman</string>
       <string id="WCMB_BASEMENTKEY_GUESTROOM">钥匙不对。</string>
       <string id="WCMB_REDKEY_GUESTROOM">钥匙不对。</string>
       <string id="WCMB_BIRDSKEY_GUESTROOM">钥匙不对。</string>
-      <string id="INV_BIRDSBOOK_DESC">《鸟之书》，一本鸟的图鉴集，一些文字被画了标记。</string>
+      <string id="INV_BIRDSBOOK_DESC">《鸟之书》，一本关于鸟的传说的合辑，其中一些文字被画了标记。</string>
       <string id="INV_MENTORKEY">钥匙</string>
       <string id="INV_MENTORKEY_DESC">一把黄色的钥匙。</string>
       <string id="BIRDSBOOK_CONTENT_1">鸟群踏上了寻找国王的旅程，它们到了一个岔路口，卑鄙的乌鸦想将它们带入歧途，带向通向迷雾的路。</string>
@@ -2212,7 +2212,7 @@ Dane Tippman</string>
       <string id="DLG_DRUNK_40">您穿过三大海岬，没错吧？</string>
       <string id="DLG_DRUNK_41">确实如此。好望角、露纹角、合恩角，都走过一圈儿。正因为如此，我才有权站在国王的面前，迎风撒尿。
 </string>
-      <string id="DLG_DRUNK_42">但是有许多关于祂的事情，我们还根本一无所知。远离海岸的地方，深邃的黑暗之中，还有一些我们根本没有心理准备去直视的东西。</string>
+      <string id="DLG_DRUNK_42">但是有许多关于它的事情，我们还根本一无所知。远离海岸的地方，深邃的黑暗之中，还有一些我们根本没有心理准备去直视的东西。</string>
       <string id="DLG_DRUNK_43">相信我，那些东西正在下面的深渊中等待着。</string>
       <string id="DLG_DRUNK_44">你可能已经听说过渔夫们讲的那些故事了，就是关于他们在那儿看到了某种东西的故事。</string>
       <string id="DLG_DRUNK_45">其实没什么，就是些吓唬傻小子们的鬼故事，是那些根本不敢面对黑暗的胆小鬼们编的小迷信。随便找个靠谱的海员都晓得，一刮大风的时候，紧绷的绳子就是会一边晃一边叫。
@@ -2273,7 +2273,7 @@ Dane Tippman</string>
       <string id="DLG_ALBINO_22">谢谢。</string>
       <string id="DLG_ALBINO_24">让我想想……您能跟我说说酒吧女招待的事情吗？</string>
       <string id="DLG_ALBINO_24_CH">您能跟我说说酒吧女招待的事情吗？</string>
-      <string id="DLG_ALBINO_28">伊娃是个性子很强的女人，有一次我看到她毫不犹豫地将一群喝醉了的水手们踢出酒吧。但最近她心情很差，因为酒吧的生意大不如以前了。尽管如此，她也不想离开这个镇子，就像其他人一样。</string>
+      <string id="DLG_ALBINO_28">伊娃是个性子很强的女人，有一次我看到她毫不犹豫地将一群喝醉了的水手们踢出酒吧。但最近她心情很差，因为酒吧的生意大不如以前了。尽管如此，她也不想就像其他人一样离开这个镇子。</string>
       <string id="DLG_ALBINO_25_CH">您能告诉我些关于摩维尔船长的事情吗？</string>
       <string id="DLG_ALBINO_25">让我想想……您能跟我说说摩维尔船长的事情吗？</string>
       <string id="DLG_ALBINO_29">可怜的弗莱德总是借酒浇愁。以前的时候，他即便不出海也常去海滩边开心地散步，但是现在他连看都不想看海岸一眼，他已经失去了全部的希望。</string>
