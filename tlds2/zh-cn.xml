@@ -2414,7 +2414,7 @@ Dane Tippman</string>
       <string id="WICKERMAN_BURNTHOUSEEXT_INSPECT">长着一对动物角的柳条人像，柳条看起来还很新。</string>
       <string id="MAILBOX_LETTER">我亲爱的表哥，
 
-我身体不舒服，我请你不要来爱丽丝摩尔看我，现在别来，以后也别来。另外，请代我保管好奶奶的指环，我相信她也希望你能带着它。
+我身体不舒服，我请你不要来埃利斯·摩耳看我，现在别来，以后也别来。另外，请代我保管好奶奶的指环，我相信她也希望你能带着它。
 
 你忠实的，
 布丽吉德</string>
@@ -2574,7 +2574,7 @@ Dane Tippman</string>
 
 趁现在清醒，我给你写下了这封信。虽然当我醒来后，就再也没有听到你的音讯，但我坚信你会带着事关我们调查的重要线索归来。在最后的调查中，你表现出来的惊人的勇敢，着实令我钦佩不已。</string>
       <string id="FT_CEMETERY_4_1">听我说，你可以更加勇敢。医生无法查明我突发疾病的病因，也无法找到治疗的方法，所以我其实已经时日不多。很抱歉，我不得不丢下你，让你一个人去面对前方的艰难险阻。但我希望你可以坚持调查下去，现在我们已经离答案不远了。</string>
-      <string id="FT_CEMETERY_4_2">教授的文件指向了一个充满黑暗传说的地方：寇龙猸郸——位于爱丽丝摩尔岛上的一个古老的庇护所。寇龙猸郸的确切位置已经不得而知，但教授认为，它那里的秘密可以解释实验产生灾难性后果的原因。你必须找到那个地方，我的朋友。
+      <string id="FT_CEMETERY_4_2">教授的文件指向了一个充满黑暗传说的地方：寇龙猸郸——位于埃利斯·摩耳岛上的一个古老的庇护所。寇龙猸郸的确切位置已经不得而知，但教授认为，它那里的秘密可以解释实验产生灾难性后果的原因。你必须找到那个地方，我的朋友。
 
 我毋须再叮嘱你必须十万分小心谨慎行事了，我相信你可以做好。</string>
       <string id="FT_CEMETERY_5">你永远的朋友，
@@ -2687,12 +2687,12 @@ Dane Tippman</string>
     <bundle id="ep7_lakeShore">
       <string id="BARREL_INSPECT">一个老旧的桶搁浅在岸边，上面贴着一个手写的标签：“矿物油”。这个桶被封住了。</string>
       <string id="DLG_LORD_LAKESHORRE_1">过去千年来广受崇拜的诸位神明，如今被埋葬在遗忘的墓园之下。</string>
-      <string id="DLG_LORD_LAKESHORRE_2">而在爱丽丝摩尔，我们仍然保留了我们的传统习俗。哦，虽然随着时间，它也有所变化，但本质是不变的。毕竟，这是我们的根。</string>
+      <string id="DLG_LORD_LAKESHORRE_2">而在埃利斯·摩耳，我们仍然保留了我们的传统习俗。哦，虽然随着时间，它也有所变化，但本质是不变的。毕竟，这是我们的根。</string>
       <string id="DLG_LORD_LAKESHORRE_4">我现在必须得走了，因为在重逢节的仪式我必须到场。您可以随意逛逛，村落就在那些小丘上。</string>
       <string id="BRACE_ON_BARREL">我可以用木工钻在桶上钻一个洞。</string>
       <string id="CONTAINER_ON_BARREL">现在桶上被钻了一个洞，我只需要把瓶口塞进去……就可以得到油了！</string>
       <string id="DLG_LORD_LAKESHORRE_8">很高兴跟你见面。</string>
-      <string id="DLG_LORD_LAKESHORRE_9">我之前提过，您可以和福斯特小姐聊聊。在爱丽丝摩尔的历史方面，她可谓是一个专家。她一般都在学校工作到很晚，穿过码头向右边走，那里的建筑就是学校了。</string>
+      <string id="DLG_LORD_LAKESHORRE_9">我之前提过，您可以和福斯特小姐聊聊。在埃利斯·摩耳的历史方面，她可谓是一个专家。她一般都在学校工作到很晚，穿过码头向右边走，那里的建筑就是学校了。</string>
       <string id="DLG_LORD_LAKESHORRE_11">再见，威克菲尔德医生。</string>
       <string id="WCB_UMBRELLA_BARREL">我没法用伞来打开桶。</string>
       <string id="WCB_LINK_BARREL">用这个可打不开。</string>
@@ -2717,120 +2717,120 @@ Dane Tippman</string>
       <string id="DECO_TOWER">一个结实挺拔的灯塔，尽管经历了成百上千次暴风的侵袭，但看起来仍然状态绝佳。</string>
     </bundle>
     <bundle id="ep7_lightHouseInt">
-      <string id="DLG_KEEPER1">Good evening. Would you happen to be the lighthouse keeper?</string>
-      <string id="DLG_KEEPER2">My name is Wakefield.</string>
-      <string id="DLG_KEEPER_3">A stranger… And what would he want from me?</string>
-      <string id="DLG_KEEPER_6">I am a visitor to Éilís Mór. This lighthouse caught my eye.</string>
-      <string id="DLG_KEEPER_7">And since it's dark, you thought it to be abandoned?</string>
-      <string id="DLG_KEEPER_8">Well, it's not. Even though I can barely see a thing, this is my house.</string>
-      <string id="DLG_KEEPER_5">I was taking a stroll, and I fear I got lost.</string>
-      <string id="DLG_KEEPER_9">I understand. After sunset, the hills of Éilís Mór can be tricky. We have a saying here: 'In dusk, all paths change.'
+      <string id="DLG_KEEPER1">晚上好，您是这个灯塔的守卫吗？</string>
+      <string id="DLG_KEEPER2">我的名字是威克菲尔德。</string>
+      <string id="DLG_KEEPER_3">一个陌生人……你想从我这儿里得到什么呢？</string>
+      <string id="DLG_KEEPER_6">我是来爱丽丝摩尔岛旅游的游客，这个灯塔吸引了我的目光。</string>
+      <string id="DLG_KEEPER_7">灯塔已经不亮了，它是被遗弃了吗？</string>
+      <string id="DLG_KEEPER_8">嗯，也不算是。虽然几乎什么也看不清，但这里是我住的房子。</string>
+      <string id="DLG_KEEPER_5">我正在到处散步，然后好像迷了路。</string>
+      <string id="DLG_KEEPER_9">我理解。太阳下山后，埃利斯·摩耳的群山的样子都变得差不多。这里甚至还有一个说法：“黄昏的时候，所有的路都会改变”。
 </string>
-      <string id="DLG_KEEPER_10">If you stand at the apex of that hill, over there, past the rocks, you will see the lights of the village.</string>
-      <string id="DLG_KEEPER_12_CH">Why is the lamp not lit? </string>
-      <string id="DLG_KEEPER_6_CH">I am visiting the island. </string>
-      <string id="DLG_KEEPER_5_CH">I got lost.</string>
-      <string id="DLG_KEEPER_12">Why is the lighthouse lamp not lit? Is it not dangerous for the ships?</string>
-      <string id="DLG_KEEPER_14">Do not let it concern you. Many years ago, the sea lanes were altered to avoid this coast. Now it's rare indeed to see a ship in these waters. After the accident, the lighthouse was never repaired.
+      <string id="DLG_KEEPER_10">如果你站在那边那座山的顶端，穿过岩石，就会看到镇子的灯光了。</string>
+      <string id="DLG_KEEPER_12_CH">为什么这里不点亮？ </string>
+      <string id="DLG_KEEPER_6_CH">我正在参观这座岛。</string>
+      <string id="DLG_KEEPER_5_CH">我迷路了。</string>
+      <string id="DLG_KEEPER_12">为什么灯塔不点亮呢？这样船不就危险了？</string>
+      <string id="DLG_KEEPER_14">别在意。从许多年前，航海的人规划航线都尽量避免靠近这里的海岸，到了现在，很难再看到有船进入这片水域了。在一次事故后，灯塔灭了，也没人去修它。
 </string>
-      <string id="DLG_KEEPER_16_CH">Was there a failure in the mechanism?</string>
-      <string id="DLG_KEEPER_16">Was there a failure in the lamp's mechanism?</string>
-      <string id="DLG_KEEPER_17">Precisely that. One stormy afternoon, I suddenly heard a strong noise up in the lightroom. The clockwork mechanism had stopped working and the lamp was off! I had never seen a failure like that. I could not get the lighthouse working again.</string>
-      <string id="DLG_KEEPER_19">I was checking the lenses, because the failure looked so very strange and I was worried. All of a sudden, the light must have turned on; I was blinded and can see nothing but fleeting shapes ever since.</string>
-      <string id="DLG_KEEPER_18_CH">An accident?</string>
-      <string id="DLG_KEEPER_18">You say you had an accident? What happened?</string>
-      <string id="DLG_KEEPER_20_CH">And the lamp has not been fixed since?</string>
-      <string id="DLG_KEEPER_20">Has nobody else tried to fix the lamp since?</string>
-      <string id="DLG_KEEPER_21">No, no one in the village is interested. For them, the more isolated Éilís Mór is the better. They do not care about ships or accidents, especially Lord Donnán. He sees anything coming from outside of the island as a threat.
+      <string id="DLG_KEEPER_16_CH">有什么装置坏了？</string>
+      <string id="DLG_KEEPER_16">灯塔的某个装置坏掉了？</string>
+      <string id="DLG_KEEPER_17">应该就是了。有一天下午，刮着暴风，我突然听到照明室里一声巨响，然后那个发条装置就停了，灯也灭了！之前从来没遇过这种故障，怎么弄都不灵。</string>
+      <string id="DLG_KEEPER_19">因为故障太奇怪了，我不禁有些担心，于是去检查透镜组。结果突然间灯就被打开了，我一瞬间被晃瞎了眼，只隐约看到些影子一闪而过，然后就什么都看不到了。</string>
+      <string id="DLG_KEEPER_18_CH">一次事故？</string>
+      <string id="DLG_KEEPER_18">您刚才说，发生了一次事故？是什么事故？</string>
+      <string id="DLG_KEEPER_20_CH">灯直到现在也没修好吗？</string>
+      <string id="DLG_KEEPER_20">没人去修灯吗？</string>
+      <string id="DLG_KEEPER_21">不，镇上没人对这种事有兴趣。对他们来说，埃利斯·摩耳岛越远离外面的世界越好，他们根本不关心什么船和事故，特别是冬楠领主，他把一切岛外来的东西都视作威胁。
 </string>
-      <string id="DLG_KEEPER_13_CH">Do you know Lord Donnán?</string>
-      <string id="DLG_KEEPER_13">Do you know Lord Donnán personally?</string>
-      <string id="DLG_KEEPER_22">Naturally! The Donnán family has ruled Éilís Mór for generations.</string>
-      <string id="DLG_KEEPER_23_CH">I would like to visit the lightroom anyway.</string>
-      <string id="DLG_KEEPER_23">Might I go upstairs and see the lightroom? Even though the lamp is off, I should like to take a view of the surrounding countryside.</string>
-      <string id="DLG_KEEPER_24">Well, I do not think you will see anything, really. But if you are so interested... Yes, I guess you may.</string>
-      <string id="DLG_KEEPER_25_CH">I see.</string>
-      <string id="DLG_KEEPER_25">I understand. </string>
-      <string id="DLG_KEEPER_26_CH">I must go.</string>
-      <string id="DLG_KEEPER_26">Thank you for the pleasant conversation. I must go.</string>
-      <string id="DLG_KEEPER_30">It cannot be! I never thought I would hear the rhythm of my beloved lighthouse working again.</string>
-      <string id="DLG_KEEPER_31">You don't know how grateful I am. For years I've longed to hear those marvellous sounds.
+      <string id="DLG_KEEPER_13_CH">您认识冬楠领主吗？</string>
+      <string id="DLG_KEEPER_13">您认识冬楠领主吗？</string>
+      <string id="DLG_KEEPER_22">当然认识！冬楠家族世世代代都是埃利斯·摩耳的管理者。</string>
+      <string id="DLG_KEEPER_23_CH">无论如何，我都想去一趟照明室。</string>
+      <string id="DLG_KEEPER_23">我可以上楼去照明室看看吗？虽然灯不亮了，但我也可以从那里看看周边的田园风光。</string>
+      <string id="DLG_KEEPER_24">好吗，不过其实我不觉得你能从那里看到什么东西。但如果你感兴趣……是的，我猜你也许能看到。</string>
+      <string id="DLG_KEEPER_25_CH">我知道了。</string>
+      <string id="DLG_KEEPER_25">我知道了。</string>
+      <string id="DLG_KEEPER_26_CH">我得走了。</string>
+      <string id="DLG_KEEPER_26">谢谢您耐心地回答，我得走了。</string>
+      <string id="DLG_KEEPER_30">难以置信！我还以为我再也听不到我挚爱的照明室工作的声音了。</string>
+      <string id="DLG_KEEPER_31">实在是太感激了。那种绝妙的响声，我听了好多年了。
 </string>
-      <string id="DLG_KEEPER_32">Memories of better times.</string>
-      <string id="DECO_WOOD">A few logs and cords of firewood. </string>
-      <string id="DECO_STOVE">The small stove hardly manages to warm such a spacious room.</string>
-      <string id="DLG_LIGHTROOM_DOOR1">I would like to visit the lightroom. May I?</string>
-      <string id="DLG_LIGHTROOM_DOOR2">And what would you see up there? The mechanism is a mess, and there's not even a light anymore!</string>
-      <string id="DLG_LIGHTROOM_DOOR4">I should like to visit the lightroom now, if I may.</string>
-      <string id="DLG_LIGHTROOM_DOOR5">Yes, yes. You already have my permission.
+      <string id="DLG_KEEPER_32">美好的时光的回忆。</string>
+      <string id="DECO_WOOD">一些圆木和木柴。</string>
+      <string id="DECO_STOVE">小小的火炉很难温暖这偌大的一间屋子。</string>
+      <string id="DLG_LIGHTROOM_DOOR1">我想去照明室，可以吗？</string>
+      <string id="DLG_LIGHTROOM_DOOR2">去那儿有什么可看的？机器坏了，再也没有光了！</string>
+      <string id="DLG_LIGHTROOM_DOOR4">如果可以的话，我只是现在想去参观一下照明室。</string>
+      <string id="DLG_LIGHTROOM_DOOR5">好的，好的，我同意了，你去吧。
 </string>
-      <string id="MAYBE_ASK">Maybe I could persuade him to allow me up there...</string>
-      <string id="DLG_KEEPER_37_CH">Kieran's disappearance was strange?</string>
-      <string id="DLG_KEEPER_37">What was so strange about Kieran's disappearance?</string>
-      <string id="DLG_KEEPER_39_CH">Kieran's disappearance.</string>
-      <string id="DLG_KEEPER_39">Do you know anything about the disappearance of Lord Donnán's son?</string>
-      <string id="DLG_KEEPER_45">A tragedy, it was. A strange one, but a tragedy nonetheless.</string>
-      <string id="DLG_KEEPER_46">I just find it a bit suspicious that it happened so close to the Reunion. It’s too easy to be keeping secrets during the festival, being how everyone is afraid of leaving the village those nights.</string>
-      <string id="DLG_KEEPER_47">What do you mean?</string>
-      <string id="DLG_KEEPER_48">Look, folks here are too gullible. They’ll do anything to protect themselves from their strange fears. They’ll not eat corn, nor drink milk, or they'll dig graves for their mirrors. And of course, they’ll avoid standing near a fearnóg too long because, though the fiends cannot touch the tree, they're attracted to the smell of its resin.</string>
-      <string id="DLG_KEEPER_49">But surely it’s all nonsense! Look, it’s really easy to prove it all wrong: just don’t follow the rituals. You’re a stranger to our ways, but have you seen any of the things I mentioned?
+      <string id="MAYBE_ASK">或许我可以说服他，让他允许我上去……</string>
+      <string id="DLG_KEEPER_37_CH">基兰的失踪很奇怪吗？</string>
+      <string id="DLG_KEEPER_37">基兰的失踪，有什么奇怪的吗？</string>
+      <string id="DLG_KEEPER_39_CH">基兰的失踪。</string>
+      <string id="DLG_KEEPER_39">您知道关于冬楠领主失踪的儿子的事情吗？</string>
+      <string id="DLG_KEEPER_45">真是个悲剧。虽然奇怪，但确实是悲剧。</string>
+      <string id="DLG_KEEPER_46">我只是觉得在重逢节将近的日子发生这种事情，略感可疑。因为在节日期间想掩盖什么秘密简直易如反掌，所以大家都害怕在那几天夜里离开村子。</string>
+      <string id="DLG_KEEPER_47">您是什么意思？</string>
+      <string id="DLG_KEEPER_48">看吧，这里的习俗简直唬人至深，为了缓解他们那种奇怪的恐惧感，可谓是不择手段。不吃玉米啊，不喝牛奶啊，甚至还能镜子挖坟。还有那个什么，都不敢在桤树旁边待太久，就是因为恶魔不碰桤树，但却会被树脂的气味吸引过来。</string>
+      <string id="DLG_KEEPER_49">但那明显毫无意义！看啊，想证明一切都是扯蛋很容易：别按仪式的规矩去做事。对我们来说，你是一个陌生人，但你见过我提到的那些东西了吗？
 </string>
-      <string id="DLG_KEEPER_50">Well, I did see a group of people in the village burying mirrors.</string>
-      <string id="DLG_KEEPER_51">Exactly! What do you think would happen if you unburied those mirrors? That a band of goblins would come out of the marshes to steal them? Nothing but nonsense.
+      <string id="DLG_KEEPER_50">嗯，我看到一些人在村子里埋镜子。</string>
+      <string id="DLG_KEEPER_51">对！你觉得如果你把那些镜子挖出来，会发生什么事？一群哥布林从沼泽爬出来，然后把镜子偷走了？什么都不会发生，什么都没有意义。
 </string>
-      <string id="DLG_KEEPER_41_CH">What of Kieran's disappearance?</string>
-      <string id="DLG_KEEPER_41">What of Kieran's disappearance, then?</string>
-      <string id="DLG_KEEPER_44">Well, I’ll admit I’m not sure what happened to the boy... But one thing I am sure of: this 'Festival of Reunion' is nothing but a farce. And it would be just so easy to prove it...</string>
-      <string id="DECO_CEILING">The ceiling is stained with humidity.</string>
-      <string id="BTS_KITCHEN">A drip of water, left unchecked, has ruined the mantel and collected into a small pool.</string>
-      <string id="BTS_PICTURE">A portrait of a bearded ship's captain, done in oils. The varnish has darkened his features considerably.</string>
-      <string id="DLG_KEEPER_59">But the light has yet to be lit, I'm afraid.</string>
-      <string id="DLG_KEEPER_60">Ah, that battery, have you got it charged already? I used to have a crank I would use on it every night, but since the loss of my sight, I have lost track of it.</string>
+      <string id="DLG_KEEPER_41_CH">基兰的失踪是怎么回事？</string>
+      <string id="DLG_KEEPER_41">那么，基兰的失踪是怎么回事？</string>
+      <string id="DLG_KEEPER_44">嗯，我承认我也不清楚那孩子发生什么事了……但我清楚一件事，那就是所谓的“重逢节”，根本就是一场闹剧。想证明这一点也非常容易……</string>
+      <string id="DECO_CEILING">天花板被湿气弄脏了。</string>
+      <string id="BTS_KITCHEN">年久失修，往下滴水，把壁炉架都毁了，还积了一小滩的水。</string>
+      <string id="BTS_PICTURE">大胡子船长的肖像画，沾满了油，已经面目全非。</string>
+      <string id="DLG_KEEPER_59">但我恐怕光还是被点亮了。</string>
+      <string id="DLG_KEEPER_60">啊，那个电池，你已经充过电了吗？我曾经也想过，要不要每晚就用它过活。但既然我都瞎了，就没这个必要了。</string>
     </bundle>
     <bundle id="ep7_lighthouseTree">
       <string id="LIGHTHOUSETREE_INSPECT">A wide copper pipe runs from the tower to the ground. It is covered in salt and seaweed. </string>
-      <string id="GONG_INSPECT">Maybe by making some noise, I will be able to attract the attention of the person inside the lighthouse.</string>
-      <string id="LIGHTHOUSEKEEPER_INSPECT">Someone is inside! Maybe I could make some kind of noise to attract their attention.</string>
-      <string id="LIGHTHOUSEKEEPER_ABSENT_INSPECT">There is a dim light inside. </string>
-      <string id="LIGHTHOUSE_DOOR_OPEN">It sounds like it attracted someone's attention downstairs.</string>
-      <string id="GONG_REACT_AFTER_SOLVE">I do not need to make more noise.</string>
-      <string id="WCB_BRACE_LIGHTHOUSETREE">The brace cannot drill through metal.</string>
-      <string id="WCB_RIBBON_LIGHTHOUSETREE">Tying the ribbon to the pipe makes no sense.
+      <string id="GONG_INSPECT">弄一些声音出来，或许就可以吸引灯塔里的人的注意。</string>
+      <string id="LIGHTHOUSEKEEPER_INSPECT">有人在里面！或许我能弄点声音出来，吸引他们的注意。</string>
+      <string id="LIGHTHOUSEKEEPER_ABSENT_INSPECT">里面光线昏暗。</string>
+      <string id="LIGHTHOUSE_DOOR_OPEN">听起来好像吸引了楼下某人的注意。</string>
+      <string id="GONG_REACT_AFTER_SOLVE">我不需要再弄出其他的声音了。</string>
+      <string id="WCB_BRACE_LIGHTHOUSETREE">木工钻不能用来在金属上钻孔。</string>
+      <string id="WCB_RIBBON_LIGHTHOUSETREE">把带子绑在管子上没有任何意义。
 </string>
-      <string id="WCB_UMBRELLA_LIGHTHOUSETREE">The umbrella will hardly be of use to me here.</string>
-      <string id="WCB_LINK_LIGHTHOUSETREE">The ring won't be of any help here.</string>
-      <string id="WCB_OIL_LIGHTHOUSETREE">There is no need to oil the pipe.</string>
-      <string id="WCB_CONTANIER_LIGHTHOUSETREE">I would rather leave it intact.</string>
-      <string id="LIGHTHOUSEKEEPER_INSPECT_2">There is a dim light inside.</string>
-      <string id="WINDOW_AFTER_SOLVE_INSPECT">The lights are off.</string>
+      <string id="WCB_UMBRELLA_LIGHTHOUSETREE">伞在这里起不了什么作用。</string>
+      <string id="WCB_LINK_LIGHTHOUSETREE">指环在这里起不上什么作用。</string>
+      <string id="WCB_OIL_LIGHTHOUSETREE">没必要给管道上油。</string>
+      <string id="WCB_CONTANIER_LIGHTHOUSETREE">还是让它保持完整吧。</string>
+      <string id="LIGHTHOUSEKEEPER_INSPECT_2">里面光线昏暗。</string>
+      <string id="WINDOW_AFTER_SOLVE_INSPECT">灯灭了。</string>
     </bundle>
     <bundle id="ep7_lightRoom">
-      <string id="MACHINE_BROKEN">The clockwork mechanism that causes the lamp's reflector to spin. However, I think that something is missing. It could do with some oiling as well.</string>
-      <string id="ONLY_OIL_APPLIED">The mechanism has been thoroughly oiled, but something is still missing.</string>
-      <string id="MACHINE_FIXED">The cog was the missing piece of the mechanism. It has been replaced and the mechanism has been well oiled. It was easy to wind and now it is back to life!</string>
-      <string id="LIGHTROOM_ON">The lighthouse is working properly again. With luck, its light will now help me find the mural in the old abbey. </string>
-      <string id="LIGHTROOM_OFF">The lighthouse's lamp, surrounded by eight large lenses. It is off.</string>
-      <string id="LIGHT_ROTOR_ON">Even though the reflector's spin mechanism is working, the lamp is still off.</string>
-      <string id="SPOTLIGHT_ON">The lighthouse's lamp, surrounded by eight large lenses. It is now on, but pointing out to sea.</string>
-      <string id="BUTTON_ON_INSPECT">The lamp is on.</string>
-      <string id="BUTTON_OFF_INSPECT">This switch seems to be related to the lighthouse's electric lamp.</string>
-      <string id="BATTERYPOST_INSPECT">It looks like the lighthouse's electric lamp battery slot.</string>
-      <string id="ONLY_GEAR_INSTALLED">The cog was the missing piece of the mechanism. I have replaced it. However, the mechanism is still too rusty to move.</string>
-      <string id="BATTERYPOST_SPOTLIGHTON_INSPECT">The lamp is already on.</string>
-      <string id="WCB_LINK_MACHINERY">I do not think the ring would serve that purpose.</string>
-      <string id="WCB_CHAINBROKEN_MACHINERY">Chains are not part of the mechanism.</string>
-      <string id="WCB_CHAINFIXED_MACHINERY">Chains are not part of the mechanism.</string>
-      <string id="WCB_BATERY_MACHINERY">It is a clockwork mechanism. It works by winding it by hand. Or it would, were it not missing a piece.</string>
-      <string id="WCB_BRACE_MACHINERY">That is out of the question.</string>
-      <string id="WCB_BRACE_LIGHT">I need to charge the battery somehow.</string>
-      <string id="WCB_CHAINBROKEN_LIGHT">I need to charge the battery somehow.</string>
-      <string id="WCB_CHAINFIXED_LIGHT">I need to charge the battery somehow.</string>
-      <string id="WCB_GEAR_LIGHT">A gear won't turn the lamp on. I need to charge its battery somehow.</string>
-      <string id="WCB_BATERYCH_MACHINERY">It is a clockwork mechanism. It works by winding it by hand. Or it would, were it not missing a piece.</string>
-      <string id="OIL_LEAK">There is a little hole in the tank and the oil is leaking. The mechanism will not work properly unless I fix it.</string>
-      <string id="RIBBON_STOP_LEAK">Now I can oil the mechanism without worrying about it leaking.
+      <string id="MACHINE_BROKEN">这个发条装置可以让灯的反射镜旋转，但好像缺了一部分。另外还需要给它加油。</string>
+      <string id="ONLY_OIL_APPLIED">装置已经加了油，但似乎缺了一部分。</string>
+      <string id="MACHINE_FIXED">这个装置缺的正是这个齿轮，现在已经换上了齿轮，还加过了油，它可以转起来，灯塔要复活了！</string>
+      <string id="LIGHTROOM_ON">灯塔已经被重新点亮了。幸运的是，借助它的光，我可以在旧修道院中找壁画了。</string>
+      <string id="LIGHTROOM_OFF">灯塔的灯，被八个大透镜包围着。现在不亮了。</string>
+      <string id="LIGHT_ROTOR_ON">即使反射镜的旋转装置启动，灯仍然是灭着的。</string>
+      <string id="SPOTLIGHT_ON">灯塔的灯，被八个大透镜包围着。现在亮了，但是指向的是大海。</string>
+      <string id="BUTTON_ON_INSPECT">灯亮了。</string>
+      <string id="BUTTON_OFF_INSPECT">这个开关应该是灯塔的电灯开关。</string>
+      <string id="BATTERYPOST_INSPECT">看起来应该是灯塔电灯的电池槽。</string>
+      <string id="ONLY_GEAR_INSTALLED">这个装置缺的正是这个齿轮。现在已经换上了齿轮，但装置锈得太严重，动不起来。</string>
+      <string id="BATTERYPOST_SPOTLIGHTON_INSPECT">灯被点亮了。</string>
+      <string id="WCB_LINK_MACHINERY">指环没什么用。</string>
+      <string id="WCB_CHAINBROKEN_MACHINERY">这装置不缺链子。</string>
+      <string id="WCB_CHAINFIXED_MACHINERY">这装置不缺链子。</string>
+      <string id="WCB_BATERY_MACHINERY">一个发条装置。如果不是缺了一部分的话，可以手动上发条。</string>
+      <string id="WCB_BRACE_MACHINERY">那是不可能的。</string>
+      <string id="WCB_BRACE_LIGHT">我需要想办法给电池充个电。</string>
+      <string id="WCB_CHAINBROKEN_LIGHT">我需要想办法给电池充个电。</string>
+      <string id="WCB_CHAINFIXED_LIGHT">我需要想办法给电池充个电。</string>
+      <string id="WCB_GEAR_LIGHT">齿轮不能把灯点亮，我需要想办法给电池充个电。</string>
+      <string id="WCB_BATERYCH_MACHINERY">一个发条装置。如果不是缺了一部分的话，可以手动上发条。</string>
+      <string id="OIL_LEAK">储油罐有个小洞，油都漏光了。我得先把它修好，装置才能动起来。</string>
+      <string id="RIBBON_STOP_LEAK">现在我可以放心地给装置加油，不用担心漏洞了。
 </string>
-      <string id="DECO_ISLANDS">A thick layer of mist covers the sea out there.</string>
+      <string id="DECO_ISLANDS">一层厚厚的雾，覆盖着外面的海。</string>
     </bundle>
     <bundle id="ep7_lightroomBattery">
       <string id="BATTERY_INSPECT">It looks like the lamp is lit by some sort of spark plug. However, its battery is flat.</string>
@@ -4063,7 +4063,7 @@ Wakefield is himself subjected to this ritual and transported to an endless land
       <string id="EPISODEMENU_EP1_NUMBER">第一章</string>
       <string id="EPISODEMENU_EP1_SUMMARY">亚历山大·杜普雷可能与威克菲尔德医生那突然神秘失踪的病人有着千丝万缕的联系。为了调查亚历山大的过去，威克菲尔德医生拜访了东丘精神病院。</string>
       <string id="EPISODEMENU_EP2_SUMMARY">为了探明迄今为止遇见的诸多怪事的原因，威克菲尔德和考夫曼医生登门拜访古怪的莱特教授。</string>
-      <string id="EPISODEMENU_EP3_SUMMARY">威克菲尔德医生踏上了爱丽丝·摩尔岛，在这远古的庇护之地寻找关于最后一扇门之谜的答案。</string>
+      <string id="EPISODEMENU_EP3_SUMMARY">威克菲尔德医生踏上了埃利斯·摩耳岛，在这远古的庇护之地寻找关于最后一扇门之谜的答案。</string>
       <string id="EPISODEMENU_CONTINUE">继续</string>
       <string id="EPISODEMENU_RESTART">新游戏</string>
       <string id="EPISODEMENU_COMINGSOON">...将在2016年初开启...</string>
