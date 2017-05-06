@@ -2702,7 +2702,7 @@ Dane Tippman</string>
       <string id="BARREL3_INSPECT">我已经拿到我需要的油了。</string>
       <string id="CONTAINTER_ON_BARREL">现在桶上被钻了一个洞，我只需要把瓶口塞进去……就可以得到油了！</string>
       <string id="DECO_LAKE">沼泽里的水黑漆漆的。</string>
-      <string id="DLG_LORD_LAKESHORRE_13">很高兴见到你，多南领主。</string>
+      <string id="DLG_LORD_LAKESHORRE_13">很高兴见到你，冬楠领主。</string>
       <string id="CANT_TAKE_WITH_MY_HANDS">我需要某种容器来装桶里的东西。</string>
       <string id="WICKERMAN_LAKESHORE">这是一个钉在十字架上的柳条人像！</string>
       <string id="RIBBON_LAKESHORE_INSPECT">这是之前挂在面具上的带子。</string>
@@ -2846,14 +2846,14 @@ Dane Tippman</string>
       <string id="MAP_LIGHTHOUSE">灯塔</string>
       <string id="MAP_BURNTHOUSEEXT">隐居的小屋</string>
       <string id="MAP_HOLEHILL">山丘</string>
-      <string id="MAP_MANOR">多楠宅邸</string>
+      <string id="MAP_MANOR">冬楠宅邸</string>
       <string id="MAP_VILLAGE">村落</string>
     </bundle>
     <bundle id="ep7_startoptions">
       <string id="CHAPTER_TITLE">第二季：第三章
 - 重逢 -</string>
       <string id="ARRIVAL_THINK">我看到了远方的岛屿，埃利斯·摩耳。</string>
-      <string id="CREDITS_ADVENTURECONTINUES">The adventure continues in</string>
+      <string id="CREDITS_ADVENTURECONTINUES">冒险将继续……</string>
       <string id="CREDITS_NEXTEPISODE">Season finale</string>
       <string id="CREDITS_SLIDE0">The Last Door SE02E03 was released on August 17th, 2015</string>
       <string id="CREDITS_SLIDE1">Kitchen Furniture description by</string>
@@ -2920,7 +2920,7 @@ Dane Tippman</string>
       <string id="WCB_COG_DINAMO2">已经修好了。</string>
     </bundle>
     <bundle id="ep7_opening">
-      <string id="FT_TEXT_HEADER1">Developed by</string>
+      <string id="FT_TEXT_HEADER1">开发者</string>
       <string id="FT_TEXT_CONTENT1">Enrique Cabeza
 Mauricio García
 Daniel Márquez
@@ -2929,10 +2929,10 @@ Jose Antonio Perales
 Mateo Pérez
 Anton Rogov</string>
       <string id="FT_TEXT_CONTENT2">Carlos Viola</string>
-      <string id="FT_TEXT_HEADER2">Original Music by</string>
-      <string id="FT_TEXT_HEADER3">Published by Phoenix Online Publishing LTD</string>
-      <string id="FT_TEXT_HEADER4">English Localization</string>
-      <string id="FT_TEXT_HEADER5">Testing and QA</string>
+      <string id="FT_TEXT_HEADER2">原创音乐</string>
+      <string id="FT_TEXT_HEADER3">Phoenix Online Publishing LTD出版发行</string>
+      <string id="FT_TEXT_HEADER4">英语翻译</string>
+      <string id="FT_TEXT_HEADER5">测试和质量管理</string>
       <string id="FT_TEXT_CONTENT3">Cesar Bittar
 Vitek Goyel
 Michael Fortunato
@@ -2947,39 +2947,43 @@ Dino Ljubić
 Aaron Loehrlein
 Silp Novak
 Aoife Nic Chraith
-David Techman</string>
+David Techman
+
+中文翻译
+Zoharwolf
+</string>
       <string id="FT_TEXT_CONTENT6">Yris Blasco
 Konstantin Chistikhin
 Javier Mairena
 Daniel Pontiveros
 Juan Miguel López
 Alejandro Mogollo</string>
-      <string id="FT_TEXT_HEADER6">Special Thanks</string>
+      <string id="FT_TEXT_HEADER6">特别鸣谢</string>
       <string id="FT_TEXT_CONTENT5_1">Wayne Sung
 Dane Tippman</string>
-      <string id="OPENING_SKIP">Skip &gt;</string>
+      <string id="OPENING_SKIP">跳过</string>
     </bundle>
     <bundle id="ep7_parlour">
       <string id="DLG_FIRST_CONVERSATION_1">您好，威克菲尔德医生，您是想在这里度假吗？</string>
-      <string id="DLG_FIRST_CONVERSATION_2">是的，确实如此。我想在这里休养一下，远离都市的喧嚣和压力。</string>
+      <string id="DLG_FIRST_CONVERSATION_2">是的，确实如此。我想在这里休养一下，远离都市的喧嚣，缓解压力。</string>
       <string id="DLG_FIRST_CONVERSATION_3">我明白。</string>
       <string id="DLG_FIRST_CONVERSATION_4">好的，如果您希望散散心，那来的正是时候。最近几天正好是一年一度的我们民族的传统节日，独一无二的节日。</string>
       <string id="DLG_FIRST_CONVERSATION_8">我们管它叫做“重逢节”。</string>
-      <string id="DLG_FIRST_CONVERSATION_5">真不错。我可以问一下，这个节日是庆祝什么的？</string>
-      <string id="DLG_FIRST_CONVERSATION_6">根据传统，接下来的三天夜里，重逢的灵魂会突破另一边的界限，游荡在埃利斯·摩耳的山丘上。到时我们穿着戏服、戴着面具，这样灵魂们就认不出我们来，我们也不至于成为他们戏弄的目标。到时也会有相应的仪式……</string>
+      <string id="DLG_FIRST_CONVERSATION_5">真不错。我可以问一下，这个节日是做什么的？</string>
+      <string id="DLG_FIRST_CONVERSATION_6">根据传统，接下来的三天夜里，重逢的灵魂会突破另一边的界限，游荡在埃利斯·摩耳的山丘上。到时我们会穿着戏服、戴着面具，这样灵魂们就认不出我们来，我们也不至于成为他们戏弄的目标。到时也会有相应的仪式……</string>
       <string id="DLG_FIRST_CONVERSATION_7">……太多细节的东西我就不啰嗦了。您可以随意逛逛，随意看看。</string>
-      <string id="WINDOW_INSPECT">地上有一个奇怪的马赛克装饰，两条蛇在互相吞食对方。</string>
+      <string id="WINDOW_INSPECT">地上有一个画着奇怪图案的马赛克地砖，两条蛇在互相噬咬对方。</string>
       <string id="DLG_PARLOUR_QUESTIONS_2_CH">雕刻板。</string>
-      <string id="DLG_PARLOUR_QUESTIONS_2">这些墙上的板子是一种传统主题的装饰吗？I cannot seem to place it.</string>
-      <string id="DLG_PARLOUR_QUESTIONS_4">他们是埃利斯·摩耳的第一代国王。在德鲁伊的时代，我们信仰大神卢，我们的国王通过这份信仰的力量维持着统治的地位。</string>
-      <string id="DLG_PARLOUR_QUESTIONS_3_CH">蛇的马赛克。</string>
-      <string id="DLG_PARLOUR_QUESTIONS_3">嗯，我……我不得不说那个马赛克图案真的很引人注目，它看起来很真实。</string>
-      <string id="DLG_PARLOUR_QUESTIONS_5">没错。尽管历史学者可能不同意，但我们一直认为这幢大宅是古罗马别墅式的。而在我们的传统里，双大蛇代表着哨兵，哨兵守护着我们，不被隐藏它自身之中的可怖威胁所伤。</string>
+      <string id="DLG_PARLOUR_QUESTIONS_2">墙上的板子画的是什么传统主题吗？我不太清楚，想了解一下。</string>
+      <string id="DLG_PARLOUR_QUESTIONS_4">他们是埃利斯·摩耳的第一代国王。在德鲁伊的时代，我们信仰大神鲁格，我们的国王通过这份信仰的力量维持着统治的地位。</string>
+      <string id="DLG_PARLOUR_QUESTIONS_3_CH">蛇的马赛克地砖。</string>
+      <string id="DLG_PARLOUR_QUESTIONS_3">嗯，我……我不得不说那个马赛克地砖图案真的很引人注目，它看起来很真实。</string>
+      <string id="DLG_PARLOUR_QUESTIONS_5">没错。尽管历史学者可能不同意，但我们一直认为这幢大宅是古罗马别墅式的。而在我们的传统里，双大蛇代表着哨兵，哨兵守护着我们，不被隐藏自身之中的可怖威胁所伤。</string>
       <string id="DLG_PARLOUR_QUESTIONS_6_CH">谢谢您的邀请。</string>
       <string id="DLG_PARLOUR_QUESTIONS_6">我衷心地感谢您的盛情招待。</string>
       <string id="DLG_PARLOUR_QUESTIONS_7">您无须感谢我，我只是遵循着我们的传统。</string>
-      <string id="DLG_LORD_PARLOUR_37">您似乎精通埃利斯·摩耳的风俗，我迫切想要详细地了解一些关于岛的历史知识。</string>
-      <string id="DLG_LORD_PARLOUR_36">It is true that we in Éilís Mór cleave to the ancient traditions. We haven’t lost touch like some of those on the mainland. But I am no expert. 如果您真的感兴趣，你应该去和福斯特小姐聊聊。</string>
+      <string id="DLG_LORD_PARLOUR_37">您似乎精通埃利斯·摩耳的风俗，我也想要详细地了解一些关于岛的历史知识。</string>
+      <string id="DLG_LORD_PARLOUR_36">其实呢，我们住在埃利斯·摩耳上的人是文化割裂的，我们这边仍然遵循传统，但主岛那边则已经不信这些了。在这方面，我并非专家，如果您真的感兴趣，应该去和福斯特小姐聊聊。</string>
       <string id="DLG_LORD_PARLOUR_11">请原谅我的唐突，威克菲尔德医生，您觉得您自己是一位虔诚的信教者吗？</string>
       <string id="DLG_LORD_PARLOUR_14_CH">不是。</string>
       <string id="DLG_LORD_PARLOUR_14">不，我不是。</string>
@@ -3010,88 +3014,88 @@ Dane Tippman</string>
       <string id="DLG_PARLOUR_QUESTIONS_13">这雕像很引人注目，我可以问一下它代表着什么吗？</string>
       <string id="DLG_PARLOUR_QUESTIONS_14">那是长臂鲁格，我们神话中的大王和英雄。</string>
       <string id="CARPET_INSPECT">地上有一个奇怪的马赛克装饰，两条蛇在互相吞食对方。</string>
-      <string id="PICTURE_PARLOUR_INSPECT">墙上有两块雕刻板画。很古老，但我不能明白它们的含义。</string>
+      <string id="PICTURE_PARLOUR_INSPECT">地上有一个画着奇怪图案的马赛克地砖，两条蛇在互相噬咬对方。</string>
     </bundle>
     <bundle id="ep7_passage">
-      <string id="ENTER_THINK">The tunnel descends deep into the earth. Will I find the Laidcend crypt at the bottom, or... something... Dear God, I am reeling. Kaufmann, my friend, your faith in me was misplaced! I cannot… No. I will... persevere. </string>
-      <string id="CANT_GO_BACK">No. I will not relent now.</string>
+      <string id="ENTER_THINK">通道延伸到地下深处，下面就是莱德森德家的地窖吗，或者……有其他的什么东西……我的天啊，我有点心悸。考夫曼，我的朋友，你是那么相信我能做到，但我……不，我、我得坚持下去。</string>
+      <string id="CANT_GO_BACK">不，我不能再退缩。</string>
     </bundle>
     <bundle id="ep7_pendulum">
-      <string id="FT_PENDULUM_1">This... I can not...</string>
-      <string id="FT_PENDULUM_2">I think... I can remember...</string>
-      <string id="FT_PENDULUM_3">Its... terrible... screech</string>
-      <string id="FT_PENDULUM_4">but it was not... that of an animal...</string>
-      <string id="FT_PENDULUM_5">but it was not... that of an animal</string>
-      <string id="FT_PENDULUM_6">there was something... human in it...</string>
-      <string id="FT_PENDULUM_7">a desperate cry for forgiveness...</string>
+      <string id="FT_PENDULUM_1">这……我不能……</string>
+      <string id="FT_PENDULUM_2">我好像……能想起来了……</string>
+      <string id="FT_PENDULUM_3">它的……骇人的……尖叫声</string>
+      <string id="FT_PENDULUM_4">但那声音……不是动物发出的那种</string>
+      <string id="FT_PENDULUM_5">但那声音……不是动物发出的那种</string>
+      <string id="FT_PENDULUM_6">在其中，有某种……人声的感觉……</string>
+      <string id="FT_PENDULUM_7">一种请求宽恕的绝望的哭喊声……</string>
     </bundle>
     <bundle id="ep7_playRoom">
-      <string id="PLAYROOM_LEVER_INSPECT">An ornate lever is built into the wall.</string>
-      <string id="PLAYROOM_LEVER2_INSPECT">Not long ago, I might have found these toys amusing. But now they fill me with dismay, like some vile opium hallucination.</string>
-      <string id="DECO_MASK_DESC">A disturbing mask made in the semblance of a dragon.</string>
-      <string id="DRAGONMASK_INSPECT">The stranger's mask is lying on the floor.</string>
-      <string id="DRAGONMASK_REACT2">An old iron disc. A drawing of a spiked circle is engraved on it.</string>
-      <string id="DRAGONMASK_REACT1">Something is underneath the mask.</string>
-      <string id="DRAGONMASK2_INSPECT">Its hollow eyes bore into me.</string>
-      <string id="DECO_LAMP">A doll's theatre lamp spinning around. </string>
-      <string id="DECO_LEFT_DOLL">A painted man-sized wooden doll. It represents a king.</string>
-      <string id="DECO_RIGHT_ROLL">A painted man-sized wooden doll. It represents an old lady.</string>
-      <string id="DECO_HANGING_STUFF">Celestial bodies made out of paper.</string>
-      <string id="KIERAN_INSPECT">I can hear something wandering in the dark. I can see... a deformed shadow in there, writhing and fidgeting... I cannot... I cannot get any closer!</string>
-      <string id="LEVER_NOTHING_HAPPENED">Apparently, the lever is not working.</string>
-      <string id="LEVER_REACT_MILL_NOT_FIXED">I believe the mechanism is not working properly.</string>
-      <string id="LEVER_REACT_MILL_FIXED">...</string>
+      <string id="PLAYROOM_LEVER_INSPECT">墙上有一个装饰精美的控制杆。</string>
+      <string id="PLAYROOM_LEVER2_INSPECT">不久前，我还觉得这些玩具看起来很有趣。而现在，我只觉得它们让人心慌，就好像某种吸了鸦片之后产生的邪恶的幻觉。</string>
+      <string id="DECO_MASK_DESC">一个不祥的面具，是龙的样子。</string>
+      <string id="DRAGONMASK_INSPECT">那个人的面具在地上。</string>
+      <string id="DRAGONMASK_REACT2">一个老旧的铁圆盘，上面刻着带刺的圆形图案。</string>
+      <string id="DRAGONMASK_REACT1">面具下有什么东西。</string>
+      <string id="DRAGONMASK2_INSPECT">它深邃空洞的眼神仿佛刺穿了我。</string>
+      <string id="DECO_LAMP">娃娃舞台灯在旋转。</string>
+      <string id="DECO_LEFT_DOLL">一个大型的木娃娃，代表着国王。</string>
+      <string id="DECO_RIGHT_ROLL">一个大型的木娃娃，代表着老妇人。</string>
+      <string id="DECO_HANGING_STUFF">纸制的天体。</string>
+      <string id="KIERAN_INSPECT">我能听到从黑暗中传来阵阵的低语声，还能看到一个……扭曲的身影在那边，它在烦躁地蠕动着……我不能……不能再靠近了！</string>
+      <string id="LEVER_NOTHING_HAPPENED">很明显，这个控制杆已经不能用了。</string>
+      <string id="LEVER_REACT_MILL_NOT_FIXED">我觉得这个装置没能正常工作。</string>
+      <string id="LEVER_REACT_MILL_FIXED">……</string>
     </bundle>
     <bundle id="ep7_quay">
-      <string id="BOTTLE_INSPECT">A bottle is floating on the water. It is caught in the seaweed, just out of reach. I think there is something inside.</string>
-      <string id="BOTTLE_REACT">The bottle contains a fragment of a poem.</string>
-      <string id="BOTTLE2_INSPECT">The glass has been tumbled and frosted by its time in the sea.</string>
-      <string id="DLG_MESSENGER_1">Excuse me, are you Mr Wakefield?</string>
-      <string id="DLG_MESSENGER_2">I am.</string>
-      <string id="DLG_MESSENGER_3">I've a message from Lord Donnán.</string>
-      <string id="DLG_MESSENGER_4">Lord Donnán?</string>
-      <string id="INVITATION_CONTENT">To our most recent visitor, Mr Wakefield,
+      <string id="BOTTLE_INSPECT">水面上浮着一个瓶子，被水草挂住了，正好够不到。瓶子里面好像有什么东西。</string>
+      <string id="BOTTLE_REACT">瓶子里有一首诗的一部分。</string>
+      <string id="BOTTLE2_INSPECT">瓶子饱受海上的风雨洗礼摧残。</string>
+      <string id="DLG_MESSENGER_1">打扰一下，你是威克菲尔德先生吗？</string>
+      <string id="DLG_MESSENGER_2">我是。</string>
+      <string id="DLG_MESSENGER_3">冬楠领主托我给你带个信儿。</string>
+      <string id="DLG_MESSENGER_4">冬楠领主？</string>
+      <string id="INVITATION_CONTENT">致我们新近光顾的旅客，威克菲尔德先生，
 
-It is customary in Éilís Mór to welcome strangers with hospitality. I should be honoured if you would accept this invitation to join me at my manor for dinner and amiable conversation.
+埃利斯·摩耳自古以来欢迎远到而来的客人，请允许我诚挚地邀请您大驾光临，共进晚餐并进行友好会谈，您的光临必会使在下的寒舍蓬荜生辉。
 
-Your new friend,
-Lord Donnán</string>
-      <string id="ARRIVAL_THINK_1">Éilís Mór.</string>
-      <string id="ARRIVAL_THINK_2">According to Kaufmann's letter, the legendary Cronemeadan can be found here.</string>
-      <string id="ARRIVAL_THINK_3">As Kaufmann emphasised, I must exercise discretion. For all I know, the Playwright is watching.</string>
-      <string id="BOTTLE_LETTER">Gods remain silent as the fog settles.
-We may look for the king beyond the clouds,
-But find the queen with a fiery crown.</string>
-      <string id="BOTTLE_WITH_MESSAGE">A paper is rolled up inside the bottle.</string>
-      <string id="DLG_BOATMAN_1">And here we are! The island of Éilís Mór.</string>
-      <string id="DLG_BOATMAN_2">Thank you very much. </string>
-      <string id="DLG_BOATMAN_5">When will you be back? </string>
-      <string id="DLG_BOATMAN_6">Tomorrow at first light, probably. I'll be delivering supplies and the mail.</string>
-      <string id="DLG_BOATMAN_7">I will see you then. </string>
-      <string id="DLG_BOATMAN_8">As you wish, Dr Wakefield.</string>
-      <string id="DLG_VILLAGER_1">Good evening, my name is Wakefield. I have just arrived on the island.</string>
-      <string id="DLG_VILLAGER_2">You ought to speak with Lord Donnán, then.</string>
-      <string id="DLG_VILLAGER_3">I beg your pardon?</string>
-      <string id="DLG_VILLAGER_4">Lord Donnán. You should see him.</string>
-      <string id="DLG_VILLAGER_2_1">Good evening.</string>
-      <string id="DLG_VILLAGER_3_1">Good evening.</string>
-      <string id="DLG_VILLAGER_4_1">Excuse me…</string>
-      <string id="DLG_VILLAGER_4_2">A visitor! Visitors are most welcome in Éilís Mór. </string>
-      <string id="DLG_VILLAGER_4_3">Yes, they are.</string>
-      <string id="DLG_VILLAGER_2_2">Welcome to Éilís Mór.</string>
-      <string id="DLG_VILLAGER_3_2">Visiting? I hope you enjoy your stay.</string>
-      <string id="WCB_CHAINBROKEN_BOTTLE">It is not long enough.</string>
-      <string id="WCB_CHAINFIXED_BOTTLE">It is not long enough.</string>
-      <string id="THINK_NPCS_GONE">All the villagers are gone… </string>
-      <string id="BOTTLE_REACT_CANNOT_CATCH">The bottle is just too far to catch it from here.</string>
+您的新朋友，
+多楠领主。</string>
+      <string id="ARRIVAL_THINK_1">埃利斯·摩耳</string>
+      <string id="ARRIVAL_THINK_2">根据考夫曼的信中所说，在这里可以找到有关寇龙猸郸的传说。</string>
+      <string id="ARRIVAL_THINK_3">正如考夫曼一直强调的，我必须谨言慎行。毕竟我们都清楚，剧作家可能在时刻监视着一切。</string>
+      <string id="BOTTLE_LETTER">大雾降临之时，神明缄默不语。
+我们寻找云端之上的国王，
+但结果找到的是火红皇冠的女王。</string>
+      <string id="BOTTLE_WITH_MESSAGE">瓶子里有一张卷起来的纸。</string>
+      <string id="DLG_BOATMAN_1">我们到了！这里就是埃利斯·摩耳岛。</string>
+      <string id="DLG_BOATMAN_2">非常感谢。</string>
+      <string id="DLG_BOATMAN_5">您什么时候再来？</string>
+      <string id="DLG_BOATMAN_6">可能是明天一早吧，我会运送物资和邮件。</string>
+      <string id="DLG_BOATMAN_7">到时再见。</string>
+      <string id="DLG_BOATMAN_8">如你所愿，威克菲尔德医生。</string>
+      <string id="DLG_VILLAGER_1">晚上好，我的名字是威克菲尔德。我刚到这个岛上来。</string>
+      <string id="DLG_VILLAGER_2">那么你应该去和多楠领主谈谈。</string>
+      <string id="DLG_VILLAGER_3">您说谁？</string>
+      <string id="DLG_VILLAGER_4">多楠领主。你应该见见他。</string>
+      <string id="DLG_VILLAGER_2_1">晚上好。</string>
+      <string id="DLG_VILLAGER_3_1">晚上好。</string>
+      <string id="DLG_VILLAGER_4_1">打扰一下……</string>
+      <string id="DLG_VILLAGER_4_2">旅客！在埃利斯·摩耳这里，旅客最受欢迎了。</string>
+      <string id="DLG_VILLAGER_4_3">是啊。</string>
+      <string id="DLG_VILLAGER_2_2">欢迎来埃利斯·摩耳。</string>
+      <string id="DLG_VILLAGER_3_2">旅游？祝你游得开心。</string>
+      <string id="WCB_CHAINBROKEN_BOTTLE">还不够长。</string>
+      <string id="WCB_CHAINFIXED_BOTTLE">还不够长。</string>
+      <string id="THINK_NPCS_GONE">村民们都不在……</string>
+      <string id="BOTTLE_REACT_CANNOT_CATCH">瓶子太远了，从这里够不到。</string>
     </bundle>
     <bundle id="ep7_ravine">
-      <string id="RIBBON_INSPECT">That is the ribbon that was snatched by the wind.</string>
-      <string id="RIBBON_REACT">I had better catch it.</string>
-      <string id="LIGHTHOUSE_INSPECT">I can see a lighthouse in the distance.</string>
-      <string id="LIGHTHOUSE_OFF_INSPET">It may have provided the light that Brighid spoke of in her diary. But the lamp is off. I wonder if it has been abandoned.</string>
-      <string id="LIGHTSHOUSE_ON_INSPECT">The lighthouse is working again, casting its light over the surounding landscape.</string>
-      <string id="LIGHTSHOUSE_ON_NOROT_INSPECT">The lighthouse casts its light in a fixed manner</string>
+      <string id="RIBBON_INSPECT">有一个带子，在风中摇曳。</string>
+      <string id="RIBBON_REACT">我最好把它拿到手。</string>
+      <string id="LIGHTHOUSE_INSPECT">远处可以看到一座灯塔。</string>
+      <string id="LIGHTHOUSE_OFF_INSPET">它可以提供布丽吉德日记中提到的光照，但现在灯塔不亮了，难道它已经被遗弃了吗？</string>
+      <string id="LIGHTSHOUSE_ON_INSPECT">灯塔重新亮了起来，投射出的光芒点亮了周边的风光。</string>
+      <string id="LIGHTSHOUSE_ON_NOROT_INSPECT">灯塔以颇有规律的方式投射光芒。</string>
     </bundle>
     <bundle id="ep7_rocksHill">
       <string id="DLG_ARTISTKID2_CH">What are you drawing?</string>
