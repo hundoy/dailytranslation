@@ -3211,102 +3211,102 @@ Dane Tippman</string>
       <string id="DLG_TEACHER_41">据说莱德森德家族最后的子嗣曾经手拿一个铁制的护身符去洞附近挑衅扭曲者。</string>
       <string id="DLG_TEACHER_47">一般都认为，另一边的存在厌恶铁制品，所以年轻的莱德森德无论怎样咒骂叫喊，都没能马上得到回应。</string>
       <string id="DLG_TEACHER_48">但几天后的夜里，莱德森德家的房子突然着了大火，这个古老的家族就这样走向了终末。</string>
-      <string id="DLG_TEACHER_43_CH">People at the graveyard.</string>
-      <string id="DLG_TEACHER_43">There was a group of masked people at the graveyard. Was that part of the festival?</string>
-      <string id="DLG_TEACHER_44">Yes, that was one of the first rites of the Reunion, a very important one. As I said, people dress up to protect themselves from those that will come. But this is not enough. Since the mirrors they have looked into while changing know their identities, they bury them next to the old fearnóg. The roots of this tree grow in both worlds at the same time, so they keep the witness mirrors safe.</string>
-      <string id="DLG_TEACHER_51_CH">Éilís Mór's traditions.</string>
-      <string id="DLG_TEACHER_51">Lord Donnán said you are an expert on the island's folklore.</string>
-      <string id="DLG_TEACHER_52">He said that, did he? Well I wouldn’t call myself an expert, now, but I’ve lived here in Éilís Mór longer than most. And I’ve heard my fair share of stories about the Other Side and its people.</string>
-      <string id="DECO_WINDOWS">The windows are open, letting a chilly draft inside.</string>
-      <string id="DECO_BOOKSHELF">A shelf of handmade books with unfamiliar titles. Most of them concern strange rites.</string>
-      <string id="DECO_BLACKBOARD">'They'll dance around the burrow,
-Around the burrow they'll sing.
-It's cold inside as winter.
-Don't get too close!
-Don't get too close!
-Or else they'll pull you in.'</string>
-      <string id="DESK_REACT">There is some kind of worm screw inside, the remains of an insect beside it, and some drawings engraved on the desk. I will take the drive with me. It may prove itself useful.</string>
-      <string id="DLG_TEACHER_PICTURE_1">I found this picture. Was it made by one of your students?</string>
-      <string id="DLG_TEACHER_PICTURE2">Yes... This was painted by poor Kieran.</string>
-      <string id="DLG_TEACHER_PICTURE3">What would you say it represents?</string>
-      <string id="DLG_TEACHER_PICTURE4">Things that were familiar to him... the village, his home... but these other shapes... I do not know. You could ask one of his classmates. They should be able to tell you more about it.
+      <string id="DLG_TEACHER_43_CH">墓园里的人们。</string>
+      <string id="DLG_TEACHER_43">我看到有一批戴着面具的人在墓园里，这也是节日的一部分吗？</string>
+      <string id="DLG_TEACHER_44">是的，那是重逢节的第一个仪式，是一个非常重要的仪式。我刚才说过，人们戴面具是为了从即将到来的家伙手中保护自己，但光这样做还不够，因为在他们换装时，镜子看到了并知道他们都是谁。于是人们把镜子埋在桤树旁边，桤树的根同时生长于两个世界，所以它能保护这些见证者镜子们的安全。</string>
+      <string id="DLG_TEACHER_51_CH">埃利斯·摩耳的传统。</string>
+      <string id="DLG_TEACHER_51">冬楠领主跟我说，您是岛上风俗方面的专家。</string>
+      <string id="DLG_TEACHER_52">他那么说的？我称不上是专家，只是比许多人住在这里的时间长一点罢了。我也乐于分享我听过的关于另一个世界和那里的住民的故事。</string>
+      <string id="DECO_WINDOWS">窗子开着，凛冽的寒风吹了进来。</string>
+      <string id="DECO_BOOKSHELF">一书架的手制书，标题都没见过，大部分都是关于奇怪的仪式的。</string>
+      <string id="DECO_BLACKBOARD">“他们起舞，就在大洞旁，
+在洞边缘，他们要歌唱。
+洞中寒冷，如冬天一样。
+别靠太近！
+别靠太近！
+他们会把你推到下方。”</string>
+      <string id="DESK_REACT">里面有螺钉，旁边还有只死虫子。书桌上刻着什么画，我得带着它，说不定以后能用得上。</string>
+      <string id="DLG_TEACHER_PICTURE_1">我发现了这张画，是您的学生画的吗？</string>
+      <string id="DLG_TEACHER_PICTURE2">是的，……那是可怜的基兰画的。</string>
+      <string id="DLG_TEACHER_PICTURE3">你觉得上面画的是什么呢？</string>
+      <string id="DLG_TEACHER_PICTURE4">是他熟悉的一些东西……村子、他的家……但这个东西这是……我不知道，你可能问问他的同学，或许他们能告诉你一些关于它的事情。
 </string>
-      <string id="CTS_MIRROR_BROKEN">What... was that?</string>
-      <string id="BTS_PICTURE_SCHOOL">A picture of a slender woman, apparently a goddess, wearing a black dress and having a murder of crows around her. It's signed with a name: "Badb Catha".</string>
+      <string id="CTS_MIRROR_BROKEN">刚才那是……什么？</string>
+      <string id="BTS_PICTURE_SCHOOL">一个瘦长女人的画，很明显她是一位女神，穿着黑色的裙子，周围有一大群的乌鸦。有一个名牌，上面写着“巴芙·卡萨”。</string>
     </bundle>
     <bundle id="ep7_schoolSt">
-      <string id="SCHOOL_DOOR_LOCKED">The door is locked.</string>
-      <string id="BIKE_WHEEL_INSPECT">An abandoned wheel. A peculiar cog is attached to it.</string>
-      <string id="BIKE_WHEEL_REACT">Based on the cog's workmanship, it looks like it was part of a complex industrial mechanism. But someone has tried to fit it crudely onto that broken bicycle wheel. How on Earth did it come to be in a village like this?</string>
-      <string id="BIKE_WHEEL2_INSPECT">It looks like the wheel has been lying here for a long time.</string>
-      <string id="DECO_WINDOW_LEFT">The windows are open and a light is on. </string>
-      <string id="DECO_WINDOW">The windows are open and a light is on.</string>
-      <string id="DECO_GATE">It looks like the gate has been broken for some time now.</string>
-      <string id="DECO_SIGN">A sign reads: 'The Wisdom of Silence'</string>
+      <string id="SCHOOL_DOOR_LOCKED">门锁着。</string>
+      <string id="BIKE_WHEEL_INSPECT">被废弃的轮子，上面有一个奇怪的齿轮。</string>
+      <string id="BIKE_WHEEL_REACT">根据齿轮的做工可以看出来，它是某种复杂的工业器械的一部分。但看起来有人曾经想粗暴地把它装在那个坏掉的自行车轮上，这样的齿轮到底是怎样出现在这样的一个小村庄里的？</string>
+      <string id="BIKE_WHEEL2_INSPECT">看起来这个轮子已经躺在这里很久了。</string>
+      <string id="DECO_WINDOW_LEFT">窗子开着，有一盏灯亮着。</string>
+      <string id="DECO_WINDOW">窗子开着，有一盏灯亮着。</string>
+      <string id="DECO_GATE">看起来门很久以前就被破坏了。</string>
+      <string id="DECO_SIGN">有一个标牌，上面写着：“缄默的智慧”。</string>
     </bundle>
     <bundle id="ep7_streetRaining">
-      <string id="SENTENCE1">With Kaufmann gone, I found myself lost, 
-my life suddenly devoid of meaning.</string>
-      <string id="SENTENCE2">It was as though my friend had written a letter 
-to a person who no longer existed.</string>
-      <string id="SENTENCE3">Weeks passed, maybe months. I did not count the time. 
-But the day came when I realised there was no other option.</string>
-      <string id="SENTENCE4">To honour my friend's memory, I had to keep looking.
-I had to find Jeremiah Devitt.</string>
-      <string id="SENTENCE5">Wherever he was.</string>
+      <string id="SENTENCE1">考夫曼不在之后，我迷失了方向， 
+我的生活突然失去了意义。</string>
+      <string id="SENTENCE2">他给我写的信中所说的那个我，
+那是一个仿佛不再存在的人。</string>
+      <string id="SENTENCE3">过去了数周，或者是数个月，我已经不去计算时间。
+但终于有一天，我意识到，我别无选择。</string>
+      <string id="SENTENCE4">为了我朋友的遗愿，我必须继续。To honour my friend's memory, I had to keep looking.
+我一定要找到杰瑞米·大卫。</string>
+      <string id="SENTENCE5">无论他在什么地方。</string>
     </bundle>
     <bundle id="ep7_tombEntrance">
-      <string id="RUINEDCHAPEL_DISCOVERED_LIT_BY_SPOTLIGHT">The light has revealed a mural painting on the stones, just as it did for Brighid nearly a century ago.</string>
-      <string id="DECO_DOME">The dome appears to be Roman in origin. It is in better condition than the other ruins.</string>
-      <string id="DOOR_CHAPEL_OPENED">The hidden entrance is open now.</string>
-      <string id="GATEHILL_FIRSTTIME_THINK">This must be the old abbey that Brighid Laidcend described in her diary. Could the Cronemeadan be here? Brighid mentioned a dim light, but I see only darkness.</string>
+      <string id="RUINEDCHAPEL_DISCOVERED_LIT_BY_SPOTLIGHT">光照亮了石墙上的壁画，就像一个世纪之前布丽吉德见到的那样。</string>
+      <string id="DECO_DOME">屋顶似乎原本是罗马风格的，保存得比其他废墟要完好得多。</string>
+      <string id="DOOR_CHAPEL_OPENED">隐藏的入口现在打开了。</string>
+      <string id="GATEHILL_FIRSTTIME_THINK">这一定就是布丽吉德·莱德森德在她的日记中提到的旧修道院。寇龙猸郸会在这里吗？布丽吉德说这里会有一束昏暗的光，但我看到的却只有黑暗。</string>
     </bundle>
     <bundle id="ep7_veil">
-      <string id="FT_SENTENCE_1">Seekers of truth will 
-Sacrifice their wisdom</string>
-      <string id="FT_SENTENCE_2">So to open the way to 
-Where the fearnóg blooms.</string>
+      <string id="FT_SENTENCE_1">真理的探求者Seekers of truth will 
+会牺牲他们的智慧Sacrifice their wisdom</string>
+      <string id="FT_SENTENCE_2">打开道路So to open the way to 
+前往桤树盛开之处Where the fearnóg blooms.</string>
       <string id="FT_SENTENCE_3">Your offspring we welcome, 
 Its hidden threat.</string>
       <string id="FT_SENTENCE_4">Only the light of your sign 
 Will carry its purge.</string>
-      <string id="DEVITT_ANSWER">Go back before they come!</string>
-      <string id="DLG_DEVITT_1">...</string>
-      <string id="DLG_DEVITT_2">Devitt?</string>
-      <string id="DLG_DEVITT_3">Doctor... Wakefield?</string>
-      <string id="DLG_DEVITT_4">What are you...</string>
-      <string id="DLG_DEVITT_5">No.</string>
-      <string id="DLG_DEVITT_6">No, you should not be here.</string>
-      <string id="DLG_DEVITT_7">You should not have—go back now!</string>
+      <string id="DEVITT_ANSWER">在他们来之前，回去！</string>
+      <string id="DLG_DEVITT_1">……</string>
+      <string id="DLG_DEVITT_2">大卫？</string>
+      <string id="DLG_DEVITT_3">威克菲尔德……医生？</string>
+      <string id="DLG_DEVITT_4">你到底……</string>
+      <string id="DLG_DEVITT_5">不。</string>
+      <string id="DLG_DEVITT_6">不，你不应该在这里。</string>
+      <string id="DLG_DEVITT_7">你不应该在——现在马上走！</string>
     </bundle>
     <bundle id="ep7_wall">
-      <string id="STRANGE_ROCK">A strangely-shaped rock.
+      <string id="STRANGE_ROCK">一个奇形怪状的石头。
 </string>
-      <string id="RUINEDCHAPEL_DISCOVERED_LIT">The secret door is now open.</string>
-      <string id="MOUTH_DESC">The mouth of the Sentinel is wide open.</string>
-      <string id="EYES_DESC">A pair of evil eyes seem to glitter in the dark.</string>
-      <string id="WALL_FIRST_TIME">According to the diary, the light from the lighthouse revealed the eyes of the Sentinel.</string>
+      <string id="RUINEDCHAPEL_DISCOVERED_LIT">暗门现在打开了。</string>
+      <string id="MOUTH_DESC">哨兵的嘴，大开着。</string>
+      <string id="EYES_DESC">黑暗中似乎有一对恶魔的眼睛在闪烁。</string>
+      <string id="WALL_FIRST_TIME">根据日记所说，灯塔的光将使哨兵的眼睛显现出来。</string>
     </bundle>
     <bundle id="ep7_wellSt">
-      <string id="GRAVEYARD_LOCKED">The gate leads to the village graveyard. It is closed and locked.</string>
-      <string id="MAP_LOCKED">I should learn more about the village before exploring the rest of the island.</string>
-      <string id="ALLEY_LOCKED">The door is locked.</string>
-      <string id="DRAGON_DIRECTION_THINK">It seems to be heading east.</string>
-      <string id="DECO_SKYLINE">I can still see the hills with the light of dusk.</string>
-      <string id="FOLLOW_DRAGON">I should follow the masked person.</string>
-      <string id="BTS_WINDOW">The faint smell of fish and potatoes is drifting through the shutter. The fish smells slightly rotten.</string>
-      <string id="CTS_MIRROR_BROKEN">What... was that?</string>
+      <string id="GRAVEYARD_LOCKED">大门通向村子的墓园，门关着并且上了锁。</string>
+      <string id="MAP_LOCKED">我在探索岛上其他地方之前，应该先了解了解这个村子。</string>
+      <string id="ALLEY_LOCKED">门锁上了。</string>
+      <string id="DRAGON_DIRECTION_THINK">这边似乎通向东边。</string>
+      <string id="DECO_SKYLINE">尘土在光中飘浮，透过它们我仍然可以看到一些山丘。</string>
+      <string id="FOLLOW_DRAGON">我应该跟着那个戴面具的人。</string>
+      <string id="BTS_WINDOW">透过百叶窗传来隐约的鱼和土豆的气味，鱼闻起来有些馊了。</string>
+      <string id="CTS_MIRROR_BROKEN">刚才那是……什么？</string>
     </bundle>
     <bundle id="ep7_yard">
-      <string id="BURNING_WICKERMAN_INSPECT">Egad, now this statue is burning too. Is someone following me?</string>
-      <string id="STATUE_INSPECT">This statue appears to be very old. Its appearance suggests that it could date back to ancient Rome.</string>
-      <string id="PARLOUR_LOCKED">The door is locked. The Manor appears to be dark and empty.</string>
-      <string id="DECO_STATUE">This statue appears to be very old. Its appearance suggests that it could date back to ancient Rome.</string>
-      <string id="WICKERMAN_INSPECT">The Roman statue has been thrown down and replaced with a wicker one.</string>
-      <string id="STATUE_BROKEN">The Roman statue lies shattered on the ground. To destroy such an ancient statue... could this really be part of the festival?
+      <string id="BURNING_WICKERMAN_INSPECT">哎呀，这个柳条人像也着火了。是有人在跟踪我吗？</string>
+      <string id="STATUE_INSPECT">雕像看起来十分的老旧，似乎可以追溯到古罗马时代。</string>
+      <string id="PARLOUR_LOCKED">门锁着，宅子显得既空旷又昏暗。</string>
+      <string id="DECO_STATUE">雕像看起来十分的老旧，似乎可以追溯到古罗马时代。</string>
+      <string id="WICKERMAN_INSPECT">罗马雕像被放倒，取而代之的是一个柳条人像。</string>
+      <string id="STATUE_BROKEN">罗马雕像倒在地上并且碎了。毁坏古老的雕像……这真的可能是节日的一个环节吗？
 </string>
-      <string id="MUST_FOLLOW_DRAGON">I can't go back now. The masked person must be around.</string>
-      <string id="BTS_LEFTSTATUE">This seems to be Athena, goddess of wisdom, war, and the arts. She is dressed in armor, seeming ready for war.
+      <string id="MUST_FOLLOW_DRAGON">我不能现在回去，戴面具的人应该就在附近。</string>
+      <string id="BTS_LEFTSTATUE">这似乎是雅典娜，智慧、战争、艺术的女神。她穿着甲胄，枕戈待旦。
 </string>
     </bundle>
   </episode>
