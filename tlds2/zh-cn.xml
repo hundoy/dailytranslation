@@ -3312,23 +3312,23 @@ Will carry its purge.</string>
   </episode>
   <episode id="EP8">
     <bundle id="ep8_attic">
-      <string id="SHADOW_INSPECT_1">Is that... Mr. Beechworth?</string>
-      <string id="SHADOW_INSPECT_2">I see something through the shadow, slowly taking form...</string>
-      <string id="DLG_PLAYWRIGHT_ATTIC_1_1">You are of no worth to us anymore. There was barely any worth to begin with.</string>
-      <string id="DLG_PLAYWRIGHT_ATTIC_2_1">Is this really the best option your supposedly brilliant mind could envision?</string>
-      <string id="DLG_PLAYWRIGHT_ATTIC_3_1">A few meaningless words, a pathetic attempt of your guilt-shattered conscience to remedy the situation. And then, you hoped to wash the blood from your hands with a cheap exit.</string>
-      <string id="DLG_PLAYWRIGHT_ATTIC_4_1">Look upon yourself, Anthony. See what you have become. Witness your only true legacy.</string>
+      <string id="SHADOW_INSPECT_1">那是……碧奇沃斯先生？</string>
+      <string id="SHADOW_INSPECT_2">透过暗影，我看到了什么东西，逐渐成形……</string>
+      <string id="DLG_PLAYWRIGHT_ATTIC_1_1">你对我们没有任何价值了，其实从一开始也就价值不大。</string>
+      <string id="DLG_PLAYWRIGHT_ATTIC_2_1">这难道就是你那号称最杰出的头脑所能做出来的最好的选择吗？</string>
+      <string id="DLG_PLAYWRIGHT_ATTIC_3_1">说的不过就是一通废话，那只不过是你那因为愧疚感而破碎不堪的良心可怜兮兮试图补救的徒劳罢了。然后呢，你就想这么把沾满鲜血的双手一洗，全身而退。</string>
+      <string id="DLG_PLAYWRIGHT_ATTIC_4_1">看看你自己吧，安东尼，看你变成了什么样子。见证你这唯一留下的遗赠吧。</string>
     </bundle>
     <bundle id="ep8_backyard">
-      <string id="GRAMOPHONE_INSPECT">An old gramophone. There is no disc.</string>
-      <string id="DECO_ROCKS_DOOR">Rocks have been piled against the wall, as if to conceal something.</string>
-      <string id="DECO_BLOOD">The ground is soaked in blood. Black feathers are strewn about. What happened here?</string>
-      <string id="GRAMOPHONE_INSPECT_2">When I put the disc on the gramophone, it started spinning on its own. Wait… is that a melody coming from the house?</string>
-      <string id="GRAMOPHONE_INSPECT_3">The gramophone has stopped. It seems I cannot get it to start playing again.</string>
-      <string id="SYMBOLS_INSPECT">There are two curious symbols engraved on the wall. </string>
-      <string id="WCB_ROOT_BOOD">I don't need to cover the root with blood.</string>
-      <string id="WCB_JAW_BLOOD">I don't want to ruin the wax jaw in this blood pool.</string>
-      <string id="WCB_POSTER_BLOOD">The poster is going to be ruined here.</string>
+      <string id="GRAMOPHONE_INSPECT">一个老旧的留声机，里面没有碟片。</string>
+      <string id="DECO_ROCKS_DOOR">岩石堆积在墙这边，好像要隐藏什么东西。</string>
+      <string id="DECO_BLOOD">地面沾满了血，黑色的羽毛四散，这里发生了什么？</string>
+      <string id="GRAMOPHONE_INSPECT_2">当我把碟片放在留声机上后，它开始兀自旋转起来。等等……房子里是不是传来了旋律？</string>
+      <string id="GRAMOPHONE_INSPECT_3">留声机停了下来，似乎无法再让它重新转起来。</string>
+      <string id="SYMBOLS_INSPECT">墙上刻了两个奇怪的符号。</string>
+      <string id="WCB_ROOT_BOOD">我不需要拿这个根去蘸血。</string>
+      <string id="WCB_JAW_BLOOD">我不想把这个蜡下巴弄得一团糟。</string>
+      <string id="WCB_POSTER_BLOOD">这么弄海报会坏掉的。</string>
     </bundle>
     <bundle id="ep8_basement">
       <string id="CAT_INSPECT">Ugh, there's a dead cat on the floor. I think it's rotting. Its… Her... eyes are missing.
