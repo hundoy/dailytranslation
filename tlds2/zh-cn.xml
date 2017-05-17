@@ -3331,28 +3331,28 @@ Will carry its purge.</string>
       <string id="WCB_POSTER_BLOOD">这么弄海报会坏掉的。</string>
     </bundle>
     <bundle id="ep8_basement">
-      <string id="CAT_INSPECT">Ugh, there's a dead cat on the floor. I think it's rotting. Its… Her... eyes are missing.
+      <string id="CAT_INSPECT">呃，地上有一只死猫，我觉得它已经腐烂了。它的……她的……眼睛没有了。
 </string>
-      <string id="CAT_MOUTH_INSPECT">There is something on the floor, beside her mouth.</string>
-      <string id="SHADOW_INSPECT_2">I can see something in it... no, through it—as though I were staring into a dark void. Off in some remote distance, colourful shapes flow in seemingly impossible patterns...</string>
-      <string id="SHADOW_INSPECT_1">There is something inside that cage... a shadow, staring at me with dead eyes.</string>
-      <string id="CAT_WITHOUT_KEY">The poor thing. I cannot honestly say that I want to know how she died.</string>
-      <string id="KEY_INSPECT">There is something on the cage floor.</string>
-      <string id="KEY_TAKE">A rusty key.</string>
-      <string id="OPEN_CAGE">The cage is open... and the shadow is gone…</string>
-      <string id="SHADOW_MISSING">The shadow is gone…</string>
+      <string id="CAT_MOUTH_INSPECT">地上还有什么东西，就在她的嘴边。</string>
+      <string id="SHADOW_INSPECT_2">我能看到有什么东西在里面……不，是通过它看到。当我盯着黑暗的虚无，在某个遥远的空间，光怪陆离的形体以似乎不可能存在的形式流转着……</string>
+      <string id="SHADOW_INSPECT_1">笼子里有什么东西……是一个暗影，正在用死去的眼神盯着我。</string>
+      <string id="CAT_WITHOUT_KEY">可怜的东西，老实说，我都不想知道她是怎么死的。</string>
+      <string id="KEY_INSPECT">笼子里有什么东西。</string>
+      <string id="KEY_TAKE">一把满是尘土的钥匙。</string>
+      <string id="OPEN_CAGE">笼子被打开了……暗影不见了……</string>
+      <string id="SHADOW_MISSING">暗影不见了……</string>
     </bundle>
     <bundle id="ep8_beach">
-      <string id="DECO_ROCK">A large sea stack just off the beach. It seems to have a lonely demeanour.
+      <string id="DECO_ROCK">一个巨大的海蚀柱矗立在海滩之外，流露着一种孤高的风范。
 </string>
     </bundle>
     <bundle id="ep8_beachMirror">
-      <string id="BS_HEAD">A colossus, born of rock and craftsmanship, relegated to the briny backwaters of this nightmare, and to the emotions of injury and despair.</string>
+      <string id="BS_HEAD">用岩石打造的巨像，沉于梦魇的死水中，沉于伤痛与绝望中。</string>
     </bundle>
     <bundle id="ep8_bedroom">
-      <string id="SLATE_DISC_INSPECT_1">A slate disc.</string>
-      <string id="DECO_CRACK">A large crack in the wall. A few rays of unearthly light stream through it.</string>
-      <string id="AFTER_FLASHBACK">The shadow has vanished.</string>
+      <string id="SLATE_DISC_INSPECT_1">一个石盘。</string>
+      <string id="DECO_CRACK">墙上有一个大裂缝，从中流射出一些奇怪的光线。</string>
+      <string id="AFTER_FLASHBACK">暗影已经消失了。</string>
     </bundle>
     <bundle id="ep8_cc">
       <string id="FS_WOOD">-</string>
@@ -3465,30 +3465,30 @@ Will carry its purge.</string>
       <string id="SFX_HATCH_LOCKED">Closed hatch</string>
     </bundle>
     <bundle id="ep8_clearing">
-      <string id="SHADOW_INSPECT_1">Is this... Devitt? A shadow strongly resembling my patient stands in the clearing.</string>
-      <string id="SHADOW_INSPECT_2">I can see through it, just like the other shadows. Four men are making careful preparations, I know not for what.</string>
-      <string id="WAY_BLOCKED_CLEARING_INSPECT">The ruins... they are no longer there.</string>
+      <string id="SHADOW_INSPECT_1">这是……大卫？一个跟我的病人很像的暗影站在空地上。</string>
+      <string id="SHADOW_INSPECT_2">跟其他的暗影一样，我能透过它看到，有四个人在为什么未知的事情小心翼翼地做着准备。</string>
+      <string id="WAY_BLOCKED_CLEARING_INSPECT">废墟……他们不在了。</string>
     </bundle>
     <bundle id="ep8_coldOpen2">
-      <string id="COLD_OPEN_TITLE_1">He must be stopped.</string>
-      <string id="COLD_OPEN_TITLE_2">We have not come this far...</string>
-      <string id="COLD_OPEN_TITLE_3">To see our work ruined now.</string>
+      <string id="COLD_OPEN_TITLE_1">必须要阻止他。</string>
+      <string id="COLD_OPEN_TITLE_2">我们都没到来过这么远……</string>
+      <string id="COLD_OPEN_TITLE_3">见到我们的努力现在被毁于一旦。</string>
     </bundle>
     <bundle id="ep8_office">
-      <string id="BEDROOM_DOOR_LOCKED">The door is locked.</string>
-      <string id="DECO_PICTURE_1">The paintings lack any form or composition. They are a uniform shade of the purest black imaginable.</string>
-      <string id="DECO_PICTURE_2">The paintings lack any form or composition. They are a uniform shade of the purest black imaginable.</string>
-      <string id="DECO_PICTURE_3">The paintings lack any form or composition. They are a uniform shade of the purest black imaginable.</string>
-      <string id="DECO_PICTURE_4">The paintings lack any form or composition. They are a uniform shade of the purest black imaginable.</string>
-      <string id="DECO_BIRDCAGE">There is something inside the birdcage.</string>
-      <string id="BIRDCAGE_REACT">It is some kind of root. It seems to have a human shape.</string>
-      <string id="INT_BIRDCAGE2">An empty birdcage.</string>
-      <string id="WCB_ROOT_DOOR">I can't open the door with this.</string>
+      <string id="BEDROOM_DOOR_LOCKED">门上锁了。</string>
+      <string id="DECO_PICTURE_1">这画没有任何的形状或结构可言，只是纯粹的黑色。</string>
+      <string id="DECO_PICTURE_2">这画没有任何的形状或结构可言，只是纯粹的黑色。</string>
+      <string id="DECO_PICTURE_3">这画没有任何的形状或结构可言，只是纯粹的黑色。</string>
+      <string id="DECO_PICTURE_4">这画没有任何的形状或结构可言，只是纯粹的黑色。</string>
+      <string id="DECO_BIRDCAGE">鸟笼里有什么东西。</string>
+      <string id="BIRDCAGE_REACT">是什么东西的根，看起来像是人形。</string>
+      <string id="INT_BIRDCAGE2">空空的鸟笼。</string>
+      <string id="WCB_ROOT_DOOR">用这个没法打开门。</string>
     </bundle>
     <bundle id="ep8_dForest1">
-      <string id="SHADOW_INSPECT_1">A tall figure stands in the woods. I might have taken it for a tree, were it not breathing heavily.</string>
-      <string id="SHADOW_INSPECT_2">Inside... I can see things near the threshold, getting closer and closer...</string>
-      <string id="INSPECT_SYMBOLS">There are two curious symbols engraved on the stone. </string>
+      <string id="SHADOW_INSPECT_1">一个高高的人影站在树林中，如果要不是他在粗重地喘息，我会把他误认作是树。</string>
+      <string id="SHADOW_INSPECT_2">在里面……我能看到有东西在界限处，越来越近……</string>
+      <string id="INSPECT_SYMBOLS">有两个奇怪的符号刻在石头上。</string>
     </bundle>
     <bundle id="ep8_epilogue">
       <string id="EPILOGUE_THEEND">The End.</string>
