@@ -3510,100 +3510,100 @@ Will carry its purge.</string>
       <string id="SFX_EPILOGUE_2">-</string>
     </bundle>
     <bundle id="ep8_f2Atelier">
-      <string id="DLG_HUGO_ALEXANDRE1">I like the style, but those themes… Does Lena approve of this kind of art?</string>
-      <string id="DLG_HUGO_ALEXANDRE2">You have not lost your old sense of humour, Alexandre, even after what happened. Do you not recall that sight? I would erase the memory if I could.</string>
-      <string id="DLG_HUGO_ALEXANDRE4">What brings you here, anyway? It has been years since we have heard from you. I thought our old cause had long been forgotten.</string>
-      <string id="DLG_HUGO_ALEXANDRE6">Listen, Ashdown. What if I told you I have found a way of crossing safely?</string>
-      <string id="DLG_HUGO_ALEXANDRE7">I find that painting makes it easier to bear.</string>
+      <string id="DLG_HUGO_ALEXANDRE1">我喜欢这种风格，但那些主题……莉娜她也能接受你的这些艺术吗？</string>
+      <string id="DLG_HUGO_ALEXANDRE2">亚历山大，就算经历了那样的事，你的那些幽默感还是没有消失呢。你还没回忆起来那些光景吗？如果可以的话，我真想把它们从我的脑海中抹去。</string>
+      <string id="DLG_HUGO_ALEXANDRE4">说起来，什么风把你吹来了？这么多年来，我们没有关于你的任何音讯，我还以为我们过去的事业早就被你忘记了。</string>
+      <string id="DLG_HUGO_ALEXANDRE6">听着，阿什当。如果我告诉你，我已经发现安全穿过那里的方法了呢？</string>
+      <string id="DLG_HUGO_ALEXANDRE7">我发现这画不那么难以忍受了。</string>
     </bundle>
     <bundle id="ep8_f2Ending">
-      <string id="HUGO_SEES_SHADOW">It's our old classroom. But that shadow... who...</string>
-      <string id="HUGO_INSPECTS_SHADOW">This... this is not possible. The shapes beyond, the light...</string>
-      <string id="HUGO_INSPECTS_SHADOW_2">My fingers... No, do not come any closer!</string>
-      <string id="HUGO_INSPECTS_SHADOW_3">My hand, my hand!</string>
+      <string id="HUGO_SEES_SHADOW">这是我们的教室，但这个暗影……是谁……</string>
+      <string id="HUGO_INSPECTS_SHADOW">这……这不可能。这暗影上面，这光……</string>
+      <string id="HUGO_INSPECTS_SHADOW_2">我的手指……不，别靠过来！！</string>
+      <string id="HUGO_INSPECTS_SHADOW_3">我的手，我的手！</string>
     </bundle>
     <bundle id="ep8_f2LivingRoom">
-      <string id="DLG_HUGO_ALEXANDRE_2_1">His name is Professor Wright.</string>
-      <string id="DLG_HUGO_ALEXANDRE_2_2">Wright… Yes, I recently had occasion to meet a disciple of his. He referred to himself as a “psycho-therapist”. I had the impression that Wright's methods more closely resemble those of my trade than those of yours.</string>
-      <string id="DLG_HUGO_ALEXANDRE_2_3">He is eccentric indeed, but I think his thesis may be proven correct. If so, we might have found a way of reaching the Threshold without attracting the attention of the Custodian. A shortcut, you might say.</string>
-      <string id="DLG_HUGO_ALEXANDRE_2_4">A shortcut through the Veil...</string>
-      <string id="DLG_HUGO_ALEXANDRE_2_5">The problem is in the method itself. It has some… unusual requirements. And we would need a man of great sensitivity, who knows the peril of reaching the Door…</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_1">他是莱特教授。</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_2">莱特……嗯，我最近偶然还见过他的一位学生，他自称是一名心理治疗师。给我的印象，莱特的方法比起你的那一套，应该更接近我的。</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_3">他确实很古怪，但我认为他的理论是正确的。如果确实如此，我们就可以找到一个不引起守护者的注意就到达界限的方法，也就是所谓的，捷径。</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_4">穿过帷幕的捷径……</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_5">问题是这个方法本身，它需要一些……特别的要求。我们需要有一个很敏感的人，它知道到达门那里的危险性……</string>
     </bundle>
     <bundle id="ep8_f3Awakening">
-      <string id="DLG_F3AW_1">This Captain Skidd…</string>
-      <string id="DLG_F3AW_2">His results are extraordinary, Anthony.</string>
-      <string id="DLG_F3AW_3">It is the best chance we have of avoiding the gaze of the Custodian.</string>
-      <string id="DLG_F3AW_4">There can be no doubt that the Captain survived an encounter before. He even kept a companion from harm.</string>
-      <string id="DLG_F3AW_5">We will finally see what lies hidden beyond the curtain.</string>
-      <string id="DLG_F3AW_7">It is time.</string>
-      <string id="DLG_F3AW_8">Devitt, are you certain that he can guide us safely through the fog?</string>
+      <string id="DLG_F3AW_1">斯基德上尉……</string>
+      <string id="DLG_F3AW_2">他的结果很不同寻常，安东尼。</string>
+      <string id="DLG_F3AW_3">这是最好的机会，我们可以避开守护者的注视。</string>
+      <string id="DLG_F3AW_4">毫无疑问，上尉曾经在与守护者的遭遇中生还，他甚至还保住了自己的同伴，没有受到伤害。</string>
+      <string id="DLG_F3AW_5">我们终于要见识到帘幕后面藏着什么了。</string>
+      <string id="DLG_F3AW_7">是时候了。</string>
+      <string id="DLG_F3AW_8">大卫，你确定他能带我们安全地穿过迷雾吗？</string>
     </bundle>
     <bundle id="ep8_f3Beach">
-      <string id="DLG_HUGO_ALEXANDRE_2_1">After what happened to Father Glynn, I think they will shut down the school.</string>
-      <string id="DLG_HUGO_ALEXANDRE_2_3">Anthony, that thing we saw…</string>
-      <string id="DLG_HUGO_ALEXANDRE_2_4">I don't know what it was.</string>
-      <string id="DLG_HUGO_ALEXANDRE_2_5">But what about your father's diary?</string>
-      <string id="DLG_F3BE_1">After what happened to Father Glynn, I think they will shut down the school.</string>
-      <string id="DLG_F3BE_3">Anthony, that thing we saw…</string>
-      <string id="DLG_F3BE_4">I don't know what it was.</string>
-      <string id="DLG_F3BE_6">But what about your father's diary?</string>
-      <string id="DLG_F3BE_11">Myths, legends. Superstitions with no basis in scientific observation.</string>
-      <string id="DLG_F3BE_13">Anthony, talk to us…</string>
-      <string id="DLG_F3BE_15">All right.</string>
-      <string id="DLG_F3BE_16">My father discovered several ancient myths pertaining to the Veil. They come from a variety of cultures and hence take many different forms. But they all say something similar about what resides near the Threshold.</string>
-      <string id="DLG_F3BE_17">An ancient being that sleeps within the fog, protecting the Door from intruders. A vengeful Custodian.</string>
-      <string id="DLG_F3BE_18">But no matter. At any rate, my serum was a failure.</string>
-      <string id="DLG_F3BE_19">We got but a glimpse of what exists out there. Nothing conclusive.</string>
-      <string id="DLG_F3BE_21">But what if the serum had worked?</string>
-      <string id="DLG_F3BE_22">I don't know. As I said, I have no data.</string>
-      <string id="DLG_F3BE_23">And those myths? What do they say?</string>
-      <string id="DLG_F3BE_24">Those tales… they all say that if any intruder got too close, and was discovered by what sleeps in the fog… then the Custodian would be relentless.</string>
-      <string id="DLG_F3BE_25">It would pursue the intruders and destroy them, wherever they might hide.</string>
-      <string id="DLG_F3BE_26">There would be few ways to protect themselves from its rage.</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_1">格林神父发生那样的事情，我觉得他们会把学校关掉。</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_3">安东尼，我们之前看到的那个东西……</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_4">我不知道那是什么东西。</string>
+      <string id="DLG_HUGO_ALEXANDRE_2_5">但你父亲的日记中有说什么吗？</string>
+      <string id="DLG_F3BE_1">格林神父发生那样的事情，我觉得他们会把学校关掉。</string>
+      <string id="DLG_F3BE_3">安东尼，我们之前看到的那个东西……</string>
+      <string id="DLG_F3BE_4">我不知道那是什么东西。</string>
+      <string id="DLG_F3BE_6">但你父亲的日记中有说什么吗？</string>
+      <string id="DLG_F3BE_11">里面只有神话、传说和各种没有任何科学调查基础的迷信。</string>
+      <string id="DLG_F3BE_13">安东尼，跟我们说说吧……</string>
+      <string id="DLG_F3BE_15">好吧。</string>
+      <string id="DLG_F3BE_16">我父亲调查发现许多古老的神话都跟帷幕有关，它们来自于不同的文化背景，所以被讲述成不同的形态。但它们的共同点，就是都说在界限那里存在着某种东西。</string>
+      <string id="DLG_F3BE_17">一个古老的存在，沉睡在迷雾之中，阻止入侵者靠近那扇门，就是它，一个睚眦必报的守护者。</string>
+      <string id="DLG_F3BE_18">但也无所谓了，因为无论怎么说，我的血清都失败了。</string>
+      <string id="DLG_F3BE_19">我们只是瞥了一眼那里的存在，然后仍然一无所知。</string>
+      <string id="DLG_F3BE_21">但如果那血清其实会起作用呢？</string>
+      <string id="DLG_F3BE_22">我不知道。正如我所说，我没有相关的资料和数据。</string>
+      <string id="DLG_F3BE_23">那些神话呢，它们有提到什么吗？</string>
+      <string id="DLG_F3BE_24">那些神话传说提到……如果有入侵者靠得太近，会被沉睡在迷雾中的那个东西发现……然后，守护者就会变得残暴起来。</string>
+      <string id="DLG_F3BE_25">它会追逐并毁灭入侵者们，无论他们藏在哪里。</string>
+      <string id="DLG_F3BE_26">没有什么办法能帮助他们逃过它的暴怒。</string>
     </bundle>
     <bundle id="ep8_f3Hospital">
-      <string id="DLG_F3HOSPITAL_1">Is he asleep?</string>
-      <string id="DLG_F3HOSPITAL_2">He is now.</string>
-      <string id="DLG_F3HOSPITAL_3">It has been so long. I had begun to lose hope that he would ever awaken. Were you able to speak with him?</string>
-      <string id="DLG_F3HOSPITAL_4">Anthony... Devitt has forgotten everything. Everything.</string>
-      <string id="DLG_F3HOSPITAL_5">Good heavens.</string>
-      <string id="DLG_F3HOSPITAL_6">It may be for the best. Our research is likely to take some time. If he truly has amnesia, his condition will protect him until we are ready.</string>
-      <string id="DLG_F3HOSPITAL_7">But should we fail… Remember what happened to Hugo.</string>
-      <string id="DLG_F3HOSPITAL_8">Ashdown entered the Veil in full knowledge of what might happen. And we... We will succeed where Wright failed. We will use the serum to induce primal terror in a controlled environment. In one stroke, we shall overcome all of our obstacles.</string>
-      <string id="DLG_F3HOSPITAL_9">But when the time comes, we must have a means of guiding our dear friend back to us…</string>
-      <string id="TEXT_FINAL">There, he will be safe. </string>
+      <string id="DLG_F3HOSPITAL_1">他睡着了吗？</string>
+      <string id="DLG_F3HOSPITAL_2">刚睡着。</string>
+      <string id="DLG_F3HOSPITAL_3">已经过去这么久了，我开始觉得，他不会再清醒过来了。你能跟他讲话吗？</string>
+      <string id="DLG_F3HOSPITAL_4">安东尼……大卫已经忘记了一切。所有的一切。Anthony... Devitt has forgotten everything. Everything.</string>
+      <string id="DLG_F3HOSPITAL_5">天啊。</string>
+      <string id="DLG_F3HOSPITAL_6">这可能是最好的情况。我们的研究可能还需要一些时间，如果他真的失忆了，这正好可以保护他，直到我们准备完毕。</string>
+      <string id="DLG_F3HOSPITAL_7">但是如果我们失败了……你不记得雨果发生的事情了么。</string>
+      <string id="DLG_F3HOSPITAL_8">阿什当是做好面对一切的觉悟才进入帷幕的。而我们……我们会在莱特失败的地方获得成功。在可控的环境下，注射血清诱发原始的恐惧。这一次，我们一定会排除万难，取得突破。</string>
+      <string id="DLG_F3HOSPITAL_9">但当到那个时候，我们必须想办法引导我们亲爱的朋友回到我这儿来……</string>
+      <string id="TEXT_FINAL">那样，他才会安全无恙。</string>
     </bundle>
     <bundle id="ep8_fogpath">
-      <string id="SENTENCE1">What could my companion have meant?</string>
-      <string id="SENTENCE2">The Threshold… I knew of this... Strange memories returned to me, of another life, before the desert was my everything... </string>
-      <string id="SENTENCE3">And those cryptic words, “Darkness will light your way.” It was not the first time I had heard them.</string>
-      <string id="SENTENCE4">They were... from a dream... a terrible dream, when I had begun to follow the trail of my missing patient... and taken my first steps to uncovering the secret world of the Veil...</string>
+      <string id="SENTENCE1">我的同伴是什么意思？</string>
+      <string id="SENTENCE2">界限……我听过这个……奇怪的记忆回到我的脑中，那是另一个生命的记忆，在沙漠之前是我的一切…… </string>
+      <string id="SENTENCE3">那些奇怪的词，“黑暗将会照亮你的前路”，我不是第一次听到这句话。</string>
+      <string id="SENTENCE4">它们……来自一个梦……一个可怕的梦，当我第一追寻我那位病人的踪迹……第一次踏上揭开帷幕世界之谜的旅程时，做过的梦…….</string>
     </bundle>
     <bundle id="ep8_frontyard">
-      <string id="DECO_WINDOWS">A light is on inside. But I cannot see the room clearly.</string>
-      <string id="ARRIVAL_PHRASE">This place… how did I get here? The door is open.</string>
+      <string id="DECO_WINDOWS">里面有光，但房间看不真切。</string>
+      <string id="ARRIVAL_PHRASE">这个地方……我怎么来到这里的？门打开着。</string>
     </bundle>
     <bundle id="ep8_gameEnding">
-      <string id="WAKEFIELD_ENDING_TEXT1">Once more, I found myself enshrouded in dense fog. Gradually, the fog dissipated, revealing a busy street in London.
+      <string id="WAKEFIELD_ENDING_TEXT1">再一次，我被厚厚雾包围。之后迷雾渐渐散去，伦敦繁忙的街道显现在我面前。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT2">The mask that I had worn lay on the ground, melting like wax over the wet cobblestones.
+      <string id="WAKEFIELD_ENDING_TEXT2">我戴的面具掉在地上，像蜡一般融化在鹅卵石这上。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT3">Dizzy and exhausted, I wandered the streets until at last I returned home. It seemed very small, as it always does after a long journey. 
+      <string id="WAKEFIELD_ENDING_TEXT3">头晕目眩，身心俱疲，我游荡在大街上直到回到家里。每次长途旅行后，都会觉得家里是如此的狭小。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT4">As I removed my coat, I found a feather in one of the pockets, the same one that I had discovered before being engulfed by the black mass of the Simurg. 
+      <string id="WAKEFIELD_ENDING_TEXT4">当我脱下外套时，我在口袋里发现了一根羽毛，跟我在被一大群黑色的斯摩哥吞噬之前看到的一样。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT5">With a jolt, I realised that it had not been a dream, and I was ashamed at how quickly I had deluded myself into thinking otherwise.
+      <string id="WAKEFIELD_ENDING_TEXT5">愕然之后，我意识到那不是一场梦。我居然如此迅速地自我欺骗另作他想，真是惭愧。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT6">I kindled a fire and placed the feather on the crackling flames. As it burned, I heard the distant calls of crows in the street. Despite the heat, I shivered.
+      <string id="WAKEFIELD_ENDING_TEXT6">我点燃了火，把羽毛丢进熊熊火焰中。当它燃尽时，我听到遥远的街道上传来乌鸦的啼叫。尽管挨着火焰，仍然战栗不已。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT7">My patient and friend Jeremiah Devitt had sacrificed himself. He had accepted the consequences of his friends' actions, and his own as well. 
+      <string id="WAKEFIELD_ENDING_TEXT7">我的病人，我的朋友，杰瑞米·大卫，最终牺牲了自己。他为他的朋友们和他自己的所作所为承担了后果。
 </string>
-      <string id="DEVITT_ENDING_TEXT1">Once more, I found myself enshrouded in dense fog. Gradually, the fog dissipated, revealing a busy street in London.
+      <string id="DEVITT_ENDING_TEXT1">再一次，我被厚厚雾包围。之后迷雾渐渐散去，伦敦繁忙的街道显现在我面前。
 </string>
-      <string id="DEVITT_ENDING_TEXT2">Dizzy and exhausted, I wandered the streets until at last I returned home. </string>
-      <string id="DEVITT_ENDING_TEXT3">I barely recognised it. I crossed the dusty threshold like an intruder.
+      <string id="DEVITT_ENDING_TEXT2">头晕目眩，身心俱疲，我游荡在大街上直到回到家里。</string>
+      <string id="DEVITT_ENDING_TEXT3">我几乎不敢承认，我像一个入侵者一样穿过了烟尘斗乱的界限。
 </string>
-      <string id="DEVITT_ENDING_TEXT4">I noticed, for the first time, that I was holding the robe of the Playwright in my hand.
+      <string id="DEVITT_ENDING_TEXT4">然后我才注意到，自己手中攥着剧作家的袍子。
 </string>
       <string id="DEVITT_ENDING_TEXT5">I kindled a fire and threw the robe into the flames.</string>
       <string id="DEVITT_ENDING_TEXT6">As I watched it burn, I remembered the black ocean.
