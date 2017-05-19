@@ -3605,112 +3605,135 @@ Will carry its purge.</string>
 </string>
       <string id="DEVITT_ENDING_TEXT4">然后我才注意到，自己手中攥着剧作家的袍子。
 </string>
-      <string id="DEVITT_ENDING_TEXT5">I kindled a fire and threw the robe into the flames.</string>
-      <string id="DEVITT_ENDING_TEXT6">As I watched it burn, I remembered the black ocean.
+    <bundle id="ep8_gameEnding">
+      <string id="WAKEFIELD_ENDING_TEXT1">再一次，我被厚厚雾包围。之后迷雾渐渐散去，伦敦繁忙的街道显现在我面前。
 </string>
-      <string id="DEVITT_ENDING_TEXT7">I had stood there, on the beach, staring up at the terrifying heights of the vertiginous Mount Qaf, where the Verb is said to lie.
+      <string id="WAKEFIELD_ENDING_TEXT2">我戴的面具掉在地上，像蜡一般融化在鹅卵石这上。
 </string>
-      <string id="DEVITT_ENDING_TEXT8">Then someone touched my arm: it was Doctor Wakefield. Our encounter on the endless dunes had not been an illusion.</string>
-      <string id="WAKEFIELD_ENDING_TEXT8">He had crossed the Threshold, leaving the Veil through the red curtain of truth, and forever closed the Last Door that had led to those horrors.
+      <string id="WAKEFIELD_ENDING_TEXT3">头晕目眩，身心俱疲，我游荡在大街上直到回到家里。每次长途旅行后，都会觉得家里是如此的狭小。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT9">But I had not found the strength to follow him. I could not take his place.</string>
-      <string id="WAKEFIELD_ENDING_TEXT10">I doubt that I will ever learn the fates of those who remained there, those who are hopelessly trapped in Zha'ilathal.
+      <string id="WAKEFIELD_ENDING_TEXT4">当我脱下外套时，我在口袋里发现了一根羽毛，跟我在被一大群黑色的斯摩哥吞噬之前看到的一样。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT11">My thoughts now turn increasingly to the last mission to which my friend Kaufmann entrusted me.
+      <string id="WAKEFIELD_ENDING_TEXT5">愕然之后，我意识到那不是一场梦。我居然如此迅速地自我欺骗另作他想，真是惭愧。
 </string>
-      <string id="WAKEFIELD_ENDING_TEXT12">I must make sure that no one ever learns what we discovered.
+      <string id="WAKEFIELD_ENDING_TEXT6">我点燃了火，把羽毛丢进熊熊火焰中。当它燃尽时，我听到遥远的街道上传来乌鸦的啼叫。尽管挨着火焰，仍然战栗不已。
 </string>
-      <string id="DEVITT_ENDING_TEXT9">In his quest to find me, he had ventured into the Veil itself.
+      <string id="WAKEFIELD_ENDING_TEXT7">我的病人，我的朋友，杰瑞米·大卫，最终牺牲了自己。他为他的朋友们和他自己的所作所为承担了后果。
 </string>
-      <string id="DEVITT_ENDING_TEXT10">He said nothing, but it was not necessary. He had come to take my place, to sacrifice himself.</string>
-      <string id="DEVITT_ENDING_TEXT11">He stayed behind and closed the Door after giving me the chance to escape. His reasons I will never know.
+      <string id="DEVITT_ENDING_TEXT1">再一次，我被厚厚雾包围。之后迷雾渐渐散去，伦敦繁忙的街道显现在我面前。
 </string>
-      <string id="DEVITT_ENDING_TEXT12">I do not know what happened to Alexandre and the others, but I fear that they are trapped in Zha'ilathal for all time.
+      <string id="DEVITT_ENDING_TEXT2">头晕目眩，身心俱疲，我游荡在大街上直到回到家里。</string>
+      <string id="DEVITT_ENDING_TEXT3">我几乎不敢承认，我像一个入侵者一样穿过了烟尘斗乱的界限。
 </string>
-      <string id="DEVITT_ENDING_TEXT13">I stared at the endless rain splattering against the window, and I remembered that I had something else to do.
+      <string id="DEVITT_ENDING_TEXT4">然后我才注意到，自己手中攥着剧作家的袍子。
+
+      
+      <string id="DEVITT_ENDING_TEXT5">我点燃火焰，将袍子丢进火中。</string>
+      <string id="DEVITT_ENDING_TEXT6">我凝视着跳动的火焰，然后回忆起了黑色的海洋。
 </string>
-      <string id="DEVITT_ENDING_TEXT14">A last promise to keep.
+      <string id="DEVITT_ENDING_TEXT7">我曾经站在那里，在海滩上，凝望着令人目眩的夸父山可怖的高度，据说那个动词，就在那山上。
+</string>
+      <string id="DEVITT_ENDING_TEXT8">然后，有人碰了我的胳膊，是威克菲尔德医生。我们在无尽的沙丘上的相遇，并不是一场幻觉。</string>
+      <string id="WAKEFIELD_ENDING_TEXT8">他穿过了界限，穿过了真实的赤色之帘离开了帷幕，将带来恐怖的最后一扇门永远地关上。
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT9">但我没有勇气随他而去，我无法代替他的位子。</string>
+      <string id="WAKEFIELD_ENDING_TEXT10">那些留在那里的人，被囚困在扎伊拉撒尔的无助的人们，他们命运如何，我将永远不得而知。
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT11">我现在只想着我的朋友考夫曼委托给我的最后一个任务。
+</string>
+      <string id="WAKEFIELD_ENDING_TEXT12">我必须确保再也没有人可以发现我们知道的一切。
+</string>
+      <string id="DEVITT_ENDING_TEXT9">为了找到我，他只身犯险于帷幕之中。
+</string>
+      <string id="DEVITT_ENDING_TEXT10">他什么也没说，也没有那样的必要，他接替了我的位置，牺牲了自己。</string>
+      <string id="DEVITT_ENDING_TEXT11">他待在后边，并关上了门，给了我逃离的机会。他的理由我却永远不再知晓。
+</string>
+      <string id="DEVITT_ENDING_TEXT12">我不知道亚历山大和其他人会怎样，恐怕他们将被囚困在扎伊拉撒尔，直到永远。
+</string>
+      <string id="DEVITT_ENDING_TEXT13">我盯着不断拍打着窗子的雨水，然后想起，我还有其他的事情要去做。
+</string>
+      <string id="DEVITT_ENDING_TEXT14">一个需要遵守的最后的誓约。
 </string>
       <string id="DEVITT_ENDING_TEXT15">“Videte ne quis sciat”.
 </string>
       <string id="EMPTY_STRING"> </string>
     </bundle>
     <bundle id="ep8_hall">
-      <string id="DECO_PICTURE">A silhouette of a strangely-shaped head.
+      <string id="DECO_PICTURE">奇怪的头的剪影画。
 </string>
-      <string id="DECO_CLOCK">The pendulum's strokes are sickly slow, but they seem to keep time in this place.</string>
-      <string id="WINDOW">A diffuse grey light seeps through the glass. Barely any light is entering.</string>
+      <string id="DECO_CLOCK">钟摆摆动得出奇的慢，但钟似乎走得却和这里的时间流动保持一致。</string>
+      <string id="WINDOW">玻璃使灰暗的光弥散开，几乎没有光照射进来。</string>
     </bundle>
     <bundle id="ep8_hub1">
-      <string id="DLG_PLAYW_1_2">In this place, the ancient shadows created by human reasoning tremble in sheer terror.</string>
-      <string id="DLG_PLAYW_THEATRE_1">These ruins, built by beings long forgotten, grant access to the Last Threshold. You are welcome to enter the ruins, but you will need to find your own key in order to reach the Threshold.
+      <string id="DLG_PLAYW_1_2">在这个地方，由人所造的远古的暗影在绝对的恐惧中战栗不已。</string>
+      <string id="DLG_PLAYW_THEATRE_1">这些废墟，由时间的长河中被遗忘的存在所建，也开辟了访问最后界限的道路。欢迎进入废墟，但之后，你需要凭借自己的力量去寻找到达界限的方法。
 </string>
-      <string id="DLG_PLAYW_THEATRE_2">That which you seek... it waits beyond the Threshold.
+      <string id="DLG_PLAYW_THEATRE_2">你要找的……在界限那边等着你。
 </string>
-      <string id="DLG_PLAYW_THEATRE_3">Darkness will light your way.</string>
+      <string id="DLG_PLAYW_THEATRE_3">黑暗将会照亮你的前路。</string>
       <string id="DLG_PLAYW_1_8"> </string>
-      <string id="DLG_PLAYW_1_9">Its name is Zha'ilathal, the last curtain.</string>
-      <string id="DLG_PLAYW_2_4">The scorching light of this dead sunset bleeds through my petrified fingers.</string>
-      <string id="DLG_PLAYW_2_5">My eyes burn. I feel them melting like candle wax.</string>
+      <string id="DLG_PLAYW_1_9">它的名字叫做扎伊拉撒尔，它是最后的帘。</string>
+      <string id="DLG_PLAYW_2_4">灼热的死亡落日的光透过我僵硬的手指。</string>
+      <string id="DLG_PLAYW_2_5">我的双眼在燃烧，我感到它们就像蜡烛一样在融化。</string>
     </bundle>
     <bundle id="ep8_hub">
-      <string id="DLG_PLAYW_1">This is the outer limit of the Threshold. Not far from here, the black waves of Truth wash upon the veil that covers human eyes and it falls apart!</string>
-      <string id="DLG_PLAYW_2">Look to the sky! It reaches to the earth, but will never meet it. Can you see the magnificence of this infinite horizon? The cold, unattainable, all-embracing darkness!</string>
-      <string id="DLG_PLAYW_HUGO_1">But at least here I am safe. Safe from the terrible hazard of peering through my own shadow.</string>
-      <string id="DLG_PLAYW_HUGO_2">I am too tired to go on, to keep seeking what was promised us.</string>
-      <string id="DLG_PLAYW_DEVITT_1">There is no death but rebirth. There is no void but awakening.</string>
-      <string id="DLG_PLAYW_ANTHONY_1">Raise your arms, for the wind calls our name!</string>
-      <string id="DLG_PLAYW_ANTHONY_2">The hour has come for us to take flight one last time.</string>
-      <string id="OBSTACLE_BEACH">The path is blocked by sharp rocks. I cannot make my way through.</string>
-      <string id="OBSTACLE_FOREST">A path winds into the forest but these trees are too dense for me to go any further.</string>
-      <string id="MASKPIECE1_REACT">It is a fragment of a broken mask.</string>
-      <string id="MASKPIECE1_INSPECT">There is something on the ground, near where the masked person was standing.</string>
-      <string id="MASKPIECE2_REACT">It is a fragment of a broken mask.</string>
-      <string id="MASKPIECE2_INSPECT">There is something on the ground, near where the masked person was lying.</string>
-      <string id="MASKPIECE3_REACT">It is a fragment of a broken mask.</string>
-      <string id="MASKPIECE3_INSPECT">There is something on the ground, near where the masked person was kneeling.</string>
+      <string id="DLG_PLAYW_1">这里是界限的外边界，离这里不远，真实的黑浪冲刷着遮蔽人眼的帷幕，然后，帷幕就会崩塌！</string>
+      <string id="DLG_PLAYW_2">看这天空！它的相貌到达了地球，但却永远不会与地球相合。你看到那无垠的地平线的壮丽了吗？天凝地闭、高不可攀、包罗万象的黑暗啊！</string>
+      <string id="DLG_PLAYW_HUGO_1">但至少在这里，我很安全，不会冒着危险不小心看到自己的暗影。</string>
+      <string id="DLG_PLAYW_HUGO_2">我太累了，无法继续去寻找我们所承诺之物了。</string>
+      <string id="DLG_PLAYW_DEVITT_1">没有死亡，只有重生。没有虚无，只有醒悟。</string>
+      <string id="DLG_PLAYW_ANTHONY_1">举起你们的双臂，风在呼唤我们的名字！</string>
+      <string id="DLG_PLAYW_ANTHONY_2">时间到了，是我们最后一次启程。</string>
+      <string id="OBSTACLE_BEACH">路被尖锐的岩石阻断了，我无法穿过。</string>
+      <string id="OBSTACLE_FOREST">一条路延伸到森林之中，但树木太过繁茂，我无法穿过。</string>
+      <string id="MASKPIECE1_REACT">这是一个坏掉的面具的一部分。</string>
+      <string id="MASKPIECE1_INSPECT">地上有什么东西，就在那个戴面具的站着的人旁边。</string>
+      <string id="MASKPIECE2_REACT">这是一个坏掉的面具的一部分。</string>
+      <string id="MASKPIECE2_INSPECT">地上有什么东西，就在那个戴面具的躺着的人旁边。</string>
+      <string id="MASKPIECE3_REACT">这是一个坏掉的面具的一部分。</string>
+      <string id="MASKPIECE3_INSPECT">地上有什么东西，就在那个戴面具的跪着的人旁边。</string>
     </bundle>
     <bundle id="ep8_inventory">
-      <string id="INV_LENS">Lens</string>
-      <string id="INV_BEDROOMKEY">Rusty Key</string>
-      <string id="INV_BEDROOMKEY_DESC">A bronze key, covered in a patina of green rust.</string>
-      <string id="INV_SLATEDISC">Slate Disc</string>
-      <string id="INV_SLATEDISC_DESC">A black disc. It is made of something like slate. </string>
-      <string id="INV_GOLDENKEY">Golden Key</string>
-      <string id="INV_GOLDENKEY_DESC">A small golden key.</string>
-      <string id="INV_MUSICSHEET">Music Sheet</string>
-      <string id="INV_MUSICSHEET_DESC">The melody seems quite simple. I think I could play it myself.</string>
-      <string id="INV_SCHOOLKEY">Wooden Key</string>
-      <string id="INV_ROOT">Root</string>
-      <string id="INV_ROOT_KEY">A root, eerily reminiscent of the human form.</string>
-      <string id="INV_PIANOKEY">Piano Key</string>
-      <string id="INV_PIANOKEY_DESC">A piano key. It bears an odd black stain.</string>
-      <string id="INV_MASKPIECE_MISSING">A piece is still missing...</string>
-      <string id="INV_MASKPIECE1">Mask Piece</string>
-      <string id="INV_MASKPIECE2">Mask Piece</string>
-      <string id="INV_MASKPIECE3">Mask Piece</string>
-      <string id="INV_BROKENMASK">Broken Mask</string>
-      <string id="INV_BROKENMASK_DESC">I remember this... It is just like the eyeless mask that I found in Alexandre Du Pré's safe house! </string>
-      <string id="INV_MASKPIECE1_DESC">A piece of a Greek tragic mask.</string>
-      <string id="INV_MASKPIECE2_DESC">A piece of a Greek tragic mask.</string>
-      <string id="INV_MASKPIECE3_DESC">A piece of a Greek tragic mask.</string>
-      <string id="INV_POSTER">Poster</string>
-      <string id="INV_POSTER_DESC">It looks like a theatrical poster, but it has neither date nor title. It displays the silhouettes of four men.</string>
-      <string id="INV_JAW">Jaw</string>
-      <string id="INV_JAW_DESC">I accidentally broke off a piece of the wax lynx's face.</string>
-      <string id="POSTER_CLUE">This reminds me of something... Yes, I remember it was once fashionable to make impressions of church brasses and other old inscriptions. The practice was to overlay the inscription with paper and rub it with wax. </string>
-      <string id="POSTER_MISSING">This reminds me of something... Yes, I remember it was once fashionable to make impressions of church brasses and other old inscriptions. The practice was to overlay the inscription with paper and rub it with wax. To do the same here, I would need a large piece of paper.</string>
-      <string id="ALREADY_COPIED">I have already made a copy of this inscription.</string>
-      <string id="COPY_ENGRAVING">So if I rub the wax jaw on the poster... </string>
-      <string id="COPY_ENGRAVING_AFTER">Yes! I copied the symbols onto the poster!</string>
-      <string id="INV_MUSICSHEET_DESC_2">There is something wrong with this music sheet...</string>
-      <string id="INV_ROOT_DESC">Some kind of branch or root, disturbingly human in shape.</string>
-      <string id="BROKEN_MASK_COMPLETED">An eyeless mask. It is similar to the one that I found in Alexandre's safe house in London.</string>
-      <string id="BROKEN_MASK_HINT">The mask is eyeless. I cannot see a thing.</string>
-      <string id="INV_FEATHER">Black Feather</string>
-      <string id="INV_FEATHER_DESC">Despite its size, it is extraordinarily lightweight.</string>
-      <string id="POSTER_FIRST_HINT">This reminds me of something... Yes, I remember it was once fashionable to make impressions of church brasses and other old inscriptions. The practice was to overlay the inscription with paper, just like this, and then rub it with wax.</string>
-      <string id="POSTER_2ND_HINT">I'm laying the poster on the stone...</string>
+      <string id="INV_LENS">调查</string>
+      <string id="INV_BEDROOMKEY">生锈的钥匙</string>
+      <string id="INV_BEDROOMKEY_DESC">一把铜钥匙，表面覆盖着一层铜绿。</string>
+      <string id="INV_SLATEDISC">石盘</string>
+      <string id="INV_SLATEDISC_DESC">一个黑色的盘子，是由某种石材制成的。</string>
+      <string id="INV_GOLDENKEY">金钥匙</string>
+      <string id="INV_GOLDENKEY_DESC">一个小小的金钥匙。</string>
+      <string id="INV_MUSICSHEET">乐谱</string>
+      <string id="INV_MUSICSHEET_DESC">旋律很简单，我觉得我也可以弹奏。</string>
+      <string id="INV_SCHOOLKEY">木钥匙</string>
+      <string id="INV_ROOT">根</string>
+      <string id="INV_ROOT_KEY">一块根，诡异地让人联想到人的形状。</string>
+      <string id="INV_PIANOKEY">钢琴键</string>
+      <string id="INV_PIANOKEY_DESC">一个钢琴健。上面有奇怪的黑色污渍。</string>
+      <string id="INV_MASKPIECE_MISSING">仍然有缺失的部分……</string>
+      <string id="INV_MASKPIECE1">面具碎片</string>
+      <string id="INV_MASKPIECE2">M面具碎片</string>
+      <string id="INV_MASKPIECE3">面具碎片</string>
+      <string id="INV_BROKENMASK">坏掉的面具</string>
+      <string id="INV_BROKENMASK_DESC">我记得这个……很像我在亚历山大的藏身所找到的无眼的面具！</string>
+      <string id="INV_MASKPIECE1_DESC">希腊悲剧表演面具的一部分。</string>
+      <string id="INV_MASKPIECE2_DESC">希腊悲剧表演面具的一部分。</string>
+      <string id="INV_MASKPIECE3_DESC">希腊悲剧表演面具的一部分。</string>
+      <string id="INV_POSTER">海报</string>
+      <string id="INV_POSTER_DESC">看起来像是一出戏剧的海报，但既没有日期也没有标题，只有四个人的轮廓画。</string>
+      <string id="INV_JAW">下巴</string>
+      <string id="INV_JAW_DESC">我不小心弄掉的蜡山猫脸上的一部分。</string>
+      <string id="POSTER_CLUE">这让我想起了某种东西……对，我记得曾经很流行做教堂的钢管乐器和其他古老铭文的拓印。具体是要把纸盖在铭文上，然后用蜡去擦。</string>
+      <string id="POSTER_MISSING">这让我想起了某种东西……对，我记得曾经很流行做教堂的钢管乐器和其他古老铭文的拓印。具体是要把纸盖在铭文上，然后用蜡去擦。如果我想做这个，我必须要有一大张纸。</string>
+      <string id="ALREADY_COPIED">我已经做好这铭文的拓印了。</string>
+      <string id="COPY_ENGRAVING">我可以用蜡下巴去在海报上擦……</string>
+      <string id="COPY_ENGRAVING_AFTER">好的！我把符号拓印在海报上了！</string>
+      <string id="INV_MUSICSHEET_DESC_2">这乐谱有什么问题……</string>
+      <string id="INV_ROOT_DESC">是某种枝杈或者根，长成人的形状，令人不安。</string>
+      <string id="BROKEN_MASK_COMPLETED">一个无眼的面具，跟我在伦敦亚历山大的藏身所里找到的那个很像。</string>
+      <string id="BROKEN_MASK_HINT">面具没有眼睛，我什么也看不到。</string>
+      <string id="INV_FEATHER">黑色的羽毛</string>
+      <string id="INV_FEATHER_DESC">尽管这么大，但却格外的轻。</string>
+      <string id="POSTER_FIRST_HINT">这让我想起了某种东西……对，我记得曾经很流行做教堂的钢管乐器和其他古老铭文的拓印。具体是要把纸盖在铭文上，然后用蜡去擦。</string>
+      <string id="POSTER_2ND_HINT">我把海报铺在石头上……</string>
     </bundle>
     <bundle id="ep8_m1AnnasRoom">
       <string id="ANTHONY_1">Too late… It's too late for us.</string>
