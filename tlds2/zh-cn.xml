@@ -2394,7 +2394,7 @@ Dane Tippman</string>
       <string id="DIARY1">1801年8月7日。玛莉婶婶的遗产真是让我感激得说不出话来，愿她的灵魂在天堂安息。这个房子正是我梦寐以求的，在这里，我终于可以缓解一下我在都柏林日夜奔波所造成的劳顿和紧张感。</string>
       <string id="DIARY2">1801年9月10日。我从未想过，地下室居然藏了这样一个不同凡响的书房。它囊括了海量的书籍，都是关于这片土地上如画般美丽的风俗人情的。</string>
       <string id="DIARY3">1801年9月23日。我在一个奇怪的铁盘旁边发现了玛莉婶婶的日记，内容令我十分震惊。到底在亲爱的老玛莉身上发生了什么事情，才能让她写下这样的文字？</string>
-      <string id="DIARY4">她提到的那个该死的地方……我必须确认它是否真的存在。我决定去调查我老家的地窖，必须得小心点儿，黄昏再开始动身去北角，这样就不会被人看到了。</string>
+      <string id="DIARY4">她提到的那个该死的地方……我必须确认它是否真的存在。我决定去调查我家族的陵墓，必须得小心点儿，黄昏再开始动身去北角，这样就不会被人看到了。</string>
       <string id="DIARY5">1801年9月25日。修道院已经衰败到如此地步，里面伸手不见五指，几乎不可能去找什么壁画了。幸运的是，有一束昏暗的光透过墙壁的缝隙照了进来，也照亮了哨兵的脸。
 
 我坚信，用玛莉婶婶的铁盘就可以打开秘密的通道。</string>
@@ -2404,7 +2404,7 @@ Dane Tippman</string>
       <string id="DECO_TABLE">翻倒的桌子。</string>
       <string id="DIARY_INSPECT1">一个装饰华丽的箱子，箱子里面没有被火烧到的样子。应该是在大火熄灭后才被人打开的。</string>
       <string id="DIARY_INSPECT2">有本日记，上面的署名是“布丽吉德·莱德森德”，后面许多页都缺失了……</string>
-      <string id="DIARY_AFTER_INSPECT">莱德森德小姐一定是在她家的地窖里发现了什么糟糕的东西，如果我要是能知道那是什么，应该能更进一步地了解寇龙猸郸的事。直觉告诉我，必须今晚行动，不然恐怕一切都太迟了。</string>
+      <string id="DIARY_AFTER_INSPECT">莱德森德小姐一定是在她家的陵墓里发现了什么糟糕的东西，如果我要是能知道那是什么，应该能更进一步地了解寇龙猸郸的事。直觉告诉我，必须今晚行动，不然恐怕一切都太迟了。</string>
       <string id="CTS_BREWERY_FIRST_TIME">看来这地下室曾经是一间书房。这里虽然没有像其他房间烧得那样彻底，但仍然只有极少量的东西完整地保留下来。</string>
       <string id="BTS_BED">看起来是临时床铺，基兰曾经就孤单地睡在这样糟糕的地方吗？
 </string>
@@ -2635,7 +2635,7 @@ Dane Tippman</string>
       <string id="COFFIN_PAPER_2">那些男男女女，穿过了那之间的路，穿过了迷雾，到达了另一边，充斥着浸于恐惧中的终极真实的另一边……然后他们回来了，他们就是我们的祖先。
 
 在寇龙猸郸死亡的岩石间，骄傲的莱德森德躺在那里，已经化为了比灰烬和尘土还要不祥之物。</string>
-      <string id="COFFIN_PAPER_3">棺材中的渎神之物就是玛莉婶婶传说的真相吗？
+      <string id="COFFIN_PAPER_3">棺材中的渎神之物就是玛莉婶婶真正的遗产吗？
 
 不，我不能接受这就是我的命运。</string>
       <string id="MAIN_COFFIN_3">……玛莉·莱德森德。</string>
@@ -2856,8 +2856,9 @@ Dane Tippman</string>
 - 重逢 -</string>
       <string id="ARRIVAL_THINK">我看到了远方的岛屿，埃利斯·摩耳。</string>
       <string id="CREDITS_ADVENTURECONTINUES">冒险将继续……</string>
-      <string id="CREDITS_NEXTEPISODE">Season finale</string>
-      <string id="CREDITS_SLIDE0">The Last Door SE02E03 was released on August 17th, 2015</string>
+      <string id="CREDITS_NEXTEPISODE">最终章</string>
+      <string id="BACKTOMENU">回到标题</string>
+      <string id="CREDITS_SLIDE0">《最后一扇门》第二季第三章在2015年8月17日发布。</string>
       <string id="CREDITS_SLIDE1">Kitchen Furniture description by</string>
       <string id="CREDITS_SLIDE2">Swing description by</string>
       <string id="CREDITS_SLIDE3">Grave description by</string>
@@ -3019,7 +3020,7 @@ Dane Tippman</string>
       <string id="PICTURE_PARLOUR_INSPECT">墙上挂着两个雕刻板，似乎很古老，但我不懂它们有什么涵义。</string>
     </bundle>
     <bundle id="ep7_passage">
-      <string id="ENTER_THINK">通道延伸到地下深处，下面就是莱德森德家的地窖吗，或者……是藏着其他什么东西的地方……我……有些心慌。考夫曼，我的朋友，你是那么相信我，相信我可以做到。但我……不，我、我得坚持下去。</string>
+      <string id="ENTER_THINK">通道延伸到地下深处，下面就是莱德森德家的陵墓吗，或者……是藏着其他什么东西的地方……我……有些心慌。考夫曼，我的朋友，你是那么相信我，相信我可以做到。但我……不，我、我得坚持下去。</string>
       <string id="CANT_GO_BACK">不，我不能再退缩。</string>
     </bundle>
     <bundle id="ep7_pendulum">
@@ -3054,7 +3055,7 @@ Dane Tippman</string>
       <string id="BOTTLE2_INSPECT">瓶子饱受海上的风雨洗礼摧残。</string>
       <string id="DLG_MESSENGER_1">打扰一下，你是威克菲尔德先生吗？</string>
       <string id="DLG_MESSENGER_2">我是。</string>
-      <string id="DLG_MESSENGER_3">冬楠领主托我给你带个信儿。</string>
+      <string id="DLG_MESSENGER_3">冬楠领主托我给你带了封信。</string>
       <string id="DLG_MESSENGER_4">冬楠领主？</string>
       <string id="INVITATION_CONTENT">致我们新近光临的旅客，威克菲尔德先生，
 
@@ -3267,12 +3268,12 @@ Dane Tippman</string>
     <bundle id="ep7_veil">
       <string id="FT_SENTENCE_1">真理的探求者
 会牺牲他们的智慧</string>
-      <string id="FT_SENTENCE_2">打开道路，前往
-桤树盛开之处</string>
-      <string id="FT_SENTENCE_3">Your offspring we welcome, 
-Its hidden threat.</string>
-      <string id="FT_SENTENCE_4">Only the light of your sign 
-Will carry its purge.</string>
+      <string id="FT_SENTENCE_2">打开道路
+前往桤树盛开之处</string>
+      <string id="FT_SENTENCE_3">你的后代，我们热烈欢迎
+而它自身内在的威胁……</string>
+      <string id="FT_SENTENCE_4">只有凭借你的标志的光
+才可以驱除</string>
       <string id="DEVITT_ANSWER">在他们来之前，回去！</string>
       <string id="DLG_DEVITT_1">……</string>
       <string id="DLG_DEVITT_2">大卫？</string>
@@ -3517,7 +3518,7 @@ Will carry its purge.</string>
       <string id="DLG_HUGO_ALEXANDRE2">亚历山大，就算经历了那样的事，你的那些幽默感还是没有消失呢。你还没回忆起来那些光景吗？如果可以的话，我真想把它们从我的脑海中抹去。</string>
       <string id="DLG_HUGO_ALEXANDRE4">说起来，什么风把你吹来了？这么多年来，我们没有关于你的任何音讯，我还以为我们过去的事业早就被你忘记了。</string>
       <string id="DLG_HUGO_ALEXANDRE6">听着，阿什当。如果我告诉你，我已经发现安全穿过那里的方法了呢？</string>
-      <string id="DLG_HUGO_ALEXANDRE7">我发现这画不那么难以忍受了。</string>
+      <string id="DLG_HUGO_ALEXANDRE7">我发现，如果我把那些光景画出来，反而会让我觉得好受一些。</string>
     </bundle>
     <bundle id="ep8_f2Ending">
       <string id="HUGO_SEES_SHADOW">这是我们的教室，但这个暗影……是谁……</string>
@@ -3690,7 +3691,7 @@ Will carry its purge.</string>
       <string id="INV_PIANOKEY_DESC">一个钢琴健。上面有奇怪的黑色污渍。</string>
       <string id="INV_MASKPIECE_MISSING">仍然有缺失的部分……</string>
       <string id="INV_MASKPIECE1">面具碎片</string>
-      <string id="INV_MASKPIECE2">M面具碎片</string>
+      <string id="INV_MASKPIECE2">面具碎片</string>
       <string id="INV_MASKPIECE3">面具碎片</string>
       <string id="INV_BROKENMASK">坏掉的面具</string>
       <string id="INV_BROKENMASK_DESC">我记得这个……很像我在亚历山大的藏身所找到的无眼的面具！</string>
@@ -3716,36 +3717,36 @@ Will carry its purge.</string>
       <string id="POSTER_2ND_HINT">我把海报铺在石头上……</string>
     </bundle>
     <bundle id="ep8_m1AnnasRoom">
-      <string id="ANTHONY_1">Too late… It's too late for us.</string>
-      <string id="ANTHONY_2">But he still can choose.</string>
-      <string id="ANTHONY_3">I have... have to warn him.</string>
-      <string id="DLG_ANTHONY_ANNA_1">Anna? Anna? Sweetheart? H-how did this happen?!</string>
+      <string id="ANTHONY_1">太迟了……对我们来说，一切都太迟了。</string>
+      <string id="ANTHONY_2">但是他仍然可以选择。</string>
+      <string id="ANTHONY_3">我必须……必须警告他。</string>
+      <string id="DLG_ANTHONY_ANNA_1">安娜？安娜？亲爱的？怎、怎么会变成这样？！</string>
     </bundle>
     <bundle id="ep8_m1Office">
-      <string id="DOOR_1">Should I… No.</string>
-      <string id="WALL_CUTTINGS_THINK1">So much suffering; so many deaths. For what? What have we attained so far?</string>
+      <string id="DOOR_1">我应该……不。</string>
+      <string id="WALL_CUTTINGS_THINK1">如此多的苦难，如此多的死亡，是为了什么？我们目前为止到底得到了什么？</string>
       <string id="BOOK1"> </string>
-      <string id="BOOK_THINK1">The words of my father… So much has happened because of them.</string>
-      <string id="LETTER_THINK1">This letter… “Videte ne quis sciat”.</string>
-      <string id="BOOK_THINK2">Alexandre swears that this time we will succeed. That the hoopoe will undo all our mistakes, free us from the terrible haunting gaze.</string>
-      <string id="BOOK_THINK3">But should we not accept the consequences of our actions?</string>
-      <string id="LETTER_THINK2">It will be enough, I think. It's time to send it.</string>
-      <string id="LETTER_THINK3">I'm just not sure that it's the right thing to do.</string>
-      <string id="LETTER_THINK_AFTER">We could stop. We could leave him be. It's not too late, is it?</string>
-      <string id="BOOK_THINK_AFTER">Even after all these years, I still find the diary disconcerting. I had once hoped that age and experience would make its contents easier to bear. But it's been quite the opposite.</string>
-      <string id="DECO_BOOKSHELF">All these books, their secret knowledge concealed for generations, waiting for some fool to unveil it all again.</string>
-      <string id="DECO_LYNX">My faithful companion, who kept many secrets with me over the long nights of research.</string>
-      <string id="CHEMICALS">So many tests were needed to find it. But now that we have…</string>
-      <string id="CHEMICALS2">A small bird that managed to lead the others through the treacherous fog. Raymundus chose an apt name for the compound.</string>
+      <string id="BOOK_THINK1">我父亲留下的文字……发生了这么多的事情，都是因为它们。</string>
+      <string id="LETTER_THINK1">这封信……“Videte ne quis sciat”。</string>
+      <string id="BOOK_THINK2">亚历山大发誓说我们这次会成功，戴胜鸟配方会修正我们之前的所有错误，让我们从穷追不舍的可怕注视中逃脱。</string>
+      <string id="BOOK_THINK3">但我们就这样逃避之前所作所为造成的后果，真的应该吗？</string>
+      <string id="LETTER_THINK2">够了，我觉得，是时候把它寄出去了。</string>
+      <string id="LETTER_THINK3">我不确定这样做是否是正确的。</string>
+      <string id="LETTER_THINK_AFTER">我们可以停手。我们可以放他自由。还不算太迟，对吧？</string>
+      <string id="BOOK_THINK_AFTER">即使过去这么多年，这日记仍然令人不安。我曾经希望随着岁月流逝、知识丰富，日记的内容会慢慢让人可以承受。但结果，事实却正好相反。</string>
+      <string id="DECO_BOOKSHELF">这所有的书，里面世代所掩盖的内容，正在等待某个蠢货去揭露它使之重见天日。</string>
+      <string id="DECO_LYNX">我忠实的伙伴，在无数个漫漫长夜的研究中与我共享着诸多的秘密。</string>
+      <string id="CHEMICALS">原本需要大量的试验才能发现的，但现在我们已经……</string>
+      <string id="CHEMICALS2">一只小鸟成功引暖风机着其他鸟儿穿过了危险重重的迷雾，雷蒙德斯为这配方起了一个恰当的名字。</string>
     </bundle>
     <bundle id="ep8_m1Study">
-      <string id="ANTHONY_1">Jeremiah Devitt. Edward Street 24, Westminster, London. Correct.</string>
-      <string id="ANTHONY_2">I should cease stalling and send it. Set the plan in motion.</string>
-      <string id="ANTHONY_3">But what then? Lead my old friend through this dangerous journey…</string>
+      <string id="ANTHONY_1">杰瑞米·大卫，伦敦市，威斯敏斯特区，爱德华街24号。好的。</string>
+      <string id="ANTHONY_2">不能再拖了，得把它寄出去。让计划启动。</string>
+      <string id="ANTHONY_3">但是，然后呢？这只是把我的老朋友，重新引导上危险的旅程……</string>
     </bundle>
     <bundle id="ep8_maze">
-      <string id="PIANO_MUSICSHEET_DESC">The melody seems simple enough. I think I could manage to play it.</string>
-      <string id="PIANO_KEY_NOSHEET">I remember some lessons from my youth, but I could not possibly play a melody without the assistance of a music sheet.</string>
+      <string id="PIANO_MUSICSHEET_DESC">旋律很简单，我也可以弹奏。</string>
+      <string id="PIANO_KEY_NOSHEET">我年轻时也上过钢琴课，但没有乐谱的话，也没有办法弹。</string>
       <string id="PIANO_NOKEY_SHEET">I think I could play the melody. However, the piano is missing one of the keys that I would need to use.</string>
       <string id="PIANO_NOKEY_NOSHEET">A grand piano. It is missing a key.</string>
       <string id="PIANO_PLAY_DESC">The melody seems simple enough. I think I could manage to play it.</string>
@@ -4101,7 +4102,7 @@ Wakefield is himself subjected to this ritual and transported to an endless land
       <string id="OPTS_EFFECTS_VL">声效音量</string>
       <string id="OPTS_MUSIC_VL">音乐音量</string>
       <string id="OPTS_CC">辅助字幕</string>
-      <string id="OPTS_DYSLEXIA">便于阅读字体</string>
+      <string id="OPTS_DYSLEXIA">便于阅读字体（建议开启）</string>
       <string id="OPTS_ENABLED">开启</string>
       <string id="OPTS_DISABLED">关闭</string>
       <string id="OPTS_RESTORE">恢复默认设置</string>
