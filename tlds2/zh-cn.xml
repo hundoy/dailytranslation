@@ -3747,18 +3747,18 @@ Dane Tippman</string>
     <bundle id="ep8_maze">
       <string id="PIANO_MUSICSHEET_DESC">旋律很简单，我也可以弹奏。</string>
       <string id="PIANO_KEY_NOSHEET">我年轻时也上过钢琴课，但没有乐谱的话，也没有办法弹。</string>
-      <string id="PIANO_NOKEY_SHEET">I think I could play the melody. However, the piano is missing one of the keys that I would need to use.</string>
-      <string id="PIANO_NOKEY_NOSHEET">A grand piano. It is missing a key.</string>
-      <string id="PIANO_PLAY_DESC">The melody seems simple enough. I think I could manage to play it.</string>
-      <string id="PIANO_KEY_FIT">The key fits perfectly.</string>
-      <string id="PIANO_SOUND">As I suspected, it is the melody that I heard at Wright's mansion. What's that? It's coming from another place!</string>
+      <string id="PIANO_NOKEY_SHEET">我可以弹奏，但这架钢琴缺了一个必要的琴键。</string>
+      <string id="PIANO_NOKEY_NOSHEET">一架大钢琴，缺了一个琴键。</string>
+      <string id="PIANO_PLAY_DESC">旋律很简单，我也可以弹奏。</string>
+      <string id="PIANO_KEY_FIT">琴键完美地嵌合。</string>
+      <string id="PIANO_SOUND">跟我想的一样，这就是我之前在莱特教授大宅中听到的旋律。那是什么？是从另一个地方传来的！</string>
     </bundle>
     <bundle id="ep8_mazeMirror">
-      <string id="BROKEN_PIANO_DESC">A grand piano. It is missing most of its keys.</string>
-      <string id="DESC_SPIDER_SHADOW">A terrifying shape looms where the piano once stood. It is being pulled on threads like some monstrous puppet.</string>
-      <string id="DESC_SPIDER_SHADOW_2">The threads converge on a distant point... Something is taking form there, in the darkness.</string>
-      <string id="PIANOKEY_INSPECT">It looks like a piano key.</string>
-      <string id="WRG_MUSICSHEET_PIANO">I cannot play the melody. The piano is missing too many keys.</string>
+      <string id="BROKEN_PIANO_DESC">一架大钢琴，缺了许多琴键。</string>
+      <string id="DESC_SPIDER_SHADOW">一个可怕的黑影在原本钢琴所在的位置若隐若现，它上面还拉着线，看起来好像某种诡异的提线木偶。</string>
+      <string id="DESC_SPIDER_SHADOW_2">线汇聚在远处的一点上……在那里，黑暗中有什么东西正在成形。</string>
+      <string id="PIANOKEY_INSPECT">看起来是一个琴键。</string>
+      <string id="WRG_MUSICSHEET_PIANO">这钢琴缺了太多的键，没有办法弹。</string>
     </bundle>
     <bundle id="ep8_menus">
       <string id="START_BT_NEWGAME">New Game</string>
@@ -3770,12 +3770,12 @@ Dane Tippman</string>
       <string id="STARTOPS_DYSLEXIA">Press '1': Enable/disable dyslexia-friendly font.</string>
       <string id="STARTOPS_CC">Press '2': Enable/disable sound descriptions [cc].</string>
       <string id="STARTOPS_CONTINUE">Click to continue</string>
-      <string id="CHAPTER_TITLE">Season Two: Episode Four
-- Beyond the Curtain - </string>
+      <string id="CHAPTER_TITLE">第二季：第四章
+- 穿过帘幕 - </string>
       <string id="ARRIVAL_THINK">I can see the island in the distance. Éllís Mór.</string>
       <string id="CREDITS_ADVENTURECONTINUES">Thanks for playing!</string>
       <string id="CREDITS_NEXTEPISODE">Extras</string>
-      <string id="CREDITS_SLIDE0">The Last Door Season Finale was released on January 15th, 2016</string>
+      <string id="CREDITS_SLIDE0">《最后一扇门》最终章在2016年1月15日发布。</string>
       <string id="CREDITS_SLIDE1">Statues description by</string>
       <string id="CREDITS_SLIDE2">Window description by</string>
       <string id="CREDITS_SLIDE3">Tree description by</string>
@@ -3786,43 +3786,43 @@ Dane Tippman</string>
       <string id="CREDITS_SLIDE3_NAME">Johnny-Eyeball</string>
       <string id="CREDITS_SLIDE4_NAME">OVERLORD_RAHL</string>
       <string id="CREDITS_SLIDE5_NAME">Wolf14</string>
-      <string id="CHAPTERTITLE_TITLE">Season Two: Episode Four</string>
-      <string id="CHAPTERTITLE_SUBTITLE">Beyond the Curtain</string>
+      <string id="CHAPTERTITLE_TITLE">第二季：第四章</string>
+      <string id="CHAPTERTITLE_SUBTITLE">穿过帘幕</string>
       <string id="ENDBETA_STARTOVER">Start over</string>
       <string id="ENDBETA_FORUMS">Forums</string>
-      <string id="STARTBETA_TITLE">Season Two: Episode Four</string>
-      <string id="STARTBETA_EPISODETITLE">Beyond the Curtain</string>
-      <string id="BETA_TEXT_1">We left the black waves of that sea behind and walked through the mist. Devitt answered my many questions with a grave silence.</string>
-      <string id="BETA_TEXT_2">Then, finally, he stopped and spoke for the first time.</string>
-      <string id="BETA_TEXT_3">“We are close to the Threshold now.”</string>
-      <string id="BETA_TEXT_4">“You will need to find a key of your own, Doctor. I will be waiting on the other side.”
+      <string id="STARTBETA_TITLE">第二季：第四章</string>
+      <string id="STARTBETA_EPISODETITLE">穿过帘幕</string>
+      <string id="BETA_TEXT_1">我们将那黑浪之海抛在身后，走过迷雾。我问了很多问题，但大卫却一语不发。</string>
+      <string id="BETA_TEXT_2">然后，终于，他停了下来，第一次开口说话。</string>
+      <string id="BETA_TEXT_3">“我们现在接近界限了。”</string>
+      <string id="BETA_TEXT_4">“你需要自己寻找前进的钥匙，医生。我会在另一边等着你。”
 </string>
-      <string id="BETA_TEXT_5">“Darkness will light the way.”</string>
-      <string id="BETA_TEXT_6">He did not wait for my answer. He just turned around and disappeared into the mist. I kept walking and, finally, reached this place.
+      <string id="BETA_TEXT_5">“黑暗会照亮你的前路。”</string>
+      <string id="BETA_TEXT_6">他不等我回答，就转身消失在迷雾之中。我继续走着，最后，来到了这个地方。
 </string>
       <string id="BETATEXT_GREETINGS">Welcome to TLD Episode 8: Beyond the Curtain beta! Etc</string>
-      <string id="INTRO_TEXT_1">We left the black waves of that sea behind and walked through the mist.</string>
-      <string id="INTRO_TEXT_2">At times, gusts of wind parted the mist, revealing a barren landscape under a dying sun.</string>
-      <string id="INTRO_TEXT_3">At first, I could not contain my many questions. But Devitt's only reply was a grave silence. Eventually, I lapsed into an uneasy quiet and resolved to follow my patient, I knew not where.</string>
-      <string id="INTRO_TEXT_4">We wandered through the vast desert without any apparent goal. On occasion, vague shapes appeared in the distance - crumbling towers and abandoned cities, lost amongst the rippling dunes.</string>
-      <string id="INTRO_TEXT_5">The passage of time lost its meaning. I had traversed that world all my life. All the world's life. Our journey was eternity.</string>
-      <string id="INTRO_TEXT_6">Then, the man at my side - whom I had followed so long - stopped. He spoke for the first time.</string>
-      <string id="INTRO_TEXT_7">“We are nearing the Threshold.”</string>
-      <string id="INTRO_TEXT_8">“It is the starting point, Doctor. The first place to look. I will be waiting on the other side.”
+      <string id="INTRO_TEXT_1">我们将那黑浪之海抛在身后，走过迷雾。</string>
+      <string id="INTRO_TEXT_2">时而狂风吹散迷雾，可以看到垂死的太阳下荒芜的地平线。</string>
+      <string id="INTRO_TEXT_3">起初，我不禁问了很多问题，但大卫始终一语不发。最后，我也不得不陷入这令人不安的缄默之中，默默地跟着我的病人，不知道走到了什么地方。</string>
+      <string id="INTRO_TEXT_4">我们漫无目的地徒步穿过广阔的荒漠，突然，朦胧的形状出现在远处，那是表面剥落的高塔和被遗弃的荒城，矗立在连绵起伏的沙丘之中。</string>
+      <string id="INTRO_TEXT_5">时间序列已经失去了意义。我已经穿过了整个生命的世界，整个世界的生命。我们的旅程成为了永恒。</string>
+      <string id="INTRO_TEXT_6">然后，我身边的这个人，我跟随了如此之久的这个人，停下脚步，第一次开口说话了。</string>
+      <string id="INTRO_TEXT_7">“我们已经接近界限了。”</string>
+      <string id="INTRO_TEXT_8">“医生，这就是起点，第一个看的地方。我会在另一边等你。”
 </string>
-      <string id="INTRO_TEXT_9">“Remember this: I will not be here forever. Darkness will light your way. But then, you will be alone.”</string>
-      <string id="INTRO_TEXT_10">I opened my mouth to reply but he had already turned and disappeared into the mist. I stood and stared after him, and then I kept walking. I did not know what else to do.</string>
-      <string id="START_WAIT">Please wait...</string>
+      <string id="INTRO_TEXT_9">“记住：我不会永远在这儿，黑暗会照亮你的前路，但当到了那时，你就会独自一个人。”</string>
+      <string id="INTRO_TEXT_10">我刚想张嘴回应，他就转身消失在迷雾之中。我盯着他离开的地方站了一会儿，然后也走了过去，毕竟我也没有其他的地方可去。</string>
+      <string id="START_WAIT">请等一下……</string>
     </bundle>
     <bundle id="ep8_office">
-      <string id="ATTIC_DOOR_LOCKED">The hatch is locked.</string>
-      <string id="CMB_KEY_ATTIC_DOOR_1">It worked.</string>
-      <string id="DECO_LYNX">A lynx.</string>
-      <string id="DECO_SHADOW">It is just the shadow of the lynx projected onto the wall.</string>
-      <string id="WAY_BLOCKED_ATTIC">The ladder is broken.</string>
-      <string id="IS_IT_WAX">I took it for a stuffed lynx at first, but I think it is actually made of wax.</string>
-      <string id="BROKE_LYNX_FACE">Oh my, I accidentally broke off a piece of its mouth!</string>
-      <string id="BROKEN_LYNX">The wax lynx is now missing half its jaw.</string>
+      <string id="ATTIC_DOOR_LOCKED">门板锁上了。</string>
+      <string id="CMB_KEY_ATTIC_DOOR_1">这个可以用。</string>
+      <string id="DECO_LYNX">一只山猫。</string>
+      <string id="DECO_SHADOW">那只是投射在墙上的山猫影子。</string>
+      <string id="WAY_BLOCKED_ATTIC">梯子坏掉了。</string>
+      <string id="IS_IT_WAX">起初我以为是山猫的标本，但好像其实是蜡做的。</string>
+      <string id="BROKE_LYNX_FACE">哦，天，我不小心把它的嘴弄掉了一块！</string>
+      <string id="BROKEN_LYNX">这只蜡山猫有一半下巴不见了。</string>
     </bundle>
     <bundle id="ep8_opening">
       <string id="FT_TEXT_HEADER1">Developed by</string>
@@ -3857,96 +3857,96 @@ Daniel Pontiveros
 Juan Miguel López</string>
     </bundle>
     <bundle id="ep8_piano">
-      <string id="FT_PIANO_DO">That would be 'Do'.</string>
-      <string id="FT_PIANO_RE">That would be 'Re'.</string>
-      <string id="FT_PIANO_MI">That would be 'Mi'.</string>
-      <string id="FT_PIANO_FA">That would be 'Fa'.</string>
-      <string id="FT_PIANO_SOL">That would be 'Sol'.</string>
-      <string id="FT_PIANO_LA">That would be 'La'.</string>
-      <string id="FT_PIANO_SI">That would be 'Ti'.
+      <string id="FT_PIANO_DO">这是“Do”。</string>
+      <string id="FT_PIANO_RE">这是“Re”。</string>
+      <string id="FT_PIANO_MI">这是“Mi”。</string>
+      <string id="FT_PIANO_FA">这是“Fa”。</string>
+      <string id="FT_PIANO_SOL">这是“Sol”。</string>
+      <string id="FT_PIANO_LA">这是“La”。</string>
+      <string id="FT_PIANO_SI">这是“Ti”。
 </string>
-      <string id="FT_PIANO_SOL_SHARP">That would be 'Sol#'.</string>
-      <string id="FT_PIANO_SI_SHARP">That would be 'Ti#'.
+      <string id="FT_PIANO_SOL_SHARP">这是“Sol#”。</string>
+      <string id="FT_PIANO_SI_SHARP">这是“Ti#”。
 </string>
-      <string id="FT_PIANO_LA_SHARP">That would be 'La#'.</string>
-      <string id="FT_PIANO_DO_SHARP">That would be 'Do#'.</string>
-      <string id="FT_PIANO_RE_SHARP">That would be 'Re#'.</string>
-      <string id="FT_PIANO_MI_SHARP">That would be 'Mi#'.</string>
-      <string id="FT_PIANO_FA_SHARP">That would be 'Fa#'.</string>
-      <string id="MUSICSHEET_CONTENT">There is something strange about this music sheet...
-The melody goes 'Fa, Fa, Fa, Fa, Sol, La, Ti, Do, Do, Do'.</string>
-      <string id="MONKEY_ISLAND_SECRET">Look behind you! A three-headed monkey!
+      <string id="FT_PIANO_LA_SHARP">这是“La#”。</string>
+      <string id="FT_PIANO_DO_SHARP">这是“Do#”。</string>
+      <string id="FT_PIANO_RE_SHARP">这是“Re#”。</string>
+      <string id="FT_PIANO_MI_SHARP">这是“Mi#”。</string>
+      <string id="FT_PIANO_FA_SHARP">这是“Fa#”。</string>
+      <string id="MUSICSHEET_CONTENT">这乐谱有些怪怪的……
+旋律是“Fa, Fa, Fa, Fa, Sol, La, Ti, Do, Do, Do”。</string>
+      <string id="MONKEY_ISLAND_SECRET">看你身后！一只三头的猴子！
 </string>
-      <string id="INDIANA_JONES_SECRET">Hi! I sell these fine leather jackets.
+      <string id="INDIANA_JONES_SECRET">嗨！我卖这些羽绒服。
 </string>
     </bundle>
     <bundle id="ep8_school">
-      <string id="DECO_WINDOWS">Dazzling light shines through the window.</string>
-      <string id="DECO_TREE">The shadow of a child is sitting in the corner, shaking in terror.</string>
-      <string id="SHADOW_INSPECT_1">The shadow of a child is sitting in the corner, shaking in terror.</string>
-      <string id="SHADOW_INSPECT_2">As if peering through a keyhole, I can see things moving in the darkness...
+      <string id="DECO_WINDOWS">耀眼的光从窗子照进来。</string>
+      <string id="DECO_TREE">一个小孩子的暗影坐在角落里，身体因恐惧而瑟瑟发抖。</string>
+      <string id="SHADOW_INSPECT_1">一个小孩子的暗影坐在角落里，身体因恐惧而瑟瑟发抖。</string>
+      <string id="SHADOW_INSPECT_2">就仿佛从锁孔中窥视一般，我可以看到在黑暗中有什么东西在动……
 </string>
-      <string id="DECO_BLACKBOARD">The shape of an eye is painted on the blackboard.
+      <string id="DECO_BLACKBOARD">黑板上画着眼睛形状的东西。
 </string>
     </bundle>
     <bundle id="ep8_schoolBackyard">
-      <string id="DECO_WINDOWS">A dazzling light coming through the window.
+      <string id="DECO_WINDOWS">耀眼的光从窗子照进来。
 </string>
       <string id="DECO_TREE">DECO_TREE</string>
-      <string id="SHADOW_INSPECT_1">The shadow of a child is sitting in the corner, shaking in terror.</string>
-      <string id="SHADOW_INSPECT_2">As if peering through a keyhole, I can see things moving in the darkness...
+      <string id="SHADOW_INSPECT_1">一个小孩子的暗影坐在角落里，身体因恐惧而瑟瑟发抖。</string>
+      <string id="SHADOW_INSPECT_2">就仿佛从锁孔中窥视一般，我可以看到在黑暗中有什么东西在动……
 </string>
-      <string id="DECO_STATUE">Underneath the statue's hood, there is an empty hole where a face should be. I remember seeing statues like this in Professor Wright's garden.</string>
-      <string id="DECO_SIGN">Shadows linger in Zha'ilathal
-like insects trapped in a cobweb. 
-At its center, the spider lies in wait.</string>
-      <string id="BS_TREE1">These trees are the only reminder of life around here. It's as if they are guarding the statue.</string>
-      <string id="BS_TREE2">An ancient oak stands tall above my head, casting an eerie shadow upon the building's wall.</string>
-      <string id="HOLE_INSPECT">There is a hole in the ground. I have seen gardeners digging holes like these when they need to transplant trees.</string>
-      <string id="HOLE_REACT">It is well covered.</string>
-      <string id="HOLE_INSPECT3">I planted the root in the ground.</string>
-      <string id="WCB_PIANOKEY_HOLE">I'm sure I can give this piano key a better use elsewhere.</string>
+      <string id="DECO_STATUE">在雕像的斗篷下，它的脸是一个空洞，我记得在莱特教授的庭园里也有类似的雕像。</string>
+      <string id="DECO_SIGN">暗影徘徊在扎伊拉撒尔
+就像小虫掉进蛛网。
+在中央，蜘蛛在等待着。</string>
+      <string id="BS_TREE1">这些是树是附近仅有的活物，它们好像在守护着雕像一样。</string>
+      <string id="BS_TREE2">我头顶的高处有一棵古老的橡树，在建筑的墙面上投射出怪异的影子。</string>
+      <string id="HOLE_INSPECT">地上有一个洞，我曾经看过园丁在移植树木时挖类似的洞。</string>
+      <string id="HOLE_REACT">已经好好地填上了。</string>
+      <string id="HOLE_INSPECT3">我把根种到了地里。</string>
+      <string id="WCB_PIANOKEY_HOLE">我认为琴键应该是用在其他地方的。</string>
     </bundle>
     <bundle id="ep8_schoolBackyardMirror">
-      <string id="DECO_STATUE_1">These statues... It is almost as though they are the children of the standing stones that dot the horizon. They are less weather-beaten, at any rate.</string>
-      <string id="DECO_STATUE_2">Underneath the statue's hood, its face bears an evil grin.</string>
-      <string id="DECO_STATUE_3">These statues... It is almost as though they are the children of the standing stones that dot the horizon. They are less weather-beaten, at any rate.</string>
-      <string id="DECO_COFIN">A wooden coffin lies abandoned on the lawn.</string>
-      <string id="DECO_SIGN_MIRROR">There is an inscription under the statue.</string>
-      <string id="SYMBOLS_INSPECT">There are two curious symbols engraved on the statue's stone.</string>
-      <string id="SIGN_TEXT">Peering into one's own truth is forbidden.
-Were the snake and the bird to meet,
-ultimate madness would take inhuman form.</string>
-      <string id="FAR_STATUES">Grey standing stones loom in the distance. They look uncannily ancient.</string>
-      <string id="COFFIN_TREE_INSPECT">A massive tree has grown underneath the coffin, bursting it open! Some macabre artist has placed a life-sized statue inside. Was it placed by a visitor, or does it represent another memory? Or was the statue somehow… No, I cannot bear to think of it.</string>
-      <string id="DECO_COFFIN_REACT">It is firmly closed.</string>
-      <string id="CLIFF_APPEARED">There has been a landslide near this part of the cliff. Down below, the waves roar where the beach used to be.</string>
-      <string id="WCB_PIANOKEY_COFFIN">I can't open the coffin with this.</string>
-      <string id="WCB_ROOT_COFFIN">I can't open the coffin with this root.</string>
+      <string id="DECO_STATUE_1">这些雕像……看起来好像点缀地平线的那些岩石的孩子，不管怎样，它们没有受到太多风雨的摧残。</string>
+      <string id="DECO_STATUE_2">在雕像的斗篷下，它的脸露出恶魔般的狞笑。</string>
+      <string id="DECO_STATUE_3">这些雕像……看起来好像点缀地平线的那些岩石的孩子，不管怎样，它们没有受到太多风雨的摧残。</string>
+      <string id="DECO_COFIN">一具木棺被遗弃在草坪上。</string>
+      <string id="DECO_SIGN_MIRROR">雕像下有一段铭文。</string>
+      <string id="SYMBOLS_INSPECT">有两个奇怪的符文刻在雕像的石头上。</string>
+      <string id="SIGN_TEXT">凝视自己的真实，是禁忌。
+蛇与鸟相遇，
+无穷尽的疯狂将缔造出非人的形态。</string>
+      <string id="FAR_STATUES">灰色的岩石在远方若隐若现，它们看起来非同寻常的古老。</string>
+      <string id="COFFIN_TREE_INSPECT">一棵巨树从棺材中生长出来，将棺盖顶开了！某个疯狂的艺术家在里面放了一尊等人高的雕像。是路过的旅人放的吗？或是它代表了另一段记忆？再或者，雕像其实是……不，我不敢再深想了。</string>
+      <string id="DECO_COFFIN_REACT">牢牢地关着。</string>
+      <string id="CLIFF_APPEARED">在悬崖这部分附近有过一场山崩。在下面，曾经是海滩的地方只有海浪在咆哮。</string>
+      <string id="WCB_PIANOKEY_COFFIN">我无法用这个打开棺材盖。</string>
+      <string id="WCB_ROOT_COFFIN">我无法用根打开棺材。</string>
     </bundle>
     <bundle id="ep8_schoolMirror">
-      <string id="DECO_WINDOWS">Planks have been nailed over the windows. But to what purpose? There aren't enough planks to provide protection or keep the light out. </string>
-      <string id="SHADOW_INSPECT_1">What is this?</string>
-      <string id="SHADOW_INSPECT_2">Shapes are forming through the shadow. I cannot look away, I must see...</string>
-      <string id="MUSICSHEET_INSPECT_1">It looks like a music sheet was left on the desk.</string>
-      <string id="BS_EYE_WALL">A giant drawing of an eye. Yet it looks more like Saturn and the rings surrounding it.</string>
+      <string id="DECO_WINDOWS">木板被钉在窗户上，但这有什么意义？木板盯得不够密集，无法挡住外面的光。</string>
+      <string id="SHADOW_INSPECT_1">这是什么？</string>
+      <string id="SHADOW_INSPECT_2">透过暗影，有东西开始成形。我无法移开视线，我必须看……</string>
+      <string id="MUSICSHEET_INSPECT_1">桌子上好像有一张乐谱。</string>
+      <string id="BS_EYE_WALL">巨大的眼睛的画，看起来也像是土星和围绕着它的星环。</string>
     </bundle>
     <bundle id="ep8_startoptions">
-      <string id="PREVIOUSLY_TITLE">Previously on The Last Door...</string>
+      <string id="PREVIOUSLY_TITLE">《最后一扇门》前情提要……</string>
       <string id="PREVIOUSLY_1">
-After Kaufmann's sudden death, Dr Wakefield travels to the island of Eilís Mór to search for the ancient Cronemeadan, a supposed path to the Other Side.</string>
+考夫曼突然离世后，威克菲尔德医生只身来到埃利斯·摩耳岛，寻找一条据说可以通向另一边世界的古老之路——寇龙猸郸。</string>
       <string id="PREVIOUSLY_2">
-He discovers the island inhabitants hide a terrible secret: they instill primordial terror in ritual subjects for them to cross the Door and come back as hideous abominations.</string>
+他发现岛上的居民们隐藏着一个可怕的秘密：他们在仪式中为人灌输原始的恐惧，以此穿过那扇门，最后再以可憎的非人形态从另一边返回。</string>
       <string id="PREVIOUSLY_3">
-Wakefield is himself subjected to this ritual and transported to an endless land of fog, where he finally seems to meet his missing patient Devitt...</string>
+威克菲尔德也被卷入仪式之中，被传送至迷雾弥漫的无限之地，在那里，他终于见到了他失踪的病人大卫……</string>
     </bundle>
     <bundle id="ep8_temple">
-      <string id="FEATHER_INSPECT">An enormous black feather.</string>
-      <string id="FEATHER_REACT">Despite its size, it is extraordinarily lightweight.</string>
-      <string id="TEMPLETOP_CTS_1">What's that noise? Something's out there… it's getting closer…</string>
-      <string id="DECO_BIRDSTATUE">A huge statue of a mythical creature. It is a bird with the head of… a wolf? Or is it a lion?</string>
-      <string id="DECO_BIRDINSCRIPTION">The inscription reads, “Thirty Birds”.</string>
-      <string id="DECO_CLOUDS">This summit rises above the fog. Though all I see is fog and an endless ocean of clouds.</string>
+      <string id="FEATHER_INSPECT">一根巨大的黑色羽毛。</string>
+      <string id="FEATHER_REACT">尽管羽毛很巨大，但却非常轻。</string>
+      <string id="TEMPLETOP_CTS_1">那是什么声音？有什么东西在那里……越来越近了……</string>
+      <string id="DECO_BIRDSTATUE">一尊巨大的雕像，是某种神话生物。看起来是一只鸟，但头是……狼？或者也可能是狮子？</string>
+      <string id="DECO_BIRDINSCRIPTION">铭文写着“三十只鸟”。</string>
+      <string id="DECO_CLOUDS">这个顶点升到迷雾之上，但我仍然只能看见迷雾和无穷的云之海。</string>
     </bundle>
     <bundle id="ep8_theatre">
       <string id="THEATRE_INSPECT">A man is standing next to the open curtain.</string>
